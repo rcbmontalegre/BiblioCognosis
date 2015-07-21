@@ -1,0 +1,14 @@
+00493nam  2200157   450
+001   437
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a d1932----k  y0pory0103    ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a <A >Ondina de Capdeuilles $f M. Delly $g trad. Lygia Estrada
+210    $a S. Paulo $c Livraria Zenith $d 1932
+215    $a 189, [3] p. $d 20 cm
+700  0 $a Delly $c pseud
+702  1 $a Estrada $b Lygia
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0008241 $l BMM $s SCG 821 DEL ond 11

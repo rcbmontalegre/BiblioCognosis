@@ -1,0 +1,172 @@
+[{
+  "fields": [
+    [
+      "001",
+      "10"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-1-02662-2"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "25274/89"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00127286"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1989    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   000ay"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >clã do urso das cavernas",
+      "f",
+      "Jean M. Auel",
+      "g",
+      "trad. Sophie Pemberthy Vinga"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "2a ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "D.L. 1989"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "527 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Nébula",
+      "v",
+      "11)"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: The clan of the cave bear"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Auel",
+      "b",
+      "Jean M",
+      "f",
+      "1936"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Vinga",
+      "b",
+      "Sophie Penberthy",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0010172",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 AUE clã 11"
+    ]
+  ]
+}]

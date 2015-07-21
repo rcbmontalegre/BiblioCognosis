@@ -1,0 +1,23 @@
+00871nam  2200265   450
+001   246
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-1-00344-1
+021    $a PT $b 35491/90
+095    $a PTBN00267660
+100    $a 20061013d1990    m  y0pory0103    ba
+101 1  $a por $c fre
+102    $a PT
+105    $a y   z   001ay
+106    $a r
+200 1  $a Cartas do meu moinho $f Alphonse Daudet $g trad. Fernanda Pinto Rodrigues
+210    $a Mem Martins $c Europa-América $d D.L. 1990
+215    $a 171 p. $d 18 cm
+225 2  $a Livros de bolso Europa-América $v 12
+304    $a Tít. orig. : Lettres de mon moulin
+675    $a 821 $v BN $z por
+700  1 $a Daudet $b Alphonse $f 1840-1897
+702  1 $a Rodrigues $b Fernanda Pinto $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060510154632&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0005183 $l BMM $s SCG 821 DAU car 12

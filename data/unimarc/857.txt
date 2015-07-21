@@ -1,0 +1,21 @@
+00961nam  2200241   450
+001   857
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+100    $a 19851101d1985    k  y0pora0103    ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <O >mundo fantástico de Oz $f novelização de John D. Vinge $g baseado no argumento escrito por Walter Murch e Gill Dennis $g trad. Joõo Pereira Carvalho
+210    $a Mem Martins $c Europa-América $d [D.L. 1985]
+215    $a 127 p. $c il. $d 18 cm
+225 2  $a Livros de bolso $i Série clássicos Walt Disney $v 17
+304    $a Tít. orig. Return to Oz
+675    $a 087.5 $v BN $z por $v med $z por $3 287999
+700  1 $a Vinge $b Joan D. $f 1948 $3 194772
+702  1 $a Murch $b Walter $4 090 $3 194773
+702  1 $a Dennis $b Gill $4 090 $3 194774
+702  1 $a Carvalho $b João Pereira de $4 730 $3 37484
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060627104817&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0003385 $l BMM $s SJ 087.5 VIN mun 17

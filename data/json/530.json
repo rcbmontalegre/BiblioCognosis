@@ -1,0 +1,148 @@
+[{
+  "fields": [
+    [
+      "001",
+      "530"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "10790/85"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00108140"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1987    km y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<Um >homem no singular",
+      "f",
+      "Christopher Isherwood",
+      "g",
+      "trad. Filomena Duarte"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Labirinto"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "155 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Babel"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. A single man"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Isherwood",
+      "b",
+      "Christopher",
+      "f",
+      "1904-1986"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Duarte",
+      "b",
+      "M. Filomena",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060518100110&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0014454",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 ISH um"
+    ]
+  ]
+}]

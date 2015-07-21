@@ -1,0 +1,148 @@
+[{
+  "fields": [
+    [
+      "001",
+      "895"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1984 m y0pory0103 ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "dan"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "Lisboa"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Contos",
+      "f",
+      "Hans Christian Andersen",
+      "g",
+      "tradução de Silva Duarte"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Editorial Estampa",
+      "d",
+      "1984"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "213 p.",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Clássicos de bolso",
+      "v",
+      "56"
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Literatura dinamarquesa"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Conto"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "82-34"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Andersen",
+      "b",
+      "Hans Christian",
+      "f",
+      "1805-1875"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Duarte",
+      "b",
+      "Silva",
+      "f",
+      "1918-",
+      "4",
+      "730",
+      "4",
+      "080 [Prefaciador]",
+      "4",
+      "020"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060628155406&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0011682",
+      "l",
+      "BMM",
+      "s",
+      "SCG 82-34 AND con 56"
+    ]
+  ]
+}]

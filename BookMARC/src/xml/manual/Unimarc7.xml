@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FORMAT name="UNIMARC" domain="Bibliographic" version="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../schemas/FORMAT.xsd">
+  <FIELD tag="7--" name="INTELLECTUAL RESPONSIBILITY BLOCK" mandatory="y" repeatable="y">
+    <DESCRIPTION>This block contains names of persons and corporate bodies having some form of intellectual responsibility for the creation of the item described. Intellectual responsibility is defined broadly to include all persons, corporate bodies or families associated with an item including publishers when an access point is required. The following fields are defined: 
+
+Personal Names 
+
+700 Personal Name - Primary Intellectual Responsibility
+701 Personal Name - Alternative Intellectual Responsibility
+702 Personal Name - Secondary Intellectual Responsibility
+
+
+Corporate Body and Meeting Names 
+
+710 Corporate Body Name - Primary Intellectual Responsibility
+711 Corporate Body Name - Alternative Intellectual Responsibility
+712 Corporate Body Name - Secondary Intellectual Responsibility 
+
+Family Names 
+
+720 Family Name - Primary Intellectual Responsibility
+721 Family Name - Alternative Intellectual Responsibility
+722 Family Name - Secondary Intellectual Responsibility
+730 Name - Intellectual Responsibility 
+</DESCRIPTION>
+    <NOTES>One person, corporate body or family may be selected as having primary responsibility. In some cataloguing codes this is called the main entry. Any other persons, corporate bodies or families having equal responsibility are considered to have alternative responsibility. If a given cataloguing code does not embody the concept of main entry, all persons, corporate bodies and families having equal responsibility may be coded as if they had alternative responsibility. Persons, corporate bodies or families having tangential responsibility (e.g., editors, translators, illustrators, etc.) may be coded as having secondary responsibility. If it is not possible to determine any level of responsibility, all names should be coded as alternative. 
+
+Main entry under title: 
+
+In records catalogued according to codes recognising the concept of main entry, when no personal or corporate name has been specified as having primary responsibility for an item, it can be assumed that main entry is under title. Access points for persons or bodies associated with the item are given in the alternative or secondary responsibility fields as appropriate. For example, multiple authors, which preclude an author main entry under some cataloguing codes, would each be considered as having alternative responsibility; whereas the editor of a collection (which is entered under title by some cataloguing codes) would be considered to have secondary responsibility. When the main entry is under title, the main entry will be found in field 500 if present, otherwise in field 200. 
+</NOTES>
+  </FIELD>
+  <FIELD tag="700" name="PERSONAL NAME - PRIMARY INTELLECTUAL RESPONSIBILITY" mandatory="n" repeatable="n">
+    <DESCRIPTION>This field contains the name of the person considered to have primary intellectual responsibility for a work in an access point form, provided that the record is created according to cataloguing rules recognising the concept of main entry. Not repeatable. It may not occur in the same record as field 710 CORPORATE BODY NAME PRIMARY INTELLECTUAL RESPONSIBILITY or field 720 FAMILY - NAME PRIMARY INTELLECTUAL RESPONSIBILITY, since a record can have only one access point with primary intellectual responsibility. If the concept of main entry does not exist in the cataloguing rules or the source format does not distinguish it, this field does not occur: field 701 is used for all personal headings (see Related Fields). </DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="Form of Name Indicator">
+      <OPTION value="0" name="Name entered under forename or direct order"/>
+      <OPTION value="1" name="Name entered under surname (family name, patronymic, etc.)">
+        <DESCRIPTION>This indicator specifies whether the name is entered under the first occurring name (forename) or in direct order or whether it is entered under a surname, family name, patronymic or equivalent, usually with inversion (EX 5). </DESCRIPTION>
+      </OPTION>
+      <SEEEX N="5"/>
+    </IND2>
+    <SUBFIELD tag="a" name="Entry Element" mandatory="y" repeatable="n">
+      <DESCRIPTION>The portion of the name used as the entry element in the heading; that part of the name by which the name is entered in ordered lists. This subfield must be present when the field is present. Not repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="b" name="Part of Name Other than Entry Element" mandatory="n" repeatable="n">
+      <DESCRIPTION>The remainder of the name, used when the entry element is a surname or family name (EX 1-11, 14). It contains forenames and other given names. The form of name indicator should be set to 1 when this subfield is used. Printing expansions of initials should be entered in $g. Not repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="c" name="Additions to Names Other than Dates" mandatory="n" repeatable="y">
+      <DESCRIPTION>Any additions to names (other than dates) which do not form an integral part of the name itself including titles, epithets or indications of office (EX 6, 7, 8, 12, 15, 16). Repeatable for second or subsequent occurrences of such additions (EX 8, 16). </DESCRIPTION>
+      <SEEEX N="6"/>
+      <SEEEX N="7"/>
+      <SEEEX N="8"/>
+      <SEEEX N="12"/>
+      <SEEEX N="15"/>
+      <SEEEX N="16"/>
+    </SUBFIELD>
+    <SUBFIELD tag="d" name="Roman Numerals" mandatory="n" repeatable="n">
+      <DESCRIPTION>Roman numerals associated with names of certain popes, royalty and ecclesiastics (EX 12). If an epithet (or a further forename) is associated with the numeration, this too should be included (EX 17). The form of name indicator should be set to 0 when this subfield is used. Not repeatable. </DESCRIPTION>
+      <SEEEX N="12"/>
+      <SEEEX N="17"/>
+    </SUBFIELD>
+    <SUBFIELD tag="f" name="Dates" mandatory="n" repeatable="n">
+      <DESCRIPTION>The dates attached to personal names together with abbreviations or other indications of the nature of the dates. Any indications of the type of date (e.g., flourished, born, died) should be entered in the subfield in full or abbreviated form (EX 15). All the dates for the person named in the field should be entered in $f. Not repeatable.</DESCRIPTION>
+      <SEEEX N="15"/>
+    </SUBFIELD>
+    <SUBFIELD tag="g" name="Expansion of Initials of Forename" mandatory="n" repeatable="n">
+      <DESCRIPTION>The full form of forenames when initials are recorded in subfield $b as the preferred form and when both initials and the full form are required (EX 2). Not repeatable. </DESCRIPTION>
+      <SEEEX N="2"/>
+    </SUBFIELD>
+    <SUBFIELD tag="p" name="Affiliation/address" mandatory="n" repeatable="n">
+      <DESCRIPTION>This subfield contains the institutional affiliation of the individual at the time the work was prepared (EX 18). Not repeatable. </DESCRIPTION>
+      <SEEEX N="18"/>
+    </SUBFIELD>
+    <SUBFIELD tag="3" name="Authority Record Number" mandatory="n" repeatable="n">
+      <DESCRIPTION>The control number for the authority record for the heading. This subfield is for use with UNIMARC/Authorities (EX 3). Not repeatable. </DESCRIPTION>
+      <SEEEX N="3"/>
+    </SUBFIELD>
+    <SUBFIELD tag="4" name="Relator Code" mandatory="n" repeatable="y">
+      <DESCRIPTION>The code used to designate the relationship between the person named in the field and the bibliographic item to which the record refers. The list of codes is to be found in Appendix C. Repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <NOTES>Form: 
+
+The form of name which appears in the field is determined by the appropriate cataloguing rules and/or authorities used by the agency responsible for the preparation of the record. Dates may be entered according to different calendars. 
+
+Selection of subfields: 
+
+It may not always appear obvious, when presented with a source record to be converted to UNIMARC, which sub-elements of the name in a source format correspond to which UNIMARC subfields. These notes are intended to give general guidance but are not exhaustive. It is necessary to be aware that names formed according to different cataloguing rules, or even originating from different authority files based on the same rules will not always interfile correctly in one sequence. Until standards are established UNIMARC can provide only a framework for identifying the distinct data elements. 
+
+One way of conceiving of the differences between Entry Element ($a), Part of Name Other than Entry Element ($b), and Additions to Names Other than Dates ($c) is by referring to their use. The first element, entry element, is the word under which the entry would be formed in an ordered list. The second element subdivides the list ordered by the first element. The third element, Additions to Names Other than Dates, will either be used as a third filing element, or may in some cases, especially when it precedes the Part of Name Other than Entry Element, be ignored for ordering purposes. 
+
+Where family names begin with a particle such as a preposition, it will be placed at the start of subfield $a. If the name files under the next element after the particle, the particle will usually be placed at the end of the name. It is recommended that these particles be entered in subfield $b Part of Name Other than Entry Element (EX 9, 10, 11). 
+
+Titles of address, epithets or qualifiers to names added by the cataloguer should be entered as Additions to Names Other than Dates, subfield $c. 
+
+Punctuation: 
+
+There are no standards for punctuation in this field. However, it is recommended that punctuation be retained where it is available in the source format. In source formats where punctuation is not available, but is printed out by an algorithm generated from the definition of the subfields, it is recommended that the punctuation which would be used in display be included in the UNIMARC record. 
+
+Because there are no standards for punctuation in this field, recipients of records in the UNIMARC format will have to be aware of the practices adopted by the agency preparing the record; therefore agencies distributing records should attempt to be consistent in their own records. Details should be included in the documentation accompanying exchange tapes (See Appendix K). 
+</NOTES>
+    <RELATED tag="200 $f, $g" name="TITLE AND STATEMENT OF RESPONSIBILITY, First Statement of Responsibility and Subsequent Statement of Responsibility.">
+      <DESCRIPTION>Data in field 200 is recorded as it appears on the item. The name of the person mentioned in $f or in some cases $g to whom is attributed primary responsibility for the item (if any) will be entered in 700 in a form suitable for an access point. </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="701" name="Data in field 200 is recorded as it appears on the item. The name of the person mentioned in $f or in some cases $g to whom is attributed primary responsibility for the item (if any) will be entered in 700 in a form suitable for an access point.">
+      <DESCRIPTION>If there are further persons considered to have equal or alternative responsibility to the person named in field 700, field 701 is used to record the required access points for these. This will occur when documents are written 'by Glenn L. Jenkins, Adelbert M. Knevel, Frank E. Di Gangi', or in the provisions of certain cataloguing rules when complementary text and illustrations, for example photographs and accompanying text are the responsibility of different persons. One or other of the persons with equal responsibility will be entered in field 700, the other(s) in 701, without any implication that the ones entered in 701 fields have any less responsibility for the item than the one entered in 700. Where the cataloguing rules do not recognise 'main entry' primary personal responsibility, headings are entered in field 701 and field 700 is not used. 
+</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="702" name="PERSONAL NAME SECONDARY INTELLECTUAL RESPONSIBILITY">
+      <DESCRIPTION>If there are persons considered to have less responsibility than the person named in field 700 they should be entered in 702 fields. </DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">700 #l$aBenson,$bRowland S.
+The name in access point form: Benson, Rowland S.</EX>
+      <EX n="2">700 #1$aLawrence$bD.H
+700 #1$aLawrence$bDavid Herbert
+700 #1$aLawrence$bD.H.$gDavid Herbert
+The above examples illustrate different 700 fields for the same entity that result from various agencies because of variations in the access point form: Lawrence, D.H. or Lawrence, David Herbert or Lawrence, D.H. (David Herbert). The variations result from the application of different cataloguing rules for headings. The third example above includes parentheses to distinguish between the preferred form of the forenames and the full form. </EX>
+      <EX n="3">700 #1$aBridges-Webb,$bCharles$3014678
+Charles Bridges-Webb (a hyphenated name) is entered under Bridges-Webb. The authority file number in the system is 014678. </EX>
+      <EX n="4">700 #l$aDay Lewis,$bCecil
+C. Day Lewis has a compound surname without a hyphen. The cataloguing code enters the name as: Day Lewis, Cecil. </EX>
+      <EX n="5">
+700 #0$aMao Tse Tung
+700 #l$aMao,$bTse Tung
+Chinese names are in normal usage (outside cataloguing) written with the family name first. This results in differing treatment among cataloguing codes. Mao Tse-Tung (to use one possible rendering of the name into the roman alphabet) may be entered according to some cataloguing codes as: Mao Tse-Tung; according to others as Mao, Tse-Tung. This is because some codes feel that the punctuation, in this case a separating comma ',' represents the division between family name and given names while others feel that a comma denotes inversion from the usual form and omit it here since no inversion has been required. Note that when the name is entered in direct order, i.e. under the name which comes first, and the whole of the name is entered in the same subfield, the second indicator, Form of Name Indicator, is set to 0. However, if the first element is regarded as a surname by analogy with Western treatment of surnames, then the second indicator is set to 1.</EX>
+      <EX n="6">700 #1$aStanhope,$cLady$bHester
+An author has a title which comes before the given names according to the cataloguing code used. The order of subfields is retained, as always in UNIMARC.</EX>
+      <EX n="7">700 #1$aParker,$bTheodore$c(Spirit)
+The cataloguing code of the source format stipulates that epithets be used under certain circumstances:
+Parker, Theodore (Spirit). </EX>
+      <EX n="8">700 #1$aArundel,$bPhilip Howard,$cEarl of,$cSaint
+An individual has two separate titles; they are entered in separate subfields. According to the cataloguing code used, 'Arundel' is the entry element.</EX>
+      <EX n="9">700 #1$aBergh,$bGeorge van der
+Entry in catalogue: Bergh, George van der. Depending on the prefix, names are sometimes entered under the prefix, at other times not. </EX>
+      <EX n="10">700 #1$aLa Fontaine Verwey$bHerman de
+Entry in catalogue: La Fontaine Verwey, Herman de </EX>
+      <EX n="11">700 #1$aDu Perron,$bE.
+Entry in catalogue: Du Perron, E.</EX>
+      <EX n="12">700 #0$aVittorio Emmanuele$dII,$cre d'Italia
+Monarchs are entered under their given names in the majority of cataloguing rules. </EX>
+      <EX n="13">700 #0$aPan Painter
+700 #0$aJackie
+Pseudonyms sometimes consist of a phrase or other appellation that does not contain a real name and are then usually entered in direct order. </EX>
+      <EX n="14">700 #1$aOrwell,$bGeorge
+700 #1$aOther,$bA.N.
+Pseudonyms having the appearance of a forename, forenames or initials, and a surname are according to most cataloguing codes entered under the pseudo-surname. </EX>
+      <EX n="15">700 #0$aJoannes,$cDiaconus,$ffl.1226-1240
+An example of the name of a medieval person consisting only of a given name. An epithet and date are added. </EX>
+      <EX n="16">700 #0$aAlexandra,$cEmpress,$cConsort of Nicholas II, Emperor of Russia
+Two epithets are separately identified in the source format. This distinction should be carried over into UNIMARC. </EX>
+      <EX n="17">700 #0$aJohn$dII Comnenus,$cEmperor of the East </EX>
+      <EX n="18">700 #1$aBrown$bB.F.$pChemistry Dept., Harvard University </EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="701" name="PERSONAL NAME - ALTERNATIVE INTELLECTUAL RESPONSIBILITY" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains the name of a person considered to have alternative intellectual responsibility for a work, in access point form. If the record is created according to cataloguing rules which do not recognise the concept of main entry or the source format does not separately identify main entry, all personal names to be used as access points will be entered in Field 701. </DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="Form of Name Indicator">
+      <OPTION value="0" name="Name entered under forename or direct order"/>
+      <OPTION value="1" name="Name entered under surname (family name, patronymic, etc.) ">
+        <DESCRIPTION>This indicator specifies whether the name is entered under the first occurring name (forename) or in direct order or whether it is entered under a surname, family name, patronymic or equivalent, usually with inversion </DESCRIPTION>
+      </OPTION>
+    </IND2>
+    <SUBFIELD tag="a" name="Entry Element" mandatory="y" repeatable="n">
+      <DESCRIPTION>The portion of the name used as the entry element in the heading; that part of the name by which the name is entered in ordered lists. This subfield must be present when the field is present. Not repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="b" name="Part of Name Other than Entry Element" mandatory="n" repeatable="n">
+      <DESCRIPTION>The remainder of the name, used when the entry element is a surname or family name (EX 1-11, 14). It contains forenames and other given names. The form of name indicator should be set to 1 when this subfield is used. Printing expansions of initials should be entered in $g. Not repeatable. </DESCRIPTION>
+      <SEEEX N="1"/>
+      <SEEEX N="2"/>
+      <SEEEX N="3"/>
+      <SEEEX N="4"/>
+      <SEEEX N="5"/>
+      <SEEEX N="6"/>
+      <SEEEX N="7"/>
+      <SEEEX N="8"/>
+      <SEEEX N="9"/>
+      <SEEEX N="10"/>
+      <SEEEX N="11"/>
+      <SEEEX N="14"/>
+    </SUBFIELD>
+    <SUBFIELD tag="c" name="Additions to Names Other than Dates" mandatory="n" repeatable="y">
+      <DESCRIPTION>Any additions to names (other than dates) which do not form an integral part of the name itself including titles, epithets or indications of office (EX 6, 7, 8, 12, 15, 16). Repeatable for second or subsequent occurrences of such additions (EX 8, 16). </DESCRIPTION>
+      <SEEEX N="6"/>
+      <SEEEX N="7"/>
+      <SEEEX N="8"/>
+      <SEEEX N="12"/>
+      <SEEEX N="15"/>
+      <SEEEX N="16"/>
+    </SUBFIELD>
+    <SUBFIELD tag="d" name="Roman Numerals" mandatory="n" repeatable="n">
+      <DESCRIPTION>Roman numerals associated with names of certain popes, royalty and ecclesiastics (EX 12). If an epithet (or a further forename) is associated with the numeration, this too should be included (EX 17). The form of name indicator should be set to 0 when this subfield is used. Not repeatable. </DESCRIPTION>
+      <SEEEX N="12"/>
+      <SEEEX N="17"/>
+    </SUBFIELD>
+    <SUBFIELD tag="f" name="Dates" mandatory="n" repeatable="n">
+      <DESCRIPTION>The dates attached to personal names together with abbreviations or other indications of the nature of the dates. Any indications of the type of date (e.g., flourished, born, died) should be entered in the subfield in full or abbreviated form (EX 15). All the dates for the person named in the field should be entered in $f. Not repeatable. </DESCRIPTION>
+      <SEEEX N="15"/>
+    </SUBFIELD>
+    <SUBFIELD tag="g" name="Expansion of Initials of Forename" mandatory="n" repeatable="n">
+      <DESCRIPTION>The full form of forenames when initials are recorded in subfield $b as the preferred form and when both initials and the full form are required (EX 2). Not repeatable. </DESCRIPTION>
+      <SEEEX N="2"/>
+    </SUBFIELD>
+    <SUBFIELD tag="p" name="Affiliation/address" mandatory="n" repeatable="n">
+      <DESCRIPTION>This subfield contains the institutional affiliation of the individual at the time the work was prepared (EX 18). Not repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="3" name="Authority Record Number" mandatory="n" repeatable="n">
+      <DESCRIPTION>The control number for the authority record for the heading. This subfield is for use with UNIMARC/Authorities (EX 3). Not repeatable. </DESCRIPTION>
+      <SEEEX N="3"/>
+    </SUBFIELD>
+    <SUBFIELD tag="4" name="Relator Code" mandatory="n" repeatable="y">
+      <DESCRIPTION>The code used to designate the relationship between the person named in the field and the bibliographic item to which the record refers. The list of codes is to be found in Appendix C. Repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <NOTES>   Form: 
+
+The form of name which appears in the field is determined by the appropriate cataloguing rules and/or authorities used by the agency responsible for the preparation of the record. Dates may be entered according to different calendars. 
+
+Selection of subfields: 
+
+It may not always appear obvious, when presented with a source record to be converted to UNIMARC, which sub-elements of the name in a source format correspond to which UNIMARC subfields. These notes are intended to give general guidance but are not exhaustive. It is necessary to be aware that names formed according to different cataloguing rules, or even originating from different authority files based on the same rules will not always interfile correctly in one sequence. Until standards are established UNIMARC can provide only a framework for identifying the distinct data elements. 
+
+One way of conceiving of the differences between Entry Element ($a), Part of Name Other than Entry Element ($b), and Additions to Names Other than Dates ($c) is by referring to their use. The first element, entry element, is the word under which the entry would be formed in an ordered list. The second element subdivides the list ordered by the first element. The third element, Additions to Names Other than Dates, will either be used as a third filing element, or may in some cases, especially when it precedes the Part of Name Other than Entry Element, be ignored for ordering purposes. 
+
+Where family names begin with a particle such as a preposition, it will be placed at the start of subfield $a. If the name files under the next element after the particle, the particle will usually be placed at the end of the name. It is recommended that these particles be entered in subfield $b Part of Name Other than Entry Element (EX 9, 10, 11). 
+
+Titles of address, epithets or qualifiers to names added by the cataloguer should be entered as Additions to Names Other than Dates, subfield $c. 
+
+Punctuation: 
+
+There are no standards for punctuation in this field. However, it is recommended that punctuation be retained where it is available in the source format. In source formats where punctuation is not available, but is printed out by an algorithm generated from the definition of the subfields, it is recommended that the punctuation which would be used in display be included in the UNIMARC record. 
+
+Because there are no standards for punctuation in this field, recipients of records in the UNIMARC format will have to be aware of the practices adopted by the agency preparing the record; therefore agencies distributing records should attempt to be consistent in their own records. Details should be included in the documentation accompanying exchange tapes (See Appendix K). 
+		
+
+The field is used, where applicable for printers, publishers, former owners and other connected with the production or history of particular volumes. 
+
+Subfield $5, code of the Institution to Which Field Applies is used only when the physical characteristics are peculiar to an individual copy. It is generally used for older monographic publications (antiquarian). 
+</NOTES>
+    <RELATED tag="200 f" name="TITLE AND STATEMENT OF RESPONSIBILITY, First Statement of Responsibility">
+      <DESCRIPTION>Data in field 200 is recorded as it appears on the item. When there are two or three names in the first statement of responsibility, subsequent names after the first will often be names of persons with alternative intellectual responsibility and will be entered in field 701 in access point form. </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="700" name="PERSONAL NAME - PRIMARY INTELLECTUAL RESPONSIBILITY ">
+      <DESCRIPTION>When field 701 is used strictly for names of persons having alternative intellectual responsibility, field 700 (or rarely 710) must be present. If field 701 is used because the cataloguing rules do not recognise the concept of main entry, then field 700 will not be present. </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="702" name="PERSONAL NAME - SECONDARY INTELLECTUAL RESPONSIBILITY ">
+      <DESCRIPTION>When there are persons considered to have less responsibility than the persons named in fields 700 and 701, they should be entered in field 702. </DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">700 #1$aNewton,$bClive R. (Primary)
+701 #1$aParker,$bR.S (Alternative)
+The above is an example including an instance of a person with alternative intellectual responsibility. The statement of responsibility on the title page is 'by Clive R. Newton and Robert S. Parker'. The established form for Robert S. Parker is Parker, R.S.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="702" name="PERSONAL NAME - SECONDARY INTELLECTUAL RESPONSIBILITY" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains the name of a person considered to have secondary intellectual responsibility for a work, in access point form. Repeatable. In the majority of cataloguing codes, the existence of a person with secondary responsibility does not necessarily imply the existence of a person with primary responsibility in the record. Therefore field 702 can be present without a field 700, 710 or 720. </DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="Form of Name Indicator">
+      <OPTION value="0" name="Name entered under forename or direct order"/>
+      <OPTION value="1" name="Name entered under surname (family name, patronymic, etc.)">
+        <DESCRIPTION>This indicator specifies whether the name is entered under the first occurring name (forename) or in direct order or whether it is entered under a surname, family name, patronymic or equivalent, usually with inversion (EX 5). </DESCRIPTION>
+        <SEEEX N="5"/>
+      </OPTION>
+    </IND2>
+    <SUBFIELD tag="a" name="Entry Element" mandatory="y" repeatable="n">
+      <DESCRIPTION>The portion of the name used as the entry element in the heading; that part of the name by which the name is entered in ordered lists. This subfield must be present when the field is present. Not repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="b" name="Part of Name Other than Entry Element" mandatory="n" repeatable="n">
+      <DESCRIPTION>The remainder of the name, used when the entry element is a surname or family name (EX 1-11, 14). It contains forenames and other given names. The form of name indicator should be set to 1 when this subfield is used. Printing expansions of initials should be entered in $g. Not repeatable. </DESCRIPTION>
+      <SEEEX N="1"/>
+      <SEEEX N="2"/>
+      <SEEEX N="3"/>
+      <SEEEX N="4"/>
+      <SEEEX N="5"/>
+      <SEEEX N="6"/>
+      <SEEEX N="7"/>
+      <SEEEX N="8"/>
+      <SEEEX N="9"/>
+      <SEEEX N="10"/>
+      <SEEEX N="11"/>
+      <SEEEX N="14"/>
+    </SUBFIELD>
+    <SUBFIELD tag="c" name="Additions to Names Other than Dates" mandatory="n" repeatable="y">
+      <DESCRIPTION>Any additions to names (other than dates) which do not form an integral part of the name itself including titles, epithets or indications of office (EX 6, 7, 8, 12, 15, 16). Repeatable for second or subsequent occurrences of such additions (EX 8, 16). </DESCRIPTION>
+      <SEEEX N="6"/>
+      <SEEEX N="7"/>
+      <SEEEX N="8"/>
+      <SEEEX N="12"/>
+      <SEEEX N="15"/>
+      <SEEEX N="16"/>
+    </SUBFIELD>
+    <SUBFIELD tag="d" name="Roman Numerals" mandatory="n" repeatable="n">
+      <DESCRIPTION>Roman numerals associated with names of certain popes, royalty and ecclesiastics (EX 12). If an epithet (or a further forename) is associated with the numeration, this too should be included (EX 17). The form of name indicator should be set to 0 when this subfield is used. Not repeatable. </DESCRIPTION>
+      <SEEEX N="12"/>
+    </SUBFIELD>
+    <SUBFIELD tag="f" name="Dates" mandatory="n" repeatable="n">
+      <DESCRIPTION>The dates attached to personal names together with abbreviations or other indications of the nature of the dates. Any indications of the type of date (e.g., flourished, born, died) should be entered in the subfield in full or abbreviated form (EX 15). All the dates for the person named in the field should be entered in $f. Not repeatable. </DESCRIPTION>
+      <SEEEX N="15"/>
+    </SUBFIELD>
+    <SUBFIELD tag="g" name="Expansion of Initials of Forename" mandatory="n" repeatable="n">
+      <DESCRIPTION>The full form of forenames when initials are recorded in subfield $b as the preferred form and when both initials and the full form are required (EX 2). Not repeatable. </DESCRIPTION>
+      <SEEEX N="2"/>
+    </SUBFIELD>
+    <SUBFIELD tag="p" name="Affiliation/address" mandatory="n" repeatable="n">
+      <DESCRIPTION>This subfield contains the institutional affiliation of the individual at the time the work was prepared (EX 18). Not repeatable. </DESCRIPTION>
+      <SEEEX N="18"/>
+    </SUBFIELD>
+    <SUBFIELD tag="3" name="Authority Record Number" mandatory="n" repeatable="n">
+      <DESCRIPTION>The control number for the authority record for the heading. This subfield is for use with UNIMARC/Authorities (EX 3). Not repeatable. </DESCRIPTION>
+      <SEEEX N="3"/>
+    </SUBFIELD>
+    <SUBFIELD tag="4" name="Relator Code" mandatory="n" repeatable="y">
+      <DESCRIPTION>The code used to designate the relationship between the person named in the field and the bibliographic item to which the record refers. The list of codes is to be found in Appendix C. Repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="5" name="Institution to Which Field Applies" mandatory="n" repeatable="n">
+      <DESCRIPTION>Name of institution to which field applies in coded form. Since there are no internationally accepted codes, the codes from USMARC Code List for Organizations, which includes codes for many non-U.S. library agencies, are recommended. Otherwise, the full name of the agency or a national code may be used. If the institution holds more than one copy the subfield should also contain the shelfmark after a colon. Not repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <NOTES>
+Form: 
+
+The form of name which appears in the field is determined by the appropriate cataloguing rules and/or authorities used by the agency responsible for the preparation of the record. Dates may be entered according to different calendars. 
+
+Selection of subfields: 
+
+It may not always appear obvious, when presented with a source record to be converted to UNIMARC, which sub-elements of the name in a source format correspond to which UNIMARC subfields. These notes are intended to give general guidance but are not exhaustive. It is necessary to be aware that names formed according to different cataloguing rules, or even originating from different authority files based on the same rules will not always interfile correctly in one sequence. Until standards are established UNIMARC can provide only a framework for identifying the distinct data elements. 
+
+One way of conceiving of the differences between Entry Element ($a), Part of Name Other than Entry Element ($b), and Additions to Names Other than Dates ($c) is by referring to their use. The first element, entry element, is the word under which the entry would be formed in an ordered list. The second element subdivides the list ordered by the first element. The third element, Additions to Names Other than Dates, will either be used as a third filing element, or may in some cases, especially when it precedes the Part of Name Other than Entry Element, be ignored for ordering purposes. 
+
+Where family names begin with a particle such as a preposition, it will be placed at the start of subfield $a. If the name files under the next element after the particle, the particle will usually be placed at the end of the name. It is recommended that these particles be entered in subfield $b Part of Name Other than Entry Element (EX 9, 10, 11). 
+
+Titles of address, epithets or qualifiers to names added by the cataloguer should be entered as Additions to Names Other than Dates, subfield $c. 
+
+Punctuation: 
+
+There are no standards for punctuation in this field. However, it is recommended that punctuation be retained where it is available in the source format. In source formats where punctuation is not available, but is printed out by an algorithm generated from the definition of the subfields, it is recommended that the punctuation which would be used in display be included in the UNIMARC record. 
+
+Because there are no standards for punctuation in this field, recipients of records in the UNIMARC format will have to be aware of the practices adopted by the agency preparing the record; therefore agencies distributing records should attempt to be consistent in their own records. Details should be included in the documentation accompanying exchange tapes (See Appendix K). 
+The field is used, where applicable for printers, publishers, former owners and other connected with the production or history of particular volumes. 
+
+Subfield $5, code of the Institution to Which Field Applies is used only when the physical characteristics are peculiar to an individual copy. It is generally used for older monographic publications (antiquarian). 
+</NOTES>
+    <RELATED tag="200 f, g" name="TITLE AND STATEMENT OF RESPONSIBILITY, First Statement of Responsibility and Subsequent Statement of Responsibility">
+      <DESCRIPTION>Data in field 200 is recorded as it appears on the item. The name of the person mentioned in $f or in $g to whom is attributed secondary responsibility for the item (if any) will be entered in Field 702 in access point form. </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="700" name="PERSONAL NAME - PRIMARY INTELLECTUAL RESPONSIBILITY ">
+      <DESCRIPTION>The name of the first person mentioned in the title page with primary intellectual responsibility should be entered in the 700 field. Names of persons with secondary intellectual responsibility are entered in 702. </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="701" name="PERSONAL NAME - ALTERNATIVE INTELLECTUAL RESPONSIBILITY ">
+      <DESCRIPTION>Alternative means a second or further instance of primary responsibility. However, if the record is catalogued according to rules which do not recognise the concept of main entry or the source format does not make the distinction, all personal names should be entered in field 701.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">702 #1$aIrvin$bThomas Francis$4440
+The name of a person with secondary intellectual responsibility including a relator code that he is an illustrator.</EX>
+      <EX n="2">702 #1$aCunningham$bArthur$4110$5Uk: X.200/175
+Binder of a British Library copy, pressmark X.200/175. </EX>
+      <EX n="3">702 #1$aSkrlec$bNikola$4390$5CiZaNSB: L III H13
+702 #1$aKusevic$bJosip$4390$5CiZaNSB: L III H13 
+
+Book with book-plate by Nikola Skrlec (a former owner) is part of the Kusevic's Library now stored in the National and University Library, Zagreb. 
+</EX>
+      <EX n="4">317 ##$aRukopisni ex libris: 'Velimir Gaj 1873'. Iz knjiznice Ljudevita Gaja$5CiZaNSB IIC-8º -75
+702 #1$aGaj$bVelimir$4390$5CiZaNSB: IIC-8º -75
+702 #1$aGaj$bLjudevit$4390$5CiZaNSB: IIC-8º -75
+Velimir Gaj inherited his father's, Ljudevit Gaj's, Library which he later sold to the present owner, National and University Library, Zagreb. The Library is known after his father's name.
+A further example of the use of this field appears as EX 5 of the 317 field. </EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="710" name="CORPORATE BODY NAME - PRIMARY INTELLECTUAL RESPONSIBILITY" mandatory="n" repeatable="n">
+    <DESCRIPTION>This field contains the name of the corporate body considered to have primary intellectual responsibility for a work, in access point form, provided that the record is created according to cataloguing rules recognising the concept of main entry and the source format separately identifies the main entry. Not repeatable. It may not occur in the same record as a 700 field PERSONAL NAME - PRIMARY INTELLECTUAL RESPONSIBILITY or a 720 field FAMILY NAME - PRIMARY INTELLECTUAL RESPONSIBILITY, since a record can have only one access point with primary intellectual responsibility. If the concept of main entry does not exist in the cataloguing rules, or the source format does not distinguish it, this field does not occur: field 711 is used for all corporate body name headings (see Related Fields). </DESCRIPTION>
+    <IND1 name="Meeting Indicator">
+      <DESCRIPTION>The first indicator specifies whether the corporate body is a meeting or not. Meetings include conferences, symposia, etc. If the name of the meeting is a subdivision of the name of a corporate body, the name is regarded as that of a corporate body (EX 13) </DESCRIPTION>
+      <OPTION value="0" name="Corporate name"/>
+      <OPTION value="1" name="Meeting">
+        <DESCRIPTION>If the source format does not distinguish meeting names from other corporate names, the indicator position should contain the fill character. </DESCRIPTION>
+      </OPTION>
+      <SEEEX N="13"/>
+    </IND1>
+    <IND2 name="Form of Name Indicator">
+      <OPTION value="0" name="Name in inverted form">
+        <DESCRIPTION>An inverted form may be used when the first word of a corporate name or meeting begins with an initial or forename relating to a personal name (EX 9, 10, 14).</DESCRIPTION>
+        <SEEEX N="9"/>
+        <SEEEX N="10"/>
+        <SEEEX N="14"/>
+      </OPTION>
+      <OPTION value="1" name="Name entered under place or jurisdiction">
+        <DESCRIPTION>Used for corporate names relating to governments or other agencies of jurisdiction that are entered under the name of the place (EX 3, 5, 6, 7, 17). According to certain cataloguing codes other kinds of institutions associated with a place are also entered under that place, e.g. universities, learned societies, art galleries (EX 15). </DESCRIPTION>
+        <SEEEX N="3"/>
+        <SEEEX N="5"/>
+        <SEEEX N="6"/>
+        <SEEEX N="7"/>
+        <SEEEX N="17"/>
+        <SEEEX N="15"/>
+      </OPTION>
+      <OPTION value="2 " name="Name entered under name in direct order">
+        <DESCRIPTION>Used for all other kinds of corporate names.</DESCRIPTION>
+      </OPTION>
+    </IND2>
+    <SUBFIELD tag="a" name="Entry Element" mandatory="y" repeatable="n">
+      <DESCRIPTION>The portion of the name used as the entry element in the heading; that part of the name by which the name is entered in ordered lists, i.e. the part of the name up to the first filing boundary. This subfield is must be present if the field is present. Not repeatable.</DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="b" name="Subdivision" mandatory="n" repeatable="y">
+      <DESCRIPTION>The name of a lower level in a hierarchy when the name includes a hierarchy; or the name of the corporate body when it is entered under place (EX 2-6, 13, 15). This subfield excludes any additions to the name added by the cataloguer to distinguish it from other institutions of the same name (see $c, $g, $h). Repeatable if there is more than one lower level in the hierarchy (EX 3, 4, 5).</DESCRIPTION>
+      <SEEEX N="3"/>
+      <SEEEX N="4"/>
+      <SEEEX N="5"/>
+      <SEEEX N="2"/>
+      <SEEEX N="6"/>
+      <SEEEX N="13"/>
+      <SEEEX N="15"/>
+    </SUBFIELD>
+    <SUBFIELD tag="c" name="Addition to Name or Qualifier" mandatory="n" repeatable="y">
+      <DESCRIPTION>Any addition to the name of the corporate body added by the cataloguer, other than number, place and date of conference. Repeatable. (EX 6,9,11,16).</DESCRIPTION>
+      <SEEEX N="6"/>
+      <SEEEX N="9"/>
+      <SEEEX N="11"/>
+      <SEEEX N="16"/>
+    </SUBFIELD>
+    <SUBFIELD tag="d" name="Number of Meeting and/or Number of Part of Meeting" mandatory="n" repeatable="n">
+      <DESCRIPTION>The number of a meeting when the meeting belongs to a numbered series. Not repeatable. (EX 12-14) </DESCRIPTION>
+      <SEEEX N="12"/>
+      <SEEEX N="13"/>
+      <SEEEX N="14"/>
+    </SUBFIELD>
+    <SUBFIELD tag="e" name="Location of Meeting" mandatory="n" repeatable="n">
+      <DESCRIPTION>The place where a meeting was held when it is required as part of the heading. Not repeatable. (EX 11-14) </DESCRIPTION>
+      <SEEEX N="11"/>
+      <SEEEX N="12"/>
+      <SEEEX N="13"/>
+      <SEEEX N="14"/>
+    </SUBFIELD>
+    <SUBFIELD tag="f" name=" Date of Meeting" mandatory="n" repeatable="n">
+      <DESCRIPTION>The date of a meeting when it is required as part of the heading. Not repeatable. (EX 11-14) </DESCRIPTION>
+      <SEEEX N="11"/>
+      <SEEEX N="12"/>
+      <SEEEX N="13"/>
+      <SEEEX N="14"/>
+    </SUBFIELD>
+    <SUBFIELD tag="g" name="Inverted Element" mandatory="n" repeatable="n">
+      <DESCRIPTION>Any part of the name of the corporate body which is removed from the beginning of the name in order to enter the body under a word which is more likely to be sought. Not repeatable. (EX 9, 10, 14) </DESCRIPTION>
+      <SEEEX N="9"/>
+      <SEEEX N="10"/>
+      <SEEEX N="14"/>
+    </SUBFIELD>
+    <SUBFIELD tag="h" name="Part of Name Other than Entry Element and Inverted Element" mandatory="n" repeatable="n">
+      <DESCRIPTION>In a heading with inverted element, the part of the name following the inversion. Not repeatable (EX 9, 10, 14). </DESCRIPTION>
+      <SEEEX N="9"/>
+      <SEEEX N="10"/>
+      <SEEEX N="14"/>
+    </SUBFIELD>
+    <SUBFIELD tag="p" name="Affiliation/address" mandatory="n" repeatable="n">
+      <DESCRIPTION>This subfield contains the address of the corporate body (EX 17). Not repeatable. </DESCRIPTION>
+      <SEEEX N="17"/>
+    </SUBFIELD>
+    <SUBFIELD tag="3" name="Authority Record Number" mandatory="n" repeatable="n">
+      <DESCRIPTION>The control number for the authority record for the heading. This subfield is for use with UNIMARC/Authorities (EX 12). Not repeatable.</DESCRIPTION>
+      <SEEEX N="12"/>
+    </SUBFIELD>
+    <SUBFIELD tag="4" name="Relator Code" mandatory="n" repeatable="y">
+      <DESCRIPTION>Used to designate the relationship between the corporate body named in the field and the item to which the record refers. A list of codes is to be found in Appendix C. Repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <NOTES>Form: 
+
+The form of the name which appears in this field is determined by the appropriate cataloguing rules and/or authorities used by the agency responsible for the preparation of the record. 
+
+It may not always appear obvious, when presented with a source record to be converted to UNIMARC, which sub-elements of the name in a source format correspond to which UNIMARC subfields. These notes are intended to give general guidance but are not exhaustive. It is necessary to be aware that names formed according to different cataloguing rules or even originating from different authority files based on the same rules will not always inter-file correctly in one sequence. Until further standards are established UNIMARC can provide only a framework for identifying the distinct data elements. 
+
+Corporate names are problematic since many corporate bodies do not have a precise name which remains constant. Furthermore individual cataloguing rules formalise the names in different ways and therefore use different kinds of data elements. 
+
+Inverted data: 
+
+One type of name which often presents difficulties is a corporate name formed from a personal name, e.g., W. H. Smith &amp; Sons Ltd, J. F. Kennedy Center, Winston Churchill Memorial Centre. Some cataloguing codes stipulate that these should be entered in direct order in subfield $a; other rules require that the names be treated as a personal name and inverted hence coded in subfields $g and $h. UNIMARC accommodates both possibilities (EX 9, 10, 14). 
+
+Entry under place: 
+
+Names of governments at all levels, e.g. national, provincial, and local, are formalisations of a different kind. Many such bodies have long formal names, but the practice of cataloguing codes is generally to take a short name of the place, e.g., France, Australia, rather than the formal name (Republic of France, Commonwealth of Australia) (EX 7). Subordinate governmental bodies are often prefixed with the name of the government (EX 5, 6). Cataloguing rules vary as to whether bodies under government control but without legislative or executive power, such as national museums, are entered under the name of the government or under their own names. If entered under their own name, e.g., Civic Museum, they may need a qualification to distinguish between other organisations of the same name in other places. Some cataloguing rules have a further category of organisation entered under name of place: bodies like universities, learned societies etc. which are specifically attached to a place and tend to have the place name as part of their name; these may formalised in such a way as to bring the name of the place to the fore (EX 15). The remainder of the name will be stripped of connecting prepositions; thus it is not strictly an inversion. 
+
+Qualifications: 
+
+Guidance may be required on what elements are to be considered qualifications and hence are to be entered in subfield $c. This may be a place added in order to distinguish the body from others of the same name, e.g., Liberal Party (Australia). It may be a statement of type of body to distinguish it from a different type of body with the same name, e.g. Gibraltar (Diocese) to distinguish it from the colony, and New York (State) to distinguish it from the city. A third kind of addition consists of a term added to a name to convey that it is a corporate body, e.g., Eagles (Rugby club), Ecologica (Firm), HVJ (Radio station) (EX 16). Usually cataloguing rules prescribe that the qualification be added in parentheses as in the examples above. 
+
+Formalised additions to names of meetings: 
+
+There are no universally accepted standards for the data elements 'Number', 'Location' and 'Date of meeting'. Numbers may be in Arabic or roman numerals, place names may be entered according to the language of the record, or the language on the original (EX 11-14). The date may be entered in any form, although for an exchange record, if month and day are required in the heading, the date in international standard format (e.g., '19831101', for 1 November 1983) is recommended as it can easily be converted into any language if desired. 
+
+Punctuation 
+
+There are no standards for punctuation in this field. It is recommended that punctuation be retained where it is available in the source format. In source formats where punctuation is not available, but is printed out by an algorithm generated from the definition of the subfields, it is recommended that the punctuation which would be used in display be included in the UNIMARC record. This includes parentheses which occur at the beginning and end of one or a group of subfields. 
+
+Because there are no standards for punctuation in this field, recipients of records in the UNIMARC format will have to be aware of the practices adopted by the agency preparing the record. Agencies distributing records should attempt to be consistent in their own records. Details should be included in the documentation accompanying exchange tapes (See Appendix K). 
+</NOTES>
+    <RELATED tag="200 f, g" name="TITLE AND STATEMENT OF RESPONSIBILITY, First Statement of Responsibility and Subsequent Statement of Responsibility">
+      <DESCRIPTION>Data in Field 200 is recorded as it appears on the item. The name of the corporate body mentioned in $f or, rarely, in $g, to which is attributed primary responsibility for the item, if any, will be entered in field 710 in access point form. </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="711" name="CORPORATE BODY NAME - ALTERNATIVE INTELLECTUAL RESPONSIBILITY">
+      <DESCRIPTION>A corporate body may have alternative intellectual responsibility to either a person, body or family named in fields 700, 710 or 720. In this case field 711 is used since there may be no more than one occurrence altogether in a record of fields 700 and 720. </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="712" name="CORPORATE BODY NAME - SECONDARY INTELLECTUAL RESPONSIBILITY">
+      <DESCRIPTION>
+A corporate name may have secondary intellectual responsibility, in which case it will be entered in field 712. </DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">710 02$aLight Railway Transport League
+Unnamed members of an organisation called The Light Railway Transport League wrote a book entitled Johannesburg tramways, and, according to the cataloguing rules, the organisation has primary intellectual responsibility for the work. The cataloguing code used generally stipulates the removal of initial articles from all corporate body headings. </EX>
+      <EX n="2">710 02$aBell and Howell.$bMicro Photo Division
+A division within the organisation Bell and Howell is entitled Micro Photo Division. </EX>
+      <EX n="3">710 02$aUnited States.$bFarm Credit Administration.$bPublic Affairs Division.
+The division responsible for the document is a subordinate body of a subordinate body. </EX>
+      <EX n="4">710 02$aAslib.$bComputer Applications Group.$bAcquisition, Cataloguing and Circulation Working Party
+A working party of a group which is responsible to an organisation requires three levels. </EX>
+      <EX n="5">710 01$aNew South Wales.$bDepartment of Education.$bDivision of Research and Planning
+A government body preceded by the name of the state (province) in the form specified in the cataloguing code. </EX>
+      <EX n="6">710 01$aEssex$c(County).$bAdvisory Unit for Computer Education
+A local government body has a qualification indicating the level of government of the body. </EX>
+      <EX n="7">710 01$aGermany.$c(Democratic Republic)
+Certain cataloguing codes prescribe qualifiers for names of countries where ambiguity might arise. </EX>
+      <EX n="8">710 02$aNational Conference of Catholic Bishops$c(United States)
+A qualifier consisting of place name may be entered in order to distinguish between organisations of the same name in different countries. 
+</EX>
+      <EX n="9">710 02$aHugh Wilson and Lewis Womersley$c(Firm)
+710 00$aWilson$g(Hugh)$hand Lewis Womersley$c(Firm)
+The above give examples of both direct order and indirect order for corporate names. Certain cataloguing codes invert the names of corporate bodies which begin with the name of a person. The part of the name which is placed after the 'surname' element is entered in $g and the rest of the name of the body which followed the 'surname' in direct order is entered in $h. </EX>
+      <EX n="10">710 02$aE.A. Gibson Shipbrokers
+710 00$aGibson$g(E.A.)$hShipbrokers
+Another example of both direct and indirect order. </EX>
+      <EX n="11">710 12$aNASECODE II$c(Conference)$f(1981 :$eTrinity College, Dublin)
+Names of conferences are entered as headings in a formalised form. On the title page: 'proceedings of the NASECODE II conference held at Trinity College Dublin from 17th to 19th June 1981'. Conference is added as a qualifier to explain the term NASECODE II. The subfields are entered in the order required by the cataloguing rules. First indicator is set to 1. </EX>
+      <EX n="12">710 12$3CRNO4586$aWorld Airports Conference,$d5th,$eLondon,$f1976
+When the conference has a number which is not part of the name (compare EX 11 above), it may be included as part of the formalised heading. An authority record number is present. 
+</EX>
+      <EX n="13">710 02$aReading University Agricultural Club$bAnnual Conference$d(11th :$f1977 :$eUniversity of Reading)
+If a conference is closely associated with a corporate body, many cataloguing codes stipulate that it be entered as a subordinate body to that corporate body, and therefore indicator position 1 is 0</EX>
+      <EX n="14">710 10$aRichards$g(A.N.)$hSymposium $d(17th :$f1975 : $eKing of Prussia, Pa.)
+710 12$aA.N. Richards Symposium$d(17th :$f1975 :$eKing of Prussia, Pa.)
+Where the name of a conference begins with a personal name it may be formulated in the same way as in EX 9 and 10. The above shows two ways of entering a conference that begins with a personal name. The name may be inverted or not, according to the cataloguing rules followed. </EX>
+      <EX n="15">710 01$aCalifornia.$bUniversity
+A university entered under its place. </EX>
+      <EX n="16">710 02$aMaria Teresa$c(Ship)
+The name of a ship with a qualification in order to convey that it is a corporate body. </EX>
+      <EX n="17">710 01$aUnited States.$bNational Technical Information Service.$p5202 Port Royal Road,
+Springfield, VA 22161 </EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="711" name="CORPORATE BODY NAME - ALTERNATIVE INTELLECTUAL RESPONSIBILITY" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains the name of a corporate body considered to have alternative intellectual responsibility for a work in access point form. If the record is created according to cataloguing rules which do not recognise the concept of main entry or the source format does not separately identify main entry, all corporate names to be used as access points will be contained in field 711.</DESCRIPTION>
+    <IND1 name="Meeting Indicator">
+      <DESCRIPTION>The first indicator specifies whether the corporate body is a meeting or not. Meetings include conferences, symposia, etc. If the name of the meeting is a subdivision of the name of a corporate body, the name is regarded as that of a corporate body (EX 13) </DESCRIPTION>
+      <OPTION value="0" name="Corporate name"/>
+      <OPTION value="1" name="Meeting">
+        <DESCRIPTION>If the source format does not distinguish meeting names from other corporate names, the indicator position should contain the fill character. </DESCRIPTION>
+      </OPTION>
+      <SEEEX N="13"/>
+    </IND1>
+    <IND2 name="Form of Name Indicator">
+      <OPTION value="0" name="Name in inverted form">
+        <DESCRIPTION>An inverted form may be used when the first word of a corporate name or meeting begins with an initial or forename relating to a personal name (EX 9, 10, 14). </DESCRIPTION>
+        <SEEEX N="9"/>
+        <SEEEX N="10"/>
+        <SEEEX N="14"/>
+      </OPTION>
+      <OPTION value="1" name="Name entered under place or jurisdiction">
+        <DESCRIPTION>Used for corporate names relating to governments or other agencies of jurisdiction that are entered under the name of the place (EX 3, 5, 6, 7, 17). According to certain cataloguing codes other kinds of institutions associated with a place are also entered under that place, e.g. universities, learned societies, art galleries (EX 15). </DESCRIPTION>
+        <SEEEX N="3"/>
+        <SEEEX N="5"/>
+        <SEEEX N="6"/>
+        <SEEEX N="7"/>
+        <SEEEX N="17"/>
+        <SEEEX N="15"/>
+      </OPTION>
+      <OPTION value="2 " name="Name entered under name in direct order">
+        <DESCRIPTION>Used for all other kinds of corporate names. </DESCRIPTION>
+      </OPTION>
+    </IND2>
+    <SUBFIELD tag="a" name="Entry Element" mandatory="y" repeatable="n">
+      <DESCRIPTION>The portion of the name used as the entry element in the heading; that part of the name by which the name is entered in ordered lists, i.e. the part of the name up to the first filing boundary. This subfield is must be present if the field is present. Not repeatable.</DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="b" name="Subdivision" mandatory="n" repeatable="y">
+      <DESCRIPTION>The name of a lower level in a hierarchy when the name includes a hierarchy; or the name of the corporate body when it is entered under place (EX 2-6, 13, 15). This subfield excludes any additions to the name added by the cataloguer to distinguish it from other institutions of the same name (see $c, $g, $h). Repeatable if there is more than one lower level in the hierarchy (EX 3, 4, 5). </DESCRIPTION>
+      <SEEEX N="3"/>
+      <SEEEX N="4"/>
+      <SEEEX N="5"/>
+      <SEEEX N="2"/>
+      <SEEEX N="6"/>
+      <SEEEX N="13"/>
+      <SEEEX N="15"/>
+    </SUBFIELD>
+    <SUBFIELD tag="c" name="Addition to Name or Qualifier" mandatory="n" repeatable="y">
+      <DESCRIPTION>Any addition to the name of the corporate body added by the cataloguer, other than number, place and date of conference. Repeatable. (EX 6,9,11,16).</DESCRIPTION>
+      <SEEEX N="6"/>
+      <SEEEX N="9"/>
+      <SEEEX N="11"/>
+      <SEEEX N="16"/>
+    </SUBFIELD>
+    <SUBFIELD tag="d" name="Number of Meeting and/or Number of Part of Meeting" mandatory="n" repeatable="n">
+      <DESCRIPTION>The number of a meeting when the meeting belongs to a numbered series. Not repeatable. (EX 12-14) </DESCRIPTION>
+      <SEEEX N="12"/>
+      <SEEEX N="13"/>
+      <SEEEX N="14"/>
+    </SUBFIELD>
+    <SUBFIELD tag="e" name="Location of Meeting" mandatory="n" repeatable="n">
+      <DESCRIPTION>The place where a meeting was held when it is required as part of the heading. Not repeatable. (EX 11-14) </DESCRIPTION>
+      <SEEEX N="11"/>
+      <SEEEX N="12"/>
+      <SEEEX N="13"/>
+      <SEEEX N="14"/>
+    </SUBFIELD>
+    <SUBFIELD tag="f" name=" Date of Meeting" mandatory="n" repeatable="n">
+      <DESCRIPTION>The date of a meeting when it is required as part of the heading. Not repeatable. (EX 11-14) </DESCRIPTION>
+      <SEEEX N="11"/>
+      <SEEEX N="12"/>
+      <SEEEX N="13"/>
+      <SEEEX N="14"/>
+    </SUBFIELD>
+    <SUBFIELD tag="g" name="Inverted Element" mandatory="n" repeatable="n">
+      <DESCRIPTION>Any part of the name of the corporate body which is removed from the beginning of the name in order to enter the body under a word which is more likely to be sought. Not repeatable. (EX 9, 10, 14) 
+
+</DESCRIPTION>
+      <SEEEX N="9"/>
+      <SEEEX N="10"/>
+      <SEEEX N="14"/>
+    </SUBFIELD>
+    <SUBFIELD tag="h" name="Part of Name Other than Entry Element and Inverted Element" mandatory="n" repeatable="n">
+      <DESCRIPTION>In a heading with inverted element, the part of the name following the inversion. Not repeatable (EX 9, 10, 14). </DESCRIPTION>
+      <SEEEX N="9"/>
+      <SEEEX N="10"/>
+      <SEEEX N="14"/>
+    </SUBFIELD>
+    <SUBFIELD tag="p" name="Affiliation/address" mandatory="n" repeatable="n">
+      <DESCRIPTION>This subfield contains the address of the corporate body (EX 17). Not repeatable. </DESCRIPTION>
+      <SEEEX N="17"/>
+    </SUBFIELD>
+    <SUBFIELD tag="3" name="Authority Record Number" mandatory="n" repeatable="n">
+      <DESCRIPTION>The control number for the authority record for the heading. This subfield is for use with UNIMARC/Authorities (EX 12). Not repeatable.</DESCRIPTION>
+      <SEEEX N="12"/>
+    </SUBFIELD>
+    <SUBFIELD tag="4" name="Relator Code" mandatory="n" repeatable="y">
+      <DESCRIPTION>Used to designate the relationship between the corporate body named in the field and the item to which the record refers. A list of codes is to be found in Appendix C. Repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <NOTES>Form: 
+
+The form of the name which appears in this field is determined by the appropriate cataloguing rules and/or authorities used by the agency responsible for the preparation of the record. 
+
+It may not always appear obvious, when presented with a source record to be converted to UNIMARC, which sub-elements of the name in a source format correspond to which UNIMARC subfields. These notes are intended to give general guidance but are not exhaustive. It is necessary to be aware that names formed according to different cataloguing rules or even originating from different authority files based on the same rules will not always inter-file correctly in one sequence. Until further standards are established UNIMARC can provide only a framework for identifying the distinct data elements. 
+
+Corporate names are problematic since many corporate bodies do not have a precise name which remains constant. Furthermore individual cataloguing rules formalise the names in different ways and therefore use different kinds of data elements. 
+
+Inverted data: 
+
+One type of name which often presents difficulties is a corporate name formed from a personal name, e.g., W. H. Smith &amp; Sons Ltd, J. F. Kennedy Center, Winston Churchill Memorial Centre. Some cataloguing codes stipulate that these should be entered in direct order in subfield $a; other rules require that the names be treated as a personal name and inverted hence coded in subfields $g and $h. UNIMARC accommodates both possibilities (EX 9, 10, 14). 
+
+Entry under place: 
+
+Names of governments at all levels, e.g. national, provincial, and local, are formalisations of a different kind. Many such bodies have long formal names, but the practice of cataloguing codes is generally to take a short name of the place, e.g., France, Australia, rather than the formal name (Republic of France, Commonwealth of Australia) (EX 7). Subordinate governmental bodies are often prefixed with the name of the government (EX 5, 6). Cataloguing rules vary as to whether bodies under government control but without legislative or executive power, such as national museums, are entered under the name of the government or under their own names. If entered under their own name, e.g., Civic Museum, they may need a qualification to distinguish between other organisations of the same name in other places. Some cataloguing rules have a further category of organisation entered under name of place: bodies like universities, learned societies etc. which are specifically attached to a place and tend to have the place name as part of their name; these may formalised in such a way as to bring the name of the place to the fore (EX 15). The remainder of the name will be stripped of connecting prepositions; thus it is not strictly an inversion. 
+
+Qualifications: 
+
+Guidance may be required on what elements are to be considered qualifications and hence are to be entered in subfield $c. This may be a place added in order to distinguish the body from others of the same name, e.g., Liberal Party (Australia). It may be a statement of type of body to distinguish it from a different type of body with the same name, e.g. Gibraltar (Diocese) to distinguish it from the colony, and New York (State) to distinguish it from the city. A third kind of addition consists of a term added to a name to convey that it is a corporate body, e.g., Eagles (Rugby club), Ecologica (Firm), HVJ (Radio station) (EX 16). Usually cataloguing rules prescribe that the qualification be added in parentheses as in the examples above. 
+
+Formalised additions to names of meetings: 
+
+There are no universally accepted standards for the data elements 'Number', 'Location' and 'Date of meeting'. Numbers may be in Arabic or roman numerals, place names may be entered according to the language of the record, or the language on the original (EX 11-14). The date may be entered in any form, although for an exchange record, if month and day are required in the heading, the date in international standard format (e.g., '19831101', for 1 November 1983) is recommended as it can easily be converted into any language if desired. 
+
+Punctuation 
+
+There are no standards for punctuation in this field. It is recommended that punctuation be retained where it is available in the source format. In source formats where punctuation is not available, but is printed out by an algorithm generated from the definition of the subfields, it is recommended that the punctuation which would be used in display be included in the UNIMARC record. This includes parentheses which occur at the beginning and end of one or a group of subfields. 
+
+Because there are no standards for punctuation in this field, recipients of records in the UNIMARC format will have to be aware of the practices adopted by the agency preparing the record. Agencies distributing records should attempt to be consistent in their own records. Details should be included in the documentation accompanying exchange tapes (See Appendix K). 
+</NOTES>
+    <RELATED tag="200 f" name="TITLE AND STATEMENT OF RESPONSIBILITY, First Statement of Responsibility">
+      <DESCRIPTION>Data in field 200 is recorded as it appears on the item. If there are two or three names in the first statement of responsibility, subsequent names after the first will often be names with alternative intellectual responsibility and, if the name of a corporate body, will be entered in field 711 in access point form. </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="710" name=" CORPORATE BODY NAME - PRIMARY INTELLECTUAL RESPONSIBILITY">
+      <DESCRIPTION>If field 711 is used strictly for names of corporate bodies of alternative intellectual responsibility, field 710 (or 700) must be present. If field 711 is used because the cataloguing rules do not recognise the concept of main entry or the source format does not distinguish it, then field 710 will not be present. </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="712" name="CORPORATE BODY NAME - SECONDARY INTELLECTUAL RESPONSIBILITY">
+      <DESCRIPTION>If there are corporate bodies considered to have less responsibility than the corporate bodies named in fields 710 and 711, they should be entered in field 712.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">710 01$aPennsylvania.$bState University.$bDept. of Agricultural Economics and Rural Sociology
+711 01$aPennsylvania.$bAgricultural Experiment Station, University Park
+The corporate bodies have joint responsibility for a serial. The name appearing second is coded as alternative.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="712" name="CORPORATE BODY NAME - SECONDARY INTELLECTUAL RESPONSIBILITY" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains the name of a corporate body considered to have secondary intellectual responsibility for a work, in access point form. </DESCRIPTION>
+    <IND1 name="Meeting Indicator">
+      <DESCRIPTION>The first indicator specifies whether the corporate body is a meeting or not. Meetings include conferences, symposia, etc. If the name of the meeting is a subdivision of the name of a corporate body, the name is regarded as that of a corporate body (EX 13) </DESCRIPTION>
+      <OPTION value="0" name="Corporate name"/>
+      <OPTION value="1" name="Meeting">
+        <DESCRIPTION>If the source format does not distinguish meeting names from other corporate names, the indicator position should contain the fill character. </DESCRIPTION>
+      </OPTION>
+      <SEEEX N="13"/>
+    </IND1>
+    <IND2 name="Form of Name Indicator">
+      <OPTION value="0" name="Name in inverted form">
+        <DESCRIPTION>An inverted form may be used when the first word of a corporate name or meeting begins with an initial or forename relating to a personal name (EX 9, 10, 14).</DESCRIPTION>
+      </OPTION>
+      <OPTION value="1" name="Name entered under place or jurisdiction">
+        <DESCRIPTION>Used for corporate names relating to governments or other agencies of jurisdiction that are entered under the name of the place (EX 3, 5, 6, 7, 17). According to certain cataloguing codes other kinds of institutions associated with a place are also entered under that place, e.g. universities, learned societies, art galleries (EX 15). </DESCRIPTION>
+      </OPTION>
+      <OPTION value="2" name="Name entered under name in direct order">
+        <DESCRIPTION>Used for all other kinds of corporate names.</DESCRIPTION>
+        <SEEEX N="9"/>
+        <SEEEX N="10"/>
+        <SEEEX N="14"/>
+        <SEEEX N="3"/>
+        <SEEEX N="5"/>
+        <SEEEX N="6"/>
+        <SEEEX N="7"/>
+        <SEEEX N="17"/>
+        <SEEEX N="15"/>
+      </OPTION>
+    </IND2>
+    <SUBFIELD tag="a" name="Entry Element" mandatory="y" repeatable="n">
+      <DESCRIPTION>The portion of the name used as the entry element in the heading; that part of the name by which the name is entered in ordered lists, i.e. the part of the name up to the first filing boundary. This subfield is must be present if the field is present. Not repeatable.</DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="b" name="Subdivision" mandatory="n" repeatable="y">
+      <DESCRIPTION>The name of a lower level in a hierarchy when the name includes a hierarchy; or the name of the corporate body when it is entered under place (EX 2-6, 13, 15). This subfield excludes any additions to the name added by the cataloguer to distinguish it from other institutions of the same name (see $c, $g, $h). Repeatable if there is more than one lower level in the hierarchy (EX 3, 4, 5). </DESCRIPTION>
+      <SEEEX N="3"/>
+      <SEEEX N="4"/>
+      <SEEEX N="5"/>
+      <SEEEX N="2"/>
+      <SEEEX N="6"/>
+      <SEEEX N="13"/>
+      <SEEEX N="15"/>
+    </SUBFIELD>
+    <SUBFIELD tag="c" name="Addition to Name or Qualifier" mandatory="n" repeatable="y">
+      <DESCRIPTION>Any addition to the name of the corporate body added by the cataloguer, other than number, place and date of conference. Repeatable. (EX 6,9,11,16).</DESCRIPTION>
+      <SEEEX N="6"/>
+      <SEEEX N="9"/>
+      <SEEEX N="11"/>
+      <SEEEX N="16"/>
+    </SUBFIELD>
+    <SUBFIELD tag="d" name="Number of Meeting and/or Number of Part of Meeting" mandatory="n" repeatable="n">
+      <DESCRIPTION>The number of a meeting when the meeting belongs to a numbered series. Not repeatable. (EX 12-14) </DESCRIPTION>
+      <SEEEX N="12"/>
+      <SEEEX N="13"/>
+      <SEEEX N="14"/>
+    </SUBFIELD>
+    <SUBFIELD tag="e" name="Location of Meeting" mandatory="n" repeatable="n">
+      <DESCRIPTION>The place where a meeting was held when it is required as part of the heading. Not repeatable. (EX 11-14) </DESCRIPTION>
+      <SEEEX N="11"/>
+      <SEEEX N="12"/>
+      <SEEEX N="13"/>
+      <SEEEX N="14"/>
+    </SUBFIELD>
+    <SUBFIELD tag="f" name=" Date of Meeting" mandatory="n" repeatable="n">
+      <DESCRIPTION>The date of a meeting when it is required as part of the heading. Not repeatable. (EX 11-14) </DESCRIPTION>
+      <SEEEX N="11"/>
+      <SEEEX N="12"/>
+      <SEEEX N="13"/>
+      <SEEEX N="14"/>
+    </SUBFIELD>
+    <SUBFIELD tag="g" name="Inverted Element" mandatory="n" repeatable="n">
+      <DESCRIPTION>Any part of the name of the corporate body which is removed from the beginning of the name in order to enter the body under a word which is more likely to be sought. Not repeatable. (EX 9, 10, 14) 
+</DESCRIPTION>
+      <SEEEX N="9"/>
+      <SEEEX N="10"/>
+      <SEEEX N="14"/>
+    </SUBFIELD>
+    <SUBFIELD tag="h" name="Part of Name Other than Entry Element and Inverted Element" mandatory="n" repeatable="n">
+      <DESCRIPTION>In a heading with inverted element, the part of the name following the inversion. Not repeatable (EX 9, 10, 14). </DESCRIPTION>
+      <SEEEX N="9"/>
+      <SEEEX N="10"/>
+      <SEEEX N="14"/>
+    </SUBFIELD>
+    <SUBFIELD tag="p" name="Affiliation/address" mandatory="n" repeatable="n">
+      <DESCRIPTION>This subfield contains the address of the corporate body (EX 17). Not repeatable. </DESCRIPTION>
+      <SEEEX N="17"/>
+    </SUBFIELD>
+    <SUBFIELD tag="3" name="Authority Record Number" mandatory="n" repeatable="n">
+      <DESCRIPTION>The control number for the authority record for the heading. This subfield is for use with UNIMARC/Authorities (EX 12). Not repeatable.</DESCRIPTION>
+      <SEEEX N="12"/>
+    </SUBFIELD>
+    <SUBFIELD tag="4" name="Relator Code" mandatory="n" repeatable="y">
+      <DESCRIPTION>Used to designate the relationship between the corporate body named in the field and the item to which the record refers. A list of codes is to be found in Appendix C. Repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="5" name="Institution to Which Field Applies" mandatory="n" repeatable="n">
+      <DESCRIPTION>Name of institution to which field applies in coded form. Since there are no internationally accepted codes, the codes from USMARC Code List for Organizations, which includes codes for many non-U.S. library agencies, are recommended. Otherwise, the full name of the agency or a national code may be used. If the institution holds more than one copy the subfield should also contain the shelfmark after a colon. Not repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <NOTES>Form: 
+
+The form of the name which appears in this field is determined by the appropriate cataloguing rules and/or authorities used by the agency responsible for the preparation of the record. 
+
+It may not always appear obvious, when presented with a source record to be converted to UNIMARC, which sub-elements of the name in a source format correspond to which UNIMARC subfields. These notes are intended to give general guidance but are not exhaustive. It is necessary to be aware that names formed according to different cataloguing rules or even originating from different authority files based on the same rules will not always inter-file correctly in one sequence. Until further standards are established UNIMARC can provide only a framework for identifying the distinct data elements. 
+
+Corporate names are problematic since many corporate bodies do not have a precise name which remains constant. Furthermore individual cataloguing rules formalise the names in different ways and therefore use different kinds of data elements. 
+
+Inverted data: 
+
+One type of name which often presents difficulties is a corporate name formed from a personal name, e.g., W. H. Smith &amp; Sons Ltd, J. F. Kennedy Center, Winston Churchill Memorial Centre. Some cataloguing codes stipulate that these should be entered in direct order in subfield $a; other rules require that the names be treated as a personal name and inverted hence coded in subfields $g and $h. UNIMARC accommodates both possibilities (EX 9, 10, 14). 
+
+Entry under place: 
+
+Names of governments at all levels, e.g. national, provincial, and local, are formalisations of a different kind. Many such bodies have long formal names, but the practice of cataloguing codes is generally to take a short name of the place, e.g., France, Australia, rather than the formal name (Republic of France, Commonwealth of Australia) (EX 7). Subordinate governmental bodies are often prefixed with the name of the government (EX 5, 6). Cataloguing rules vary as to whether bodies under government control but without legislative or executive power, such as national museums, are entered under the name of the government or under their own names. If entered under their own name, e.g., Civic Museum, they may need a qualification to distinguish between other organisations of the same name in other places. Some cataloguing rules have a further category of organisation entered under name of place: bodies like universities, learned societies etc. which are specifically attached to a place and tend to have the place name as part of their name; these may formalised in such a way as to bring the name of the place to the fore (EX 15). The remainder of the name will be stripped of connecting prepositions; thus it is not strictly an inversion. 
+
+Qualifications: 
+
+Guidance may be required on what elements are to be considered qualifications and hence are to be entered in subfield $c. This may be a place added in order to distinguish the body from others of the same name, e.g., Liberal Party (Australia). It may be a statement of type of body to distinguish it from a different type of body with the same name, e.g. Gibraltar (Diocese) to distinguish it from the colony, and New York (State) to distinguish it from the city. A third kind of addition consists of a term added to a name to convey that it is a corporate body, e.g., Eagles (Rugby club), Ecologica (Firm), HVJ (Radio station) (EX 16). Usually cataloguing rules prescribe that the qualification be added in parentheses as in the examples above. 
+
+Formalised additions to names of meetings: 
+
+There are no universally accepted standards for the data elements 'Number', 'Location' and 'Date of meeting'. Numbers may be in Arabic or roman numerals, place names may be entered according to the language of the record, or the language on the original (EX 11-14). The date may be entered in any form, although for an exchange record, if month and day are required in the heading, the date in international standard format (e.g., '19831101', for 1 November 1983) is recommended as it can easily be converted into any language if desired. 
+
+Punctuation 
+
+There are no standards for punctuation in this field. It is recommended that punctuation be retained where it is available in the source format. In source formats where punctuation is not available, but is printed out by an algorithm generated from the definition of the subfields, it is recommended that the punctuation which would be used in display be included in the UNIMARC record. This includes parentheses which occur at the beginning and end of one or a group of subfields. 
+
+Because there are no standards for punctuation in this field, recipients of records in the UNIMARC format will have to be aware of the practices adopted by the agency preparing the record. Agencies distributing records should attempt to be consistent in their own records. Details should be included in the documentation accompanying exchange tapes (See Appendix K)
+The field is used, where applicable for printers, publishers, former owners and others connected with the production or history of particular volumes. 
+
+Subfield $5, code of the Institution to which Field Applies is used only when the physical characteristics are peculiar to an individual copy. It is generally used for older monographic publications (antiquarian). 
+<SEEEX N="9"/>
+      <SEEEX N="10"/>
+      <SEEEX N="14"/>
+      <SEEEX N="7"/>
+      <SEEEX N="5"/>
+      <SEEEX N="6"/>
+      <SEEEX N="15"/>
+      <SEEEX N="16"/>
+      <SEEEX N="11"/>
+      <SEEEX N="12"/>
+      <SEEEX N="13"/>
+    </NOTES>
+    <RELATED tag="200 f, g" name="TITLE AND STATEMENT OF RESPONSIBILITY, First Statement of Responsibility, and Subsequent Statement of Responsibility">
+      <DESCRIPTION>Data in field 200 is recorded as it appears on the item. The name of the corporate body mentioned in $f or in $g to which is attributed secondary responsibility for the item (if any) will be entered in field 712 in access point form. </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="710" name="CORPORATE BODY NAME - PRIMARY INTELLECTUAL RESPONSIBILITY">
+      <DESCRIPTION>The name of the first corporate body mentioned in the title page with primary intellectual responsibility should be entered in field 710. Names of corporate bodies with secondary intellectual responsibility are entered in 712. In the majority of cataloguing rules, it is possible for a body to have secondary responsibility without any body with primary responsibility being present in the record. Therefore field 712 can be present without a field 700, 710, or 720. </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="711" name="CORPORATE BODY NAME - ALTERNATIVE INTELLECTUAL RESPONSIBILITY">
+      <DESCRIPTION>Alternative means a second or further instance of primary responsibility. However, if the record is catalogued according to rules which do not recognise the concept of main entry or the source format does not separately identify it, all corporate names should be entered in field 711.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">712 02$aIEA Coal Research
+On title page: Coal research projects, United Kingdom, London, IEA Coal Research. IEA Coal Research is given as publisher, but clearly has a certain degree of intellectual responsibility for the item. </EX>
+      <EX n="2">712 02$aNacionalna i sveucilisna biblioteka$bKnjigoveznica$5CiZaNSB: R IV-4º -5b
+This copy of J. W. Valvasor's Crain, 1689 was rebound in the Binding Department of the National and University Library, Zagreb, on 23/05/91.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="720" name="FAMILY NAME - PRIMARY INTELLECTUAL RESPONSIBILITY" mandatory="n" repeatable="n">
+    <DESCRIPTION>This field contains the name of a family considered to have primary intellectual responsibility for a work, in access point form, provided that the record is created according to cataloguing rules recognising the concept of main entry, and the source format separately identifies the main entry. Not repeatable. It may not occur in the same record as a 700 field PERSONAL NAME PRIMARY INTELLECTUAL RESPONSIBILITY or a 710 field CORPORATE BODY NAME PRIMARY INTELLECTUAL RESPONSIBILITY, since a record can have only one access point with primary intellectual responsibility. If the concept of main entry does not exist in the cataloguing rules, or the source format does not make the distinction, this field does not occur: field 721 is used for all family name headings (see Related Fields). </DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Entry Element" mandatory="y" repeatable="n">
+      <DESCRIPTION>The family name in access point form. Not repeatable.</DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="f" name="Dates" mandatory="n" repeatable="n">
+      <DESCRIPTION>The dates of a family when they are required as part of the heading. Not repeatable. (EX 3). </DESCRIPTION>
+      <SEEEX N="3"/>
+    </SUBFIELD>
+    <SUBFIELD tag="3" name="Authority Record Number" mandatory="n" repeatable="n">
+      <DESCRIPTION>The control number for the authority record for the heading. This subfield is for use with UNIMARC/Authorities. Not repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="4" name="Relator Code" mandatory="n" repeatable="y">
+      <DESCRIPTION>The code used to designate the relationship between the family named in the field and the bibliographic item to which the record refers. The list of codes is to be found in Appendix C. Repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <NOTES>The form of name which appears in the field is determined by the appropriate cataloguing rules and/or authorities used by the agency responsible for the preparation of the record. 
+
+All data forming the heading itself (except dates) is entered in $a; any qualification must be entered in parentheses to indicate it is not part of the name itself. 
+
+Punctuation: 
+
+There are no standards for punctuation in this field. However, it is recommended that punctuation be retained where it is available in the source format. If the source format uses additional subfields it is recommended that punctuation be printed out by an algorithm generated from the definition of the additional subfields. Because there are no standards for punctuation in this field, recipients of records in the UNIMARC format will have to be aware of the practices adopted by the agency preparing the record. Agencies distributing records should attempt to be consistent in their own records. 
+</NOTES>
+    <RELATED tag="200 f, g" name="TITLE AND STATEMENT OF RESPONSIBILITY, First Statement of Responsibility, and Subsequent Statement of Responsibility">
+      <DESCRIPTION>Data in field 200 is recorded as it appears on the item. The name of the family mentioned in $f, or rarely in $g, to whom is attributed primary responsibility for the item (if any) will be entered in 720 in access point form. </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="721" name="FAMILY NAME - ALTERNATIVE INTELLECTUAL RESPONSIBILITY">
+      <DESCRIPTION>A family may have alternative intellectual responsibility in similar circumstances to a corporate body. The field should be used in all cases if a source record does not distinguish between primary and secondary responsibility for families. </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="722" name="FAMILY NAME - SECONDARY INTELLECTUAL RESPONSIBILITY">
+      <DESCRIPTION>A family may be regarded as having secondary intellectual responsibility, in the same way as a corporate body (see Field 712).</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">720 ##$aCecil (family) </EX>
+      <EX n="2">720 ##$aBuchanan (clan) </EX>
+      <EX n="3">720 ##$aShah dynasty,$f1768- </EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="721" name="FAMILY NAME - ALTERNATIVE INTELLECTUAL RESPONSIBILITY" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains the name of a family considered to have alternative intellectual responsibility for a work, in access point form; if the record is created according to cataloguing rules which do not recognise the concept of the main entry, or the source format does not separately identify main entry all family names in a form suitable for an access point will be contained in field 721. </DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Entry Element" mandatory="y" repeatable="n">
+      <DESCRIPTION>The family name in access point form. Not repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="f" name="Dates" mandatory="n" repeatable="n">
+      <DESCRIPTION>The dates of a family when they are required as part of the heading. Not repeatable. (EX 3). </DESCRIPTION>
+      <SEEEX N="3"/>
+    </SUBFIELD>
+    <SUBFIELD tag="3" name="Authority Record Number" mandatory="n" repeatable="n">
+      <DESCRIPTION>The control number for the authority record for the heading. This subfield is for use with UNIMARC/Authorities. Not repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="4" name="Relator Code" mandatory="n" repeatable="y">
+      <DESCRIPTION>The code used to designate the relationship between the family named in the field and the bibliographic item to which the record refers. The list of codes is to be found in Appendix C. Repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <NOTES>The form of name which appears in the field is determined by the appropriate cataloguing rules and/or authorities used by the agency responsible for the preparation of the record. 
+
+All data forming the heading itself (except dates) is entered in $a; any qualification must be entered in parentheses to indicate it is not part of the name itself. 
+
+Punctuation: 
+
+There are no standards for punctuation in this field. However, it is recommended that punctuation be retained where it is available in the source format. If the source format uses additional subfields it is recommended that punctuation be printed out by an algorithm generated from the definition of the additional subfields. Because there are no standards for punctuation in this field, recipients of records in the UNIMARC format will have to be aware of the practices adopted by the agency preparing the record. Agencies distributing records should attempt to be consistent in their own records. 
+</NOTES>
+    <RELATED tag="200 f" name="TITLE AND STATEMENT OF RESPONSIBILITY, First Statement of Responsibility">
+      <DESCRIPTION>Data in field 200 is recorded as it appears on the item. If there are two or three names in the first statement of responsibility, subsequent names after the first will often be names with alternative intellectual responsibility</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="720" name=" FAMILY NAME - PRIMARY INTELLECTUAL RESPONSIBILITY">
+      <DESCRIPTION>If field 721 is used for names of families of alternative intellectual responsibility, field 720 (or rarely 710 or 700) must be present. If field 721 is used because the cataloguing rules do not recognise the concept of main entry, or the source format does not distinguish it, then field 720 will not be present. </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="722" name="FAMILY NAME - SECONDARY INTELLECTUAL RESPONSIBILITY">
+      <DESCRIPTION>If there are families considered to have less responsibility than persons or entities in fields 700, 701, 710, 711, 720, 721, they should be entered in field 722.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES/>
+  </FIELD>
+  <FIELD tag="722" name="FAMILY NAME - SECONDARY INTELLECTUAL RESPONSIBILITY" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains the name of a family considered to have secondary intellectual responsibility for a work, in a form suitable for an access point. </DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Entry Element" mandatory="y" repeatable="n">
+      <DESCRIPTION>The family name in access point form. Not repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="f" name="Dates" mandatory="n" repeatable="n">
+      <DESCRIPTION>The dates of a family when they are required as part of the heading. Not repeatable. (EX 3). </DESCRIPTION>
+      <SEEEX N="3"/>
+    </SUBFIELD>
+    <SUBFIELD tag="3" name="Authority Record Number" mandatory="n" repeatable="n">
+      <DESCRIPTION>The control number for the authority record for the heading. This subfield is for use with UNIMARC/Authorities. Not repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="4" name="Relator Code" mandatory="n" repeatable="y">
+      <DESCRIPTION>The code used to designate the relationship between the family named in the field and the bibliographic item to which the record refers. The list of codes is to be found in Appendix C. Repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="5" name="Institution to Which Field Applies" mandatory="n" repeatable="n">
+      <DESCRIPTION>Name of institution to which field applies in coded form. Since there are no internationally accepted codes, the codes from USMARC Code List for Organizations, which includes codes for many non-U.S. library agencies, are recommended. Otherwise, the full name of the agency or a national code may be used. If the institution holds more than one copy the subfield should also contain the shelfmark after a colon. Not repeatable.</DESCRIPTION>
+    </SUBFIELD>
+    <NOTES>The form of name which appears in the field is determined by the appropriate cataloguing rules and/or authorities used by the agency responsible for the preparation of the record. 
+
+All data forming the heading itself (except dates) is entered in $a; any qualification must be entered in parentheses to indicate it is not part of the name itself. 
+
+Punctuation: 
+
+There are no standards for punctuation in this field. However, it is recommended that punctuation be retained where it is available in the source format. If the source format uses additional subfields it is recommended that punctuation be printed out by an algorithm generated from the definition of the additional subfields. Because there are no standards for punctuation in this field, recipients of records in the UNIMARC format will have to be aware of the practices adopted by the agency preparing the record. Agencies distributing records should attempt to be consistent in their own records. 
+Subfield $5, code of the Institution to Which Field Applies is used only when the added entry/ies are peculiar to an individual copy. It is generally used for older monograph publications (antiquarian).</NOTES>
+    <RELATED tag="200 f, g" name="TITLE AND STATEMENT OF RESPONSIBILITY, First Statement of Responsibility, and Subsequent Statement of Responsibility">
+      <DESCRIPTION>Data in field 200 is recorded as it appears on the item. The name of the family mentioned in $f or in $g to whom is attributed secondary responsibility for the item (if any) will be entered in field 722 in access point form. </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="720" name="FAMILY NAME - PRIMARY INTELLECTUAL RESPONSIBILITY">
+      <DESCRIPTION>The name of the first family mentioned in the title page with primary intellectual responsibility should be entered in field 720. Names of families with secondary intellectual responsibility are entered in 722. </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="721" name="FAMILY NAME - ALTERNATIVE INTELLECTUAL RESPONSIBILITY">
+      <DESCRIPTION>Alternative means a second or further instance of primary responsibility. However, if the record is catalogued according to rules which do not recognise the concept of main entry, or the source format does not separately identify it, all family names should be entered in field 721.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES/>
+  </FIELD>
+  <FIELD tag="730" name="NAME - INTELLECTUAL RESPONSIBILITY" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains in unstructured form the name of an entity considered to have intellectual responsibility for a work. The name does not follow cataloguing rules.This field should be used only when other 7-- fields are unsuitable. Repeatable.</DESCRIPTION>
+    <IND1 name="Form of Name Indicator">
+      <DESCRIPTION>This indicator specifies whether the type of name has been determined or not.</DESCRIPTION>
+      <OPTION value="0" name="Type of name cannot be determined"/>
+      <OPTION value="1" name="Personal name"/>
+      <OPTION value="2" name="Not a personal name "/>
+    </IND1>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Entry Element" mandatory="n" repeatable="n">
+      <DESCRIPTION>The name used as the entry element in the heading. Not repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="4" name="Relator Code" mandatory="n" repeatable="y">
+      <DESCRIPTION>The code used to designate the relationship between the entity named in the field and the bibliographic item to which the record refers. The list of codes is to be found in Appendix C. Repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <EXAMPLES>
+      <EX n="1">META NAME="DC.Creator" CONTENT="Derek Weselak"
+730.0#$aDerek Weselak$4070
+The record was converted from a Dublin Core entry which makes no distinction between personal authors and others. "Creator" has the sense of primary responsibility for the item so the relator code for "author" is added. </EX>
+      <EX n="2">META NAME=DC.Creator.Organization" CONTENT="Information Systems, British Library"730.2#$aInformation Systems, British Library$4070. </EX>
+      <EX n="3">META NAME="DC.Creator.Personal" CONTENT="Weselak, Derek"
+700.#1$tWeselak$bDerek
+CONTENT takes the form "term comma term" and the NAME is "Creator.Personal". The name can with some confidence be assigned to a more specific 7-- field by the use of computer algorithms. </EX>
+      <EX n="4">META NAME="DC.Contributor" CONTENT="Derek Weselak"
+730.0#$aDerek Weselak
+The record was converted from a Dublin Core entry which makes no distinction between personal authors and others. "Contributor" has the sense of any responsibility for the item other than primary responsibility, eg illustrator, sponsor, so no relator code can be added. </EX>
+    </EXAMPLES>
+  </FIELD>
+</FORMAT>

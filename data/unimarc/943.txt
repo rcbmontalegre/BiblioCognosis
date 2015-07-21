@@ -1,0 +1,18 @@
+00740nam  2200205   450
+001   943
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 19740201d1974    m  y0pora010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a <O >deserto do amor $f François Mauriac $g trad. Valentine Trigo de Sousa
+210    $a Mem Martins $c Europa-América $d 1974
+215    $a 131, [3] p. $c il. $d 18 cm
+225 2  $a Livros de bolso Europa-América $v 88)
+304    $a Tít. orig. : Le désert de lámour
+675    $a 821 $v BN $z por
+700  1 $a Mauriac $b François $f 1885-1970
+702  1 $a Sousa $b Valentina Trigo de $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060703101337&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0005455 $l BMM $s SCG 821 MAU des 88

@@ -1,0 +1,23 @@
+00819nam  2200265   450
+001   521
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-41-1433-3
+021    $a PT $b 216591/04
+100    $a 20070518d2004    m  y0pory0103    ba
+101 1  $a por $c ger
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a <A >pianista $f Elfriede Jelinek $g trad. Aires Graça
+205    $a 2ª ed
+210    $a Porto $c Asa $d 2004
+215    $a 335, [1] p. $d 21 cm
+225 2  $a Letras do mundo
+304    $a Tít. orig.: Die klavierspielerin
+700  1 $a Jelinek $b Elfriede $f 1946- $3 134998
+702  1 $a Graça $b Aires $4 730 $3 67650
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060518093253&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0016063 $l BMM $s SCG 821 JEL pia
+966    $a 0016271 $l BMM-PS $s 821 JEL pia

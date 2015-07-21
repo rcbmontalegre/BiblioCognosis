@@ -1,0 +1,108 @@
+[{
+  "fields": [
+    [
+      "001",
+      "763"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20001017d1985    k  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Talvez um grito",
+      "f",
+      "Carlso Loures"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Salamandra",
+      "d",
+      "1985"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "144 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Loures",
+      "b",
+      "Carlos"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060620144804&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008439",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821.134.3 LOU tal"
+    ]
+  ]
+}]

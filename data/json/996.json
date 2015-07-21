@@ -1,0 +1,140 @@
+[{
+  "fields": [
+    [
+      "001",
+      "996"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1990    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >vil metal",
+      "f",
+      "George Orwell",
+      "g",
+      "trad. de Eduardo Saló"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Livros do Brasil",
+      "d",
+      "1990"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "311 p.",
+      "d",
+      "22 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Dois mundos",
+      "v",
+      "190"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tit. orig. : Keep the aspidistra flying"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Orwell",
+      "b",
+      "George",
+      "c",
+      "pseud.",
+      "f",
+      "1903-1950"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Saló",
+      "b",
+      "Eduardo",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060705150205&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009293",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 ORG vil 190"
+    ]
+  ]
+}]

@@ -1,0 +1,162 @@
+[{
+  "fields": [
+    [
+      "001",
+      "332"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "23420/88"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00130429"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1988    km y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Capriccio",
+      "f",
+      "John Fowles",
+      "g",
+      "trad. Manuela Barreto e Maria Georgina Segurado"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Edições 70",
+      "d",
+      "1988"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "454, [1] p.",
+      "d",
+      "24 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Caligrafias",
+      "v",
+      "8"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : A maggot"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Fowles",
+      "b",
+      "John",
+      "f",
+      "1926-"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Barreto",
+      "b",
+      "Maria Manuela Ramalhinho",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Segurado",
+      "b",
+      "Maria Georgina",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511152955&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008862",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 FOW cap 8"
+    ]
+  ]
+}]

@@ -1,0 +1,192 @@
+[{
+  "fields": [
+    [
+      "001",
+      "900"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "20041/88"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00125177"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19890404d1989    m  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   000ay"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Sede de amar",
+      "f",
+      "Yukio Mishima",
+      "g",
+      "trad. Maria do Rosário Sousa Guedes"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "2a ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Presença",
+      "d",
+      "1989"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "159 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Aura",
+      "v",
+      "6"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : Ai no kawaki"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "895.6-31 Mishima, Yukio",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "3",
+      "302265"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Mishima",
+      "b",
+      "Yukio",
+      "c",
+      "pseud.",
+      "3",
+      "41540"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Guedes",
+      "b",
+      "Maria do Rosário Sousa",
+      "4",
+      "730",
+      "3",
+      "30254"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Lopes",
+      "b",
+      "Anabela",
+      "f",
+      "1944-",
+      "4",
+      "550",
+      "3",
+      "279245"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060629101013&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009121",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 MIS sed 6"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009122",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 MIS sed 6"
+    ]
+  ]
+}]

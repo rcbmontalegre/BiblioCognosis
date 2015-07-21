@@ -1,0 +1,21 @@
+00770nam  2200241   450
+001   694
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 978-989-616-139-2
+021    $a PT $b 257123/2007
+100    $a 20070719d20062007m y0pory0103 ba
+101 0  $a por
+102    $a PT
+200 1  $a <A >fórmula de Deus $f José Rodrigues dos Santos $g revisão do texto de Luís Milheiro
+205    $a 11ª edição
+210    $a Lisboa $c Gradiva $d 2007
+215    $a 574 p. $d 23 cm
+606    $a Literatura portuguesa
+608    $a Romance
+675    $a 821.134.3
+700  1 $a Santos $b José Rodrigues dos $f 1964-
+702  1 $a Milheiro $b Luís $4 675
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20070719152744&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0016939 $l BMM $s SCG 821.134.3 SAN fór

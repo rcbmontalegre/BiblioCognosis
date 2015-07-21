@@ -1,0 +1,24 @@
+00842nam  2200277   450
+001   983
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-23-1374-6
+021    $a PT $b 34059/90
+095    $a PTBN00346473
+100    $a 20061013d1991    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a Desespero $f Vladimir Nabokov $g trad. Manuela Madureira
+205    $a 1ª ed
+210    $a Lisboa $c Presença $d 1991
+215    $a 175 p. $d 21 cm
+225 2  $a Aura $v 32
+304    $a Tít. orig. : Despair
+700  1 $a Nabokov $b Vladimir Vladimirovich $f 1899-1977
+702  1 $a Camotim $b Nitah $f 1954- $4 550
+702  1 $a Madureira $b Manuela $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060705095755&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008909 $l BMM $s SCG 821 NAB des 32

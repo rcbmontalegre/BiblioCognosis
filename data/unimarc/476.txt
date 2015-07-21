@@ -1,0 +1,18 @@
+00688nam  2200205   450
+001   476
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00286479
+100    $a 19970413d1972    m  y0pory010305  ba
+101 1  $a por $c ger
+102    $a PT
+200 1  $a <A >ponte $f Manfred Gregor $g trad. Ana de Freitas
+210    $a Mem Martins $c Europa-América $d 1972
+215    $a 213, [1] p. $c il. $d 18 cm
+225 2  $a Livros de bolso Europa-América $v 45
+675    $a 821 $v BN $z por
+700  1 $a Gregor $b Manfred $c pseud
+702  1 $a Freitas $b Ana de $f 1933- $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060517144349&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0005308 $l BMM $s SCG 821 GRE pon 45

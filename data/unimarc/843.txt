@@ -1,0 +1,23 @@
+00886nam  2200265   450
+001   843
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-710-012-0
+021    $a PT $b 41497/90
+095    $a PTBN00269283
+100    $a 20061013d1990    a  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a a   z   001ay
+200 1  $a Joanica-Puff $f A. A. Milne $g des. E. H. Shepard $g trad. Manuel Granjeio Crespo
+210    $a Mem Martins $c Terramar $d D.L. 1990
+215    $a 159, [3] p. $c il. $d 24 cm
+225 2  $a Abracadabra $v 2
+304    $a Tít. orig.: Winnie-the-pooh
+675    $a 087.5 $v BN $z por
+700  1 $a Milne $b A. A. $f 1882-1956
+702  1 $a Shepard $b E. H. $f 1879-1976 $4 440
+702  1 $a Crespo $b Manuel Granjeio $c pseud $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060626170234&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0003186 $l BMM $s SJ 087.5 MIL joa 2

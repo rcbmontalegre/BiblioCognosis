@@ -1,0 +1,128 @@
+[{
+  "fields": [
+    [
+      "001",
+      "537"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20070521d1967    m  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Coração, cabeça e estômago",
+      "f",
+      "Camilo Castelo Branco"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "5ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Parceria A.M. Pereira",
+      "d",
+      "1967"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "247, [2] p.",
+      "d",
+      "20 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Obras de Camilo Castelo Branco",
+      "v",
+      "56"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821.134.3-2\"18\"",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Castelo Branco",
+      "b",
+      "Camilo",
+      "f",
+      "1825-1890",
+      "3",
+      "20266"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0012059",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821.134.3 CAS cor 56"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0012056",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821.134.3 CAS cor 56"
+    ]
+  ]
+}]

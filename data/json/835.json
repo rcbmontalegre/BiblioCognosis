@@ -1,0 +1,128 @@
+[{
+  "fields": [
+    [
+      "001",
+      "835"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00763913"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20100219d1966    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >sertanejo",
+      "f",
+      "José de Alencar"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "Civilização",
+      "d",
+      "1966"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "332, 2 p.",
+      "d",
+      "17 cm"
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Literatura juvenil"
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Literatura portuguesa"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821.134.3"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Alencar",
+      "b",
+      "José de",
+      "f",
+      "1829-1877"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060626160926&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0002670",
+      "l",
+      "BMM",
+      "s",
+      "SJ 821.134.3 ALE ser"
+    ]
+  ]
+}]

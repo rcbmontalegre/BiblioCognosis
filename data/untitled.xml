@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:admin="http://webns.net/mvcb/">
+    <foaf:PersonalProfileDocument rdf:about="">
+        <foaf:maker rdf:resource="#me"/>
+        <foaf:primaryTopic rdf:resource="#me"/>
+        <admin:generatorAgent rdf:resource="http://www.ldodds.com/foaf/foaf-a-matic"/>
+        <admin:errorReportsTo rdf:resource="mailto:leigh@ldodds.com"/>
+    </foaf:PersonalProfileDocument>
+    <foaf:Person rdf:ID="me">
+        <foaf:name>J. H. Rosny Aîné</foaf:name>
+        <foaf:givenname>J. H. Rosny</foaf:givenname>
+        <foaf:family_name>Aîné</foaf:family_name>
+        <foaf:mbox_sha1sum>d30ca578b063792e9f1efe1223ed4e42a0a85c87</foaf:mbox_sha1sum></foaf:Person>
+</rdf:RDF>

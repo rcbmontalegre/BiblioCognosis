@@ -1,0 +1,19 @@
+00779nam  2200217   450
+001   380
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00150065
+100    $a 20061013d1964    m  y0pora010305  ba
+101 1  $a por $c ger
+102    $a PT
+200 1  $a <As >afinidades electivas $f Johann Wolfang Goethe $g trad. de Beatriz de Mascarenhas
+210    $a Lisboa $c Arcádia $d 1964
+215    $a 361, [2] p. $d 18 cm
+225 2  $a Biblioteca Arcádia de Bolso $v 23/24
+304    $a T��t. orig. : Die Wahverwandt Schaften
+675    $a 821 $v BN $z por
+700  0 $a Goethe $b Johann Wolfgang von $f 1749-1832
+702  1 $a Mascarenhas $b Beatriz de $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060515150010&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008672 $l BMM $s SCG 821 GOE afi 23/24

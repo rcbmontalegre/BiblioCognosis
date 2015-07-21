@@ -1,0 +1,126 @@
+[{
+  "fields": [
+    [
+      "001",
+      "16655"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20140403d1965    m  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "As Ideias e a Vida",
+      "f",
+      "Mário Braga"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Coimbra",
+      "c",
+      "Atlântida",
+      "d",
+      "1965"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "2º vol.: 206 p.",
+      "d",
+      "20 cm"
+    ],
+    [
+      "307",
+      "  ",
+      "a",
+      "2º vol."
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Literatura portuguesa",
+      "2",
+      "Autoridade",
+      "3",
+      "PT-----------2012041710390005598"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821.134.3-94"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Braga",
+      "b",
+      "Mário"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.aspx?cod=20140403162310&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0011575",
+      "d",
+      "2",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821.134.3-94 BRA ide"
+    ]
+  ]
+}]

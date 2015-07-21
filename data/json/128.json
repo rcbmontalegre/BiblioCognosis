@@ -1,0 +1,170 @@
+[{
+  "fields": [
+    [
+      "001",
+      "128"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00037263"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19821201d1982    m  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Paloverde",
+      "e",
+      "romance",
+      "f",
+      "Jacqueline Briskin",
+      "g",
+      "trad. de Sara Seruya"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "[D.L. 1982]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "2 v",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Século XX"
+    ],
+    [
+      "327",
+      "0 ",
+      "a",
+      "1\"v.: O caminho da glória.-295p. (Século XX; 164); 2\"v.: As sombras do passado.- 278 p.- (Século XX; 168)"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "3",
+      "288123"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Briskin",
+      "b",
+      "Jacqueline",
+      "3",
+      "198808"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Seruya",
+      "b",
+      "Sara",
+      "4",
+      "730",
+      "3",
+      "32148"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060509115420&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060509115443&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008200",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 BRI pal 164"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008201",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 BRI pal 168"
+    ]
+  ]
+}]

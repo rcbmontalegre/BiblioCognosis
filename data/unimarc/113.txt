@@ -1,0 +1,19 @@
+00694nam  2200217   450
+001   113
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+095    $a PTBN00177763
+100    $a 19731201d1973    m  y0pora010305  ba
+101 1  $a por
+102    $a PT
+200 1  $a Feitiçaria $f Mikhail Boulgakov $g trad. Franco de Sousa
+210    $a Lisboa $c Estampa $d 1973
+215    $a 196, [3] p. $d 19 cm
+225 2  $a Novas direcções $v 20)
+675    $a 821 $v BN $z por
+700  1 $a Boulgakov $b Mikail $f 1891-1940
+702  1 $a Sousa $b Franco de $f 1926-1993 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060509100648&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008353 $l BMM $s SCG 821 BOU fei

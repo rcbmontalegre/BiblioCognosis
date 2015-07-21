@@ -1,0 +1,126 @@
+[{
+  "fields": [
+    [
+      "001",
+      "99"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00778621"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19951024d1966    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >morte do coracão",
+      "e",
+      "romance",
+      "f",
+      "Elizabeth Bowen",
+      "g",
+      "trad. Marília Guerra de Vasconcelos"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Portugália",
+      "d",
+      "1966"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "440, [1] p., [1] f",
+      "d",
+      "19 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Contemporânea",
+      "v",
+      "88"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Bowen",
+      "b",
+      "Elizabeth",
+      "f",
+      "1899-1973"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Vasconcelos",
+      "b",
+      "Marília de",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008097",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 BOW mor 88"
+    ]
+  ]
+}]

@@ -1,0 +1,21 @@
+00822nam  2200241   450
+001   804
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20061013d1987----k y0pory0103 ba
+101 1  $a por $c spa
+102    $a PT $b Lisboa
+200 1  $a História de Mayta $f Mario Vargas Llosa $g tradução de José Carlos González
+205    $a 1ª ed
+210    $a Lisboa $c Dom Quixote $d 1987
+215    $a 260 p. $d 24 cm
+225 2  $a Ficção universal $v 25
+304    $a Tít. orig.: Historia de Mayata
+606 1  $a Literatura peruana
+608    $a Romance
+675    $a 821.134.2(7/8)
+700  1 $a Vargas Llosa $b Jorge Mario Pedro $f 1936-
+702  1 $a González $b José Carlos $f 1937-2000 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060622151914&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008750 $l BMM $s SCG 821.134.2(7/8) VAR his 25

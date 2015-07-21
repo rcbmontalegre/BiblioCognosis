@@ -1,0 +1,168 @@
+[{
+  "fields": [
+    [
+      "001",
+      "660"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-649-192-4"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "35668/90"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1990    c  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "a   z   001fy"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Histórias do sono e do sonho",
+      "f",
+      "José Jorge Letria",
+      "g",
+      "il. Joao Lemos"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "Desabrochar",
+      "d",
+      "1990"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "71, [1] p.",
+      "c",
+      "il.",
+      "d",
+      "19 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Desabrochar",
+      "i",
+      "Contos",
+      "v",
+      "5"
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Literatura juvenil"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Conto"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "82-34"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Letria",
+      "b",
+      "José Jorge",
+      "f",
+      "1951-"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Lemos",
+      "b",
+      "Joao",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060523110438&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0015159",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-34 LET his 5"
+    ]
+  ]
+}]

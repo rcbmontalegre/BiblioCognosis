@@ -1,0 +1,20 @@
+00753nam  2200229   450
+001   448
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 28713/89
+095    $a PTBN00351233
+100    $a 19900125d1989    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT $b Lisboa
+200 1  $a Sereias no campo de golfe $f Patricia Highsmith $g trad. Maria Carlota Pracana
+205    $a 1ª ed
+210    $a Lisboa $c Gradiva $d 1989
+215    $a 225 p. $d 24 cm
+225 2  $a Gradiva $v 14
+304    $a Tit. orig. Mermaids on the golf course
+675    $a 821 $v BN $z por
+700  1 $a Highsmith $b Patricia $f 1921-1995
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060517113746&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008610 $l BMM $s SCG 82-312.4 HIG ser 14

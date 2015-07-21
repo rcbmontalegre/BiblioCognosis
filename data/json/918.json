@@ -1,0 +1,208 @@
+[{
+  "fields": [
+    [
+      "001",
+      "918"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1990    em.y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   000ay"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Moby Dick",
+      "f",
+      "Herman Melville",
+      "g",
+      "trad. Alfredo Margarido e Daniel Gonçalves"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Relógio d'Água",
+      "d",
+      "[D.L. 1990]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "2 v.(315, 337 p.)",
+      "d",
+      "22 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Clássicos"
+    ],
+    [
+      "300",
+      "  ",
+      "a",
+      "Volumes em duplicado"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Moby Dick"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Melville",
+      "b",
+      "Herman",
+      "f",
+      "1819-1891",
+      "3",
+      "34716"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Margarido",
+      "b",
+      "Alfredo",
+      "f",
+      "1928-",
+      "4",
+      "730",
+      "3",
+      "40817"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Gonçalves",
+      "b",
+      "Daniel",
+      "f",
+      "1921-",
+      "4",
+      "730",
+      "3",
+      "34991"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060629161520&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060629161533&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "4"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009071",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 MEL mob 1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009072",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 MEL mob 1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009073",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 MEL mob 2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009074",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 MEL mob 2"
+    ]
+  ]
+}]

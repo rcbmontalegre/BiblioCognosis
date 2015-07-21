@@ -1,0 +1,24 @@
+00903nam  2200277   450
+001   878
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20061013d198?    m  y0pory0103    ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a <O >inverno do nosso descontentamento $f John Steinbeck $g tradução João Belchior Viegas
+210    $a Lisboa $c Livros do Brasil $d [198?]
+215    $a 301, [2] p. $d 21 cm
+225 2  $a Dois mundos $v 76
+304    $a Tít. orig.: The winter of our discontent
+334    $a Prémio Nobel $c 1962
+334    $a Prémio Pulitzer $d EUA
+606 1  $a Literatura americana
+608    $a Romance
+675    $a 821
+700  1 $a Steinbeck $b John $f 1902-1968
+702  1 $a Viegas $b João Belchior $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060627172234&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0009212 $l BMM $s SCG 821 STE inv 76

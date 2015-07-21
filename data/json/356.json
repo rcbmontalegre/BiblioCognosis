@@ -1,0 +1,140 @@
+[{
+  "fields": [
+    [
+      "001",
+      "356"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00332987"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1972    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Três horas entre dois aviões e outros contos",
+      "f",
+      "F. Scott Fitzgerald",
+      "g",
+      "trad. H. da Silva Letra"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "Inova",
+      "d",
+      "1972"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "88, [1] p.",
+      "c",
+      "il.",
+      "d",
+      "23 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Duas horas de leitura",
+      "v",
+      "9"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Fitzgerald",
+      "b",
+      "F. Scott",
+      "f",
+      "1896-1940"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Letra",
+      "b",
+      "H. Silva",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511165422&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009623",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 FIT trê 9"
+    ]
+  ]
+}]

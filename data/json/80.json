@@ -1,0 +1,144 @@
+[{
+  "fields": [
+    [
+      "001",
+      "80"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00397380"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013e19901987m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Morrem mais de mágoa",
+      "f",
+      "Saul Bellow",
+      "g",
+      "trad. de Fernanda Pinto"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Livros do Brasil",
+      "d",
+      "1990"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "353 p.",
+      "d",
+      "22 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Dois mundos",
+      "v",
+      "185)"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tit. orig. More die of heartbreak"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Bellow",
+      "b",
+      "Saul",
+      "f",
+      "1915"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Pinto",
+      "b",
+      "Fernando",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060508145643&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008287",
+      "l",
+      "BMM",
+      "s",
+      "SCG 851 BEL mor 185"
+    ]
+  ]
+}]

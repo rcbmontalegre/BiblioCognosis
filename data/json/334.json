@@ -1,0 +1,176 @@
+[{
+  "fields": [
+    [
+      "001",
+      "334"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-20-0966-4"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "54904/92"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00355276"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1992    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "spa"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   001fy"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Constancia e outras novelas para virgens",
+      "f",
+      "Carlos Fuentes",
+      "g",
+      "trad. Victor Filipe"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "1ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Dom Quixote",
+      "d",
+      "1992"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "327 p.",
+      "d",
+      "24 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Ficção universal",
+      "v",
+      "101)"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : Constancia y otras novelas para vírgenes"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Fuentes",
+      "b",
+      "Carlos",
+      "f",
+      "1928"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Filipe",
+      "b",
+      "Vítor",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511153621&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008475",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821.134.2(7/8) FUE con 101"
+    ]
+  ]
+}]

@@ -1,0 +1,25 @@
+00960nam  2200289   450
+001   297
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 15184/87
+095    $a PTBN00167643
+100    $a 20061013d1989    m  y0pora0103    ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a Menos que zero $f Bret Easton Ellis $g trad. Carlos Santos
+205    $a 3ª ed
+210    $a Lisboa $c Teorema $d imp. 1989
+215    $a 152, [3]p. $d 21 cm
+225 2  $a Estórias $h Série especial $v 4
+304    $a Tít. orig. : Less than zero
+325    $a Texto em braille. - Lisboa : BN, 2000. - 4 vol., integral ; 32 cm
+675    $a 821 $v BN $z por
+700  1 $a Ellis $b Bret Easton $f 1964 $3 27569
+702  1 $a Santos $b Carlos dos $4 730 $3 212888
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856 �� $u locateMedia.asp?cod=20060511121546&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0008744 $l BMM $s SCG 821 ELL men 4
+966    $a 0015382 $l BMM $s SCG 821 ELL men 4

@@ -1,0 +1,154 @@
+[{
+  "fields": [
+    [
+      "001",
+      "654"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "16092/87"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00130586"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19881121d1988    mc y0pora010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<Uma >viagem no verde",
+      "f",
+      "José Jorge Letria",
+      "g",
+      "il. Henrique Cayatte"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Vega",
+      "d",
+      "D.L. 1987"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "30 p.",
+      "c",
+      "il.",
+      "d",
+      "24 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Grandes pequeninos",
+      "v",
+      "1"
+    ],
+    [
+      "325",
+      "  ",
+      "a",
+      "Texto em braille. - Lisboa : Centro de produção de material, 1987. - 1 vol., integral ; 24 cm????"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "087.5",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Letria",
+      "b",
+      "José Jorge",
+      "f",
+      "1951-"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Cayatte",
+      "b",
+      "Henrique",
+      "f",
+      "1957-",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060523100809&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001577",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-93 LET uma 1"
+    ]
+  ]
+}]

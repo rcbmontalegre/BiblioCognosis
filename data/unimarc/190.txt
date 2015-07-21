@@ -1,0 +1,18 @@
+00620nam  2200205   450
+001   190
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+095    $a PTBN00025613
+100    $a 19860611d1985    m  y0pora010305  ba
+101 0  $a por
+102    $a PT
+106    $a r
+200 1  $a <As >mãos na água a cabeça no mar $f Mário Cesariny
+210    $a Lisboa $c Assírio & Alvim $d 1985
+215    $a 328, [3] p. $d 20 cm
+675    $a 821 $v BN $z por
+700  1 $a Cesariny $b Mário $f 1923
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060510100150&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008380 $l BMM $s SCG 821 CES mão

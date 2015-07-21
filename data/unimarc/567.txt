@@ -1,0 +1,20 @@
+00789nam  2200229   450
+001   567
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 17997/87
+095    $a PTBN00110902
+100    $a 19880314d1987    m  y0pora010305  ba
+101 1  $a por $c ger
+102    $a PT
+200 1  $a Sobre as falésias de mármore $f Ernst Jünger $g trad., pref. e notas Rafael Gomes Filipe
+210    $a Lisboa $c Vega $d D.L. 1987
+215    $a 160 p. $d 23 cm
+225 2  $a Provisórios & definitivos $i Série especial
+304    $a Tít. orig. : Auf den Marmorklippen
+675    $a 821 $v bn $z por
+700  1 $a Jünger $b Ernst $f 1895-1998
+702  1 $a Filipe $b Rafael Gomes $4 212
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060518121347&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008650 $l BMM $s SCG 821 JUN sob

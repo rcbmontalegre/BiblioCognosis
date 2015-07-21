@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<collection>	
+<record type="Bibliographic" format="UNIMARC">		
+<leader>00633cam 022002041 04500</leader>		
+<controlfield tag="001">276582</controlfield>		
+<controlfield tag="003">http://catalogo.bnportugal.pt/ipac20/ipac.jsp?profile=bn&amp;uri=full=3100024~!276582~!0</controlfield>		
+<controlfield tag="005">19981208175600.0</controlfield>		
+<datafield ind2=" " ind1=" " tag="095">
+			
+<subfield code="a">PTBN00287716</subfield>
+		</datafield>		
+<datafield ind2=" " ind1=" " tag="100">
+			
+<subfield code="a">19950819d1975    m  y0pory0103    ba</subfield>
+		</datafield>		
+<datafield ind2=" " ind1="0" tag="101">
+			
+<subfield code="a">por</subfield>
+		</datafield>		
+<datafield ind2=" " ind1=" " tag="102">
+			
+<subfield code="a">PT</subfield>
+		</datafield>		
+<datafield ind2=" " ind1="1" tag="200">
+			
+<subfield code="a">"O boi do povo" e as "chegas" no Barroso</subfield>
+			
+<subfield code="f">Bento da Cruz</subfield>
+		</datafield>		
+<datafield ind2=" " ind1=" " tag="210">
+			
+<subfield code="a">Lisboa</subfield>
+			
+<subfield code="c">[s.n.,</subfield>
+			
+<subfield code="d">D.L. 1975]</subfield>
+		</datafield>		
+<datafield ind2=" " ind1=" " tag="215">
+			
+<subfield code="a">p. 129-133</subfield>
+			
+<subfield code="c">il.</subfield>
+			
+<subfield code="d">23 cm</subfield>
+		</datafield>		
+<datafield ind2=" " ind1=" " tag="305">
+			
+<subfield code="a">Sep. Memoriam António Jorge Dias, 3</subfield>
+		</datafield>		
+<datafield ind2=" " ind1=" " tag="675">
+			
+<subfield code="a">398</subfield>
+			
+<subfield code="v">med</subfield>
+			
+<subfield code="z">por</subfield>
+		</datafield>		
+<datafield ind2="1" ind1=" " tag="700">
+			
+<subfield code="a">Cruz,</subfield>
+			
+<subfield code="b">Bento da,</subfield>
+			
+<subfield code="f">1925-</subfield>
+		</datafield>		
+<datafield ind2="0" ind1=" " tag="801">
+			
+<subfield code="a">PT</subfield>
+			
+<subfield code="b">BN</subfield>
+			
+<subfield code="g">RPC</subfield>
+		</datafield>		
+<datafield ind2=" " ind1=" " tag="966">
+			
+<subfield code="s">S.C. 38867 V.</subfield>
+			
+<subfield code="t">FGMON</subfield>
+		</datafield>	</record>
+</collection>

@@ -1,0 +1,138 @@
+[{
+  "fields": [
+    [
+      "001",
+      "558"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1975    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Viajante solitário",
+      "f",
+      "Jack Kerouac",
+      "g",
+      "trad. Fernanda Pinto Rodrigues"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Minerva",
+      "d",
+      "1975"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "241, [3] p.",
+      "d",
+      "19 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Minerva de bolso",
+      "v",
+      "39"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Lonesome traveler"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Kerouac",
+      "b",
+      "Jack",
+      "f",
+      "1922-1969"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Rodrigues",
+      "b",
+      "Fernanda Pinto",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060518114706&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008899",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 KER via 39"
+    ]
+  ]
+}]

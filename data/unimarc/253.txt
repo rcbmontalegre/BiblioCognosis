@@ -1,0 +1,24 @@
+00812nam  2200277   450
+001   253
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-662-122-4
+021    $a PT $b 26526/89
+095    $a PTBN00125317
+100    $a 20061013d1989    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a <A >esfera $f Michael Crichton $g trad. Manuel Cordeiro
+205    $a 1a ed
+210    $a Lisboa $c Gradiva $d 1989
+215    $a 366 p. $d 21 cm
+225 2  $a Não incomode $v 22
+304    $a Tít. orig.: Sphere
+675    $a 82-311.9
+700  1 $a Crichton $b Michael $f 1942
+702  1 $a Cordeiro $b Manuel $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060510161922&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008516 $l BMM $s SCG 82-311.9 CRI esf 22

@@ -1,0 +1,164 @@
+[{
+  "fields": [
+    [
+      "001",
+      "493"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d19--    k  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "Lisboa"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Paris é uma festa",
+      "f",
+      "Ernest Hemingway",
+      "g",
+      "tradução de Virgínia Motta"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Livros do Brasil",
+      "d",
+      "[1960]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "249 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Dois mundos",
+      "v",
+      "90"
+    ],
+    [
+      "300",
+      "  ",
+      "a",
+      "Impressões da vida do autor em Paris, por alturas da segunda década do século XX"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: A moveable feast"
+    ],
+    [
+      "500",
+      "10",
+      "a",
+      "Paris é uma festa"
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Literatura americana"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Romance"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Hemingway",
+      "b",
+      "Ernest",
+      "f",
+      "1899-1961"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Motta",
+      "b",
+      "Virgínia",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060517152219&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008781",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 HEM par 90"
+    ]
+  ]
+}]

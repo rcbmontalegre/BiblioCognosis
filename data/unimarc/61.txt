@@ -1,0 +1,18 @@
+00687nam  2200205   450
+001   61
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00546981
+100    $a 19940129d1958    m  y0pory010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a <A >rapariga dos olhos de ouro $f Honoré de Balzac $g trad. Domingues Monteiro
+210    $a Lisboa $c Arcádia $d 1958
+215    $a 150, 2 p. $d 19 cm
+225 2  $a Autores estrangeiros $v 4
+304    $a Tit. orig.: La jeune fille aux yeux d'or
+675    $a 821 $v bn $z por
+700  1 $a Balzac $b Honoré de $f 1799-1850
+702  1 $a Monteiro $b Domingos $f 1903-1980 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0008116 $l BMM $s SCG 821 BAL rap

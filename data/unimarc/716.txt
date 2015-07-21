@@ -1,0 +1,23 @@
+00802nam  2200265   450
+001   716
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 972-41-3800-3
+021    $a PT $b 231069/05
+100    $a 20051122d2004    m  y0pory0103    ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   001yy
+200 1  $a Mayada $e filha do Iraque $f Jean Sasson $g trad.: Catarina Rocha Lima $g rev.: Simão Sampaio
+205    $a 4ª ed
+210    $a Porto $c Asa $d 2005
+215    $a 318, [10] p. $d 24 cm
+225 2  $a Documentos
+675    $a 82-94
+700  1 $a Sasson $b Jean P.
+702  1 $a Lima $b Catarina $4 730
+702  1 $a Sampaio $b Simão $4 675
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060530113559&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0016143 $l BMM $s SCG 82-94 SAS may

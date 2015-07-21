@@ -1,0 +1,18 @@
+00642nam  2200205   450
+001   839
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+095    $a PTBN00768811
+100    $a 20061013d1965    m  y0pory010305  ba
+101 0  $a por
+102    $a PT
+200 1  $a <O >grande Manelito $e prémio Manuel Ribeiro $f João Amaral Júnior
+210    $a Porto $c Salesianas $d D.L. 1965]
+215    $a 157 p. $d 17 cm
+225 2  $a Leituras Juvenis $v 24
+675    $a 087.5
+700  1 $a Amaral Júnior $b João
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060626163840&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0003353 $l BMM $s SJ 087.5 JÚN gra 24

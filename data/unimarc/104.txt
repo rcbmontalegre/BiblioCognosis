@@ -1,0 +1,21 @@
+00777nam  2200241   450
+001   104
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   19
+095    $a PTBN00022843
+100    $a 19970210d1981    m  y0pora0103    ba
+101 1  $a por $c ger
+102    $a PT
+200 1  $a Casa indefesa $f Heinrich Boll $g trad. Jorge Rosa
+205    $a 3ª ed
+210    $a Lisboa $c Livros do Brasil $d [D.L. 1981]
+215    $a 340, [3] p. $d 22 cm
+225 2  $a Dois mundos $v 89
+304    $a Tít. orig.: Haus ohne Hüter
+675    $a 821 $v BN $z por $3 288124
+700  1 $a Boll $b Heinrich $f 1917-1985 $3 15263
+702  1 $a Rosa $b Jorge $4 730 $3 110876
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060509090827&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008337 $l BMM $s SCG 821 BOL cas 89

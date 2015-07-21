@@ -1,0 +1,19 @@
+00745nam  2200217   450
+001   339
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00332984
+100    $a 20061013d1972    m  y0pory010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a <O >grande Meaulnes $f Alain Fournier $g trad. Armindo Rodrigues
+210    $a Lisboa $c Europa-América $d 1972
+215    $a 168, [3] p. $d 18 cm
+225 2  $a Livros de bolso Europa-América $v 28
+304    $a Tit. orig. : Le grand Meaulness
+675    $a 821 $v bn $z por
+700  1 $a Alain-Fournier $c pseud
+702  1 $a Rodrigues $b Armindo $f 1904-1993 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060511154847&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0005315 $l BMM $s SCG 821 ALA gra 28

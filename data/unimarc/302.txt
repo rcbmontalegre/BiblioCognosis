@@ -1,0 +1,26 @@
+01040nam  2200301   450
+001   302
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-20-0676-2
+021    $a PT $b 24940/88
+095    $a PTBN00124797
+100    $a 20061013d1989    m  y0pora010305  ba
+101 1  $a por $c ita
+102    $a PT
+105    $a y   z   001yy
+106    $a r
+200 1  $a Revolta contra o mundo moderno $f Julius Evola $g trad. José Colaço Barreiros $g breve nota sobre a vida e a obra de Julius Evola por Rafael Gomes Filipe
+205    $a 1a ed
+210    $a Lisboa $c Dom Quixote $d 1989
+215    $a 490 p. $d 24 cm
+225 2  $a Tradição $v 1
+304    $a Tit. orig. : Rivolta contro il mondo moderno
+320    $a Contém referências bibliográficas
+675    $a 821 $v BN $z por
+700  1 $a Evola $b Giulio C. A $f 1898-1974
+702  1 $a Barreiros $b José Colaço $f 1949- $4 730
+702  1 $a Filipe $b Rafael Gomes $4 212
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060511122535&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008609 $l BMM $s SCG 1 EVO rev 1

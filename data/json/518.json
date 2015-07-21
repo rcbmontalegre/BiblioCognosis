@@ -1,0 +1,144 @@
+[{
+  "fields": [
+    [
+      "001",
+      "518"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00546951"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1974    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Também o cisne morre",
+      "f",
+      "Aldous Huxley",
+      "g",
+      "trad. Paulo Moreira da Silva"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Livros do Brasil",
+      "d",
+      "[D.L. 1974]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "302, [2] p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Dois mundos",
+      "v",
+      "97"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: After many a summer"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Huxley",
+      "b",
+      "Aldous",
+      "f",
+      "1894-1963"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Silva",
+      "b",
+      "Paulo Moreira da",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060518091827&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008787",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 HUX tam 97"
+    ]
+  ]
+}]

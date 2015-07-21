@@ -1,0 +1,17 @@
+00631nam  2200193   450
+001   304
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00429277
+100    $a 20061013d1986    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a Platoon $e <os >bravos do pelotão $f Dale A. Dye $g trad. Manuel Cordeiro
+210    $a Mem Martins $c Europa-América $d cop. 1986
+215    $a 155 p. $d 23 cm
+225 2  $a Campos de batalha $v 1
+675    $a 821 $v BN $z por
+700  1 $a Dye $b Dale A
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060511123147&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008495 $l BMM $s SCG 821 DYE pla

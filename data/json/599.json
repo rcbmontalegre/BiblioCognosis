@@ -1,0 +1,142 @@
+[{
+  "fields": [
+    [
+      "001",
+      "599"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-0-67410-5"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "141064/99"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1999    m  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "--------000zy"
+    ],
+    [
+      "135",
+      "  ",
+      "a",
+      "bocga---mnaua"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Atlas do Mundo",
+      "b",
+      "Documento electrónico",
+      "e",
+      "grande atlas enciclopédico",
+      "f",
+      "[ed.] Porto Editora Multimedia"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "(1ª ed."
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "P.E.M.",
+      "d",
+      "cop. 1999"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "1 CD-ROM em caixa",
+      "d",
+      "26 cm",
+      "e",
+      "Catálogo interactivo 2000 (1 CD-ROM)",
+      "e",
+      "1 f. desdobr"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "372.3(0.034)(075)",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "3",
+      "682488"
+    ],
+    [
+      "712",
+      "02",
+      "a",
+      "Porto Editora Multimédia",
+      "4",
+      "340",
+      "3",
+      "218241"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060522143446&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "0"
+    ]
+  ]
+}]

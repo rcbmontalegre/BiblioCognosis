@@ -1,0 +1,20 @@
+00791nam  2200229   450
+001   361
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 20730/88
+095    $a PTBN00129061
+100    $a 20061013d1988    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <O >perfeito cavalheiro $e romance $f Catherine Gaskin $g trad. Maria Emília Ferros Moura
+210    $a Lisboa $c Guimarães Editores $d 1988
+215    $a 294 p. $d 21 cm
+225 2  $a Guimarães formato romance $e romance
+304    $a Tít. orig. : Property of a gentleman
+675    $a 821 $v BN $z por
+700  1 $a Gaskin $b Catherine
+702  1 $a Moura $b Maria Emília Ferros $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060512103018&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008566 $l BMM $s SCG 821 GAS per

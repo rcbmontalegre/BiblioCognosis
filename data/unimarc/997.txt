@@ -1,0 +1,18 @@
+00727nam  2200205   450
+001   997
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20061013d1984    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a Recordando a guerra espanhola $f George Orwell $g trad. M. C. Nunes $g introd. C. K. Debrito
+210    $a Lisboa $c Antígona $d 1984
+215    $a 52, [4] p. $d 21 cm
+304    $a Tít. orig. Looking back on the spanish war
+675    $a 821 $v BN $z por
+700  1 $a Orwell $b George $c pseud. $f 1903-1950
+702  1 $a Nunes $b M. C. $4 730
+702  1 $a Debrito $b Carlos K. $4 080
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060705151104&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0009290 $l BMM $s SCG 821 ORW rec

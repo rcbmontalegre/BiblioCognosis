@@ -1,0 +1,23 @@
+00771nam  2200265   450
+001   487
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-41-3277-3
+021    $a PT $b 190386/03
+100    $a 20030718d2003    m  y0pory0103    ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   001yy
+106    $a r
+200 1  $a Felicidade $f Will Ferguson $g trad. Isabel Alves
+205    $a 1ª ed
+210    $a Porto $c Asa $d 2003
+215    $a 334, [2] p. $d 24 cm
+225 2  $a Romance
+304    $a Tít. orig.: Hapiness
+675    $a 821 $v BN $z por
+700  1 $a Ferguson $b Will $3 1156168
+702  1 $a Alves $b Isabel $4 730 $3 33379
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060517151114&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0015707 $l BMM $s SCG 821 FER fel

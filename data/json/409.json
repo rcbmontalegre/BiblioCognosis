@@ -1,0 +1,156 @@
+[{
+  "fields": [
+    [
+      "001",
+      "409"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "19677"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00112520"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20070329d1988    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "ita"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Pequenos equívocos sem importância",
+      "f",
+      "António Tabucchi",
+      "g",
+      "trad. Helena Domingos, António Mega Ferreira"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Difel",
+      "d",
+      "imp. 1988"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "159 p.",
+      "d",
+      "23 cm"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : Piccoli equivoci senza importanza"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Tabucchi",
+      "b",
+      "Antonio",
+      "f",
+      "1943-"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Domingos",
+      "b",
+      "Helena",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Ferreira",
+      "b",
+      "António Mega",
+      "f",
+      "1949-",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20070329163423&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009263",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 TAB peq"
+    ]
+  ]
+}]

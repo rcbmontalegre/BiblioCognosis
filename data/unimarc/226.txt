@@ -1,0 +1,19 @@
+00751nam  2200217   450
+001   226
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00029635
+100    $a 20061013d1978    km y0pora010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a Quem são os dissidentes? $f David Cooper $g trad. Pedro Tamen
+210    $a Lisboa $c Ed. António Ramos $c Centro do Livro Brasileiro $d imp. 1978
+215    $a 89, [2] p. $d 22 cm
+225 2  $a Homens e temas
+304    $a Tít. orig. Qui sont les dissidents?
+675    $a 821 $v BN $z por
+700  1 $a Cooper $b David $f 1931-1986
+702  1 $a Tamen $b Pedro $f 1934- $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060510145609&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008485 $l BMM $s SCG 821 COO que

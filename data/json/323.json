@@ -1,0 +1,178 @@
+[{
+  "fields": [
+    [
+      "001",
+      "323"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-20-0931-1"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "50130/91"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00345292"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19910830d1991    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   000ay"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<Os >cavalos de Tarquínia",
+      "f",
+      "Marguerite Duras",
+      "g",
+      "trad. Maria da Piedade Ferreira"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "1ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Dom Quixote",
+      "d",
+      "1991"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "225 p.",
+      "d",
+      "24 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Ficção universal",
+      "v",
+      "92"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Les petits chevaux de Tarquinia"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "840-31\"19\"",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Duras",
+      "b",
+      "Marguerite",
+      "f",
+      "1914-1996"
+    ],
+    [
+      "702",
+      " 1",
+      "9",
+      "3",
+      "a",
+      "Ferreira",
+      "b",
+      "Maria da Piedade",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511143428&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008341",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DUR cav 92"
+    ]
+  ]
+}]

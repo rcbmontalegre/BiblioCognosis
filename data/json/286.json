@@ -1,0 +1,144 @@
+[{
+  "fields": [
+    [
+      "001",
+      "286"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00283528"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19760701d1976    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >ressurreição da Górgona",
+      "f",
+      "Jean Ray",
+      "g",
+      "H. Silva Letra"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Estampa",
+      "d",
+      "1976"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "114, [5] p.",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Harry Dickson",
+      "v",
+      "6"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : La resurrection de la Gorgone"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Ray",
+      "b",
+      "Jean",
+      "f",
+      "1887-1964"
+    ],
+    [
+      "701",
+      " 1",
+      "a",
+      "Silva",
+      "b",
+      "H",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511104415&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008480",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 RAY res 6"
+    ]
+  ]
+}]

@@ -1,0 +1,21 @@
+00747nam  2200241   450
+001   700
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-0-71213-9
+021    $a PT $b 42934/91
+100    $a 20061013d1991    d  y0pory0103    ba
+101 0  $a por
+102    $a PT
+200 1  $a <A >máquina de fazer palavras $f José Vaz $g ilustrações de J. Madureira
+210    $a Porto $c Porto Editora $d 1991
+215    $a 35 p. $c il. $d 20 cm
+225 2  $a Autores portugueses $v 13
+606    $a Literatura infantil
+608    $a Conto
+675    $a 82-34
+700  1 $a Vaz $b José $f 1940-
+702  1 $a Madureira $b J. $4 440
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060525155813&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0015153 $l BMM $s SI 82-34 VAZ máq 13

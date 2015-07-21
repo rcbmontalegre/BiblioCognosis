@@ -1,0 +1,16 @@
+00629nam  2200181   450
+001   542
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20061013d1975    km y0pory010305  ba
+101 1  $a por $c spa
+102    $a PT
+200 1  $a Três tristes tigres $f G. Cabrera Infante $g trad. de J. Teixeira de Aguilar
+210    $a Lisboa $c Arcádia $d 1975
+215    $a 481 p. $d 21 cm
+225 2  $a Biblioteca Arcádia $i Ficção
+675    $a 821 $v BN $z por
+700  1 $a Cabrera Infante $b Guilherme $f 1929-
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060518102826&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0014451 $l BMM $s SCG 821.134.2(7/8) CAB trê

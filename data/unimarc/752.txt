@@ -1,0 +1,24 @@
+00878nam  2200277   450
+001   752
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-41-1012-5
+021    $a PT $b 50931/91
+095    $a PTBN00376827
+100    $a 19920714d1992    m  y0pory010305  ba
+101 1  $a por $c fre
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a Jacques e o seu amo $e homenagem a Denis Diderot em três actos $f Milan Kundera $g posf. François Ricard $g trad. Teresa Curvelo
+210    $a Porto $c Asa $d 1992
+215    $a 111, [1] p. $d 21 cm
+225 2  $a Letras do mundo
+225 2  $a Asa literatura
+304    $a Tít. orig. : Jacques et son maitre
+675    $a 885-31"19" $v BN $z por
+700  1 $a Kundera $b Milan $f 1929-
+702  1 $a Ricard $b François $4 080
+702  1 $a Curvelo $b Teresa $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0008897 $l BMM $s SCG 821 KUN jac

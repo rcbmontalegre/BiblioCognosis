@@ -1,0 +1,176 @@
+[{
+  "fields": [
+    [
+      "001",
+      "207"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013f1975    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Shógun",
+      "f",
+      "James Clavell",
+      "g",
+      "trad. Eduardo Saló... [et al.]"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "[19--]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "2 v",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Século XX",
+      "v",
+      "210-211"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Shógun"
+    ],
+    [
+      "327",
+      "1 ",
+      "a",
+      "Vol. 1 : 541 p",
+      "a",
+      "Vol. 2 : 542 p"
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Literatura americana"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Romance"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Clavell",
+      "b",
+      "James",
+      "f",
+      "1923-1994"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Saló",
+      "b",
+      "Eduardo",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060510111034&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060510111052&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008244",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 CLA sho 210"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008245",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 CLA sho 211"
+    ]
+  ]
+}]

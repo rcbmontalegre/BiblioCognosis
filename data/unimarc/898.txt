@@ -1,0 +1,22 @@
+00844nam  2200253   450
+001   898
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 17767/87
+095    $a PTBN00110487
+100    $a 19880223d1987    c  y0pora010305  ba
+101 1  $a por $c ita
+102    $a PT
+200 1  $a Histórias ao telefone $f Gianni Rodari $g trad. Maria da Assunção Santos
+210    $a Lisboa $c Teorema $d 1987
+215    $a 93, [3] p. $c il. $d 19 cm
+225 2  $a Sésamo $v 7
+304    $a Tít. orig. : Favole al telefono
+675    $a 087.5 $z por
+700  1 $a Rodari $b Gianni $f 1920-1980
+702  1 $a Santos $b Maria Assunção $4 730
+702  1 $a Bessa $b José Pedro $f 1951- $4 440
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060628165451&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0003159 $l BMM $s SJ 087.5 ROD his 7
+966    $a 0003161 $l BMM $s SJ 087.5 ROD his 7

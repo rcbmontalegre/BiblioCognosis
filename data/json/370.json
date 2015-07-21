@@ -1,0 +1,154 @@
+[{
+  "fields": [
+    [
+      "001",
+      "370"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "13330/86"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00040544"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19870109d1986    k  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Motim em Julho",
+      "f",
+      "Erskine Caldwell",
+      "g",
+      "trad. Maria Teresa Murcho Alegre"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "D.L. 1986"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "141 p.",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Livros de bolso Europa-América",
+      "v",
+      "465"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Trouble in July"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Caldwell",
+      "b",
+      "Erskine",
+      "f",
+      "1903-1987"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Alegre",
+      "b",
+      "Teresa",
+      "f",
+      "1961",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060512110652&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005314",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 CAL mot 465"
+    ]
+  ]
+}]

@@ -1,0 +1,20 @@
+00803nam  2200229   450
+001   240
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00015495
+100    $a 19861001d1986    k  y0pora010305  ba
+101 1  $a por
+102    $a PT
+200 1  $a Bestiário $e contos $f Julio Cortázar $g trad. Joaquim Pais Brito
+210    $a Lisboa $c Dom Quixote $d 1986
+215    $a 147 p. $d 20 cm
+225 2  $a Biblioteca de bolso D. Quixote $v 7
+304    $a Tít. orig. Bestiário
+675    $a 821.134.2(7/8) $v BN $z por
+700  1 $a Cortázar $b Julio $f 1914-1984
+702  1 $a Brito $b Joaquim Pais de $f 1945 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060510152543&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0008604 $l BMM $s SCG 821.134.2(7/8) COR bes 7
+966    $a 0008855 $l BMM $s SCG 821.134.2(7/8) COR bes 7

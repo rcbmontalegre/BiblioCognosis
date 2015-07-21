@@ -1,0 +1,202 @@
+[{
+  "fields": [
+    [
+      "001",
+      "320"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1980----k  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<Os >três mosqueteiros",
+      "f",
+      "Alexandre Dumas",
+      "g",
+      "tradução de Adelino dos Santos Rodrigues e Maria Gabriela de Bragança"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "1980"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "3 vols",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Livros de bolso Europa-América",
+      "v",
+      "398, 401, 407"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Les trois mousquetairs"
+    ],
+    [
+      "327",
+      "1 ",
+      "a",
+      "Vol. 1, 185 p.. - vol. 2, 184 p.. - vol. 3, 194 p."
+    ],
+    [
+      "606",
+      "1 ",
+      "a",
+      "Literatura francesa"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Romance"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Dumas",
+      "b",
+      "Alexandre",
+      "f",
+      "1802-1870"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Rodrigues",
+      "b",
+      "Adelino dos Santos",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Bragança",
+      "b",
+      "Maria Gabriela de",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511143010&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511143021&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511143034&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "3"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0000503",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DUM trê 398"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005204",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DUM trê 401"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005205",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DUM trê 407"
+    ]
+  ]
+}]

@@ -1,0 +1,26 @@
+01027nam0 2200301   450
+001   589
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+020    $a PT
+100    $a 20061013d1992----k  y0pory0103    ba
+101 0  $a por
+102    $a PT
+200 1  $a <O >País barrosão - 2. Os Castelos $f José Dias Baptista
+210    $a Montalegre $c Câmara Municipal de Montalegre $d 1992
+215    $a 79 p. $c ilustrado $d 21cm
+225 2  $a Cadernos Culturais $v 14
+327 1  $a Tomo n.º2: Os castelos
+607    $a Barroso
+675    $a 008(469.202)
+675    $a 908(469.202)
+675    $a 728(469.202)
+700  1 $a Baptista $b José Dias $f 1941-
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060519100532&ext=jpg $z CAPA
+909 	  $a 5
+966    $a 0014943 $l BMM $s SCG 008(469.202) BAP paí 14
+966    $a 0014944 $l BMM $s SCG 908(469.202) BAP paí 14
+966    $a 0017202 $l BMM-PS $s 008(469.202) BAP paí 14
+966    $a 0017203 $l BMM-PS $s 908(469.202) BAP paí 14
+966    $a 0017859 $l BMM $s SCG 728(469.202) BAP paí 14

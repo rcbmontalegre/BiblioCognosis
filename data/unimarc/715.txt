@@ -1,0 +1,23 @@
+00823nam  2200265   450
+001   715
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 972-41-1863-0
+021    $a PT $b 169331/01
+100    $a 20090720d2001    m  y0pory0103    ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   001ay
+200 1  $a <As >filhas da princesa Sultana $f Jean Sasson $g trad. José Vieira de Lima
+205    $a 7ª ed
+210    $a Porto $c Asa $d 2001
+215    $a 262, [1] p. $d 24 cm
+225 2  $a Documentos
+304    $a Tít. orig.: Princess Sultana's daughters
+675    $a 82-94 $v BN $z por
+700  1 $a Sasson $b Jean P.
+702  1 $a Lima $b José Vieira de $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060530102236&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0016148 $l BMM $s SCG 82-94 SAS fil

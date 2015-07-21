@@ -1,0 +1,152 @@
+[{
+  "fields": [
+    [
+      "001",
+      "204"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00333727"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20070305d1972    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Morreram pela pátria",
+      "f",
+      "Mikail Alexandrovitch Cholokhov",
+      "g",
+      "trad. Manuela de Azevedo"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Europa-América",
+      "d",
+      "1972"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "176 p.",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Livros de bolso Europa-América",
+      "v",
+      "23)"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Cholokhov",
+      "b",
+      "Mikail",
+      "f",
+      "1905-1984"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Azevedo",
+      "b",
+      "Manuela de",
+      "f",
+      "1911",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060510110844&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005176",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 CHO mor 23"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "1002063",
+      "l",
+      "BEM",
+      "s",
+      "BEM 821.1/.8 CHO"
+    ]
+  ]
+}]

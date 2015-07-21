@@ -1,0 +1,166 @@
+[{
+  "fields": [
+    [
+      "001",
+      "652"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "28469/89"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1989----k  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<Uma >viagem no verde",
+      "f",
+      "José Jorge Letria",
+      "g",
+      "il. de Henrique Cayatte"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "2ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Vega",
+      "d",
+      "D.L. 1989"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "30 p.",
+      "c",
+      "il.",
+      "d",
+      "23 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Grandes pequeninos",
+      "v",
+      "1"
+    ],
+    [
+      "334",
+      "  ",
+      "a",
+      "Prémio \"O ambiente na literatura infantil\"- 1986 da Secretaria de Estado do Ambiente"
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Literatura infantil"
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Ambiente"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "82-93",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Letria",
+      "b",
+      "José Jorge",
+      "f",
+      "1951-"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Cayatte",
+      "b",
+      "Henrique",
+      "f",
+      "1957-",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060523095846&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001584",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-93 LET uma 1"
+    ]
+  ]
+}]

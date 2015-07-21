@@ -1,0 +1,134 @@
+[{
+  "fields": [
+    [
+      "001",
+      "7"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00037341"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1982    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "spa"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Crimes exemplares",
+      "f",
+      "Max Aub",
+      "g",
+      "trad. Abel Prazer"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Antígona",
+      "d",
+      "1982"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "98, [5] p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. Crimens ejemplares"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Aub",
+      "b",
+      "Max",
+      "f",
+      "1903-1972"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Prazer",
+      "b",
+      "Abel",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060503154152&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008040",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 AUB cri"
+    ]
+  ]
+}]

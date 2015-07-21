@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:f="http://idi.ntnu.no/frbrizer/">
+   <record f:id="c030e5a7-008d-37eb-9196-dc80fbf3f111"
+           f:type="http://iflastandards.info/ns/fr/frbr/frbrer/C1001">
+      <datafield tag="240" ind1="1" ind2="0">
+         <subfield code="a" f:type="http://iflastandards.info/ns/fr/frbr/frbrer/P3001">Fruen fra havet.</subfield>
+      </datafield>
+      <f:relationship f:type="http://iflastandards.info/ns/fr/frbr/frbrer/P2001"
+                      f:href="d978874a-6adb-3850-ae47-338dc914f4d0"/>
+      <f:relationship f:type="http://iflastandards.info/ns/fr/frbr/frbrer/P2009"
+                      f:href="4856508b-4568-3532-aed0-aea7030bcab7"/>
+      <f:label>Fruen fra havet.</f:label>
+   </record>
+   <record f:id="cd8e30ce-5aec-3b27-bc8b-1a72c907d781"
+           f:type="http://iflastandards.info/ns/fr/frbr/frbrer/C1001">
+      <datafield tag="240" ind1="1" ind2="0">
+         <subfield code="a" f:type="http://iflastandards.info/ns/fr/frbr/frbrer/P3001">Dukkehjem.</subfield>
+      </datafield>
+      <f:relationship f:type="http://iflastandards.info/ns/fr/frbr/frbrer/P2001"
+                      f:href="5c8bb631-111e-3e73-8e46-4a02a0670775"/>
+      <f:relationship f:type="http://iflastandards.info/ns/fr/frbr/frbrer/P2009"
+                      f:href="4856508b-4568-3532-aed0-aea7030bcab7"/>
+      <f:label>Dukkehjem.</f:label>
+   </record>
+   <record f:id="fee31e14-3e89-3ac6-9256-c37ae5c45fb7"
+           f:type="http://iflastandards.info/ns/fr/frbr/frbrer/C1001">
+      <datafield tag="240" ind1="1" ind2="0">
+         <subfield code="a" f:type="http://iflastandards.info/ns/fr/frbr/frbrer/P3001">Bygmester Solness.</subfield>
+      </datafield>
+      <f:relationship f:type="http://iflastandards.info/ns/fr/frbr/frbrer/P2001"
+                      f:href="58571a3d-ab86-353a-ac9d-455d9eaef756"/>
+      <f:relationship f:type="http://iflastandards.info/ns/fr/frbr/frbrer/P2009"
+                      f:href="4856508b-4568-3532-aed0-aea7030bcab7"/>
+      <f:label>Bygmester Solness.</f:label>
+   </record>
+   <record f:id="58571a3d-ab86-353a-ac9d-455d9eaef756"
+           f:type="http://iflastandards.info/ns/fr/frbr/frbrer/C1002"
+           f:subtype="">
+      <controlfield tag="008">100531s2010    enk           000 d eng d</controlfield>
+      <datafield tag="041" ind1="1" ind2=" ">
+         <subfield code="a" f:type="http://iflastandards.info/ns/fr/frbr/frbrer/P3011">eng</subfield>
+      </datafield>
+      <datafield tag="245" ind1="1" ind2="4">
+         <subfield code="a" f:type="http://iflastandards.info/ns/fr/frbr/frbrer/P3008">The master builder /</subfield>
+      </datafield>
+      <f:relationship f:type="http://iflastandards.info/ns/fr/frbr/frbrer/P2002"
+                      f:href="fee31e14-3e89-3ac6-9256-c37ae5c45fb7"/>
+      <f:relationship f:type="http://iflastandards.info/ns/fr/frbr/frbrer/P2003"
+                      f:href="01987e39-abaf-3198-9b9a-adcc2e8cab0c"/>
+      <f:label>eng / The master builder /</f:label>
+   </record>
+   <record f:id="5c8bb631-111e-3e73-8e46-4a02a0670775"
+           f:type="http://iflastandards.info/ns/fr/frbr/frbrer/C1002"
+           f:subtype="">
+      <controlfield tag="008">120625s2012    enk           000 d eng d</controlfield>
+      <datafield tag="041" ind1="1" ind2=" ">
+         <subfield code="a" f:type="http://iflastandards.info/ns/fr/frbr/frbrer/P3011">eng</subfield>
+      </datafield>
+      <datafield tag="245" ind1="1" ind2="2">
+         <subfield code="a" f:type="http://iflastandards.info/ns/fr/frbr/frbrer/P3008">A doll's house /</subfield>
+      </datafield>
+      <f:relationship f:type="http://iflastandards.info/ns/fr/frbr/frbrer/P2002"
+                      f:href="cd8e30ce-5aec-3b27-bc8b-1a72c907d781"/>
+      <f:relationship f:type="http://iflastandards.info/ns/fr/frbr/frbrer/P2003"
+                      f:href="296d1882-392e-3884-bab7-39d38b9a09ec"/>
+      <f:label>eng / A doll's house /</f:label>
+   </record>
+   <record f:id="d978874a-6adb-3850-ae47-338dc914f4d0"
+           f:type="http://iflastandards.info/ns/fr/frbr/frbrer/C1002"
+           f:subtype="">
+      <controlfield tag="008">120309s2012    enk           000 d eng d</controlfield>
+      <datafield tag="041" ind1="1" ind2=" ">
+         <subfield code="a" f:type="http://iflastandards.info/ns/fr/frbr/frbrer/P3011">eng</subfield>
+      </datafield>
+      <datafield tag="245" ind1="1" ind2="4">
+         <subfield code="a" f:type="http://iflastandards.info/ns/fr/frbr/frbrer/P3008">The lady from the sea /</subfield>
+      </datafield>
+      <f:relationship f:type="http://iflastandards.info/ns/fr/frbr/frbrer/P2002"
+                      f:href="c030e5a7-008d-37eb-9196-dc80fbf3f111"/>
+      <f:relationship f:type="http://iflastandards.info/ns/fr/frbr/frbrer/P2003"
+                      f:href="99230644-1ab3-336d-a71a-e8f3a67e90f3"/>
+      <f:label>eng / The lady from the sea /</f:label>
+   </record>
+   <record f:id="01987e39-abaf-3198-9b9a-adcc2e8cab0c"
+           f:type="http://iflastandards.info/ns/fr/frbr/frbrer/C1003">
+      <controlfield tag="001">015567251</controlfield>
+      <controlfield tag="008">100531s2010    enk           000 d eng d</controlfield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">9781848421066 (pbk.) :</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">1848421060 (pbk.) :</subfield>
+      </datafield>
+      <datafield tag="245" ind1="1" ind2="4">
+         <subfield code="a">The master builder /</subfield>
+         <subfield code="c">Henrik Ibsen ; in a new version by David Edgar from a literal translation by Desireé Kongerød McDougall.</subfield>
+      </datafield>
+      <datafield tag="260" ind1=" " ind2=" ">
+         <subfield code="a">London :</subfield>
+         <subfield code="b">Nick Hern,</subfield>
+         <subfield code="c">2010.</subfield>
+      </datafield>
+      <datafield tag="300" ind1=" " ind2=" ">
+         <subfield code="a">ix, 92 p. ;</subfield>
+         <subfield code="c">20 cm.</subfield>
+      </datafield>
+      <f:relationship f:type="http://iflastandards.info/ns/fr/frbr/frbrer/P2004"
+                      f:href="58571a3d-ab86-353a-ac9d-455d9eaef756"/>
+      <f:label>The master builder / / Henrik Ibsen ; in a new version by David Edgar from a literal translation by Desireé Kongerød McDougall.</f:label>
+   </record>
+   <record f:id="296d1882-392e-3884-bab7-39d38b9a09ec"
+           f:type="http://iflastandards.info/ns/fr/frbr/frbrer/C1003">
+      <controlfield tag="001">016130108</controlfield>
+      <controlfield tag="008">120625s2012    enk           000 d eng d</controlfield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">9781408173312 (pbk.) :</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">140817331X (pbk.) :</subfield>
+      </datafield>
+      <datafield tag="245" ind1="1" ind2="2">
+         <subfield code="a">A doll's house /</subfield>
+         <subfield code="c">Henrik Ibsen ; an English language version by Simon Stephens.</subfield>
+      </datafield>
+      <datafield tag="260" ind1=" " ind2=" ">
+         <subfield code="a">London :</subfield>
+         <subfield code="b">Methuen Drama,</subfield>
+         <subfield code="c">2012.</subfield>
+      </datafield>
+      <datafield tag="300" ind1=" " ind2=" ">
+         <subfield code="a">[18], 110 p. ;</subfield>
+         <subfield code="c">20 cm.</subfield>
+      </datafield>
+      <f:relationship f:type="http://iflastandards.info/ns/fr/frbr/frbrer/P2004"
+                      f:href="5c8bb631-111e-3e73-8e46-4a02a0670775"/>
+      <f:label>A doll's house / / Henrik Ibsen ; an English language version by Simon Stephens.</f:label>
+   </record>
+   <record f:id="99230644-1ab3-336d-a71a-e8f3a67e90f3"
+           f:type="http://iflastandards.info/ns/fr/frbr/frbrer/C1003">
+      <controlfield tag="001">016059359</controlfield>
+      <controlfield tag="008">120309s2012    enk           000 d eng d</controlfield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">9780571290383 (pbk.)</subfield>
+      </datafield>
+      <datafield tag="245" ind1="1" ind2="4">
+         <subfield code="a">The lady from the sea /</subfield>
+         <subfield code="c">Henrik Ibsen ; a version by Stephen Unwin.</subfield>
+      </datafield>
+      <datafield tag="260" ind1=" " ind2=" ">
+         <subfield code="a">London :</subfield>
+         <subfield code="b">Faber and Faber,</subfield>
+         <subfield code="c">2012.</subfield>
+      </datafield>
+      <datafield tag="300" ind1=" " ind2=" ">
+         <subfield code="a">110 p. ;</subfield>
+         <subfield code="c">20 cm.</subfield>
+      </datafield>
+      <f:relationship f:type="http://iflastandards.info/ns/fr/frbr/frbrer/P2004"
+                      f:href="d978874a-6adb-3850-ae47-338dc914f4d0"/>
+      <f:label>The lady from the sea / / Henrik Ibsen ; a version by Stephen Unwin.</f:label>
+   </record>
+   <record f:id="4856508b-4568-3532-aed0-aea7030bcab7"
+           f:type="http://iflastandards.info/ns/fr/frbr/frbrer/C1005">
+      <datafield tag="100" ind1="1" ind2=" ">
+         <subfield code="a" f:type="http://iflastandards.info/ns/fr/frbr/frbrer/P3039">Ibsen, Henrik,</subfield>
+         <subfield code="d" f:type="http://iflastandards.info/ns/fr/frbr/frbrer/P3040">1828-1906.</subfield>
+      </datafield>
+      <f:relationship f:type="http://iflastandards.info/ns/fr/frbr/frbrer/P2010"
+                      f:href="cd8e30ce-5aec-3b27-bc8b-1a72c907d781"/>
+      <f:relationship f:type="http://iflastandards.info/ns/fr/frbr/frbrer/P2010"
+                      f:href="c030e5a7-008d-37eb-9196-dc80fbf3f111"/>
+      <f:relationship f:type="http://iflastandards.info/ns/fr/frbr/frbrer/P2010"
+                      f:href="fee31e14-3e89-3ac6-9256-c37ae5c45fb7"/>
+      <f:label>Ibsen, Henrik,</f:label>
+   </record>
+</collection>

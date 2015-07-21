@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by Miguel Vieira (-) -->
+<FORMAT name="UNIMARC" domain="Bibliographic" version="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../schemas/FORMAT.xsd">
+  <FIELD tag="001" name="RECORD IDENTIFIER" mandatory="y" repeatable="n">
+    <DESCRIPTION>This field contains characters uniquely associated with the record, i.e. the control number for the record of the agency preparing the record.</DESCRIPTION>
+    <IND1>
+      <DESCRIPTION> In conformance with ISO 2709 this field does not have indicators.</DESCRIPTION>
+    </IND1>
+    <IND2>
+      <DESCRIPTION>In conformance with ISO 2709 this field has no indicators.</DESCRIPTION>
+    </IND2>
+    <SUBFIELD tag="*" name="" mandatory="n" repeatable="n">
+      <DESCRIPTION>In conformance with ISO 2709 this field does not contain subfields.</DESCRIPTION>
+    </SUBFIELD>
+    <NOTES>There are no restrictions on the form of the record identifier. 
+
+When the record identifier consists of or incorporates any form of an International Standard Number, other identifiable number such a national number, or other data such as country of publication, this information is nevertheless to be entered in the field specified for that data in addition to recording it as the record identifier in this field. 
+</NOTES>
+    <RELATED tag="*" name="">
+      <DESCRIPTION>An agency may be using other separately identified numbers such as ISBN or National Bibliography Number as a Record Identifier. See Notes on Field Contents above for treatment in these cases.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">001 2002-00000000011<P/>
+A number in the Joint Catalogue file of the South African State Library. 
+</EX>
+      <EX n="2">001 B7512345<P/>
+			The record number of a record from the British National Bibliography is the National Bibliography Number B7512345. In addition, the number is entered in field 020, NATIONAL BIBLIOGRAPHY NUMBER. </EX>
+      <EX n="3">001 02512645<P/>
+			The record number used for a record in a serials file is the ISSN without its hyphen. In addition, the ISSN with hyphen is entered in field 011, ISSN.</EX>
+      <EX n="4">001 83.041470.3<P/>
+			The record number allocated to a Deutsche Bibliothek record. This is not identical with the national bibliography number.</EX>
+      <EX n="5">001 ###73002284#//r752<P/>
+			The control number of a record issued by the Library of Congress. The basic control number has a fixed length of 12 characters which in this instance requires blank fill. This number also includes revision information in a suffix.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="005" name="VERSION IDENTIFIER" mandatory="n" repeatable="n">
+    <DESCRIPTION>The field contains the date and time of the last record transaction. It allows machine systems to determine whether the version of the record being processed is later, earlier or the same as one previously processed.</DESCRIPTION>
+    <IND1>
+      <DESCRIPTION>In conformance with ISO 2709 this field has no indicators. </DESCRIPTION>
+    </IND1>
+    <IND2>
+      <DESCRIPTION>In conformance with ISO 2709 this field has no indicators.</DESCRIPTION>
+    </IND2>
+    <SUBFIELD tag="*" name="" mandatory="n" repeatable="n">
+      <DESCRIPTION>In conformance with ISO 2709 this field has no subfield identifiers</DESCRIPTION>
+    </SUBFIELD>
+    <NOTES>The date is entered in ISO standard form (ISO 8601-1988) for dates: YYYYMMDD where YYYY represents the year, MM the month and DD the day of the month. The time is entered in the form HHMMSS.T where HH represents the hour using the twenty four hour clock, MM the minutes, SS the seconds and .T tenths of a second. In all cases a leading 0 is added if necessary. </NOTES>
+    <RELATED tag="100" name="GENERAL PROCESSING DATA(character positions 0-7)">
+      <DESCRIPTION>This is the date of original creation of the record and will not change even if the record is corrected or exchanged. </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="801" name="ORIGINATING SOURCE FIELD subfield $c">
+      <DESCRIPTION>This subfield gives solely year, month and day of modification, transcription and/or issue.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">005 19850901141236.0
+The date of last transaction was 1st September 1985 at 14:12:36 hours (i.e. 2:12:36 p.m.). &apos;1st&apos; is entered as &apos;01&apos; not &apos;1&apos;, &apos;September&apos; as &apos;09&apos; not &apos;9&apos;, to preserve the format.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="010" name="INTERNATIONAL STANDARD BOOK NUMBER" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains an International Standard Book Number and a qualification which distinguishes between ISBN when more than one is contained in a record. The field corresponds to the ISBD Standard Number (or Alternative) and Terms of Availability Area. The field may contain the terms of availability and/or price, even if it does not contain an ISBN. </DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Number (ISBN)" mandatory="n" repeatable="n">
+      <DESCRIPTION>A correctly applied ISBN including hyphens. The ISBN are assigned by the designated agency in each country. Not repeatable.</DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="b" name="Qualification" mandatory="n" repeatable="n">
+      <DESCRIPTION>An indication of the scope of the ISBN in subfield $a (if present), usually the name of a publisher, an indication of the binding of the item, or an indication of the relationship of an ISBN to a set or to a particular volume. 
+(EX 3, 5, 6, 7). Not repeatable. </DESCRIPTION>
+      <SEEEX N="3"/>
+      <SEEEX N="5"/>
+      <SEEEX N="6"/>
+      <SEEEX N="7"/>
+    </SUBFIELD>
+    <SUBFIELD tag="d" name="Terms of Availability and/or Price" mandatory="n" repeatable="n">
+      <DESCRIPTION>The price of the item and any comment on its availability (EX 1, 2, 3, 4, 5, 6, 8). Not repeatable. </DESCRIPTION>
+      <SEEEX N="1"/>
+      <SEEEX N="2"/>
+      <SEEEX N="3"/>
+      <SEEEX N="4"/>
+      <SEEEX N="5"/>
+      <SEEEX N="6"/>
+      <SEEEX N="8"/>
+    </SUBFIELD>
+    <SUBFIELD tag="z" name="Erroneous ISBN" mandatory="n" repeatable="y">
+      <DESCRIPTION>An ISBN that has been identified as being erroneously applied to an item or is otherwise invalid. It may have been allocated to two different publications and in this instance cancelled (EX 8), or it may have been incorrectly printed (EX 9). Repeatable.</DESCRIPTION>
+      <SEEEX N="8"/>
+      <SEEEX N="9"/>
+    </SUBFIELD>
+    <NOTES>
+      <P>
+    ISBN structure: 
+      </P>
+      <P>
+The ISBN is a unique number applied to a published item according to the provisions of ISO 2108. The ISBN consists of four distinct parts, each of which is separated by a hyphen or space. Hyphens are recommended in UNIMARC. The four parts are: 
+      </P>
+      <P>
+Group identifier: Allocated to each country or group of countries or language groups by the International ISBN Agency. International organizations, e.g., the UN, also have their own group identifier. 
+      </P>
+      <P>
+Publisher identifier: Allocated to each publisher by a National or Regional ISBN Agency. 
+      </P>
+      <P>
+Title identifier: Allocated to each title (and each edition and format of each title) by the publisher. 
+      </P>
+      <P>
+Check digit: calculated on the basis of the other 9 digits of the ISBN. 
+      </P>
+      <P>
+All digits of the ISBN are numeric except the check digit which may be numeric or a roman numeral X (capital X, representing a numeric value of 10) ISO 2108 gives the standard specifications of the form of the ISBN. 
+      </P>
+      <P>
+Verification of check digit: 
+      </P>
+      <P>
+To check for accuracy of an ISBN: take each digit and multiply by a number whose value depends on the position of the digit (the &apos;weight&apos;), add the results and divide by 11. If the answer is not zero then one or more of the digits is wrong. Using EX 9 as an example: 
+      </P>
+      <TABLE CELLPADDING="2" CELLSPACING="0" BORDER="1">
+        <TR>
+          <TD WIDTH="8%" VALIGN="TOP">
+
+    ISBN</TD>
+          <TD WIDTH="5%" VALIGN="TOP">&apos; &apos; 
+    </TD>
+          <TD WIDTH="6%" VALIGN="TOP">
+
+     0</TD>
+          <TD WIDTH="5%" VALIGN="TOP">
+
+     1</TD>
+          <TD WIDTH="5%" VALIGN="TOP">
+
+     1</TD>
+          <TD WIDTH="6%" VALIGN="TOP">
+
+     8</TD>
+          <TD WIDTH="5%" VALIGN="TOP">
+
+     8</TD>
+          <TD WIDTH="6%" VALIGN="TOP">
+
+     4</TD>
+          <TD WIDTH="6%" VALIGN="TOP">
+
+     0</TD>
+          <TD WIDTH="6%" VALIGN="TOP">
+
+     9</TD>
+          <TD WIDTH="6%" VALIGN="TOP">
+
+     4</TD>
+          <TD WIDTH="17%" VALIGN="TOP">
+
+    X (i.e. 10)</TD>
+        </TR>
+        <TR>
+          <TD WIDTH="8%" VALIGN="TOP">
+
+    &apos;Weight&apos;</TD>
+          <TD WIDTH="5%" VALIGN="TOP">&apos; &apos;
+
+    </TD>
+          <TD WIDTH="6%" VALIGN="TOP">
+
+     10</TD>
+          <TD WIDTH="5%" VALIGN="TOP">
+
+     9</TD>
+          <TD WIDTH="5%" VALIGN="TOP">
+
+     8</TD>
+          <TD WIDTH="6%" VALIGN="TOP">
+
+     7</TD>
+          <TD WIDTH="5%" VALIGN="TOP">
+
+     6</TD>
+          <TD WIDTH="6%" VALIGN="TOP">
+
+     5</TD>
+          <TD WIDTH="6%" VALIGN="TOP">
+
+     4</TD>
+          <TD WIDTH="6%" VALIGN="TOP">
+
+     3</TD>
+          <TD WIDTH="6%" VALIGN="TOP">
+
+     2</TD>
+          <TD WIDTH="17%" VALIGN="TOP">
+
+    1</TD>
+        </TR>
+        <TR>
+          <TD WIDTH="8%" VALIGN="TOP">
+
+    Result</TD>
+          <TD WIDTH="5%" VALIGN="TOP">&apos; &apos;
+
+    </TD>
+          <TD WIDTH="6%" VALIGN="TOP">
+
+     0</TD>
+          <TD WIDTH="5%" VALIGN="TOP">
+
+     9</TD>
+          <TD WIDTH="5%" VALIGN="TOP">
+
+     8</TD>
+          <TD WIDTH="6%" VALIGN="TOP">
+
+     56</TD>
+          <TD WIDTH="5%" VALIGN="TOP">
+
+     48</TD>
+          <TD WIDTH="6%" VALIGN="TOP">
+
+     20</TD>
+          <TD WIDTH="6%" VALIGN="TOP">
+
+     0</TD>
+          <TD WIDTH="6%" VALIGN="TOP">
+
+     27</TD>
+          <TD WIDTH="6%" VALIGN="TOP">
+
+     8</TD>
+          <TD WIDTH="17%" VALIGN="TOP">
+
+    10 -- total 186</TD>
+        </TR>
+      </TABLE>
+      <P>
+186 is not exactly divisible by 11, so the ISBN is incorrect. 
+      </P>
+      <P>
+Data format: 
+      </P>
+      <P>
+The letters ISBN, which are usually found printed with an ISBN on the item, should not be entered in field 010. 
+      </P>
+      <P>
+Any ISBN which is found to be wrongly printed on the item can be entered in subfield $z, Erroneous ISBN, which is provided to give access to records that may have been requested by an erroneous number appearing on the item. 
+      </P>
+      <P>
+Hyphens are inserted to separate the four separate parts of the number in the $a or $z subfield. No other punctuation is permitted. The purpose of the hyphens or spaces in the ISBN is to separate the distinct parts. When an ISBN is displayed in a catalogue entry the inclusion of the hyphens or spaces is mandatory. Many national agencies do not store the hyphens or spaces in the machine-readable record since they can be generated by algorithm if the range of publisher identifiers which have been allocated is known. When records are exchanged internationally the recipient of records may not always know the range of publisher identifiers allocated within the group represented by the first part of the ISBN. Therefore it is recommended that hyphens always be included in the ISBN in field 010 to ensure their display on output. 
+      </P>
+      <P>
+Strictly, each book has one ISBN. However, there are circumstances in which a single record may need to include more than one ISBN, depending on the policy of the cataloguing agency. Examples of situations in which multiple ISBN might appear in a record are: where a publisher issues a work in more than one binding or physical format, each with a different ISBN, and a single record is created by the agency encompassing more than one of these &apos;editions&apos;, where a single record is created for a multipart item (multi-volume monograph) and different ISBN have been assigned by the publisher to each volume, or to each volume and to the set as a whole; where a single item is published, or published and distributed, by more than one entity, each of which has assigned a separate ISBN to the item. 
+      </P>
+      <P>
+In order to distinguish between ISBN when there is more than one in a record, qualifications may be added to one or more of them, according to the practice of the agency preparing the record. 
+      </P>
+      <P>
+Terms of availability and price are often related to each ISBN. Thus this information is recorded in the same field. Punctuation is included with the data as required. 
+      </P>
+      <P>
+The field should be repeated for each valid ISBN. It should also be repeated for an invalid ISBN unless that invalid ISBN clearly relates to a known valid equivalent entered in the record, in which case the invalid ISBN will be entered in the same field as its corresponding valid ISBN (EX 8, 9). 
+      </P>
+      <P>
+Some agencies use the ISBN as record identifier and enter it in the field 001. In those cases the ISBN should be entered additionally in field 010.
+      </P>
+<SEEEX N="8"/>
+      <SEEEX N="9"/>
+    </NOTES>
+    <RELATED tag="011" name="INTERNACIONAL STANDARD SERIAL  NUMBER (ISSN)">
+      <DESCRIPTION>A number similar in use to the ISBN but applied to serials.</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="013" name="INTERNACIONAL STANDARD MUSIC NUMBER (ISMN)">
+      <DESCRIPTION>A number similar in use to the ISBN but applied to printed music</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">010 ##$a0-246-11007-4$d£2.95
+A book published in England and cloth bound priced at £2.95 with the ISBN on the document as follows: 0 246 11007 4. </EX>
+      <EX n="2">010 ##$a963-592-149-7$d$25.00 (outside Hungary)
+A book published in Hungary and sold outside the country for $25.00. </EX>
+      <EX n="3">010 ##$d£3.50
+010 ##$bpbk$d£2.50
+A book published in both cloth and paper covers. No ISBN are available.</EX>
+      <EX n="4">010 ##$a0-85997-276-3$d£5.20 (£3.90 to members of the Library Association)
+A book is published with a discount to members of the Library Association.</EX>
+      <EX n="5">010 ##$a0-915408-15-5$dUnpriced
+010 ##$a0-915408-16-3$bSigned ed.$dUnpriced
+A book is available in cloth bound form with the option of purchasing it in a cased edition signed by the translator. The alternatives each have their own ISBN. </EX>
+      <EX n="6">010 ##$a0-915408-15-5$dUnpriced
+010 ##$a0-915408-16-3$bSigned ed.$dUnpriced
+A book is available in cloth bound form with the option of purchasing it in a cased edition signed by the translator. The alternatives each have their own ISBN. </EX>
+      <EX n="7">010 ##$a0-563-12887-9$b(B.B.C.)
+010 ##$a0-233-96847-4$b(Deutsch)
+A book is jointly published by the British Broadcasting Corporation and Deutsch.</EX>
+      <EX n="8">010 ##$a0-11-884094-0$z0-11-884094-X
+ISBN 0 11 884094 0 is incorrectly printed with an X as the check digit.</EX>
+      <EX n="9">
+010 ##$a0-11-884094-0$z0-11-884094-X
+ISBN 0 11 884094 0 is incorrectly printed with an X as the check digit.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="011" name="INTERNATIONAL STANDARD SERIAL NUMBER (ISSN)" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains the ISSN as assigned by an ISSN Centre, any ISSN which has been assigned and cancelled, details of terms of availability and/or price. It corresponds to the ISBD(S) Standard Number (or Alternative) and Terms of Availability Area, although the Key Title is entered in field 530. </DESCRIPTION>
+    <IND1 name="blank (not defined"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Number (ISSN)" mandatory="n" repeatable="n">
+      <DESCRIPTION>A correctly applied ISSN including the hyphen between the fourth and fifth digits. Not repeatable.</DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="b" name="Qualification" mandatory="n" repeatable="n">
+      <DESCRIPTION>Used to distinguish between ISSN if a record contains more than one. Not repeatable. Not used by the ISSN International Centre.</DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="d" name="Terms of Availability and/or Price" mandatory="n" repeatable="y">
+      <DESCRIPTION>The price of the item and any comment on its availability.Repeatable. (EX 3, 6&quot;)</DESCRIPTION>
+      <SEEEX N="3"/>
+      <SEEEX N="6"/>
+    </SUBFIELD>
+    <SUBFIELD tag="y" name="Cancelled ISSN" mandatory="n" repeatable="y">
+      <DESCRIPTION>This includes any ISSN that was formerly valid but which has been cancelled by an ISSN centre (EX 2). Repeatable.</DESCRIPTION>
+      <SEEEX N="2"/>
+    </SUBFIELD>
+    <SUBFIELD tag="z" name="Erroneous ISSN" mandatory="n" repeatable="y">
+      <DESCRIPTION>This includes any incorrect ISSN other than those recorded in $y. Most often this will be the result of a printing error. Repeatable (EX 5).</DESCRIPTION>
+      <SEEEX N="5"/>
+    </SUBFIELD>
+    <NOTES>The ISSN is a unique and unambiguous identification number for serials assigned in accordance with ISO 3297. The system for allocating ISSN is controlled by the ISSN International Centre based in Paris. National Centres allocate ISSN to new serials from a batch of numbers allocated to them by the ISSN International Centre, and communicate them to the Centre. 
+
+Data format: 
+
+An ISSN consists of eight digits. These are the Arabic numerals 0 to 9, except in the case of the last or check digit where a roman numeral X (capital X) can occur. Since ISSN are likely to be used in the same context as codes designed for other purposes, such as the International Standard Book Number (ISBN) or control numbers, a distinction must be preserved in the form of presentation when printed or displayed. An ISSN is, therefore, preceded by the letters &apos;ISSN&apos; and a space, and appears as two groups of four digits separated by a hyphen, for example: ISSN 1234-5679. The check digit is always located in the extreme right position, and is calculated on a modulus 11 basis using weights 8 to 2. The letters ISSN are not included in field 011 in the UNIMARC record, though the hyphen is. Detailed specifications for the ISSN and calculation of its check digit are found in ISO 3297. The calculation of the check digit is similar to that needed for ISBN (see field 010). 
+
+Punctuation: 
+
+A hyphen should separate the fourth and fifth digits of a valid or cancelled ISSN. No other punctuation should be present. Punctuation for the $b and $d subfields is entered in these subfields according to the practices of the agency preparing the record. 
+
+Multiple ISSN: 
+
+Any ISSN that is wrongly assigned and then cancelled or wrongly printed is entered in subfield $y Cancelled ISSN or $z Erroneous ISSN respectively. Such ISSN should be entered in the same field as the correctly assigned ISSN. 
+
+Those agencies following ISSN International Centre practices for making serial records will always have only one valid ISSN in field 011 of their records. Those agencies with different practices for making serial records may have records which contain more than one valid ISSN in repeated 011 fields. 
+
+Some agencies use the ISSN as record identifier and enter it in field 001. In these cases the ISSN should also be entered in field 011. 
+</NOTES>
+    <RELATED tag="010" name="INTERNACIONAL STANDARD BOOK NUMBER (ISBN)">
+      <DESCRIPTION>A number similar in use to the ISSN but applied to books.</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="013" name="INTERNACIONAL STANDARD MUSIC NUMBER (ISMN)">
+      <DESCRIPTION>A number similar in use to the ISBN but applied to printed music.</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="040" name="CODEN">
+      <DESCRIPTION>An additional identification system for serials.</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="225" name="SERIES">
+      <DESCRIPTION>An ISSN for a series to which the item being catalogued belongs may be entered in subfield 225 $x.</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="530" name="KEY TITLE">
+      <DESCRIPTION>The Key title part of the ISBD(S) Standard Number (or Alternative) and Terms of Availability Area is entered in field 530.</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="4--" name="-- LINKING ENTRY BLOCK">
+      <DESCRIPTION>An ISSN that is assigned to a higher level bibliographic item (series) or a lower level bibliographic item (subseries) that is related to the serial being catalogued, may be entered in an 011 field embedded in the appropriate linking entry field (4--).</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">011 ##$a0003-9756
+The ISSN for Archives européennes de sociologie is ISSN 0003-9756. </EX>
+      <EX n="2">011 ##$a0105-0064$y0036-5646
+Scandinavian times and Scandinavian times magazine were allocated the same ISSN, 0036-5645. This number is cancelled and a new number allocated to each. The example gives the contents of the ISSN field in the record of the Scandinavian times.</EX>
+      <EX n="3">011 ##$a0260-7743$dFree to members of the federation only
+The Newsletter of the London Federation of Museums and Art Galleries has the ISSN 0260-7743. Details of terms of availability are included in the record. </EX>
+      <EX n="4">011 ##$a0009-3947$d£l.00$d£13.25 yearly
+Both a single issue price and a subscription rate are given on the item.</EX>
+      <EX n="5">011 ##$a0263-3264$z0226-7223$z0068-2691
+Two different ISSN are given on the Yearbook of European law, 1984 edition. Both are wrong. The correct and the two incorrect ISSN are listed in the field.</EX>
+      <EX n="6">011 ##$d£2.95
+The Moomins annual has a price; but no ISSN has been assigned. </EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="012" name="FINGERPRINT IDENTIFIER" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains the Fingerprint Identifier for older monographic publications (antiquarian) and a code for the institution to which the field applies which distinguishes between Fingerprint Identifiers when more than one is contained in a record. The field corresponds to the ISBD Standard Number (or Alternative) and Terms of Availability Area. </DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Fingerprint" mandatory="n" repeatable="n">
+      <DESCRIPTION>Calculated Fingerprint Identifier. The Fingerprint is assigned by the agency creating a record. Not repeatable.</DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="2" name="Fingerprint System Code" mandatory="n" repeatable="n">
+      <DESCRIPTION>An identification in coded form of the system from which fingerprint identifier is derived. Not repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="5" name="Institution to which the Field Applies" mandatory="y" repeatable="n">
+      <DESCRIPTION>Name of institution to which field applies in coded form. Since there are no internationally accepted codes, the codes from USMARC Code List for Organizations, which includes codes for many non-U.S. library agencies, are recommended. Otherwise, the full name of the agency or a national code may be used. If the institution holds more than one copy the subfield should also contain the shelfmark after a colon. Not repeatable. Mandatory if field present. </DESCRIPTION>
+    </SUBFIELD>
+    <NOTES>A fingerprint is a means of identifying older monographic publications constructed by taking groups of characters from certain pages in order to make each publication uniquely identifiable. 
+
+Since no definitive formula for fingerprint has been determined by international agreement, various forms of fingerprint will be considered acceptable. It is recommended to use a method of fingerprint construction found in Fingerprints = Empreintes = Impronte. Paris : Institut de Recherche et d&apos;Histoire des Textes in association with the National Library of Scotland, 1984. 
+</NOTES>
+    <RELATED tag="010" name="INTERNACIONAL STANDARD BOOK NUMBER">
+      <DESCRIPTION>The field contains the International Standard Book Number. 
+</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="301" name="NOTES PERTAINING TO IDENTIFICATION NUMBERS">
+      <DESCRIPTION>The field contains a note on the fingerprint identifier.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">012 ##$aocon humi nche covn 3 MDLXXX$2fei$5CiZaNSB: R II F-8° -307
+Fingerprint for Opera di Marco Marulo da Spalato Circa L&apos;Institutione del buono e beato vivere. In Venetia, 1580. Fingerprint taken from a copy in the National and University Library (Nacionalna i sveucilišna biblioteka), Zagreb, pressmark R II F-8° -307, using the rules of Fingerprints = Empreintes = Impronte. </EX>
+      <EX n="2">012 ##$a165512 - a1 *2 dol : a2 *6 m$ - b1 A r : b2 2E7 $quid$$2stcn$5NeHKB
+Fingerprint for Erasmus&apos; Colloqvia. Amstelodami, 1655. Fingerprint taken from a copy in the Royal Library (Koninklijke Bibliothek), Den Haag, using the system devised for the Short Title Catalogue (Netherlands). The dollar signs of &apos;m$&apos; and &apos;$quid$&apos; form part of the fingerprint and are not subfield identifiers.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="013" name="INTERNATIONAL STANDARD MUSIC NUMBER (ISMN)" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains an International Standard Music Number and a qualification which distinguishes between ISMN when more than one is contained in a record. The field corresponds to the ISBD Standard Number (or Alternative) and Terms of Availability Area. The field may contain the terms of availability and/or price, even if it does not contain an ISMN. </DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Number (ISMN)" mandatory="n" repeatable="n">
+      <DESCRIPTION>A correctly applied ISMN including hyphens. The ISMN are assigned by the designated agency in each country. Not repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="b" name="Qualification" mandatory="n" repeatable="n">
+      <DESCRIPTION>An indication of the scope of the ISMN in subfield $a (if present), usually the name of a publisher, an indication of the binding of the item, or an indication of the relationship of an ISMN to a set or to a particular volume (EX 1, 2). Not repeatable. </DESCRIPTION>
+      <SEEEX N="1"/>
+      <SEEEX N="2"/>
+    </SUBFIELD>
+    <SUBFIELD tag="d" name="Terms of Availability and/or Price" mandatory="n" repeatable="n">
+      <DESCRIPTION>The price of the item and any comment on its availability. Where there is an 010 International Standard Book Number field and the contents of this subfield would simply repeat what is in 010$d then the subfield can be omitted. Not repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="d" name="Terms of Availability and/or Price" mandatory="n" repeatable="n">
+      <DESCRIPTION>The price of the item and any comment on its availability. Where there is an 010 International Standard Book Number field and the contents of this subfield would simply repeat what is in 010$d then the subfield can be omitted. Not repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="z" name="Erroneous ISMN" mandatory="n" repeatable="y">
+      <DESCRIPTION>An ISMN that has been identified as being erroneously applied to an item or is otherwise invalid. It may have been allocated to two different publications and in this instance cancelled, or it may have been incorrectly printed (EX 3). Repeatable. </DESCRIPTION>
+      <SEEEX N="3"/>
+    </SUBFIELD>
+    <NOTES>ISMN structure: 
+
+The ISMN is used to identify music publications, whether available for sale, hire, gratis or for copyright purposes only, according to the provisions of ISO 10957. 
+
+Each separately available constituent part of a publication must receive its own ISMN. An ISMN consists of the letter M followed by nine digits. Whenever it is printed or written, the number is preceded by letter ISMN. In countries where the Latin alphabet is not used, an abbreviation in the local script may be used in addition to the Latin letters ISMN. 
+
+The ISMN is divided into four elements, two of which are of variable length, each of which is separated by a hyphen or space. 
+
+Distinguishing element: The letter M distinguishes the ISMN from the ISBN. 
+
+Publisher identifier: Designates the publisher of a given music publication. It is allocated to each publisher by a national or regional ISMN agency. 
+
+Item identifier: Identifies an edition of a work and the various items within it. An item, in the terms of the Standard, is one separately saleable or available or obtainable constituent part of a music publication. 
+
+Check character: This is a single digit at the end of the ISMN that provides an automatic verification of the correctness of the ISMN. It is computer calculated. 
+
+Verification of check character: 
+
+The check character is calculated on a modulus 10 with alternating weights of 3 and 1 assigned from left to right beginning with the letter M prefix. The letter M counts as 3. 
+
+This means that each of the first nine characters of the ISMN - i.e. excluding the check digit itself - is multiplied by an alternating sequence of the numbers 3 and 1 from left to right and that the sum of the products thus obtained, plus the check digit, must be divisible without remainder by 10. 
+
+For example: 
+
+  
+ 
+Publisher prefix   
+ 
+ Title Number   
+   
+   
+ 
+Check digit 
+ISMN
+ 
+M 
+3 
+4 
+5 
+2 
+4 
+6 
+8 
+0 
+5   
+ 
+Weight
+ 
+3 
+1 
+3 
+1 
+3 
+1 
+3 
+1 
+3 
+    
+ 
+Products
+ 
+9 
+3 
+12 
+5 
+6 
+4 
+18 
+8 
+0 
+= 65   
+ 
+
+
+Total: 65 + 5 (check digit) = 70 
+
+As 70 can be divided by 10 without remainder M-345-24680-5 is a valid International Standard Music Number. 
+
+Data format: 
+
+The letters ISMN, which are usually found printed with an ISMN on the item, should not be entered in field 013. 
+
+Any ISMN which is found to be wrongly printed on the item can be entered in subfield $z, Erroneous ISMN, which is provided to give access to records that may have been requested by an erroneous number appearing on the item. 
+
+Hyphens are inserted to separate the four parts of the number in the $a or $z subfield. No other punctuation is permitted. The purpose of the hyphens or spaces in the ISMN is to separate the distinct parts. When an ISMN is displayed in a catalogue entry the inclusion of the hyphens or spaces is mandatory. Many national agencies do not store the hyphens or spaces in the machine-readable record since they can be generated by algorithm if the range of publisher identifiers which have been allocated is known. When records are exchanged internationally the recipient of records may not always know the range of publisher identifiers. Therefore it is recommended that hyphens always be included in the ISMN in field 013 to ensure the display output. 
+
+Strictly speaking, each music publication has one ISMN. However, there are circumstances in which a single record may need to include more than one ISMN, depending on the policy of the cataloguing agency. Examples of situations in which multiple ISMN might appear in a record are: where a publisher issues a work in more than one binding or physical format, each with a different ISMN, and a single record is created by the agency encompassing more than one of the &apos;editions&apos;, where a single record is created for a multi-volume publication and different ISMN have been assigned by the publisher to each individual volume in the set and to the set as a whole; where a single item is published, or published and distributed, by more than one entity, each of which has assigned a separate ISMN to the item. 
+
+In order to distinguish between ISMN when there is more than one in a record, qualifications may be added to one or more of them, according to the practice of the agency preparing the record. 
+
+Terms of availability and price are often related to each ISMN. Thus this information is recorded in the same field. Punctuation is included with the data as required. 
+
+The field should be repeated for each valid ISMN. It should be repeated for an invalid ISMN unless that invalid ISMN clearly relates to a known valid equivalent entered in the record, in which case the invalid ISMN will be entered in the same field as its corresponding valid ISMN (EX 3). 
+
+Some agencies may use the ISMN as record identifier and enter it in the field 001. In those cases the ISMN should be entered additionally in field 013. 
+</NOTES>
+    <RELATED tag="010" name="INTERNACIONAL STANDARD BOOK NUMBER (ISBN)">
+      <DESCRIPTION>The field contains the International Standard Book Number. It is sometimes difficult to decide whether a publication is a music edition or a &quot;normal&quot; book, or both. In these cases both an ISMN and an ISBN may be assigned. </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="011" name="INTERNACIONAL STANDARD SERIAL NUMBER (ISSN)">
+      <DESCRIPTION>There are only a few periodicals of printed music, but many music publications are issued in series. Both categories should be assigned, an ISSN for the serial title and an ISMN for each individual item in the series.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">013 ##$aM-706700-00-7$b(HDS)
+013 ##$aM-705701-00-4$b(MIC)
+The item is published jointly by Hrvatsko drustvo skladatelja and Muzicki informativni centar. </EX>
+      <EX n="2">013 ##$aM-9005202-2-7$b(bound)
+013 ##$aM-9005202-3-4$b(pbk)
+The publication is available both in bound and in paperback edition. </EX>
+      <EX n="3">013 ##$aM-9005202-1-0$zM-9005202-1-X
+ISMN M-9005202-1-0 is incorrectly printed with an X as the check digit.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="014" name="ARTICLE IDENTIFIER" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains a unique, unambiguous code assigned to journal articles. </DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Article Identifier" mandatory="n" repeatable="n">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <SUBFIELD tag="z" name="Erroneous Article Identifier" mandatory="n" repeatable="y">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <SUBFIELD tag="2" name="System Code" mandatory="n" repeatable="y">
+      <DESCRIPTION>The subfield contains an identification of the system under which the identifier was constructed. Not repeatable. Codes: 
+biblid Bibliographic Identification of Contributors in Serials and Books (ISO 9115)
+sici Serial Item and Contributor Identifier (ANSI/NISO Z39.56) 
+
+Note: ISO 9115 has been withdrawn and the use of the biblid is not recommended. 
+ </DESCRIPTION>
+    </SUBFIELD>
+    <NOTES>This field contains the number formatted according to the systems identified in subfield $2. </NOTES>
+    <EXAMPLES>
+      <EX n="1">014 ##$a0024-2519/91/6103-0003$01.00$2sici
+The article identifier for &quot;Core Journal Networks and Cocitation Maps: New Bibliometric Tools for Serials Research and Management&quot; in Library Quarterly, v.61, no.3. The second $ is part of the citation and not a subfield mark. </EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="015" name=" INTERNATIONAL STANDARD TECHNICAL REPORT NUMBER (ISRN)" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains the ISRN as assigned by a national ISRN Centre. It corresponds to the ISBD Standard Number (or Alternative) and Terms of Availability Area. </DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Number (ISRN)" mandatory="n" repeatable="n">
+      <DESCRIPTION>A correctly applied ISRN including hyphens. The ISRN are assigned by the designated agency in each country. Not repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="b" name="Qualification" mandatory="n" repeatable="n">
+      <DESCRIPTION>An indication of the scope of the ISRN in subfield $a (if present), usually the name of a publisher, an indication of the binding of the item, or an indication of the relationship of an ISRN to a set or to a particular volume. Not repeatable.</DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="d" name="Terms of Availability and/or Price" mandatory="n" repeatable="n">
+      <DESCRIPTION>The price of the item and any comment on its availability. Not repeatable.</DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="z" name="Cancelled/Invalid/Erroneous ISRN" mandatory="n" repeatable="y">
+      <DESCRIPTION>An ISRN that has been identified as being erroneously applied to an item or is otherwise invalid. It may have been allocated to two different publications and in this instance cancelled, or it may have been incorrectly printed. Repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <NOTES/>
+    <RELATED tag="010" name="INTERNACIONAL STANDARD BOOK NUMBER (ISBN)">
+      <DESCRIPTION>A number similar in use to the ISRN but applied to books. </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="011" name="INTERNACIONAL STANDARD SERIAL NUMBER (ISSN)">
+      <DESCRIPTION>A number similar in use to the ISRN but applied to serials. </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="014" name="ARTICLE IDENTIFIER">
+      <DESCRIPTION>A code assigned to journal articles.</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="040" name="CODEN">
+      <DESCRIPTION>An additional identification system for serials. </DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">015 ##$aKU-CL-TR--6-96--GB
+Kent University Computing Laboratory Technical Report 6-96. An ISRN assigned by the issuing agency in the United Kingdom (country code GB). </EX>
+      <EX n="2">015 ##$aCEA-DAS-STAS-SPI--88/1-FR
+Commissariat à l&apos;Energie Atomique, Département d&apos;Analyse de Sûreté, Service Technique d&apos;Analyse de Sûreté, Section Protection Incendie. 1988, rapport n° 1. An ISRN assigned by the issuing agency in France. </EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="016" name="INTERNATIONAL STANDARD RECORDING CODE (ISRC) " mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains an International Standard Recording Code and a qualification which distinguishes between ISRCs when more than one is contained in a record. The field corresponds to the ISBnot a government publicationD Standard Number (or Alternative) and Terms of Availability Area. The field may contain the terms of availability and/or price, even if it does not contain an ISRC.</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Number (ISRC)" mandatory="n" repeatable="n">
+      <DESCRIPTION>A correctly applied ISRC including hyphens. The ISRCs are assigned by the designated agency in each country. Not repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="b" name="Qualification" mandatory="n" repeatable="n">
+      <DESCRIPTION>An indication of the scope of the ISRC in subfield $a (if present), usually the name of a publisher, an indication of the binding of the item, or an indication of the relationship of an ISRC to a set or to a particular volume. Not repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="d" name="Terms of Availability and/or Price" mandatory="n" repeatable="n">
+      <DESCRIPTION>The price of the item and any comment on its availability. Where there is an 010 International Standard Book Number field and the contents of this subfield would simply repeat what is in 010$d then the subfield can be omitted. Not repeatable.</DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="z" name="Erroneous ISRC" mandatory="n" repeatable="y">
+      <DESCRIPTION>An ISRC that has been identified as being erroneously applied to an item or is otherwise invalid. It may have been allocated to two different publications and in this instance cancelled, or it may have been incorrectly printed. Repeatable</DESCRIPTION>
+    </SUBFIELD>
+    <NOTES>ISRC structure:
+
+The ISRC is used to identify an audio, video or audio-visual recording, according to the provisions of ISO 3901. 
+Each separately available constituent part of a publication must receive its own ISRC. An ISRC consists of twelve digits. Whenever it is printed or written, the number is preceded by letter ISRC. In countries where the Latin alphabet is not used, an abbreviation in the local script may be used in addition to the Latin letters ISRC.
+
+The ISRC is divided into five elements, two of which are of variable length, each of which is separated by a hyphen.
+
+Country code: A two-letter country code assigned from ISO 3166-1.
+
+First owner code: An alphanumeric 3 character code assigned by nominated agencies.
+
+Year of recording code: The last two digits of the year.
+
+Recording code: This consists of three or four digits, assigned by the first owner. If there are fewer than ten recorded items the code will be in the range 0000-2999; if there are more than nine the code will be in the range 300-999.
+
+Recording item code: This consists of a number from 0-9 if the recording code has four digits and a number from 00-99 if the recording code has three.
+
+Data format:
+
+The letters ISRC, which are usually found printed with an ISRC on the item, should not be entered in field 016. 
+Any ISRC which is found to be wrongly printed on the item can be entered in subfield $z, Erroneous ISRC, which is provided to give access to records that may have been requested by an erroneous number appearing on the item.
+
+Hyphens are inserted to separate the five parts of the number in the $a or $z subfield. No other punctuation is permitted. The purpose of the hyphens in the ISRC is to separate the distinct parts. When an ISRC is displayed in a catalogue entry the inclusion of the hyphens is mandatory. Many national agencies do not store the hyphens in the machine-readable record since they can be generated by algorithm if the range of publisher identifiers which have been allocated is known. When records are exchanged internationally the recipient of records may not always know the range of publisher identifiers. Therefore it is recommended that hyphens always be included in the ISRC in field 016 to ensure the display output.
+
+
+In order to distinguish between ISRCs when there is more than one in a record, qualifications may be added to one or more of them, according to the practice of the agency preparing the record.
+
+Terms of availability and price are often related to each ISRC. Thus this information is recorded in the same field. Punctuation is included with the data as required.
+
+The field should be repeated for each valid ISRC. It should be repeated for an invalid ISRC unless that invalid ISRC clearly relates to a known valid equivalent entered in the record, in which case the invalid ISRC will be entered in the same field as its corresponding valid ISRC.
+
+Some agencies may use the ISRC as record identifier and enter it in the field 001. In those cases the ISRC should be entered additionally in field 016. </NOTES>
+    <RELATED tag="010" name="INTERNACIONAL STANDARD BOOK NUMBER (ISBN)">
+      <DESCRIPTION>The field contains the International Standard Book Number. It is sometimes difficult to decide whether a publication is a music edition or a &quot;normal&quot; book, or both. In these cases both an ISRC and an ISBN may be assigned.</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="011" name="INTERNACIONAL STANDARD SERIAL NUMBER (ISSN)">
+      <DESCRIPTION>There are only a few periodicals of printed music, but many music publications are issued in series. Both categories should be assigned, an ISSN for the serial title and an ISRC for each individual item in the series.</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="013" name="INTERNACIOANL STANDARD MUSIC NUMBER (ISMN)">
+      <DESCRIPTION>The ISMN is used for printed music. </DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">016 ##$aFR-Z03-91-012-31
+An ISRC for Phonogram France allocated in 1991.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="020" name="NATIONAL BIBLIOGRAPHY NUMBER" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains the number allocated to the record of a bibliographic item by the national bibliographic agency, and an indication of the country of the agency. </DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Country Code" mandatory="y" repeatable="y">
+      <DESCRIPTION>An identification of the country of the national bibliography (EX 1-4). Not repeatable</DESCRIPTION>
+      <SEEEX N="1"/>
+      <SEEEX N="2"/>
+      <SEEEX N="3"/>
+      <SEEEX N="4"/>
+    </SUBFIELD>
+    <SUBFIELD tag="b" name="Number" mandatory="n" repeatable="n">
+      <DESCRIPTION>The number as assigned by the agency (EX 14). Not repeatable. 
+</DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="z" name="Erroneous Number" mandatory="y" repeatable="y">
+      <DESCRIPTION>A number erroneously assigned to a record (EX 2). Repeatable.</DESCRIPTION>
+    </SUBFIELD>
+    <NOTES>The preferred form of the national bibliography number entered in subfield $b is the form in which it is assigned by the agency including spaces, hyphens and other punctuation and following capitalization, etc. The country code of the country of the national bibliography is entered in subfield $a as a two-character, upper case alphabetic code from ISO 3166. For details see Appendix B. When a country has more than one national bibliography, it is suggested that the agencies providing the bibliographies agree on a numeric code suffix to add to the country code to differentiate them. 
+
+An erroneous number may be entered in subfield $z. When only an erroneous number is known, the field will contain a subfield $z without subfield $b being present. 
+
+When the national bibliography number is used as the record identifier in field 001, it should be entered additionally in field 020. 
+</NOTES>
+    <RELATED tag="" name="">
+      <DESCRIPTION/>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">020 ##$aAU$b67-6
+An Australian National Bibliography Number. </EX>
+      <EX n="2">020 ##$aCA$bCM73-6722XF
+020 ##$aCA$zCM78-6722XF
+A correct and an erroneous Canadian number. </EX>
+      <EX n="3">020 ##$aDD$b83,A16,0553
+020 ##$aDD$b82,N46,0092
+The record for an item in the Deutsche Bibliographie contains a repeated 020 field since the item has appeared twice in the Deutsche Bibliographie; the earlier version of the record was a CIP record. Though the record containing the repeated fields is simply an upgrade of the CIP record, it includes the earlier number since this is the practice of the agency preparing the record</EX>
+      <EX n="4">020 ##$aGB$bB81-15605
+A number from the British National Bibliography</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="021" name="LEGAL DEPOSIT NUMBER" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains the number assigned to the item being recorded by the legal deposit or copyright office in each country</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="a Country Code" mandatory="n" repeatable="n">
+      <DESCRIPTION>An identification of the country of the legal deposit agency assigning the number. Not repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="b" name="Number" mandatory="n" repeatable="n">
+      <DESCRIPTION>As assigned by the agency. Not repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="z" name="Erroneous Number" mandatory="n" repeatable="y">
+      <DESCRIPTION>A number erroneously assigned to an item. Repeatable.</DESCRIPTION>
+    </SUBFIELD>
+    <NOTES>The preferred form of the legal deposit number is the form in which it is assigned by the agency, including spaces, hyphens and other punctuation, and following original capitalization, etc. The country code of the country of legal deposit assigning the number is entered in subfield $a as a two-character, upper case alphabetic code from ISO 3166. For details see Appendix B. 
+
+An erroneous number may be entered in subfield $z. When only an erroneous number is known the field will contain a subfield $z without subfield $b being present. 
+
+If the legal deposit number is used as the record identifier in field 001, it should be entered additionally in field 021. 
+</NOTES>
+    <EXAMPLES>
+      <EX n="1">021 ##$aUS$bA68778
+A United States legal deposit number.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="022" name="GOVERNMENT PUBLICATION NUMBER" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains the number assigned to one of its own publications or to an item published on its behalf by a government body</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Country Code" mandatory="n" repeatable="n">
+      <DESCRIPTION>An identification of the country in which the document is published (EX l-3). Not repeatable.</DESCRIPTION>
+      <SEEEX N="1"/>
+      <SEEEX N="2"/>
+      <SEEEX N="3"/>
+    </SUBFIELD>
+    <SUBFIELD tag="b" name="Number" mandatory="n" repeatable="n">
+      <DESCRIPTION>The number as assigned by the government body. Not repeatable.</DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="z" name="Erroneous Number" mandatory="n" repeatable="n">
+      <DESCRIPTION>A number erroneously assigned to a government publication. Repeatable.</DESCRIPTION>
+    </SUBFIELD>
+    <NOTES>This field is used for numbers on government documents at any level. It may be used for the publications of any level of governmental authority and for international and intergovernmental organizations. In the case of international and intergovernmental organizations, subfield $a is omitted (EX 4). The country code entered in subfield $a is a two-character, upper case alphabetic code from ISO 3166. For details see Appendix B. 
+
+The number is entered in the form in which it appears on the document including spaces, hyphens and other punctuation. 
+
+An erroneous number may be entered in subfield $z. When only an erroneous number is known, the field will contain subfield $z without subfield $b being present. 
+<SEEEX N="4"/>
+    </NOTES>
+    <RELATED tag="100" name="GENERAL PROCESSING DATA, Government Publication Code (character position 20)">
+      <DESCRIPTION>This character position indicates whether the item is a government publication and the level of government responsible for it.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">
+022 ##$aZA$bRP64/77
+South African government publication number. </EX>
+      <EX n="2">022 ##$aUS$bhE17.302.W58/91
+United States government publication. </EX>
+      <EX n="3">022 ##$aGB$bECC.56/81
+A publication of Essex County Council, United Kingdom</EX>
+      <EX n="4">022 ##$bPGI/81/WS/22
+A UNESCO publication. </EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="035" name="OTHER SYSTEM CONTROL NUMBERS" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains the control number of records obtained from other sources.</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="System Control Number" mandatory="n" repeatable="n">
+      <DESCRIPTION>A code for the organisation in parentheses followed by the system control number for the record in that organisation&apos;s database. Since there are no internationally accepted codes, the codes from USMARC Code List for Organizations are recommended. Otherwise, the full name of the agency or a national code may be used. Not repeatable.</DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="z" name="Cancelled or Invalid Control Number" mandatory="n" repeatable="y">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <RELATED tag="001" name="RECORD IDENTIFIER">
+      <DESCRIPTION>The control number used as the unique identifier by the agency preparing the record.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">001 b9301298
+035 ##$a(CiZaNSB)920701098
+801 #0$aHR$bCiZaNSB$c960507$gPPIAK$2unimyu
+801 #2$aGB$bUk$c960702
+The original control number of a record derived from one created by the National and University Library, Zagreb.</EX>
+      <EX n="2">035 ##$a(FrPBN)frBN001148436
+801 #0$aFR$bFrPBN$c951105$gAFNOR$2intermarc
+801 #2$aUS$bDLC$c970212
+The control number originally assigned by the Bibliothèque nationale in France.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="040" name="CODEN (SERIALS)" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains a unique, unambiguous code assigned to titles of serials by the International CODEN Service. </DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="CODEN" mandatory="n" repeatable="n">
+      <DESCRIPTION>The six character code of which the last character is an alphanumeric digit. Not repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="z" name="Erroneous CODEN" mandatory="n" repeatable="y">
+      <DESCRIPTION>A CODEN that has been identified as being erroneously applied to an item or is otherwise invalid. It may have been allocated to two different publications and in this instance cancelled, or it may have been incorrectly printed. Repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <NOTES>CODEN is a unique six-character code for a periodical title assigned by the International CODEN Service to scientific and technical serials. 
+
+The first five characters of the CODEN are alphabetic and based on the title of the serial, the last is an alphanumeric check digit, e.g. JACSAT for Journal of the American Chemical Society, where T is the check digit. 
+</NOTES>
+    <RELATED tag="011" name="INTERANCIONAL STANDARD SERIAL NUMBER">
+      <DESCRIPTION>A numeric code also applied to serials to identify them uniquely. 
+</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">040 ##$aANPYA2
+The CODEN for Annalen der Physik.</EX>
+      <EX n="2">040 ##$aJPHYA7
+The CODEN for Journal of Physiology (London).</EX>
+      <EX n="3">040 ##$aKREBAG
+The CODEN for Krebsarzt.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="071" name="PUBLISHER'S NUMBER (SOUND RECORDINGS AND MUSIC) " mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains publisher&apos;s numbers used for sound recordings and publications of music. </DESCRIPTION>
+    <IND1 name="Type of Publisher's Number">
+      <DESCRIPTION>This indicator specifies the type of publisher&apos;s number contained in the field. It may be used to generate introductory text if a note is to be displayed from this field (EX 2, 4).</DESCRIPTION>
+      <OPTION value="0" name="Issue number"/>
+      <OPTION value="1" name="Matrix number"/>
+      <OPTION value="2" name="Plate number"/>
+      <OPTION value="3" name="Other publisher's number (printed music) "/>
+      <SEEEX N="2"/>
+      <SEEEX N="4"/>
+    </IND1>
+    <IND2 name="Note Indicator">
+      <DESCRIPTION>This indicator specifies whether the agency supplying the record would use the data to display a note. If a generated note is not required (perhaps because the agency has also entered details in a 300 or 301 field (EX 3)) then this number should be set to 0.</DESCRIPTION>
+      <OPTION value="0" name="Do not make a note"/>
+      <OPTION value="1" name="Make a note"/>
+    </IND2>
+    <SUBFIELD tag="a" name="Publisher's Number" mandatory="n" repeatable="n">
+      <DESCRIPTION>The number as assigned by the agency. Not repeatable. 
+</DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="b" name="Source" mandatory="n" repeatable="n">
+      <DESCRIPTION>The agency which assigned the number. Not repeatable.</DESCRIPTION>
+    </SUBFIELD>
+    <NOTES>The issue or label number is the number used to identify the issue designation or serial identification assigned by a publisher to a specific sound recording, to a side of a sound recording, to a performance on a sound recording, or to a group of sound recordings issued as a set. The issue number normally appears on the label and often on the packaging for these recordings. For a set of recordings there may be issue numbers on each disc and an additional set number on the packaging. 
+
+The matrix number is used to identify the master from which the specific recording was pressed, usually appearing inscribed in the wax disc. It may be used for identification of a sound recording in the absence of an issue or label number. 
+
+The plate number is a serial number assigned by a publisher to a specific music publication. It is usually printed at the bottom of each page of music and sometimes appears also on the title page. 
+
+Other publishers&apos; numbers are numbers similar to plate numbers but not appearing on each page of the publication. They may appear on the title page, the cover, and/or the first page of music. 
+</NOTES>
+    <RELATED tag="301" name="NOTES PERTAINING TO IDENTIFICATION NUMBERS">
+      <DESCRIPTION>Unformatted publisher&apos;s numbers are recorded solely in this field. 
+If the number as recorded in field 071 can be used in the same form, indicator 2 is set to 1 and a note will be generated. Otherwise indicator 2 is set to 0 and a note is added in field 301. 
+</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">071 0l$aSTMA 8007$bTamla Motown
+An issue designation for a sound recording published by Tamla Motown. A note will be generated, e.g. Tamla Motown: STMA 8007</EX>
+      <EX n="2">071 21$aA 880 V$bArs Viva Verlag
+A plate number for printed music. A note will be generated, e.g. Pl. no.: A 880 V </EX>
+      <EX n="3">071 20$aB. &amp; H. 8797$bBreitkopf &amp; Härtel
+071 20$aB. &amp; H. 8798$bBreitkopf &amp; Härtel
+071 20$aB. &amp; H. 8799$bBreitkopf &amp; Härtel
+071 20$aB. &amp; H. 8800$bBreitkopf &amp; Härtel
+071 20$aB. &amp; H. 8801$bBreitkopf &amp; Härtel
+301 ##$aPlate no.: B. &amp; H. 8797-8801
+A sequence of plate numbers for printed music. Notes are not to be generated from the 071 fields; because a summary note is made in field 301. This example and example 2 illustrate differing practices in abbreviating &quot;Plate number&quot; by different agencies.</EX>
+      <EX n="4">071 31$aN.M. 170$bNova Music
+A publisher&apos;s number for printed music. A note will be generated, e.g.
+Publisher&apos;s no.: N.M. 170 </EX>
+    </EXAMPLES>
+  </FIELD>
+</FORMAT>

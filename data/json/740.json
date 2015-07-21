@@ -1,0 +1,144 @@
+[{
+  "fields": [
+    [
+      "001",
+      "740"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00037334"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19870801d1983    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "ger"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >felicidade não se compra",
+      "f",
+      "Hans Hellmut Kirst",
+      "g",
+      "trad. Cecília Marcelo"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "1981"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "262, [1] p.",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Livros de bolso Europa-América",
+      "v",
+      "277"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. Gluck lasst sich nicht Kaufen"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Kirst",
+      "b",
+      "Hans Hellmut",
+      "f",
+      "1914-1989"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Marcelo",
+      "b",
+      "Cecilia Ana Figueiredo",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060619155928&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005345",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 KIR fel 277"
+    ]
+  ]
+}]

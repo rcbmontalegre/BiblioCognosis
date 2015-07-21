@@ -1,0 +1,19 @@
+00725nam  2200217   450
+001   1002
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20061013d1986    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <Um >país quente $f Shiva Naipaul $g trad. Lucilia Filipa
+210    $a Lisboa $c Teorema $d D.L. 1986
+215    $a 158 p. $d 21 cm
+225 2  $a Estórias $i Série especial $v 1
+304    $a Tít. orig. A hot country
+675    $a 821 $v BN $z por
+700  1 $a Naipaul $b Shiva $f 1945-1985
+702  1 $a Filipe $b Lucília $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060705164208&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0008915 $l BMM $s SCG 821 NAI paí 1
+966    $a 0008925 $l BMM $s SCG 821 NAI paí 1

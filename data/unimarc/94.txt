@@ -1,0 +1,20 @@
+00708nam  2200229   450
+001   94
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT
+095    $a PTBN00112284
+100    $a 20061013d1988    em y0pora0103    ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a Ehrengarda, a Ninfa do Lago $f Karen Blixen $g trad. Daniel Gonçalves
+210    $a Lisboa $c Quetzal $d 1988
+215    $a 104 p. $d 20 cm
+225 2  $a Graffiti
+304    $a Tít. orig. : Ehrengard
+675    $a 821
+700  1 $a Blixen $b Karen $f 1885-1962
+702  1 $a Gonçalves $b Daniel $f 1921- $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060508155656&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008271 $l BMM $s SCG 821 BLI ehr

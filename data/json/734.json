@@ -1,0 +1,154 @@
+[{
+  "fields": [
+    [
+      "001",
+      "734"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00286792"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20070518d1971    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Todo o homem é uma guerra civil",
+      "f",
+      "Jean Lartéguy",
+      "g",
+      "trad. Rogério Lima"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "2ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Amadora",
+      "c",
+      "Bertrand",
+      "d",
+      "[D.L. 1971]-"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "v",
+      "d",
+      "20 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Autores universais"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : Tout homme est une guerre civil"
+    ],
+    [
+      "327",
+      "0 ",
+      "a",
+      "1º v. - 354 p"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Lartéguy",
+      "b",
+      "Jean",
+      "c",
+      "pseud"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Lima",
+      "b",
+      "Rogério",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060619150416&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009064",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 LAR tod"
+    ]
+  ]
+}]

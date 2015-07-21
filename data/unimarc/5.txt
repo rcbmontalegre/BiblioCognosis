@@ -1,0 +1,21 @@
+00777nam  2200241   450
+001   5
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+021    $a PT $b 19881/88
+095    $a PTBN00129484
+100    $a 20061013d1988    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a Crónica de uma serva $f Margaret Atwood $g trad. A. Martins Lopes
+210    $a Mem Martins $c Europa-América $d D.L. 1988
+215    $a 250, [1] p. $d 21 cm
+225 2  $a Nébula $v 24)
+304    $a Tít. orig. : The handmaid's tale
+675    $a 821 $v BN $z por
+700  1 $a Atwood $b Margaret $f 1939
+702  1 $a Lopes $b A. Martins $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060503145305&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0010173 $l BMM $s SCG 821 ATW cro 24

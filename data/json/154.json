@@ -1,0 +1,130 @@
+[{
+  "fields": [
+    [
+      "001",
+      "154"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00755480"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19950724d1952    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >profeta branco",
+      "f",
+      "Haill Caine",
+      "g",
+      "trad. Januário Leite"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "7ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Clássica",
+      "d",
+      "1952"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "434, [1] p.",
+      "d",
+      "20 cm"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tit. orig. : The white prophet"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Caine",
+      "b",
+      "Hall",
+      "f",
+      "1853-1931"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Leite",
+      "b",
+      "Januário",
+      "f",
+      "1865-1930",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009136",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 CAI pro"
+    ]
+  ]
+}]

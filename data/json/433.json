@@ -1,0 +1,116 @@
+[{
+  "fields": [
+    [
+      "001",
+      "433"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "d--------k  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "BR"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >Cascata Rubra",
+      "f",
+      "M. Delly",
+      "g",
+      "Lygia Estrada"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "São Paulo",
+      "c",
+      "Livraria Zenith"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "187 p.",
+      "d",
+      "19 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "v",
+      "7"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "bn",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Delly",
+      "c",
+      "pseud"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Estrada",
+      "b",
+      "Lygia",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008238",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DEL cas 7"
+    ]
+  ]
+}]

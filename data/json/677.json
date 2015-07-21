@@ -1,0 +1,140 @@
+[{
+  "fields": [
+    [
+      "001",
+      "677"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1987    d  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Sete setas",
+      "f",
+      "Carlos Pinhão",
+      "g",
+      "il. Melo Frazão"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "[S.l.]",
+      "c",
+      "Horizonte",
+      "d",
+      "1987"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "14 p.",
+      "c",
+      "il.",
+      "d",
+      "16 cm"
+    ],
+    [
+      "225",
+      "0 ",
+      "a",
+      "Sete estrelas",
+      "v",
+      "15"
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Literatura infantil"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Poesia"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "82-1"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Pinhão",
+      "b",
+      "Carlos",
+      "f",
+      "1924-1993"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Frazão",
+      "b",
+      "Melo",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060524145615&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0002654",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-1 PIN set 15"
+    ]
+  ]
+}]

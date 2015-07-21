@@ -1,0 +1,18 @@
+00721nam  2200205   450
+001   754
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 19740201d1974    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <O >zero e o infinito $f Arthur Koestler $g trad. Juvenal Jacinto
+210    $a Lisboa $c Clube Port. do Livro e do Disco $d [D.L. 1974]
+215    $a 237, [3] p. $d 21 cm
+225 2  $a Romances do nosso tempo
+304    $a Tít. orig.: Darkness at moon
+675    $a 821 $v BN $z por
+700  1 $a Koestler $b Arthur $f 1905-1983
+702  1 $a Jacinto $b Juvenal $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060620102621&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0005342 $l BMM $s SCG 821 KOE zer 208

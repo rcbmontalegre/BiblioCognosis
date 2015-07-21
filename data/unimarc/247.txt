@@ -1,0 +1,22 @@
+00791nam  2200253   450
+001   247
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-665-323-1
+021    $a PT $b 43071/91
+095    $a PTBN00352172
+100    $a 20061013d1991    m  y0pory010305  ba
+101 1  $a por $c fre
+102    $a PT
+105    $a y   zzzz001aa
+106    $a r
+200 1  $a Tartarin de Tarascon $f Alphonse Daudet $g trad. Pandemónio
+210    $a Lisboa $c Guimarães Editores $d imp. 1991
+215    $a 133, [3] p. $d 17 cm
+225 2  $a <Os >livros imortais
+675    $a 821 $v BN $z por
+700  1 $a Daudet $b Alphonse $f 1840-1897
+702  1 $a Marques $b Henrique $f 1859-1933
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060510155302&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008585 $l BMM $s SCG 821 DAU tar

@@ -1,0 +1,23 @@
+00954nam  2200265   450
+001   616
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+021    $a PT $b 14.196/86
+100    $a 20061013d19711986|||y0pory010305  ba
+101 0  $a por
+102    $a PT
+200 1  $a <O >Sol e os meninos dos pés frios $f Matilde Rosa Araújo
+205    $a 7ª ed
+210    $c Horizonte $d 1986
+215    $a 91 p. $d 23cm
+608    $a Conto $2 Autoridade $3 PT9999-00-10-2009040123590005380
+608    $a Literatura infantil e juvenil $2 Autoridade $3 PT9999-00-10-2009040123590005446
+608    $a Publicações para crianças e jovens $2 Autoridade $3 PT-----------2012021614460005594
+675    $a 821.134.3-34
+675    $a 087.5
+700  1 $a Araújo $b Matilde Rosa $f 1921-
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060522161613&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0001654 $l BMM $s SJ 821.134.3 ARA sol
+966    $a 0001656 $l BMM $s SJ 821.134.3-34 ARA sol

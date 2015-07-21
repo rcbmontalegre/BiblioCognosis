@@ -1,0 +1,25 @@
+01027nam  2200289   450
+001   148
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-20-1020-4
+021    $a PT $b 60320/92
+095    $a PTBN00387577
+100    $a 19920727d1992    m  y0pory0103    ba
+101 1  $a por $c ita
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a <O >atalho dos ninhos de aranha $f Italo Calvino $g trad. Maria do Carmo Abreu
+205    $a 1ª ed
+210    $a Lisboa $c Dom Quixote $d 1992
+215    $a 227 p. $d 24 cm
+225 2  $a Ficção universal $v 112
+304    $a Tít. orig. : Il sentiero dei nidi di ragno
+325    $a Registo sonoro. Lido por Maria Elisa Pessoa Jorge. - Lisboa : BN, 1993. - 4 cassetes 90 min. (5 h. 24 min.)
+675    $a 850-31"19" $v BN $z por $3 408169
+700  1 $a Calvino $b Italo $f 1923-1985 $3 19894
+702  1 $a Abreu $b Maria do Carmo $4 730 $3 1755
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060509145650&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008470 $l BMM $s SCG 821 CAL ata 112

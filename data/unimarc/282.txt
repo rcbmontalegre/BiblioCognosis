@@ -1,0 +1,23 @@
+00971nam  2200265   450
+001   282
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+100    $a 20061013d1982    am y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <O >Natal do Sr. Scrooge $a <Os >sinos de Ano Novo $f Charles Dickens $g trad. Lucília Filipe
+210    $a Mem Martins $c Europa-América $d [D.L. 1982]
+215    $a 166 p. $d 18 cm
+225 2  $a Livros de bolso Europa-América $v 220
+304    $a Tít. orig. : A Christmas carol; The chimes
+517 1  $a <Os >sinos de Ano Novo
+532 12 $a <O >Natal do Senhor Scrooge
+675    $a 821 $v BN $z por
+700  1 $a Dickens $b CharlesCharles John Huffam $f 1812-1870
+702  1 $a Filipe $b Lucília $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060511102023&ext=jpg $z CAPA
+909 	  $a 3
+966    $a 0005187 $l BMM $s SCG 821 DIC nat
+966    $a 0005188 $l BMM $s SCG 821 DIC nat
+966    $a 1003413 $l BEM $s BEM 821.1/.8 DIC

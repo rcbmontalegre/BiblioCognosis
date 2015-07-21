@@ -1,0 +1,138 @@
+[{
+  "fields": [
+    [
+      "001",
+      "543"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20120117d1985    m  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "ger"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >castelo",
+      "f",
+      "Franz Kafka",
+      "g",
+      "trad. Vinga Martins"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Livros do Brasil",
+      "d",
+      "[D.L. 1985]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "406, [7] p.",
+      "d",
+      "22 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Dois mundos",
+      "v",
+      "91"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Das Schloss"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Kafka",
+      "b",
+      "Franz",
+      "f",
+      "1883-1924"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Martins",
+      "b",
+      "Vinga",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060518102955&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008900",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 KAF cas 91"
+    ]
+  ]
+}]

@@ -1,0 +1,144 @@
+[{
+  "fields": [
+    [
+      "001",
+      "828"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19880311d1979    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Despertar na campina",
+      "f",
+      "Mariano Calado",
+      "g",
+      "il.: Nunes Calado Mateus"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Multinova",
+      "d",
+      "1979"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "102, [2] p.",
+      "c",
+      "il.",
+      "d",
+      "18 cm"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821.134.3"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Calado",
+      "b",
+      "Mariano",
+      "f",
+      "1928-"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Mateus",
+      "b",
+      "João Maria Calado",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060626121158&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "3"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001869",
+      "l",
+      "BMM",
+      "s",
+      "SJ 821.134.3 CAL des"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001868",
+      "l",
+      "BMM",
+      "s",
+      "SJ 821.134.3 CAL des"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001867",
+      "l",
+      "BMM",
+      "s",
+      "SJ 821.134.3 CAL des"
+    ]
+  ]
+}]

@@ -1,0 +1,144 @@
+[{
+  "fields": [
+    [
+      "001",
+      "682"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d19811990d  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >onda grande e boa",
+      "f",
+      "Carlos Pinhão",
+      "g",
+      "ilustraçöes de Paula Amaral"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "[S.l.]",
+      "c",
+      "Horizonte",
+      "d",
+      "cop.1981"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "32p.",
+      "c",
+      "il.",
+      "d",
+      "23cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Pássaro livre",
+      "v",
+      "26"
+    ],
+    [
+      "300",
+      "  ",
+      "a",
+      "Obra duplicada"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "82-93"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Pinhão",
+      "b",
+      "Carlos",
+      "f",
+      "1924-1993"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Amaral",
+      "b",
+      "Paula",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060524152400&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001639",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-93 PIN ond 26"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001640",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-93 PIN ond 26"
+    ]
+  ]
+}]

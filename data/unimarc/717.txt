@@ -1,0 +1,25 @@
+00914nam  2200289   450
+001   717
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 972-25-1229-3
+021    $a PT $b 238679/06
+021    $a PT
+100    $a 20030910g20039999me y0pory0103    ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <O >filho das sombras $e Sevenwaters $f Juliet Marillier $g trad.: Irene Daun e Lorena, Nuno Daun e Lorena
+205    $a 10ª ed
+210    $a Lisboa $c Bertrand $d 2006
+215    $a 462 p. $d 23 cm
+225 2  $a Grandes romances
+304    $a Tít. orig.: Daughter of the forest
+327 1  $a Livro II da Trilogia Sevenwaters
+517 1  $a Sevenwaters
+675    $a 821
+700  1 $a Marillier $b Juliet
+702  1 $a Lorena $b Nuno Daun e $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060530115012&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0016743 $d II $l BMM $s SCG 821 MAR fil 2

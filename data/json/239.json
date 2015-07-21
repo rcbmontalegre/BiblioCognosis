@@ -1,0 +1,184 @@
+[{
+  "fields": [
+    [
+      "001",
+      "239"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00014963"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1980    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Artur no 7º de Cavalaria",
+      "f",
+      "Alan Coren",
+      "g",
+      "il. de John Astrop",
+      "g",
+      "trad. Manuel Granjeio Crespo"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Plátano",
+      "d",
+      "1980"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "69, [2] p.",
+      "c",
+      "il.",
+      "d",
+      "20 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "<As >desnorteantes aventuras de Artur Oeste",
+      "v",
+      "5"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Arthur's last stand"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "087.5",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Coren",
+      "b",
+      "Alan",
+      "f",
+      "1938-"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Astrop",
+      "b",
+      "John",
+      "4",
+      "440"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Crespo",
+      "b",
+      "Manuel Granjeio",
+      "c",
+      "pseud",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060510152325&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "3"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008732",
+      "l",
+      "BMM",
+      "s",
+      "SJ 087.5 COR art 5"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "1100248",
+      "l",
+      "BEBB",
+      "s",
+      "BEBB 82-93 COR 5"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "1003117",
+      "l",
+      "BEM",
+      "s",
+      "BEM 087.5 COR"
+    ]
+  ]
+}]

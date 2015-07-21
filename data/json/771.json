@@ -1,0 +1,164 @@
+[{
+  "fields": [
+    [
+      "001",
+      "771"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-41-3584-5"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "235540/06"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d2004 m y0pory0103 ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "ita"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Desesperadamente Giulia",
+      "f",
+      "Sveva Casati Modignani",
+      "g",
+      "tradução de Regina Valente"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "6ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "Asa",
+      "d",
+      "2006"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "375, [8] p.",
+      "d",
+      "23 cm"
+    ],
+    [
+      "225",
+      "0 ",
+      "a",
+      "Romance"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Disperatamente Giulia"
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Literatura italiana"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Romance"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821.131.1-31"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Modignani",
+      "b",
+      "Sveva Casati",
+      "c",
+      "pseud."
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Valente",
+      "b",
+      "Regina",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060621093126&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0016754",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 MOD des"
+    ]
+  ]
+}]

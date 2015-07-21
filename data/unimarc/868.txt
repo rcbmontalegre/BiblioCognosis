@@ -1,0 +1,22 @@
+00905nam  2200253   450
+001   868
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 14389/87
+095    $a PTBN00040436
+100    $a 19870526g1987    e  y0pory0103    ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <Os >filhos do capitão Grant $f Júlio Verne $g trad. Ana Rabaça
+210    $a Mem Martins $c Europa-América $d D.L. 1987-
+215    $a v. $c il. $d 18 cm
+225 2  $a Livros de bolso Europa-América $v 480
+304    $a Tít. orig. Les enfants du capitaine Grant
+327 0  $a 2" v. : 188 p.
+675    $a 087.5 $v BN $z por $v med $z por $3 287999
+700  1 $a Verne $b Jules $f 1828-1905 $3 27932
+702  1 $a Rabaça $b Ana Maria $4 730 $3 24332
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060627142830&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0003179 $l BMM $s SJ 087.5 VER fil 480
+966    $a 0005527 $l BMM $s SJ 087.5 VER fil 480 Vol.2

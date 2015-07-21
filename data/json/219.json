@@ -1,0 +1,208 @@
+[{
+  "fields": [
+    [
+      "001",
+      "219"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d19859999m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >bicicleta azul",
+      "f",
+      "Régine Deforges",
+      "g",
+      "trad. Lígia Guterres"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Inquérito",
+      "d",
+      "[D.L. 1985]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "vol",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Romance universal",
+      "v",
+      "8, 10"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : La bicyclette bleue"
+    ],
+    [
+      "327",
+      "1 ",
+      "a",
+      "Vol. 1: Caminho entre ruínas (1939-1942). - 364 p",
+      "a",
+      "Vol. 2: A coragem de resistir (1942-1944) . - 288 p",
+      "a",
+      "vol. 3: O fim do pesadelo (1944-1945), - 351 p"
+    ],
+    [
+      "517",
+      "0 ",
+      "a",
+      "Caminho entre ruínas (1939-1942)"
+    ],
+    [
+      "517",
+      "0 ",
+      "a",
+      "<A >coragem de resistir (1942-1944)"
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Literatura francesa"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Romance"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Deforges",
+      "b",
+      "Régine"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Gutérres",
+      "b",
+      "Lígia",
+      "f",
+      "1932",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060510143544&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060510143556&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060510143607&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "3"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008572",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DEF cam 8"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008573",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DEF cor 10"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008574",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DEF fim 11"
+    ]
+  ]
+}]

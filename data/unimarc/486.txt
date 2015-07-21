@@ -1,0 +1,21 @@
+00843nam  2200241   450
+001   486
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00043027
+100    $a 19870717d1987    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a Verão perigoso $f Ernst Hemingway $g trad. Eduardo Saló $g pref. James A. Michener
+210    $a Lisboa $c Livros do Brasil $d 1987
+215    $a 245 p., [16] p. $c il. $d 22 cm
+225 2  $a Dois mundos $v 163
+304    $a Tít. orig. The dangerous summer
+675    $a 821 $v bn $z por
+700  1 $a Hemingway $b Ernest $f 1899-1961
+702  1 $a Saló $b Eduardo $4 730
+702  1 $a Michener $b James A. $f 1907- $4 080
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060517150150&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0008619 $l BMM $s SCG 821 HEM ver 163
+966    $a 0008618 $l BMM $s SCG 821 HEM ver 163

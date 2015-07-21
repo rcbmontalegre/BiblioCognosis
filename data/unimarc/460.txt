@@ -1,0 +1,23 @@
+00896nam  2200265   450
+001   460
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 28299/89
+095    $a PTBN00191280
+100    $a 20061013d1989    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   000ay
+200 1  $a Inocência perversa $f Patricia Highsmith $g trad. Gabriel Ruivo Crespo e Maria Paula Ferreira de Carvalho
+205    $a 2ª ed
+210    $a Lisboa $c Gradiva $d 1989
+215    $a 320 p. $d 21 cm
+225 2  $a Não incomode $v 11
+304    $a Tít. orig. The blunderer
+675    $a 82-312.4 $v BN $z por
+700  1 $a Highsmith $b Patricia $f 1921-1995
+702  1 $a Crespo $b Gabriel Ruivo $4 730
+702  1 $a Carvalho $b Maria Paula Ferreira de $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060517120452&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008612 $l BMM $s SCG 82-312.4 HIG ino 11

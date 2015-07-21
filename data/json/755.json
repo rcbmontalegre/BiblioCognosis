@@ -1,0 +1,136 @@
+[{
+  "fields": [
+    [
+      "001",
+      "755"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00275853"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19931130d1973    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "ger"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "A cavalo dado...",
+      "f",
+      "Hildegard Knef",
+      "g",
+      "trad. Isabel Cardigos dos Reis"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Amadora",
+      "c",
+      "Bertrand",
+      "d",
+      "1973"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "487 p.",
+      "d",
+      "20 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Autores universais",
+      "h",
+      "Série monumental"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Der geschenkte Gaul"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Knef",
+      "b",
+      "Hildegard"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Reis",
+      "b",
+      "Cardigos dos",
+      "f",
+      "?-1989",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008707",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 KNE cav"
+    ]
+  ]
+}]

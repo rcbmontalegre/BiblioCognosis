@@ -1,0 +1,138 @@
+[{
+  "fields": [
+    [
+      "001",
+      "529"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00739284"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19950526d1957    km y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "dan"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Paixão de Maria Grubbe",
+      "e",
+      "romance",
+      "f",
+      "Jens Peter Jacobsen",
+      "g",
+      "trad. de Maria Franco",
+      "g",
+      "pref. de Jean Carson"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Estúdios Cor",
+      "d",
+      "1957"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "267 p.",
+      "d",
+      "20 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Latitude",
+      "v",
+      "20"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tit. orig. : Maria Grubbe"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Jacobsen",
+      "b",
+      "Jens Peter",
+      "f",
+      "1847-1885"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060518095659&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008933",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 JAC pai 20"
+    ]
+  ]
+}]

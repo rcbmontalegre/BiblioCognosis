@@ -1,0 +1,144 @@
+[{
+  "fields": [
+    [
+      "001",
+      "50"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-709-013-3"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00351835"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1990    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >trilogia de Nova Iorque",
+      "f",
+      "Paul Auster",
+      "g",
+      "trad. Luzia Maria Martins"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Difusão Cultural",
+      "d",
+      "imp. 1990"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "365 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: The New York trilogy"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Auster",
+      "b",
+      "Paul",
+      "f",
+      "1947-"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Martins",
+      "b",
+      "Luzia Maria",
+      "f",
+      "1926-2000",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060504161934&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008211",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 AUS tri"
+    ]
+  ]
+}]

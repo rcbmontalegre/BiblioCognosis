@@ -1,0 +1,172 @@
+[{
+  "fields": [
+    [
+      "001",
+      "955"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-20-0624-X"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "42679/91"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19910730d1991    m  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<As >senhoras de Missalonghi",
+      "f",
+      "Colleen McCullough",
+      "g",
+      "trad.: J. Teixeira de Aguilar",
+      "g",
+      "il.: Peter Chapman"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "2ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Dom Quixote",
+      "d",
+      "1991"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "151 p.",
+      "c",
+      "il.",
+      "d",
+      "24 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Ficção universal",
+      "v",
+      "85"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : The ladies of Missalonghi"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "MacCullough",
+      "b",
+      "Colleen"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Aguilar",
+      "b",
+      "J. Teixeira de",
+      "f",
+      "1945-",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Chapman",
+      "b",
+      "Peter",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060703114513&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009113",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 McC sen 85"
+    ]
+  ]
+}]

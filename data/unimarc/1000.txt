@@ -1,0 +1,22 @@
+00770nam  2200253   450
+001   1000
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+021    $a PT $b 51184/92
+095    $a PTBN00395377
+100    $a 19921105d1992    m  y0pory010305  ba
+101 1  $a por
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a Aurélia ou o sonho e a vida $f Gérard de Nerval $g trad., pref. e notas de José Caselas
+210    $a Lisboa $c Usus $d 1992
+215    $a 115, [1] p. $d 21 cm
+225 2  $a Hidra
+675    $a 840-34"18" $v BN $z por
+700  1 $a Nerval $b Gérard de $c pseud.
+702  1 $a Caselas $b José $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060705162735&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008918 $l BMM $s SCG 821 NER aur

@@ -1,0 +1,23 @@
+00917nam  2200265   450
+001   173
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+100    $a 20061013d1987----k y0pora010305 ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <Um >espião perfeito $f John Le Carré $g trad.: Ana Luísa Faria, Miguel Serras Pereira
+205    $a 3ª ed
+210    $a Lisboa $c Dom Quixote $d 1987
+215    $a 500 p. $d 24 cm
+225 2  $a Ficção universal $v 17
+304    $a Tít. orig. A perfect spy
+606    $a Literatura inglesa
+608    $a Romance policial $2 Autoridade $3 PT9999-00-10-2009040123590005542
+675    $a 82-312.4 $v BN $z por
+700  1 $a Le Carré $b John $c pseud.
+702  1 $a Faria $b Ana Luísa $4 730
+702  1 $a Pereira $b Miguel Serras $f 1949- $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060509171354&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008220 $l BMM $s SCG 82-312.4 LeC esp 17

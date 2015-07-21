@@ -1,0 +1,17 @@
+00681nam  2200193   450
+001   966
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 19940129d1972    m  y0pory010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a Bel-ami $f Henri René Albert Guy de Maupassant $g trad. Cesar Oldemiro
+210    $a Lisboa $c Europa-América $d 1972
+215    $a 212, 1 p. $c 18 cm
+225 2  $a Livros de bolso Europa-América $v 22
+675    $a 840-31 $v med $z por
+700  1 $a Maupassant $b Guy de $f 1850-1893
+702  1 $a César $b Oldemiro $f 1884-1953 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060704100836&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0005459 $l BMM $s SCG 821 MAU bel 22

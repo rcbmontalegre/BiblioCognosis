@@ -1,0 +1,25 @@
+00848nam  2200289   450
+001   142
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 972-20-0497-2
+021    $a PT $b 55633/92
+095    $a PTBN00376808
+100    $a 19920715d1992    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a Mulheres $f Charles Bukowski $g trad. Fernando Luís
+205    $a 2ª ed
+210    $a Lisboa $c Dom Quixote $d 1992
+215    $a 292 p. $d 23 cm
+225 2  $a Ficções & cª $v 11
+304    $a Tít. orig.: Women
+675    $a 821 $v BN $z por
+700  1 $a Bukowski $b Charles $f 1920-1994
+702  1 $a Luís $b Fernando $f 1960 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060509143108&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008416 $l BMM $s SCG 821 BUK mul 11

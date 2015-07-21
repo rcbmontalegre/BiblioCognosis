@@ -1,0 +1,18 @@
+00681nam  2200205   450
+001   974
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 19821201d1982    m  y0pora010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a <A >esperança $f André Malraux $g trad. Judith Cortesão
+210    $a Lisboa $c Livros do Brasil $d [D.L. 1982]
+215    $a 477, [3] p. $d 22 cm
+225 2  $a Dois mundos $v 125
+304    $a Tít. orig. L'espoir
+675    $a 821 $v BN $z por
+700  1 $a Malraux $b André $f 1901-1976
+702  1 $a Cortesão $b Judite D. $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060704161737&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0009017 $l BMM $s SCG 821 MAL esp 125

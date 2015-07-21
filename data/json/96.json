@@ -1,0 +1,176 @@
+[{
+  "fields": [
+    [
+      "001",
+      "96"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "15521/87"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00040427"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19870525g19879999m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Sete contos góticos",
+      "f",
+      "Karen Blixen",
+      "g",
+      "trad. Maria José Jorge"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Dom Quixote",
+      "d",
+      "1987"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "v.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Biblioteca de bolso Dom Quixote",
+      "h",
+      "secção I",
+      "i",
+      "Ficção",
+      "v",
+      "15",
+      "v",
+      "16"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. Seven gothic tales"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "830.8-34",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Blixen",
+      "b",
+      "Karen",
+      "f",
+      "1885-1962"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Jorge",
+      "b",
+      "Maria José",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060508162315&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060508170009&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008286",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 BLI set 15"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0011638",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 BLI set 16"
+    ]
+  ]
+}]

@@ -1,0 +1,164 @@
+[{
+  "fields": [
+    [
+      "001",
+      "932"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "8368"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00035864"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19870126d1986    a  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "b",
+      "fre",
+      "c",
+      "ara"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Sindbad, o marinheiro",
+      "f",
+      "versão port. António José Massano",
+      "g",
+      "il. Gustave Dori"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Teorema",
+      "d",
+      "imp. 1986"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "95 p.",
+      "d",
+      "19 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Sésamo",
+      "v",
+      "3;"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Contos de As mil e uma noites"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "087.5",
+      "v",
+      "bn",
+      "z",
+      "por"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Massano",
+      "b",
+      "António José",
+      "4",
+      "010"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Dori",
+      "b",
+      "Gustave",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060630112704&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0003150",
+      "l",
+      "BMM",
+      "s",
+      "SJ 087.5 MAS sin 3"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0003149",
+      "l",
+      "BMM",
+      "s",
+      "SJ 087.5 MAS sin 3"
+    ]
+  ]
+}]

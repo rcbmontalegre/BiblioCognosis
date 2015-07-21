@@ -1,0 +1,19 @@
+00748nam  2200217   450
+001   742
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00763157
+100    $a 19950818d1977    m  y0pory010305  ba
+101 1  $a por $c ger
+102    $a PT
+200 1  $a <A >noite dos generais $e romance $f Hans Helmut Kirst $g trad. de Maria da Luz da Mota Veiga
+205    $a 3ª ed
+210    $a Lisboa $c Europa-América $d 1977
+215    $a 416 p., 2 f $d 19 cm
+225 2  $a Século XX
+304    $a Tít. orig. : Die nacht der generale
+700  1 $a Kirst $b Hans Hellmut $f 1914-1989
+702  1 $a Veiga $b Maria da Luz Mota $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060619160758&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008702 $l BMM $s SCG 821 KIR noi 78

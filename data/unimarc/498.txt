@@ -1,0 +1,20 @@
+00801nam  2200229   450
+001   498
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 17817/87
+095    $a PTBN00130013
+100    $a 19880920d1987    m  y0pora010305  ba
+101 1  $a por $c ger
+102    $a PT
+200 1  $a <A >angústia do guarda-redes antes do penalty $f Peter Handke $g trad. Maria Adélia Silva Melo
+210    $a Lisboa $c Relógio d'Água $d D.L. 1987
+215    $a 100 p. $d 21 cm
+225 2  $a Ficções $v 24
+304    $a Tít. orig. : Die Angst des Formanns beim Elfmeter
+675    $a 830(436)-31 $v BN $z por
+700  1 $a Handke $b Peter $f 1942-
+702  1 $a Melo $b Maria Adélia Silva $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060517152916&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008769 $l BMM $s SCG 821 HAN ang 24

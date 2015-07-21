@@ -1,0 +1,170 @@
+[{
+  "fields": [
+    [
+      "001",
+      "16657"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "34199/90"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20140404d1990    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Reflexão",
+      "e",
+      "à margem da literatura portuguesa",
+      "f",
+      "Agostinho da Silva",
+      "g",
+      "pref.: F. da Cunha Leão"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "2ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Guimarães Editores",
+      "d",
+      "1990"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "142 p.",
+      "d",
+      "19 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Filosofia e ensaios"
+    ],
+    [
+      "606",
+      "1 ",
+      "a",
+      "Literatura portuguesa",
+      "2",
+      "Autoridade",
+      "3",
+      "PT-----------2012041710390005598"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Ensaio",
+      "2",
+      "Autoridade",
+      "3",
+      "PT-----------2012071011260005390"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821.134.3-4"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Silva",
+      "b",
+      "Agostinho da",
+      "f",
+      "1906-1994",
+      "2",
+      "Autoridade",
+      "3",
+      "PT-----------2014032710210006074"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Leão",
+      "b",
+      "Francisco da Cunha",
+      "f",
+      "1907-1974",
+      "4",
+      "080 [Autor do prefácio]"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.aspx?cod=20140404161446&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0004801",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821.134.3-4 SIL ref"
+    ]
+  ]
+}]

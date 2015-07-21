@@ -1,0 +1,16 @@
+00518nam  2200181   450
+001   992
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+100    $a 20001016f19601970k  y0pory0103    ba
+101 0  $a por
+102    $a PT
+200 1  $a Encontro no Outono $f Ilse Losa
+210    $a Lisboa $c Portugália
+215    $a 139 p. $d 19 cm
+225 2  $a Contemporânea $v 68
+675    $a 821.134.3-34
+700  1 $a Losa $b Ilse $f 1913-2006
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0009063 $l BMM $s SCG 821.134.3-34 LOS enc 68

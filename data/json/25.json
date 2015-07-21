@@ -1,0 +1,166 @@
+[{
+  "fields": [
+    [
+      "001",
+      "25"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-23-2362-8"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "138046/99"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1999    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "spa"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   001ay"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >anatomista",
+      "f",
+      "Federico Andahazi",
+      "g",
+      "trad. Maria Bragança"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "3ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Presença",
+      "d",
+      "1999"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "210 p.",
+      "d",
+      "23 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Grandes narrativas",
+      "v",
+      "65"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: El anatomista"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Andahazi",
+      "b",
+      "Federico"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Bragança",
+      "b",
+      "Maria Gabriela de",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060504122633&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0015455",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 AND ana 65"
+    ]
+  ]
+}]

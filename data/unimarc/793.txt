@@ -1,0 +1,24 @@
+00856nam  2200277   450
+001   793
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 972-21-1256-2
+021    $a PT $b 134972/99
+100    $a 20000222d1999    de y0pory010305  ba
+101 0  $a por
+102    $a PT
+105    $a y   z   000ay
+200 1  $a Diário secreto de Camila $f Ana Maria Magalhães, Isabel Alçada
+210    $a Lisboa $c Caminho $d imp. 1999
+215    $a 159 p. $d 21 cm
+225 2  $a Livros do dia e da noite
+606    $a Literatura portuguesa
+606    $a Literatura juvenil
+608    $a Diários
+675    $a 82-94 $v BN $z por
+700  1 $a Magalhães $b Ana Maria $f 1946-
+701  1 $a Alçada $b Isabel $c pseud $4 070
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060622110317&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0016760 $l BMM $s SJ 82-94 MAG diá

@@ -1,0 +1,21 @@
+00817nam  2200241   450
+001   860
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+100    $a 20061013f19751980m  y pory010305  ba
+101 0  $a por
+102    $a PT
+105    $a a   t   000dy
+200 1  $a PREC II $e de Junho de 1977 a Novembro de 1978 $f Augusto Cid
+210    $a Lisboa $c Intervenção
+215    $a [211] p. $c todo il. $d 20x26 cm
+606    $a Política
+608    $a Banda desenhada $2 Autoridade $3 PT-----------2012082717440005561
+608    $a Cartoons $2 Autoridade $3 PT-----------2012082717490005604
+675    $a 74
+700  1 $a Cid $b Augusto $f 1941-
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060627110125&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0003460 $l BMM $s SCG 74 CID pre
+966    $a 0006156 $l BMM $s SCG 74 CID pre

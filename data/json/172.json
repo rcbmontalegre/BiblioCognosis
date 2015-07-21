@@ -1,0 +1,176 @@
+[{
+  "fields": [
+    [
+      "001",
+      "172"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-20-0015-2"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "72135/93"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1994    m  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   000ay"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<Um >espião perfeito",
+      "f",
+      "John Le Carré",
+      "g",
+      "trad.: Ana Luísa Faria, Miguel Serras Pereira"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "6ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Dom Quixote",
+      "d",
+      "1994"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "500 p.",
+      "d",
+      "24 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Ficção universal",
+      "v",
+      "17"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: A perfect spy"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Le Carré",
+      "b",
+      "John",
+      "c",
+      "pseud."
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Faria",
+      "b",
+      "Ana Luísa",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Pereira",
+      "b",
+      "Miguel Serras",
+      "f",
+      "1949-",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060509170800&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008338",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 LeC esp 17"
+    ]
+  ]
+}]

@@ -1,0 +1,22 @@
+00823nam  2200253   450
+001   977
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 21213/89
+100    $a 20061013d1989 m y0pory0103 ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y z 000ay
+200 1  $a Reflexos nuns olhos de oiro $f Carson McCullers $g tradução de Cabral do Nascimento
+210    $a Lisboa $c Relógio d'Água $d D.L. 1989
+215    $a 109 p. $d 21 cm
+225 2  $a Ficções
+304    $a Tít. orig.: Reflections in a golden eye
+606    $a Literatura americana
+608    $a Romance
+675    $a 821
+700  1 $a McCullers $b Carson $f 1917-1967
+702  1 $a Nascimento $b Cabral do $f 1897-1978 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060704165856&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0009187 $l BMM $s SCG 821 McC ref

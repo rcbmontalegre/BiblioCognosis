@@ -1,0 +1,24 @@
+00955nam  2200277   450
+001   115
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-29-0078-1
+021    $a PT $b 216581/2004
+100    $a 20030725g20039999ma y0pory0103    ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a <As >brumas de Avalon $f Marion Zimmer Bradley $g trad. Maria Dulce Teles de Menezes
+205    $a 24ª ed
+210    $a Miraflores $c Difel $d 2004
+215    $a v $d 24 cm
+304    $a Tít. orig.: The mists of Avalon
+327 1  $a 1" v. : A senhora da magia.- 2002 . - 316 p
+517 1  $a <A >senhora da magia
+675    $a 821.111(73)-31"19" $v BN $z por $v BN $z por $3 290736
+700  1 $a Bradley $b Marion Zimmer $f 1930-1999 $3 39261
+702  1 $a Meneses $b Maria Dulce Teles de $4 730 $3 48480
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060509101532&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0016281 $l BMM $s SCG 821 BRA bru

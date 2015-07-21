@@ -1,0 +1,162 @@
+[{
+  "fields": [
+    [
+      "001",
+      "798"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00022855"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20120517d1981    m  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Diário de Anne Frank",
+      "e",
+      "<de >12 de Junho de 1942 a 1 de Agosto de 1944",
+      "g",
+      "trad., pref.: Ilse Losa"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Livros do Brasil",
+      "d",
+      "1981"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "349, [3] p.",
+      "d",
+      "22 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Dois mundos",
+      "v",
+      "33"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Het Achterhuis"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Diários",
+      "2",
+      "Autoridade",
+      "3",
+      "PT-----------2012042016150005185"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "82-94"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Frank",
+      "b",
+      "Anne",
+      "f",
+      "1929-1945"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Losa",
+      "b",
+      "Ilse",
+      "f",
+      "1913-2006",
+      "4",
+      "730",
+      "4",
+      "080 [Autor do prefácio]"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060622121124&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008854",
+      "l",
+      "BMM",
+      "s",
+      "SCG 82-94 FRA diá 33"
+    ]
+  ]
+}]

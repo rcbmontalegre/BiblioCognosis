@@ -1,0 +1,198 @@
+[{
+  "fields": [
+    [
+      "001",
+      "195"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-44-0744-6"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "40985/90"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20090226d1990    m  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   000ay"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Curvas perigosas",
+      "f",
+      "Peter Cheyney",
+      "g",
+      "trad. Maria João Matos",
+      "g",
+      "rev. de trad. Ana Heloísa Alves"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Edições 70",
+      "d",
+      "D.L. 1990"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "221 p.",
+      "d",
+      "24 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Alibi",
+      "i",
+      "Série especial"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Os clássicos do romance policial.",
+      "i",
+      "Alibi",
+      "v",
+      "27"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : Dangerous curves"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "820-312.4",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Cheyney",
+      "b",
+      "Peter",
+      "f",
+      "1896-1951",
+      "3",
+      "26201"
+    ],
+    [
+      "702",
+      " 1",
+      "9",
+      "1",
+      "a",
+      "Matos",
+      "b",
+      "Maria João",
+      "4",
+      "730",
+      "3",
+      "26204"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Alves",
+      "b",
+      "Ana Heloísa",
+      "4",
+      "730",
+      "3",
+      "26205"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060510101652&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008841",
+      "l",
+      "BMM",
+      "s",
+      "SCG 82-312.4 CHE cur 27"
+    ]
+  ]
+}]

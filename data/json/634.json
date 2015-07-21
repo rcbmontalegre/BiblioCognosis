@@ -1,0 +1,138 @@
+[{
+  "fields": [
+    [
+      "001",
+      "634"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00251954"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19890314d1983    a  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >guitarra da boneca",
+      "f",
+      "Matilde Rosa Araújo",
+      "g",
+      "il. de Evelina Coelho"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Horizonte",
+      "d",
+      "1983"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "32 p.",
+      "c",
+      "il."
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "087.5",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "3",
+      "287999"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Araújo",
+      "b",
+      "Matilde Rosa",
+      "f",
+      "1921-",
+      "3",
+      "6567"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Coelho",
+      "b",
+      "Evelina",
+      "4",
+      "440",
+      "3",
+      "425714"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060522165802&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001128",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-1 ARA gui"
+    ]
+  ]
+}]

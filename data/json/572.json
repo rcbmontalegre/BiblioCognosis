@@ -1,0 +1,122 @@
+[{
+  "fields": [
+    [
+      "001",
+      "572"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19941004d1974    km y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Até à eternidade",
+      "f",
+      "James Jones",
+      "g",
+      "trad. de Daniel Gonçalves"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "Inova",
+      "d",
+      "imp. 1974"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "1124 p.",
+      "d",
+      "23 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Metamorfoses",
+      "h",
+      "Nova série",
+      "v",
+      "9"
+    ],
+    [
+      "300",
+      "  ",
+      "a",
+      "Tít. orig. : Tít. orig. From here to eternity"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "bn",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Jones",
+      "b",
+      "James",
+      "f",
+      "1921-1977"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008642",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 JON até 9"
+    ]
+  ]
+}]

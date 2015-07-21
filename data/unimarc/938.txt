@@ -1,0 +1,20 @@
+00766nam  2200229   450
+001   938
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+100    $a 20020426d1988    m  y1pory010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a <O >outro lado da cidade $f Ed Mcbain $g trad. Maria Amélia Gentil
+205    $a 1ª ed
+210    $a Lisboa $c Gradiva $d 1988
+215    $a 280 p. $d 21 cm
+225 2  $a Não incomode $v 20
+304    $a Tít. orig. : Another part of the city
+675    $a 821.111(73)-314.2 Mcbain, Ed $v BN $z por
+700  1 $a McBain $b Ed $c pseud. $f 1926-
+702  1 $a Gentil $b Maria Amélia $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060703092456&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0009180 $l BMM $s SCG 82-312.4 McB out 20

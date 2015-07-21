@@ -1,0 +1,138 @@
+[{
+  "fields": [
+    [
+      "001",
+      "946"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19870224d1986    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >parque dos veados",
+      "f",
+      "Norman Mailer",
+      "g",
+      "trad. Eduardo Saló"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Livros do Brasil",
+      "d",
+      "1986"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "377 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Dois mundos",
+      "v",
+      "159"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : The deer park"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Mailer",
+      "b",
+      "Norman",
+      "f",
+      "1923-"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Saló",
+      "b",
+      "Eduardo",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060703103307&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009020",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 MAI par 159"
+    ]
+  ]
+}]

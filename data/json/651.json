@@ -1,0 +1,152 @@
+[{
+  "fields": [
+    [
+      "001",
+      "651"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "25626/89"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1989 a y0pory0103 ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Viagem pelo mundo da folia",
+      "f",
+      "Fernando Bento Gomes",
+      "g",
+      "ilustração de Ivone Ralha"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Caminho",
+      "d",
+      "1989"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "156p.",
+      "c",
+      "il.",
+      "d",
+      "19cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "<A >nossa rua",
+      "v",
+      "5"
+    ],
+    [
+      "606",
+      "1 ",
+      "a",
+      "Literatura juvenil"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Prosa narrativa"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "087.5"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Gomes",
+      "b",
+      "Fernando Bento",
+      "f",
+      "1938-"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Ralha",
+      "b",
+      "Ivone",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060523095724&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0002400",
+      "l",
+      "BMM",
+      "s",
+      "SJ 821.134.3 GOM via 5"
+    ]
+  ]
+}]

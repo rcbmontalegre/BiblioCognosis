@@ -1,0 +1,25 @@
+00950nam  2200289   450
+001   477
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-20-0741-6
+021    $a PT $b 30639/89
+095    $a PTBN00224104
+100    $a 19900116d1989    m  y0pory0103    ba
+101 1  $a por $c ger
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a Demian $e história da juventude de Emil Sinclair $f Hermann Hesse $g trad. Isabel de Almeida e Sousa
+205    $a 1ª ed
+210    $a Lisboa $c Dom Quixote $d 1989
+215    $a 155, [3] p. $d 24 cm
+225 2  $a Ficção universal $v 60
+304    $a Tít. orig.: Demian
+675    $a 830-31 $v BN $z por $3 326702
+700  1 $a Hesse $b Hermann $f 1877-1962 $3 32145
+702  1 $a Mendonça $b Luís $f 1937- $4 550 $3 279224
+702  1 $a Sousa $b Isabel de Almeida e $3 34724
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060517144319&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008791 $l BMM $s SCG 821 HES dem 60

@@ -1,0 +1,172 @@
+[{
+  "fields": [
+    [
+      "001",
+      "54"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-1-02725-1"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "61419/92"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00201831"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19891003d1989    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   000ay"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Um",
+      "f",
+      "Richard Bach",
+      "g",
+      "trad. Sophie Vinga"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "4ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "D.L. 1992"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "238, [1] p.",
+      "d",
+      "22 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Obras de Richard Bach"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: One"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "820(73)-31 Bach, Richard",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Bach",
+      "b",
+      "Richard"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Vinga",
+      "b",
+      "Sophie Penberthy",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060508101401&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005116",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 BAC um"
+    ]
+  ]
+}]

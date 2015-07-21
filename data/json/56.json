@@ -1,0 +1,136 @@
+[{
+  "fields": [
+    [
+      "001",
+      "56"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00434872"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1964    km y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >rosário",
+      "f",
+      "Florence Barclay",
+      "g",
+      "trad. de Maria Franco"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Minerva",
+      "d",
+      "1964"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "317, [1] p.",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Minerva",
+      "i",
+      "Série Branca"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : The rosary"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Barclay",
+      "b",
+      "Florence",
+      "f",
+      "1862-1921"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Franco",
+      "b",
+      "Maria",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008157",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 BAR ros"
+    ]
+  ]
+}]

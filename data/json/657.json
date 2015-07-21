@@ -1,0 +1,120 @@
+[{
+  "fields": [
+    [
+      "001",
+      "657"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013f19781979m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Enquanto houver sol há esperança",
+      "f",
+      "Fernando Bento Gomes"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Comunicação",
+      "d",
+      "1979"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "47, [1] p.",
+      "d",
+      "24 cm"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821.134.3-93"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Gomes",
+      "b",
+      "Fernando Bento",
+      "f",
+      "1938-"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060523101349&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001686",
+      "l",
+      "BMM",
+      "s",
+      "SI 821.134.3-93 GOM enq"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001689",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-93 GOM enq"
+    ]
+  ]
+}]

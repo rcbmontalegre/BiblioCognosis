@@ -1,0 +1,19 @@
+00671nam  2200217   450
+001   637
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+021    $a PT $b 98362/96
+100    $a 20140305d1996    |||y0pory010305  ba
+101 0  $a por
+102    $a PT
+200 1  $a História com recadinho $f Luísa Dacosta $g ilust.: Karin Somero
+205    $a 2ª ed
+210    $a Porto $c Figueirinhas $d 1996
+215    $a 52p. $c il. $d 30 cm
+675    $a 821.134.3-34
+700  1 $a Dacosta $b Luísa $f 1927-
+702  1 $a Somero $b Karin $4 440
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060522172453&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0015106 $l BMM $s SI 821.134.3-34 DAC his

@@ -1,0 +1,148 @@
+[{
+  "fields": [
+    [
+      "001",
+      "761"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19860701d1986    k  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Ultramarina",
+      "f",
+      "Malcolm Lowry",
+      "g",
+      "trad. Fernanda Pinto Rodrigues"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Livros do Brasil",
+      "d",
+      "1986"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "261, [10] p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Dois mundos",
+      "v",
+      "156"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. Ultramarine"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Lowry",
+      "b",
+      "Malcolm",
+      "f",
+      "1909-1957"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Rodrigues",
+      "b",
+      "Fernanda Pinto",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060620143456&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008745",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 LOW ult 156"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008746",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 LOW ult 156"
+    ]
+  ]
+}]

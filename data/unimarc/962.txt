@@ -1,0 +1,18 @@
+00757nam  2200205   450
+001   962
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 19870224d1987    m  y0pory0103    ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <O >fio da navalha $f W. Somerset Maugham $g trad. Lígia Junqueira Smith
+210    $a Lisboa $c Livros do Brasil $d [D.L. 1987]
+215    $a 275, [3] p. $d 22 cm
+225 2  $a Dois mundos $v 12
+304    $a Tít. orig. : The razor's edge
+675    $a 821.111-31"19" $v BN $z por $v BN $z por $3 400881
+700  1 $a Maugham $b W. Somerset $f 1874-1965 $3 30114
+702  1 $a Smith $b Lígia Junqueira $4 730 $3 62013
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060704092814&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0009047 $l BMM $s SCG 821 MAU fio 12

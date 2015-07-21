@@ -1,0 +1,132 @@
+[{
+  "fields": [
+    [
+      "001",
+      "396"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00740677"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19930924d1977    km y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "ger"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >linguado",
+      "f",
+      "Gunter Grass",
+      "g",
+      "trad. de Veronika Siebelist de Vasconcelos"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Inquérito",
+      "d",
+      "cop. 1977"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "492 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Romance universal",
+      "v",
+      "12"
+    ],
+    [
+      "300",
+      "  ",
+      "a",
+      "Tít. oríg : Der butt"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Grass",
+      "b",
+      "Günter",
+      "f",
+      "1927-"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060516105748&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008554",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 GRA lin 12"
+    ]
+  ]
+}]

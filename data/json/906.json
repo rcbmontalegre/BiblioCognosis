@@ -1,0 +1,138 @@
+[{
+  "fields": [
+    [
+      "001",
+      "906"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19970321d1983    k  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Diário de uma criada de quarto",
+      "f",
+      "Octave Mirbeau",
+      "g",
+      "José Parreira Alves"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "2ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Inquérito",
+      "d",
+      "[D.L. 1983]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "303 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Romance universal Inquérito",
+      "v",
+      "1"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tit. orig: Le journal d'une femme de chambre"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Mirbeau",
+      "b",
+      "Octave",
+      "f",
+      "1848-1917",
+      "3",
+      "111202"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Alves",
+      "b",
+      "José Parreira",
+      "4",
+      "730",
+      "3",
+      "125585"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060629112204&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009057",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 MIR diá 1"
+    ]
+  ]
+}]

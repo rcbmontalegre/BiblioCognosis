@@ -1,0 +1,106 @@
+[{
+  "fields": [
+    [
+      "001",
+      "429"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "d--------k  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "BR"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Deus Dispõe",
+      "f",
+      "M. Delly"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Rio de Janeiro-Brasil",
+      "c",
+      "Oscar Mano & Cia"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "267 p.",
+      "d",
+      "19 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Primavera",
+      "v",
+      "33"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "bn",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Delly",
+      "c",
+      "pseud"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008364",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DEL deu 33"
+    ]
+  ]
+}]

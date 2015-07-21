@@ -1,0 +1,17 @@
+00656nam  2200193   450
+001   847
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00490053
+100    $a 19930914d1971    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <O >ninho das cegonhas $f Meindert Dejong $g trad. Maria Isabel Morna Dias Braga e Mário Augusto de Almeida Braga
+210    $a Porto $c Civilização $d 1971
+215    $a 383, [1] p. $d 19 cm
+675    $a 820(73) $v med $z por
+700  1 $a Depong $b Meindert
+702  1 $a Braga $b Maria Isabel Morna $4 730
+702  1 $a Braga $b Mário $f 1921-
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0003281 $l BMM $s SJ 087.5 DEJ nin

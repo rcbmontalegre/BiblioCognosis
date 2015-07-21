@@ -1,0 +1,176 @@
+[{
+  "fields": [
+    [
+      "001",
+      "802"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-9013-04-7"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "35223/90"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00250689"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19900508d1990    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "cat"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   000ay"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Livro do amigo e do amado",
+      "f",
+      "Ramon Llull",
+      "g",
+      "trad. Dimíter Ánguelov",
+      "g",
+      "rev. Artur Guerra"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Cotovia",
+      "d",
+      "imp. 1990"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "78, [1] p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : Llibre d'amic e amat"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "849.9-1\"12/13\"",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Llull",
+      "b",
+      "Ramon",
+      "f",
+      "1233-1315?"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Anguelov",
+      "b",
+      "Dimíter",
+      "f",
+      "1945-",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Guerra",
+      "b",
+      "Artur",
+      "4",
+      "640"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060622144002&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008940",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 LLU liv"
+    ]
+  ]
+}]

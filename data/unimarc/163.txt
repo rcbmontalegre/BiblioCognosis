@@ -1,0 +1,22 @@
+00804nam  2200253   450
+001   163
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+021    $a PT $b 13903/86
+100    $a 20041130d1986    m  y0pory0103    ba
+101 1  $a por $c ita
+102    $a PT
+105    $a y   z   000ay
+200 1  $a <O >cavaleiro inexistente $f Italo Calvino $g trad. Fernanda Ribeiro
+210    $a Lisboa $c Teorema $h 1986
+215    $a 134 p. $d 21 cm
+225 2  $a Estórias $v 7
+304    $a Tít. orig.: Il cavaliere inesistente
+675    $a 821
+700  1 $a Calvino $b Italo $f 1923-1985
+702  1 $a Ribeiro $b Fernanda $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060509161908&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0008398 $l BMM $s SCG 821 CAL cav 7
+966    $a 0008399 $l BMM $s SCG 821 CAL cav 7

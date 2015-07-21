@@ -1,0 +1,152 @@
+[{
+  "fields": [
+    [
+      "001",
+      "382"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00779466"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1971    m  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >cidade do sossego e o capote",
+      "f",
+      "Nicolau Gogol",
+      "g",
+      "trad. Ana Féria, A. Nogueira Santos e N. N."
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Europa-América",
+      "d",
+      "1971"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "184, 2 p.",
+      "c",
+      "il.",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Livros de bolso Europa-América",
+      "v",
+      "9"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Gogol",
+      "b",
+      "Nicolau Vasilievich",
+      "f",
+      "1809-1852"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Féria",
+      "b",
+      "Ana",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Santos",
+      "b",
+      "A. Nogueira",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "N. N.",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060515154048&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005312",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 GOG cid 9"
+    ]
+  ]
+}]

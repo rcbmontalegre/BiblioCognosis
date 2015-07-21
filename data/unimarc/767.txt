@@ -1,0 +1,23 @@
+00821nam  2200265   450
+001   767
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 972-41-1603-4
+021    $a PT $b 219182/04
+100    $a 20030729d2003    m  y0pory0103    ba
+101 1  $a por $c eng
+102    $a PT
+105    $a af  z   001yy
+200 1  $a Sultana $e <a >vida de uma princesa árabe $f Jean P. Sasson $g trad. Maria Luísa Santos
+205    $a 15ª ed
+210    $a Porto $c Asa $d 2005
+215    $a 205, [2] p., [8] p. il. $c il. $d 24 cm
+225 2  $a Documentos
+304    $a Tít. orig.: Princess
+675    $a 82-94
+700  1 $a Sasson $b Jean P.
+702  1 $a Santos $b Maria Luísa $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060620170025&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0016746 $l BMM $s SCG 82-94 SAS sul

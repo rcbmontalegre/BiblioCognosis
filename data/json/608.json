@@ -1,0 +1,186 @@
+[{
+  "fields": [
+    [
+      "001",
+      "608"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-36-0210-5"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "27612/89"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19901203d1989    a  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >visita ao padrinho",
+      "f",
+      "Ilse Losa",
+      "g",
+      "ilust.: Ângela Melo"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "Afrontamento",
+      "d",
+      "1989"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "41, [2] p.",
+      "c",
+      "ilust.",
+      "d",
+      "24 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Tretas e Letras",
+      "v",
+      "21"
+    ],
+    [
+      "327",
+      "1 ",
+      "a",
+      "Contém : Visita ao padrinho. - p. 7-21 ; Dois companheiros. - p. 21-33 ; Pepe o Periquito. - p. 35-41"
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Literatura portuguesa",
+      "2",
+      "Autoridade",
+      "3",
+      "PT-----------2012041710390005598"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Literatura infantil e juvenil",
+      "2",
+      "Autoridade",
+      "3",
+      "PT9999-00-10-2009040123590005446"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821.134.3-93"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Losa",
+      "b",
+      "Ilse",
+      "f",
+      "1913-2006",
+      "2",
+      "Autoridade",
+      "3",
+      "PT-----------2013112612320005977"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Melo",
+      "b",
+      "Ângela",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060522155554&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001165",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-93 LOS vis 21"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001164",
+      "l",
+      "BMM",
+      "s",
+      "SI 821.134.3-93 LOS vis"
+    ]
+  ]
+}]

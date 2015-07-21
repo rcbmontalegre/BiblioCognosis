@@ -1,0 +1,25 @@
+01065nam  2200289   450
+001   16658
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 972-695-368-5
+021    $a PT $b 140106/99
+100    $a 20140404d1999    m  y0pory01030103ba
+101 1  $a por $c ita
+102    $a PT
+200 1  $a Sobre o conto de fadas $f Italo Calvino $g trad.: José Colaço Barreiros
+210    $a Lisboa $c Teorema $d 1999
+215    $a 158 p. $d 24 cm
+225 2  $a Tinta permanente
+304    $a Tít. orig.: Sulla fiaba
+606    $a Literatura italiana $2 Autoridade $3 PT-----------2013101715540005920
+608    $a Ensaio $2 Autoridade $3 PT-----------2012071011260005390
+608    $a Crítica literária $2 Autoridade $3 PT9999-00-10-2009040123590005384
+675    $a 82-4
+675    $a 82.09
+700  1 $a Calvino $b Italo $f 1923-1985 $2 Autoridade $3 PT-----------2013103109440005951
+702  1 $a Barreiros $b José Colaço $f 1949- $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.aspx?cod=20140404165723&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0015065 $l BMM $s SCG 82.09 CAL sob

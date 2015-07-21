@@ -1,0 +1,176 @@
+[{
+  "fields": [
+    [
+      "001",
+      "967"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-1-02785-5"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1976    m  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "ita"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >príncipe",
+      "f",
+      "Nicolau Maquiavel",
+      "g",
+      "trad.: Fernanda Pinto Rodrigues, M. Antonieta Mendonça",
+      "g",
+      "comentado por Napoleão Bonaparte"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "2ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Europa-América",
+      "d",
+      "1976"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "182, [6] p.",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Livros de bolso Europa-América",
+      "v",
+      "24"
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Política"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "32"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Maquiavel",
+      "b",
+      "Nicolau Bernardo",
+      "f",
+      "1469-1527"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Rodrigues",
+      "b",
+      "Fernanda Pinto",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Mendonça",
+      "b",
+      "M. Antonieta",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Bonaparte",
+      "b",
+      "Napoleão",
+      "c",
+      "Imperador de França",
+      "f",
+      "1769-1821",
+      "4",
+      "212"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060704104539&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0015363",
+      "l",
+      "BMM",
+      "s",
+      "SCG 32 MAQ prí 24"
+    ]
+  ]
+}]

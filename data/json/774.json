@@ -1,0 +1,130 @@
+[{
+  "fields": [
+    [
+      "001",
+      "774"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-564-647-9"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-564-647-9"
+    ],
+    [
+      "020",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "239610/06"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d2006----k  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<Um >gladiador só morre uma vez",
+      "g",
+      "Figueiredo, Maria José",
+      "f",
+      "Saylor, Steven"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Quetzal",
+      "d",
+      "2006"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "259p.",
+      "d",
+      "24cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Roma sub-rosa"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060621101355&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0016747",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 SAY gla"
+    ]
+  ]
+}]

@@ -1,0 +1,14 @@
+00467nam0 2200157   450
+001   434
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a d--------k  y0pory0103    ba
+101 0  $a por
+102    $a BR
+200 1  $a Escrava ou rainha $f M. Delly $g Paulo de Feitas
+215    $a 218p. $d 20cm
+225 2  $a <A >nova Biblioteca das Moças
+700  1 $a Delly $b pseud
+702  1 $a Freitas $b Paulo
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0008365 $l BMM $s SCG 821 DEL esc 18

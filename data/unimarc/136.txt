@@ -1,0 +1,21 @@
+00791nam  2200241   450
+001   136
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 221324/05
+100    $a 20061013d2005----m y0pory0103 ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a Anjos e demónios $f Dan Brown $g tradução de Mário Dias Correia $g revisão de Nataniel Oliveira
+210    $a Lisboa $c Bertrand $d 2005
+215    $a 586 p. $d 23 cm
+304    $a Tít. orig.: Angels and demons
+606 1  $a Literatura americana
+608    $a Romance
+675    $a 821 $v BN $z por
+700  1 $a Brown $b Dan $f 1964-
+702  1 $a Correia $b Mário Dias $4 730
+702  1 $a Oliveira $b Nataniel $4 675
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060509135040&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0016101 $l BMM $s SCG 821 BRO anj

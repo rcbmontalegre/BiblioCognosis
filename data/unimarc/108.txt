@@ -1,0 +1,19 @@
+00746nam  2200217   450
+001   108
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+095    $a PTBN00036081
+100    $a 20061013d1986    m  y0pory010305  ba
+101 1  $a por $c spa
+102    $a PT
+200 1  $a Evaristo Carriego (1930) $f Jorge Luís Borges $g trad. J. Palma Ferreira
+210    $a Lisboa $c Livros do Brasil $d 1986
+215    $a 218,[5]p. $d 19 cm
+225 2  $a Autores de sempre
+675    $a 821.134.2(7/8) $v BN $z por
+700  1 $a Borges $b Jorge Luís $f 1899-1986
+702  1 $a Ferreira $b João Palma $f 1931-1989 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060509093929&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008296 $l BMM $s SCG 821.134.2(7/8) BOR eva

@@ -1,0 +1,138 @@
+[{
+  "fields": [
+    [
+      "001",
+      "816"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1984    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >escaravelho da morte",
+      "f",
+      "Richard Lewis",
+      "g",
+      "trad. Anabela Mateus de Magalhäes"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "[D.L. 1984]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "151 p.",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Livros de bolso",
+      "i",
+      "Série pêndulo",
+      "v",
+      "12"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. Devil`s coach-horse"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "82-312.4",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Lewis",
+      "b",
+      "Richard D."
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Magalhães",
+      "b",
+      "Anabela Mateus de",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060622163623&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005467",
+      "l",
+      "BMM",
+      "s",
+      "SCG 82-312.4 LEW esc 12"
+    ]
+  ]
+}]

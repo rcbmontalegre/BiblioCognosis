@@ -1,0 +1,174 @@
+[{
+  "fields": [
+    [
+      "001",
+      "26"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "85471/95"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00785149"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19951128d1995    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   000ay"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<Uma >questão de honra",
+      "f",
+      "Jeffrey Archer",
+      "g",
+      "trad. Maria Salema"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "5a ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "D.L. 1995"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "301, [1] p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Obras de Jeffrey Archer",
+      "v",
+      "1"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: A matter of honour"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Archer",
+      "b",
+      "Jeffrey",
+      "f",
+      "1940"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Salema",
+      "b",
+      "Maria",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060504123112&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008205",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 ARC que"
+    ]
+  ]
+}]

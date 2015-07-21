@@ -1,0 +1,24 @@
+00827nam  2200277   450
+001   985
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 972-650-644-1
+021    $a PT
+100    $a 20061013d2004----a y0pory0103 ba
+101 1  $a por $c spa
+102    $a PT
+200 1  $a Sexo para adolescentes $f Conchita Madueño $g ilustrações de Jorge de Juan $g tradução de Ana Paula Carneiro
+205    $a 1ª ed
+210    $a Lisboa $c Didáctica $d 2004
+215    $a 192 p. $c il. $d 28 cm
+606 1  $a Adolescência
+606    $a Sexo
+675    $a 613
+675    $a 087.5
+700  1 $a Madueño $b Conchita
+702  1 $a Juan $b Jorge de $4 440
+702  1 $a Carneiro $b Ana Paula $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060705101459&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0016768 $l BMM $s SJ 613 MAD sex

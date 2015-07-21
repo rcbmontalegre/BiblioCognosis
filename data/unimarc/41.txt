@@ -1,0 +1,19 @@
+00720nam  2200217   450
+001   41
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+095    $a PTBN00781885
+100    $a 19951113d1966    m  y0pory010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a <A >pele de chagrém $e romance filosófico $f Balzac $g trad. Jaime Brasil
+210    $a Lisboa $c Portugália $d 1966
+215    $a 430, [1] p., [2] f $c il. $d 20 cm
+225 2  $a <A >comédia humana
+675    $a 821 $v BN $z por
+700  1 $a Balzac $b Honoré de $f 1799-1850
+702  1 $a Brasil $b Jaime $f 1896-1966 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060504155035&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0007881 $l BMM $s SCG 821 BAL pel

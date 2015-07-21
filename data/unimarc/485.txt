@@ -1,0 +1,24 @@
+00947nam  2200277   450
+001   485
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 26981/89
+095    $a PTBN00201821
+100    $a 19891003d1989    m  y0pory010305  ba
+101 1  $a por $b fre $c dan
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a <O >regimento da morte $f Sven Hassel $g trad. a aprtir da versão fracesa de Maria Isabel Morna Dias Braga, Mário Braga
+205    $a 4ª ed
+210    $a Mem Martins $c Europa-América $d D.L. 1989
+215    $a 275, [4] p. $d 21 cm
+225 2  $a Século XX $v 53)
+304    $a Tít. orig.: De fordamtes Legion
+675    $a 839.8-31 Hassel, Sven $v BN $z por
+700  1 $a Hassel $b Sven $f 1917-
+702  1 $a Braga $b Maria Isabel Morna $4 730
+702  1 $a Braga $b Mário $f 1921- $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060517150333&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008773 $l BMM $s SCG 821 HAS reg 53

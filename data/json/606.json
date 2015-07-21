@@ -1,0 +1,124 @@
+[{
+  "fields": [
+    [
+      "001",
+      "606"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20000222d1987199 |||y0pory010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Dentes de rato",
+      "f",
+      "Agustina Bessa-Luís",
+      "g",
+      "ilustrações de Martim Lapa"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Guimarães Editores",
+      "d",
+      "1987"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "62 p.",
+      "c",
+      "il.",
+      "d",
+      "21cm"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821.134.3-3"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Bessa-Luís",
+      "b",
+      "Agustina",
+      "f",
+      "1922-"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060522154151&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001816",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-93 BES den"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001815",
+      "l",
+      "BMM",
+      "s",
+      "SI 821.134.3-93 BES den"
+    ]
+  ]
+}]

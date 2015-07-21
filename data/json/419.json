@@ -1,0 +1,122 @@
+[{
+  "fields": [
+    [
+      "001",
+      "419"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00373713"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19920708d1928    km y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Flor do lar",
+      "a",
+      "Flor do claustro",
+      "f",
+      "M. Delly",
+      "g",
+      "trad. portuguesa de Sousa Martins"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "Nova ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "A. Figueirinhas",
+      "d",
+      "1928"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "291 p.",
+      "d",
+      "19 cm"
+    ],
+    [
+      "517",
+      "1 ",
+      "a",
+      "Flor do claustro"
+    ],
+    [
+      "700",
+      " 0",
+      "a",
+      "Delly",
+      "c",
+      "pseud"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Martins",
+      "b",
+      "Sousa",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008249",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DEL flo 17"
+    ]
+  ]
+}]

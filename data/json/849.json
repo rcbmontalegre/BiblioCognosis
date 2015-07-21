@@ -1,0 +1,128 @@
+[{
+  "fields": [
+    [
+      "001",
+      "849"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00927538"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19970928d19      m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >rapaz, o soldado e o mar",
+      "f",
+      "Georges Fonvilliers"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Aster",
+      "d",
+      "[19--]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "189 p.",
+      "c",
+      "il.",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Nautilus",
+      "i",
+      "Aventura e ficção",
+      "v",
+      "18"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "087.5",
+      "z",
+      "fre"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "82/89-34",
+      "v",
+      "med",
+      "z",
+      "fre"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Fonvilliers",
+      "b",
+      "Georges"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0002730",
+      "l",
+      "BMM",
+      "s",
+      "SJ 087.5 FON rap 18"
+    ]
+  ]
+}]

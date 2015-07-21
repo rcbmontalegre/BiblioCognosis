@@ -1,0 +1,23 @@
+00828nam  2200265   450
+001   883
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 972-41-2204-2
+021    $a PT $b 173503/01
+100    $a 20020412d2001    ma y0pory0103    ba
+101 1  $a por $c fre
+102    $a PT
+105    $a y   z   000yy
+200 1  $a Nádia $e <uma >mulher no terror da Argélia $f Baya Gacemi $g trad. Egito Gonçalves
+205    $a 4ª ed
+210    $a Porto $c Asa $d 2001
+215    $a 121, [4] p. $d 24 cm
+225 2  $a Documentos
+304    $a Tít. orig.: Moi, Nadia, femme d'un mir du Gia
+675    $a 82-94
+700  1 $a Gacemi $b Baya
+702  1 $a Gonçalves $b Egito $f 1920-2001 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060628094800&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0015711 $l BMM $s SCG 82-94 GAC nád

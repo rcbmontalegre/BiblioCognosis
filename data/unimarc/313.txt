@@ -1,0 +1,22 @@
+00784nam  2200253   450
+001   313
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 8369
+095    $a PTBN00016956
+100    $a 20061013d1986    k  y0pora010305  ba
+101 1  $a por
+102    $a PT
+200 1  $a Moderato cantabile $f Marguerite Duras $g trad. Flora Larsson e Ana Paula Laborinho
+205    $a 2ª ed
+210    $a Lisboa $c Difel $d 1958
+215    $a 100 p. $d 19 cm
+606    $a Literatura francesa
+608    $a Romance
+675    $a 821 $v BN $z por
+700  1 $a Duras $b Marguerite $f 1914-1996
+702  1 $a Larsson $b Flora $4 730
+702  1 $a Laborinho $b Ana Paula $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060511141828&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008392 $l BMM $s SCG 821 DUR mod

@@ -1,0 +1,126 @@
+[{
+  "fields": [
+    [
+      "001",
+      "143"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19940707d1964    km y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Graus",
+      "e",
+      "romance",
+      "f",
+      "de Michel Butor",
+      "g",
+      "trad. de Mário Dias Ramos e Manuel de Castro"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Arcádia",
+      "d",
+      "imp. 1964"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "454 p.",
+      "d",
+      "19 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Encontro",
+      "v",
+      "30"
+    ],
+    [
+      "300",
+      "  ",
+      "a",
+      "Tít. orig.: Degrés"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Butor",
+      "b",
+      "Michel",
+      "f",
+      "1926"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008118",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 BUT gra"
+    ]
+  ]
+}]

@@ -1,0 +1,134 @@
+[{
+  "fields": [
+    [
+      "001",
+      "164"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19790601d1979    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Vêm aí os rostos pálidos",
+      "f",
+      "William Camus",
+      "g",
+      "trad. Helena Ramos"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Plátano",
+      "d",
+      "imp. 1979"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "256, [3] p.",
+      "c",
+      "il.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Plátano de Maio",
+      "v",
+      "2"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Camus",
+      "b",
+      "William"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Ramos",
+      "b",
+      "Helena",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060509162601&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008502",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 CAM vêm"
+    ]
+  ]
+}]

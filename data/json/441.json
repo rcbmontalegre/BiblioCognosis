@@ -1,0 +1,176 @@
+[{
+  "fields": [
+    [
+      "001",
+      "441"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d--------k  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Nossa Senhora de Paris",
+      "f",
+      "Victor Hugo",
+      "g",
+      "trad. Ana Rabaça"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "[19--]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "2 v",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Livros de bolso Europa-América",
+      "v",
+      "416-418"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Notre-Dame de Paris"
+    ],
+    [
+      "327",
+      "1 ",
+      "a",
+      "Vol. 1 : 189, [1] p",
+      "a",
+      "Vol. 2 : 210, [1] p"
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Literatura francesa"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Romance"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Hugo",
+      "b",
+      "Victor",
+      "f",
+      "1802-1885"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Rabaça",
+      "b",
+      "Ana Maria",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060517111259&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060517111313&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0012647",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 HUG nos 416"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0012648",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 HUG nos 418"
+    ]
+  ]
+}]

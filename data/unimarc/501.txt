@@ -1,0 +1,20 @@
+00797nam  2200229   450
+001   501
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00025459
+100    $a 20061013d1986    k  y0pora010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a <O >corcunda ou o pequeno parisiense $f Paul Féval $g trad. Franco de Sousa
+210    $a Mem Martins $c Europa-América $d [D.L. 1986]-
+215    $a v $d 18 cm
+225 2  $a Livros de bolso Europa-América $v 446
+304    $a Tit. orig. Le Bossu
+675    $a 821 $v BN $z por
+700  1 $a Féval $b Paul $f 1816-1887
+702  1 $a Sousa $b Franco de $f 1926-1993 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060517153725&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0005320 $l BMM $s SCG 821 FÉV cor 446
+966    $a 0003182 $l BMM $s SCG 821FÉV cor 446

@@ -1,0 +1,240 @@
+[{
+  "fields": [
+    [
+      "001",
+      "907"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d19?     m  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   001fy"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "As mil e uma noites"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "[1990]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "vol.",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Livros de bolso Europa-América",
+      "v",
+      "383, 384, 388, 392, 396 e 400"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Les Mille et une nuits"
+    ],
+    [
+      "327",
+      "1 ",
+      "a",
+      "vol. I: 156, [1] p.",
+      "a",
+      "vol. II: 160, [1] p.",
+      "a",
+      "vol. III: 179, [1] p.",
+      "a",
+      "vol. IV: 182, [1] p.",
+      "a",
+      "vol. V: 213, [1] p.",
+      "a",
+      "vol. VI: 164, [1] p."
+    ],
+    [
+      "606",
+      "1 ",
+      "a",
+      "Literatura francesa"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060629115433&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060629115446&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060629120025&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060629120233&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060629120253&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060629120314&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "6"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005489",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 MIL mil 383"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005488",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 MIL mil 384"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005487",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 MIL mil 388"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005486",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 MIL mil 392"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005485",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 MIL mil 396"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005484",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 MIL mil 400"
+    ]
+  ]
+}]

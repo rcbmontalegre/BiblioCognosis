@@ -1,0 +1,152 @@
+[{
+  "fields": [
+    [
+      "001",
+      "81"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "19061/87"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00112465"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "2061013 d1987    em y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Agarra o dia",
+      "f",
+      "Saul Bellow",
+      "g",
+      "trad. Bernardo Antunes Navarro"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Fragmentos",
+      "d",
+      "D.L. 1987"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "112 p.",
+      "d",
+      "24 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Romance",
+      "v",
+      "4"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : Seize the day"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "820",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Bellow",
+      "b",
+      "Saul",
+      "f",
+      "1915"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Navarro",
+      "b",
+      "Bernardo Antunes",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060508145659&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008299",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 BEL aga 4"
+    ]
+  ]
+}]

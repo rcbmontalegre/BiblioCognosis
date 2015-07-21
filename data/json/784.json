@@ -1,0 +1,148 @@
+[{
+  "fields": [
+    [
+      "001",
+      "784"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00282053"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19950229d1975    m  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "e",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >doutor Arrowsmith",
+      "f",
+      "Sinclair Lewis",
+      "g",
+      "trad. Juvenal Jacinto"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Livros do Brasil",
+      "d",
+      "[D.L. 1975]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "424, [3] p.",
+      "d",
+      "22 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Dois mundos",
+      "v",
+      "11"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821.111(73)-31\"19\"",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "3",
+      "290736"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Lewis",
+      "b",
+      "Sinclair",
+      "f",
+      "1885-1951",
+      "3",
+      "63239"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Jacinto",
+      "b",
+      "Juvenal",
+      "4",
+      "730",
+      "3",
+      "42283"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060621144528&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008996",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 LEW dou 11"
+    ]
+  ]
+}]

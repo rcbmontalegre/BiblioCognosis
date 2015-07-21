@@ -1,0 +1,19 @@
+00656nam  2200217   450
+001   140
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+095    $a PTBN00149113
+100    $a 19640201d1963    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <A >promessa $f Pearl Sydenstricker Buck $g trad. de José António Machado
+205    $a 2ª ed
+210    $a Lisboa $c Minerva $d 1963
+215    $a 310, [1] p. $d 19 cm
+225 2  $a Minerva
+675    $a 821 $v BN $z por
+700  1 $a Buck $b Pearl S $f 1892-1973
+702  1 $a Machado $b Antonio $f 1875-1939 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0008117 $l BMM $s SCG 821 BUC pro

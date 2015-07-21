@@ -1,0 +1,22 @@
+00721nam  2200253   450
+001   950
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-41-1217-9
+021    $a PT $b 62086/92
+095    $a PTBN00452379
+100    $a 20061013d1993    m  y0pory010305  ba
+101 1  $a por $c ita
+102    $a PT
+105    $a a   z   000ay
+200 1  $a <Um >outro mar $f Claudio Magris $g trad. Simonetta Neto
+205    $a 1ª ed
+210    $a Porto $c Asa $d 1993
+215    $a 111, [1] p. $d 21 cm
+225 2  $a Letras do mundo
+304    $a Tít. orig.: Un altro mare
+675    $a 821
+700  1 $a Magris $b Claudio $f 1939-
+702  1 $a Neto $b Simonetta $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0009109 $l BMM $s SCG 821 MAG out

@@ -1,0 +1,18 @@
+00674nam  2200205   450
+001   851
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20061013d1978    m  y0pora010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a <Os >náufragos de Auckland $f F. E. Raynal $g trad. de T. Faria
+210    $a Lisboa $c Vega $d imp. 1978
+215    $a 321, [3] p. $c il. $d 20 cm
+225 2  $a Agua azul $v 2
+304    $a Tít. orig. Les naufragés des Iles Auckland
+675    $a 087.5 $z por
+700  1 $a Raynal $b F. E.
+702  1 $a Faria $b T. $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060627103443&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0003338 $l BMM $s SJ 087.5 RAY nau 8

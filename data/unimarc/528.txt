@@ -1,0 +1,20 @@
+00713nam  2200229   450
+001   528
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 20068/88
+095    $a PTBN00129891
+100    $a 19880928d1988    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a Daisy Miller $f Henry James $g trad. Carlos Grifo Babo
+205    $a 2ª ed
+210    $a Lisboa $c Presença $d 1988
+215    $a 112 p. $d 21 cm
+225 2  $a Aura $v 8
+675    $a 820-31 James, Henry $v BN $z por
+700  1 $a James $b Henry $f 1843-1916
+702  1 $a Babo $b Carlos Grifo $f 1919- $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060518095246&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008652 $l BMM $s SCG 821 JAM dai 8

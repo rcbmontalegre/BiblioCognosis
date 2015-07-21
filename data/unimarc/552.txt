@@ -1,0 +1,22 @@
+00813nam  2200253   450
+001   552
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 972-709-012-5
+021    $a PT $b 33290/89
+100    $a 19910520d1990    k  y0pory010305  ba
+101 1  $a por $b eng $c rus
+102    $a PT
+200 1  $a Ardabiola $f Ievgueni Ievtuchenko $g trad.: B. Siqueira Abräo
+210    $a [Lisboa] $c Difusão Cultural $d [1990]
+215    $a 141 p. $d 21 cm
+304    $a Tít. ori.: Ardabiola
+606    $a Literatura russa
+675    $a 821 $v BN $z por
+700  1 $a Ievtuchenko $b Ievgueni $f 1933-
+702  1 $a Abrão $b B. Siqueira $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060518113045&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0008638 $l BMM $s SCG 821 IEV ard
+966    $a 0008639 $l BMM $s SCG 821 IEV arb

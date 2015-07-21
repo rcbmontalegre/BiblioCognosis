@@ -1,0 +1,188 @@
+[{
+  "fields": [
+    [
+      "001",
+      "82"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-710-002-3"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "35307/90"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00261147"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1990    m  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   000ay"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >organização Bellarosa",
+      "d",
+      "<The >Bellarosa connection",
+      "f",
+      "Saul Bellow",
+      "g",
+      "trad. Lucília Filipe",
+      "z",
+      "eng"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Terramar",
+      "d",
+      "D.L. 1990"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "126 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Terramar",
+      "v",
+      "1"
+    ],
+    [
+      "325",
+      "  ",
+      "a",
+      "Texto em braille. - Lisboa : BN, 2004. - 3 vol., integral ; 32 cm"
+    ],
+    [
+      "510",
+      "1 ",
+      "a",
+      "<The >Bellarosa connection",
+      "z",
+      "eng"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "3",
+      "396520"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Bellow",
+      "b",
+      "Saul",
+      "f",
+      "1915",
+      "3",
+      "12447"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Filipe",
+      "b",
+      "Lucília",
+      "4",
+      "730",
+      "3",
+      "33084"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060508145912&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008718",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 BEL org 1"
+    ]
+  ]
+}]

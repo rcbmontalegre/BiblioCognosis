@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bne="http://datos.bne.es/def/">
+    <rdf:Description rdf:about="http://datos.bne.es/resource/XX3383563"><bne:OP1007 rdf:resource="http://datos.bne.es/resource/XX1884212"/></rdf:Description>
+    <rdf:Description rdf:about="http://datos.bne.es/resource/XX3383563"><n0pred:OP1007 xmlns:n0pred="http://datos.bne.es/def/" rdf:resource="http://datos.bne.es/resource/XX2664392"/></rdf:Description>
+    <rdf:Description rdf:about="http://datos.bne.es/resource/XX3383563"><n0pred:OP1007 xmlns:n0pred="http://datos.bne.es/def/" rdf:resource="http://datos.bne.es/resource/XX1968410"/></rdf:Description>
+    <rdf:Description rdf:about="http://datos.bne.es/resource/XX3383563"><n0pred:OP1007 xmlns:n0pred="http://datos.bne.es/def/" rdf:resource="http://datos.bne.es/resource/XX3424622"/></rdf:Description>
+    <rdf:Description rdf:about="http://datos.bne.es/resource/XX3383563"><n0pred:OP1007 xmlns:n0pred="http://datos.bne.es/def/" rdf:resource="http://datos.bne.es/resource/XX2628877"/></rdf:Description>
+    <rdf:Description rdf:about="http://datos.bne.es/resource/XX3383563"><n0pred:id xmlns:n0pred="http://datos.bne.es/def/">XX3383563</n0pred:id></rdf:Description>
+    <rdf:Description rdf:about="http://datos.bne.es/resource/XX3383563"><n0pred:OP1002 xmlns:n0pred="http://datos.bne.es/def/" rdf:resource="http://datos.bne.es/resource/XX3500281"/></rdf:Description>
+    <rdf:Description rdf:about="http://datos.bne.es/resource/XX3383563"><n0pred:OP1007 xmlns:n0pred="http://datos.bne.es/def/" rdf:resource="http://datos.bne.es/resource/XX3419896"/></rdf:Description>
+    <rdf:Description rdf:about="http://datos.bne.es/resource/XX3383563"><n0pred:P1005 xmlns:n0pred="http://datos.bne.es/def/">El ingenioso Don Quijote de la Mancha</n0pred:P1005></rdf:Description>
+    <rdf:Description rdf:about="http://datos.bne.es/resource/XX3383563"><rdfs:label>Cervantes Saavedra, Miguel de</rdfs:label></rdf:Description>
+    <rdf:Description rdf:about="http://datos.bne.es/resource/XX3383563"><n0pred:P1005 xmlns:n0pred="http://datos.bne.es/def/">Quijote</n0pred:P1005></rdf:Description>
+    <rdf:Description rdf:about="http://datos.bne.es/resource/XX3383563"><n0pred:OP1007 xmlns:n0pred="http://datos.bne.es/def/" rdf:resource="http://datos.bne.es/resource/XX2667208"/></rdf:Description>
+    <rdf:Description rdf:about="http://datos.bne.es/resource/XX3383563"><n0pred:P1005 xmlns:n0pred="http://datos.bne.es/def/">Vida y hechos del Ingenioso Caballero Don Quixote de la Mancha</n0pred:P1005></rdf:Description>
+    <rdf:Description rdf:about="http://datos.bne.es/resource/XX3383563"><n0pred:OP1007 xmlns:n0pred="http://datos.bne.es/def/" rdf:resource="http://datos.bne.es/resource/XX3038605"/></rdf:Description>
+    <rdf:Description rdf:about="http://datos.bne.es/resource/XX3383563"><n0pred:P2001 xmlns:n0pred="http://iflastandards.info/ns/fr/frbr/frbrer/" rdf:resource="http://datos.bne.es/resource/XX3383563chi"/></rdf:Description>
+    <rdf:Description rdf:about="http://datos.bne.es/resource/XX3383563"><n0pred:OP1007 xmlns:n0pred="http://datos.bne.es/def/" rdf:resource="http://datos.bne.es/resource/XX3396349"/></rdf:Description>
+    <rdf:Description rdf:about="http://datos.bne.es/resource/XX3383563"><n0pred:OP1007 xmlns:n0pred="http://datos.bne.es/def/" rdf:resource="http://datos.bne.es/resource/XX4633012"/></rdf:Description>
+    <rdf:Description rdf:about="http://datos.bne.es/resource/XX3383563"><n0pred:P1003 xmlns:n0pred="http://datos.bne.es/def/">(El ingenioso hidalgo Don Quijote de la Mancha)</n0pred:P1003></rdf:Description>
+    <rdf:Description rdf:about="http://datos.bne.es/resource/XX3383563"><n0pred:OP1007 xmlns:n0pred="http://datos.bne.es/def/" rdf:resource="http://datos.bne.es/resource/XX3086358"/></rdf:Description>
+    <rdf:Description rdf:about="http://datos.bne.es/resource/XX3383563"><n0pred:P1001 xmlns:n0pred="http://datos.bne.es/def/">Don Quijote de la Mancha</n0pred:P1001></rdf:Description>
+    <rdf:Description rdf:about="http://datos.bne.es/resource/XX3383563"><n0pred:OP1007 xmlns:n0pred="http://datos.bne.es/def/" rdf:resource="http://datos.bne.es/resource/XX2265028"/></rdf:Description>
+    <rdf:Description rdf:about="http://datos.bne.es/resource/XX3383563"><n0pred:P1003 xmlns:n0pred="http://datos.bne.es/def/">(Quijote; El ingenioso hidalgo Don Quijote de la Mancha; Don Quijote de la Mancha)</n0pred:P1003></rdf:Description>
+    <rdf:Description rdf:about="http://datos.bne.es/resource/XX3383563"><owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#" rdf:resource="http://viaf.org/viaf/184295284"/></rdf:Description>
+    <rdf:Description rdf:about="http://datos.bne.es/resource/XX3383563"><n0pred:OP1007 xmlns:n0pred="http://datos.bne.es/def/" rdf:resource="http://datos.bne.es/resource/XX3365193"/></rdf:Description>
+    <rdf:Description rdf:about="http://datos.bne.es/resource/XX3383563"><rdf:type rdf:resource="http://datos.bne.es/def/C1001"/></rdf:Description>
+    <rdf:Description rdf:about="http://datos.bne.es/resource/XX3383563"><n0pred:OP1007 xmlns:n0pred="http://datos.bne.es/def/" rdf:resource="http://datos.bne.es/resource/XX2938729"/></rdf:Description>
+    <rdf:Description rdf:about="http://datos.bne.es/resource/XX3383563"><n0pred:P3066 xmlns:n0pred="http://datos.bne.es/def/" rdf:resource="http://bdh-rd.bne.es/low.raw?id=0000022723&amp;name=00000001.jpg"/></rdf:Description>
+    <rdf:Description rdf:about="http://datos.bne.es/resource/XX3383563"><owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#" rdf:resource="http://libris.kb.se/resource/auth/285481"/></rdf:Description>
+</rdf:RDF>

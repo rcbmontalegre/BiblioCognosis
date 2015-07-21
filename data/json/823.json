@@ -1,0 +1,164 @@
+[{
+  "fields": [
+    [
+      "001",
+      "823"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "23302"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00123154"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1988    m  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "ita"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   001ay"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Se isto é um homem",
+      "f",
+      "Primo Levi",
+      "g",
+      "trad. Simonetta Cabrita Neto"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Teorema",
+      "d",
+      "imp. 1988"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "176p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Estórias",
+      "v",
+      "18"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tit. orig.: Se questo e un uomo"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Levi",
+      "b",
+      "Primo",
+      "f",
+      "1919-1987",
+      "3",
+      "73701"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Neto",
+      "b",
+      "Simonetta",
+      "4",
+      "730",
+      "3",
+      "34801"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060622171200&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009015",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 LEV ist 18"
+    ]
+  ]
+}]

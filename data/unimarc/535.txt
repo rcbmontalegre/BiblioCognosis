@@ -1,0 +1,16 @@
+00606nam  2200181   450
+001   535
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20070521d1968    m  y0pory0103    ba
+101 0  $a por
+102    $a PT
+200 1  $a <O >olho de vidro $e romance histórico $f Camilo Castelo Branco
+205    $a 6ª ed
+210    $a Lisboa $c Parceria A.M. Pereira $d 1968
+215    $a 223, [2] p. $d 20 cm
+225 2  $a Obras de Camilo Castelo Branco $v 23
+675    $a 821.134.3-31"19" $v BN $z por
+700  1 $a Castelo Branco $b Camilo $f 1825-1890
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0012051 $l BMM $s SCG 821.134.3 CAS olh 23

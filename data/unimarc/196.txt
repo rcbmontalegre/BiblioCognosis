@@ -1,0 +1,20 @@
+00812nam  2200229   450
+001   196
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00772963
+100    $a 19951003d1968    m  y0pory010305  ba
+101 1  $a por
+102    $a PT
+200 1  $a 3 contistas russos contemporâneos $f Mikail Cholokov, Iliya Ehrenbourg e Isaac Babel $g trad. J. Soares da Costa
+210    $a Lisboa $c Portugália $d 1968
+215    $a 150 p., 1 f $d 17 cm
+225 2  $a Livro de bolso $v 100
+675    $a 821 $v BN $z por
+700  1 $a Cholokhov $b Mikail $f 1905-1984
+701  1 $a Ehrenburg $b Ilya $f 1891-1967 $4 070
+701  1 $a Babel $b Isaak $f 1894-1941 $4 070
+702  1 $a Costa $b J. Soares da $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060510101930&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0011876 $l BMM $s SCG 821 CHO con 100

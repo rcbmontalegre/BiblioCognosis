@@ -1,0 +1,172 @@
+[{
+  "fields": [
+    [
+      "001",
+      "764"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-41-4475-5"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "232062/05"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d2005----m y0pory0103 ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Xeque ao rei",
+      "f",
+      "Joanne Harris",
+      "g",
+      "tradução de Teresa Curvelo"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "1ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "Asa",
+      "d",
+      "2005"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "425 p.",
+      "d",
+      "24 cm"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Gentleman & players"
+    ],
+    [
+      "606",
+      "1 ",
+      "a",
+      "Literatura inglesa"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Romance policial"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Harris",
+      "b",
+      "Joanne",
+      "f",
+      "1964-"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Curvelo",
+      "b",
+      "Teresa",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060620163606&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0016751",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 HAR xeq"
+    ]
+  ]
+}]

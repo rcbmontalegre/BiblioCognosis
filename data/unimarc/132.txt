@@ -1,0 +1,19 @@
+00741nam  2200217   450
+001   132
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+095    $a PTBN00002722
+100    $a 19761201d1976    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a Refeição nua $f William S. Burroughs $g trad. Maria Emília Ferros Moura
+210    $a Lisboa $c Livros do Brasil $d [D.L. 1976]
+215    $a 263, [2] p., 2 f $d 22 cm
+304    $a Tít. orig.: The naked lunch
+675    $a 821 $v BN $z por
+700  1 $a Burroughs $b Willianm S. $f 1914
+701  1 $a Moura $b Maria Emília Ferros $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060509122513&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008358 $l BMM $s SCG 821 BUR alu

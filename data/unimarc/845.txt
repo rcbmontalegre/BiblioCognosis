@@ -1,0 +1,18 @@
+00789nam  2200205   450
+001   845
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20061013d1981    m  y0pory010305  ba
+101 0  $a por
+102    $a PT
+200 1  $a Selecta para jovens $f Gilberto Freyre $g Colab. de Maria Elisa Dias Collier $g Introd. de Luís Forjaz Trigueiros
+210    $a Lisboa $c Livros do Brasil $d [D.L. 1981]
+215    $a 277, [10] p. $d 22 cm
+225 2  $a Coleção Livros do Brasil $v 94
+675    $a 087.5
+700  1 $a Freyre $b Gilberto $f 1900-1987 $3 42749
+702  1 $a Collier $b Maria Elisa Dias $4 070 $3 1197752
+702  1 $a Trigueiros $b Luís Forjaz $f 1915-2000 $4 080 $3 44614
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060626171531&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0003403 $l BMM $s SJ 087.5 FRE sel 94

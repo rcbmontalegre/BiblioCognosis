@@ -1,0 +1,19 @@
+00790nam  2200217   450
+001   560
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00037333
+100    $a 19821201d1981    m  y0pora0103    ba
+101 1  $a por $c ger
+102    $a PT
+200 1  $a Deus dorme em Masúria $f Hans Hellmut Kirst $g trad. José Saramago
+210    $a Mem Martins $c Europa-América $d 1981
+215    $a 333, [1] p. $d 18 cm
+225 2  $a Livros de bolso Europa-América $v 282
+304    $a Tít. orig. Gott schlaft in Masuren
+675    $a 821.161.1-31"19" $v BN $z por $z por
+700  1 $a Kirst $b Hans Hellmut $f 1914-1989 $3 46406
+702  1 $a Saramago $b José $f 1922- $4 730 $3 10526
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060518115323&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0005344 $l BMM $s SCG 821 KIR deu 282

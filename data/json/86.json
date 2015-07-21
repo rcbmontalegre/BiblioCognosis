@@ -1,0 +1,136 @@
+[{
+  "fields": [
+    [
+      "001",
+      "86"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00161992"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1984    k  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >livro por vir",
+      "f",
+      "Maurice Blanchot",
+      "g",
+      "trad. Maria Regina Louro"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Relógio d'Água",
+      "d",
+      "1984"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "263 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "<A >volta da literatura"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "fre"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Blanchot",
+      "b",
+      "Maurice",
+      "f",
+      "1907-2003"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Louro",
+      "b",
+      "Maria Regina",
+      "f",
+      "1948",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060508152142&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008417",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 BLA liv"
+    ]
+  ]
+}]

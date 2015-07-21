@@ -1,0 +1,126 @@
+[{
+  "fields": [
+    [
+      "001",
+      "436"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "d--------k  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "BR"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >Fim De uma Walkiria",
+      "f",
+      "M. Delly",
+      "g",
+      "Sarah Pinto de Almeida"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "5ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "São Paulo-Brasil",
+      "c",
+      "Companhia Editora Nacional"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "285 p.",
+      "d",
+      "19 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "<A >nova Biblioteca das Moças",
+      "v",
+      "21"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "bn",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Delly",
+      "c",
+      "pseud"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Almeida",
+      "b",
+      "Sarah Pinto de",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008368",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DEL fim 21"
+    ]
+  ]
+}]

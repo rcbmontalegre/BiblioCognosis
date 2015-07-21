@@ -1,0 +1,19 @@
+00701nam  2200217   450
+001   688
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20061013d1987    d  y0pory0103    ba
+101 0  $a por
+102    $a PT
+200 1  $a Dois macaquinhos à solta $f Leonel Neves $g il. Melo Frazão
+210    $a [S.l.] $c Horizonte $d 1987
+215    $a 14 p. $c il. $d 16 cm
+225 0  $a Sete estrelas $v 18
+606    $a Literatura infantil
+675    $a 82-93
+700  1 $a Neves $b Leonel $f 1921-1996
+702  1 $a Frazão $b Melo $4 440
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060524160827&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0002530 $l BMM $s SI 82-93 NEV doi 18
+966    $a 0002531 $l BMM $s SI 82-93 NEV doi 18

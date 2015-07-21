@@ -1,0 +1,22 @@
+00829nam  2200253   450
+001   122
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+021    $a PT $b 21204/88
+100    $a 20120710g1987    m  y0pory010305  ba
+101 1  $a por $c ger
+102    $a PT
+105    $a y   z   001ay
+200 1  $a <A >morte de Virgílio $f Hermann Broch $g trad.: Maria Adélia Silva Melo
+210    $a Lisboa $c Relógio d'Água Editores $d 1988
+215    $a Vol.II: 277 p. $d 21 cm
+225 2  $a Ficções
+304    $a Tít. orig.: Der tod des Vergil
+675    $a 821
+700  1 $a Broch $b Hermann $f 1886-1951
+702  1 $a Melo $b Maria Adélia Silva $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060509111420&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0008197 $d II $l BMM $s SCG 821 BRO mor
+966    $a 0008196 $l BMM $s SCG 821 BRO mor

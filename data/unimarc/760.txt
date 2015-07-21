@@ -1,0 +1,18 @@
+00683nam  2200205   450
+001   760
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 19851101d1985    k  y0pora010305  ba
+101 1  $a por
+102    $a PT
+200 1  $a <Uma >história verídica $f Luciano $g pref., trad. e notas de Custódio Magueijo
+210    $a Lisboa $c Inquérito $d [D.L. 1985]
+215    $a 100 p. $d 18 cm
+225 2  $a Clássicos Inquérito $v 13
+300    $a Texto bilingue
+675    $a 821 $v BN $z por
+700  0 $a Luciano $c de Samosata
+702  1 $a Magueijo $b Custódio $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060620142259&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008936 $l BMM $s SCG 821 LUC uma 13

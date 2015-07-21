@@ -1,0 +1,1418 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+    <record>
+        <leader>00825nam 2200241 450</leader>
+        <controlfield tag="001">1</controlfield>
+        <controlfield tag="003"
+            >http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&amp;RegNo=16662</controlfield>
+        <controlfield tag="005">20</controlfield>
+        <datafield tag="100" ind1=" " ind2=" ">
+            <subfield code="a">19860701d1985 k y0pora010305 ba</subfield>
+        </datafield>
+        <datafield tag="101" ind1="1" ind2=" ">
+            <subfield code="a">por</subfield>
+            <subfield code="c">fre</subfield>
+        </datafield>
+        <datafield tag="102" ind1=" " ind2=" ">
+            <subfield code="a">PT</subfield>
+        </datafield>
+        <datafield tag="200" ind1="1" ind2=" ">
+            <subfield code="a">&lt;A &gt;guerra do fogo</subfield>
+            <subfield code="f">J. H. Rosny Ainé</subfield>
+            <subfield code="g">trad. Maria Jorge Vilar de Figueiredo</subfield>
+        </datafield>
+        <datafield tag="210" ind1=" " ind2=" ">
+            <subfield code="a">Lisboa</subfield>
+            <subfield code="c">Presença</subfield>
+            <subfield code="d">1985</subfield>
+        </datafield>
+        <datafield tag="215" ind1=" " ind2=" ">
+            <subfield code="a">177, [6] p.</subfield>
+            <subfield code="c">il.</subfield>
+            <subfield code="d">21 cm</subfield>
+        </datafield>
+        <datafield tag="225" ind1="2" ind2=" ">
+            <subfield code="a">Volta ao mundo</subfield>
+            <subfield code="v">4</subfield>
+        </datafield>
+        <datafield tag="304" ind1=" " ind2=" ">
+            <subfield code="a">Tít. orig.: La guerre du feu</subfield>
+        </datafield>
+        <datafield tag="675" ind1=" " ind2=" ">
+            <subfield code="a">821</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="1">
+            <subfield code="a">Aîné</subfield>
+            <subfield code="b">J. H. Rosny</subfield>
+            <subfield code="c">pseud.</subfield>
+        </datafield>
+        <datafield tag="702" ind1=" " ind2="1">
+            <subfield code="a">Figueiredo</subfield>
+            <subfield code="b">Maria Jorge Vilar de</subfield>
+            <subfield code="4">730</subfield>
+        </datafield>
+        <datafield tag="801" ind1=" " ind2="0">
+            <subfield code="a">PT</subfield>
+            <subfield code="b">Biblioteca Municipal de Montalegre</subfield>
+            <subfield code="g">RPC</subfield>
+        </datafield>
+        <datafield tag="856" ind1=" " ind2=" ">
+            <subfield code="u">locateMedia.asp?cod=20060503142940&amp;ext=jpg</subfield>
+            <subfield code="z">CAPA</subfield>
+        </datafield>
+        <datafield tag="909" ind1="&#9;" ind2=" ">
+            <subfield code="a">3</subfield>
+        </datafield>
+        <datafield tag="966" ind1=" " ind2=" ">
+            <subfield code="a">0008509</subfield>
+            <subfield code="l">BMM</subfield>
+            <subfield code="s">SJ 821 AIN gue 4</subfield>
+        </datafield>
+        <datafield tag="966" ind1=" " ind2=" ">
+            <subfield code="a">0003114</subfield>
+            <subfield code="l">BMM</subfield>
+            <subfield code="s">SJ 821 AIN gue 4</subfield>
+        </datafield>
+        <datafield tag="966" ind1=" " ind2=" ">
+            <subfield code="a">0003115</subfield>
+            <subfield code="l">BMM</subfield>
+            <subfield code="s">SJ 821 AIN gue 4</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00826nam 2200265 450</leader>
+        <controlfield tag="001">6</controlfield>
+        <controlfield tag="003"
+            >http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&amp;RegNo=16662</controlfield>
+        <controlfield tag="005">20</controlfield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">972-1-02965-3</subfield>
+        </datafield>
+        <datafield tag="021" ind1=" " ind2=" ">
+            <subfield code="a">PT</subfield>
+            <subfield code="b">35514/90</subfield>
+        </datafield>
+        <datafield tag="100" ind1=" " ind2=" ">
+            <subfield code="a">20061013d1990 m y0pory010305 ba</subfield>
+        </datafield>
+        <datafield tag="101" ind1="1" ind2=" ">
+            <subfield code="a">por</subfield>
+            <subfield code="c">eng</subfield>
+        </datafield>
+        <datafield tag="102" ind1=" " ind2=" ">
+            <subfield code="a">PT</subfield>
+        </datafield>
+        <datafield tag="105" ind1=" " ind2=" ">
+            <subfield code="a">y z 001ay</subfield>
+        </datafield>
+        <datafield tag="200" ind1="1" ind2=" ">
+            <subfield code="a">Olho de gato</subfield>
+            <subfield code="f">Margaret Atwood</subfield>
+            <subfield code="g">trad.: Ana Heizkessel</subfield>
+        </datafield>
+        <datafield tag="210" ind1=" " ind2=" ">
+            <subfield code="a">Mem Martins</subfield>
+            <subfield code="c">Europa-América</subfield>
+            <subfield code="d">D.L. 1990</subfield>
+        </datafield>
+        <datafield tag="215" ind1=" " ind2=" ">
+            <subfield code="a">371 p.</subfield>
+            <subfield code="d">21 cm</subfield>
+        </datafield>
+        <datafield tag="225" ind1="2" ind2=" ">
+            <subfield code="a">Século XX</subfield>
+            <subfield code="v">313</subfield>
+        </datafield>
+        <datafield tag="304" ind1=" " ind2=" ">
+            <subfield code="a">Tít. orig.: Cat's eye</subfield>
+        </datafield>
+        <datafield tag="675" ind1=" " ind2=" ">
+            <subfield code="a">821</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="1">
+            <subfield code="a">Atwood</subfield>
+            <subfield code="b">Margaret</subfield>
+            <subfield code="f">1939</subfield>
+        </datafield>
+        <datafield tag="702" ind1=" " ind2="1">
+            <subfield code="a">Heizkessel</subfield>
+            <subfield code="b">Ana</subfield>
+            <subfield code="4">730</subfield>
+        </datafield>
+        <datafield tag="801" ind1=" " ind2="0">
+            <subfield code="a">PT</subfield>
+            <subfield code="b">Biblioteca Municipal de Montalegre</subfield>
+            <subfield code="g">RPC</subfield>
+        </datafield>
+        <datafield tag="856" ind1=" " ind2=" ">
+            <subfield code="u">locateMedia.asp?cod=20060503145652&amp;ext=jpg</subfield>
+            <subfield code="z">CAPA</subfield>
+        </datafield>
+        <datafield tag="909" ind1="&#9;" ind2=" ">
+            <subfield code="a">2</subfield>
+        </datafield>
+        <datafield tag="966" ind1=" " ind2=" ">
+            <subfield code="a">0008202</subfield>
+            <subfield code="l">BMM</subfield>
+            <subfield code="s">SCG 821 ATW olh 313</subfield>
+        </datafield>
+        <datafield tag="966" ind1=" " ind2=" ">
+            <subfield code="a">0008203</subfield>
+            <subfield code="l">BMM</subfield>
+            <subfield code="s">SCG 821 ATW olh 313</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00644nam 2200205 450</leader>
+        <controlfield tag="001">7</controlfield>
+        <controlfield tag="003"
+            >http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&amp;RegNo=16662</controlfield>
+        <datafield tag="095" ind1=" " ind2=" ">
+            <subfield code="a">PTBN00037341</subfield>
+        </datafield>
+        <datafield tag="100" ind1=" " ind2=" ">
+            <subfield code="a">20061013d1982 m y0pora010305 ba</subfield>
+        </datafield>
+        <datafield tag="101" ind1="1" ind2=" ">
+            <subfield code="a">por</subfield>
+            <subfield code="c">spa</subfield>
+        </datafield>
+        <datafield tag="102" ind1=" " ind2=" ">
+            <subfield code="a">PT</subfield>
+        </datafield>
+        <datafield tag="200" ind1="1" ind2=" ">
+            <subfield code="a">Crimes exemplares</subfield>
+            <subfield code="f">Max Aub</subfield>
+            <subfield code="g">trad. Abel Prazer</subfield>
+        </datafield>
+        <datafield tag="210" ind1=" " ind2=" ">
+            <subfield code="a">Lisboa</subfield>
+            <subfield code="c">Antígona</subfield>
+            <subfield code="d">1982</subfield>
+        </datafield>
+        <datafield tag="215" ind1=" " ind2=" ">
+            <subfield code="a">98, [5] p.</subfield>
+            <subfield code="d">21 cm</subfield>
+        </datafield>
+        <datafield tag="304" ind1=" " ind2=" ">
+            <subfield code="a">Tít. orig. Crimens ejemplares</subfield>
+        </datafield>
+        <datafield tag="675" ind1=" " ind2=" ">
+            <subfield code="a">821</subfield>
+            <subfield code="z">por</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="1">
+            <subfield code="a">Aub</subfield>
+            <subfield code="b">Max</subfield>
+            <subfield code="f">1903-1972</subfield>
+        </datafield>
+        <datafield tag="702" ind1=" " ind2="1">
+            <subfield code="a">Prazer</subfield>
+            <subfield code="b">Abel</subfield>
+            <subfield code="4">730</subfield>
+        </datafield>
+        <datafield tag="801" ind1=" " ind2="0">
+            <subfield code="a">PT</subfield>
+            <subfield code="b">Biblioteca Municipal de Montalegre</subfield>
+            <subfield code="g">RPC</subfield>
+        </datafield>
+        <datafield tag="856" ind1=" " ind2=" ">
+            <subfield code="u">locateMedia.asp?cod=20060503154152&amp;ext=jpg</subfield>
+            <subfield code="z">CAPA</subfield>
+        </datafield>
+        <datafield tag="909" ind1="&#9;" ind2=" ">
+            <subfield code="a">1</subfield>
+        </datafield>
+        <datafield tag="966" ind1=" " ind2=" ">
+            <subfield code="a">0008040</subfield>
+            <subfield code="l">BMM</subfield>
+            <subfield code="s">SCG 821 AUB cri</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00772nam 2200217 450</leader>
+        <controlfield tag="001">3</controlfield>
+        <controlfield tag="003"
+            >http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&amp;RegNo=16662</controlfield>
+        <datafield tag="095" ind1=" " ind2=" ">
+            <subfield code="a">PTBN00030897</subfield>
+        </datafield>
+        <datafield tag="100" ind1=" " ind2=" ">
+            <subfield code="a">19920811d1986 m y0pory010305 ba</subfield>
+        </datafield>
+        <datafield tag="101" ind1="1" ind2=" ">
+            <subfield code="a">por</subfield>
+            <subfield code="c">spa</subfield>
+        </datafield>
+        <datafield tag="102" ind1=" " ind2=" ">
+            <subfield code="a">PT</subfield>
+        </datafield>
+        <datafield tag="200" ind1="1" ind2=" ">
+            <subfield code="a">Homens de milho</subfield>
+            <subfield code="f">Miguel Angel Asturias</subfield>
+            <subfield code="g">trad. Maria da Graça Lima Gomes</subfield>
+        </datafield>
+        <datafield tag="210" ind1=" " ind2=" ">
+            <subfield code="a">Lisboa</subfield>
+            <subfield code="c">Edições 70</subfield>
+            <subfield code="d">imp. 1986</subfield>
+        </datafield>
+        <datafield tag="215" ind1=" " ind2=" ">
+            <subfield code="a">257, [4] p.</subfield>
+            <subfield code="d">22 cm</subfield>
+        </datafield>
+        <datafield tag="225" ind1="2" ind2=" ">
+            <subfield code="a">Vozes da América Latina</subfield>
+            <subfield code="v">5</subfield>
+        </datafield>
+        <datafield tag="304" ind1=" " ind2=" ">
+            <subfield code="a">Tít. orig.: Hombres de maiz</subfield>
+        </datafield>
+        <datafield tag="675" ind1=" " ind2=" ">
+            <subfield code="a">821.134.2 (7/8)</subfield>
+            <subfield code="z">por</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="1">
+            <subfield code="a">Angel Asturias</subfield>
+            <subfield code="b">Miguel</subfield>
+            <subfield code="f">1899-1974</subfield>
+        </datafield>
+        <datafield tag="702" ind1=" " ind2="1">
+            <subfield code="a">Gomes</subfield>
+            <subfield code="b">Maria da Graça Lima</subfield>
+            <subfield code="4">730</subfield>
+        </datafield>
+        <datafield tag="801" ind1=" " ind2="0">
+            <subfield code="a">PT</subfield>
+            <subfield code="b">Biblioteca Municipal de Montalegre</subfield>
+            <subfield code="g">RPC</subfield>
+        </datafield>
+        <datafield tag="856" ind1=" " ind2=" ">
+            <subfield code="u">locateMedia.asp?cod=20060503143700&amp;ext=jpg</subfield>
+            <subfield code="z">CAPA</subfield>
+        </datafield>
+        <datafield tag="909" ind1="&#9;" ind2=" ">
+            <subfield code="a">1</subfield>
+        </datafield>
+        <datafield tag="966" ind1=" " ind2=" ">
+            <subfield code="a">0008859</subfield>
+            <subfield code="l">BMM</subfield>
+            <subfield code="s">SCG 821.134.2(7/8) ANG hom 5</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00605nam 2200193 450</leader>
+        <controlfield tag="001">8</controlfield>
+        <controlfield tag="003"
+            >http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&amp;RegNo=16662</controlfield>
+        <datafield tag="095" ind1=" " ind2=" ">
+            <subfield code="a">PTBN00220354</subfield>
+        </datafield>
+        <datafield tag="100" ind1=" " ind2=" ">
+            <subfield code="a">20061013d1973 m y0pory010305 ba</subfield>
+        </datafield>
+        <datafield tag="101" ind1="1" ind2=" ">
+            <subfield code="a">por</subfield>
+            <subfield code="c">fre</subfield>
+        </datafield>
+        <datafield tag="102" ind1=" " ind2=" ">
+            <subfield code="a">PT</subfield>
+        </datafield>
+        <datafield tag="200" ind1="1" ind2=" ">
+            <subfield code="a">Don Fernando</subfield>
+            <subfield code="f">Fernand Fournier Aubry</subfield>
+            <subfield code="g">trad. Berta Mendes</subfield>
+        </datafield>
+        <datafield tag="210" ind1=" " ind2=" ">
+            <subfield code="a">Amadora</subfield>
+            <subfield code="c">Bertrand</subfield>
+            <subfield code="d">1973</subfield>
+        </datafield>
+        <datafield tag="215" ind1=" " ind2=" ">
+            <subfield code="a">530 p.</subfield>
+            <subfield code="c">il.</subfield>
+            <subfield code="d">20 cm</subfield>
+        </datafield>
+        <datafield tag="225" ind1="2" ind2=" ">
+            <subfield code="a">Autores universais</subfield>
+            <subfield code="h">monumental</subfield>
+        </datafield>
+        <datafield tag="675" ind1=" " ind2=" ">
+            <subfield code="a">821</subfield>
+            <subfield code="z">por</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="1">
+            <subfield code="a">Aubry</subfield>
+            <subfield code="b">Fernand Fournier</subfield>
+        </datafield>
+        <datafield tag="702" ind1=" " ind2="1">
+            <subfield code="a">Mendes</subfield>
+            <subfield code="b">Berta</subfield>
+            <subfield code="f">1907-</subfield>
+            <subfield code="4">730</subfield>
+        </datafield>
+        <datafield tag="801" ind1=" " ind2="0">
+            <subfield code="a">PT</subfield>
+            <subfield code="b">Biblioteca Municipal de Montalegre</subfield>
+            <subfield code="g">RPC</subfield>
+        </datafield>
+        <datafield tag="909" ind1="&#9;" ind2=" ">
+            <subfield code="a">1</subfield>
+        </datafield>
+        <datafield tag="966" ind1=" " ind2=" ">
+            <subfield code="a">0008617</subfield>
+            <subfield code="l">BMM</subfield>
+            <subfield code="s">SCG 821 AUB don</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00877nam 2200289 450</leader>
+        <controlfield tag="001">9</controlfield>
+        <controlfield tag="003"
+            >http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&amp;RegNo=16662</controlfield>
+        <controlfield tag="005">20</controlfield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">972-1-02319-1</subfield>
+        </datafield>
+        <datafield tag="021" ind1=" " ind2=" ">
+            <subfield code="a">PT</subfield>
+            <subfield code="b">50314/91</subfield>
+        </datafield>
+        <datafield tag="095" ind1=" " ind2=" ">
+            <subfield code="a">PTBN00356004</subfield>
+        </datafield>
+        <datafield tag="100" ind1=" " ind2=" ">
+            <subfield code="a">20061013d1991 m y0pory010305 ba</subfield>
+        </datafield>
+        <datafield tag="101" ind1="1" ind2=" ">
+            <subfield code="a">por</subfield>
+            <subfield code="c">eng</subfield>
+        </datafield>
+        <datafield tag="102" ind1=" " ind2=" ">
+            <subfield code="a">PT</subfield>
+        </datafield>
+        <datafield tag="105" ind1=" " ind2=" ">
+            <subfield code="a">a zzzz000aa</subfield>
+        </datafield>
+        <datafield tag="106" ind1=" " ind2=" ">
+            <subfield code="a">r</subfield>
+        </datafield>
+        <datafield tag="200" ind1="1" ind2=" ">
+            <subfield code="a">&lt;O &gt;vale dos cavalos</subfield>
+            <subfield code="f">Jean M. Auel</subfield>
+            <subfield code="g">trad. Sophie Penberthy Vinga</subfield>
+        </datafield>
+        <datafield tag="205" ind1=" " ind2=" ">
+            <subfield code="a">3ª ed</subfield>
+        </datafield>
+        <datafield tag="210" ind1=" " ind2=" ">
+            <subfield code="a">Mem Martins</subfield>
+            <subfield code="c">Europa-América</subfield>
+            <subfield code="d">D.L. 1991</subfield>
+        </datafield>
+        <datafield tag="215" ind1=" " ind2=" ">
+            <subfield code="a">501 p.</subfield>
+            <subfield code="d">21 cm</subfield>
+        </datafield>
+        <datafield tag="225" ind1="2" ind2=" ">
+            <subfield code="a">Nébula</subfield>
+            <subfield code="v">16)</subfield>
+        </datafield>
+        <datafield tag="304" ind1=" " ind2=" ">
+            <subfield code="a">Tít. orig.: The valley of horses</subfield>
+        </datafield>
+        <datafield tag="675" ind1=" " ind2=" ">
+            <subfield code="a">821</subfield>
+            <subfield code="v">BN</subfield>
+            <subfield code="z">por</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="1">
+            <subfield code="a">Auel</subfield>
+            <subfield code="b">Jean M</subfield>
+            <subfield code="f">1936</subfield>
+        </datafield>
+        <datafield tag="702" ind1=" " ind2="1">
+            <subfield code="a">Vinga</subfield>
+            <subfield code="b">Sophie Penberthy</subfield>
+            <subfield code="4">730</subfield>
+        </datafield>
+        <datafield tag="801" ind1=" " ind2="0">
+            <subfield code="a">PT</subfield>
+            <subfield code="b">Biblioteca Municipal de Montalegre</subfield>
+            <subfield code="g">RPC</subfield>
+        </datafield>
+        <datafield tag="856" ind1=" " ind2=" ">
+            <subfield code="u">locateMedia.asp?cod=20060504093325&amp;ext=jpg</subfield>
+            <subfield code="z">CAPA</subfield>
+        </datafield>
+        <datafield tag="909" ind1="&#9;" ind2=" ">
+            <subfield code="a">1</subfield>
+        </datafield>
+        <datafield tag="966" ind1=" " ind2=" ">
+            <subfield code="a">0010171</subfield>
+            <subfield code="l">BMM</subfield>
+            <subfield code="s">SCG 821 AUE val 16</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00825nam 2200277 450</leader>
+        <controlfield tag="001">10</controlfield>
+        <controlfield tag="003"
+            >http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&amp;RegNo=16662</controlfield>
+        <controlfield tag="005">20</controlfield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">972-1-02662-2</subfield>
+        </datafield>
+        <datafield tag="021" ind1=" " ind2=" ">
+            <subfield code="a">PT</subfield>
+            <subfield code="b">25274/89</subfield>
+        </datafield>
+        <datafield tag="095" ind1=" " ind2=" ">
+            <subfield code="a">PTBN00127286</subfield>
+        </datafield>
+        <datafield tag="100" ind1=" " ind2=" ">
+            <subfield code="a">20061013d1989 m y0pora010305 ba</subfield>
+        </datafield>
+        <datafield tag="101" ind1="1" ind2=" ">
+            <subfield code="a">por</subfield>
+            <subfield code="c">eng</subfield>
+        </datafield>
+        <datafield tag="102" ind1=" " ind2=" ">
+            <subfield code="a">PT</subfield>
+        </datafield>
+        <datafield tag="105" ind1=" " ind2=" ">
+            <subfield code="a">y z 000ay</subfield>
+        </datafield>
+        <datafield tag="106" ind1=" " ind2=" ">
+            <subfield code="a">r</subfield>
+        </datafield>
+        <datafield tag="200" ind1="1" ind2=" ">
+            <subfield code="a">&lt;O &gt;clã do urso das cavernas</subfield>
+            <subfield code="f">Jean M. Auel</subfield>
+            <subfield code="g">trad. Sophie Pemberthy Vinga</subfield>
+        </datafield>
+        <datafield tag="205" ind1=" " ind2=" ">
+            <subfield code="a">2a ed</subfield>
+        </datafield>
+        <datafield tag="210" ind1=" " ind2=" ">
+            <subfield code="a">Mem Martins</subfield>
+            <subfield code="c">Europa-América</subfield>
+            <subfield code="d">D.L. 1989</subfield>
+        </datafield>
+        <datafield tag="215" ind1=" " ind2=" ">
+            <subfield code="a">527 p.</subfield>
+            <subfield code="d">21 cm</subfield>
+        </datafield>
+        <datafield tag="225" ind1="2" ind2=" ">
+            <subfield code="a">Nébula</subfield>
+            <subfield code="v">11)</subfield>
+        </datafield>
+        <datafield tag="304" ind1=" " ind2=" ">
+            <subfield code="a">Tít. orig.: The clan of the cave bear</subfield>
+        </datafield>
+        <datafield tag="675" ind1=" " ind2=" ">
+            <subfield code="a">821</subfield>
+            <subfield code="v">BN</subfield>
+            <subfield code="z">por</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="1">
+            <subfield code="a">Auel</subfield>
+            <subfield code="b">Jean M</subfield>
+            <subfield code="f">1936</subfield>
+        </datafield>
+        <datafield tag="702" ind1=" " ind2="1">
+            <subfield code="a">Vinga</subfield>
+            <subfield code="b">Sophie Penberthy</subfield>
+            <subfield code="4">730</subfield>
+        </datafield>
+        <datafield tag="801" ind1=" " ind2="0">
+            <subfield code="a">PT</subfield>
+            <subfield code="b">Biblioteca Municipal de Montalegre</subfield>
+            <subfield code="g">RPC</subfield>
+        </datafield>
+        <datafield tag="909" ind1="&#9;" ind2=" ">
+            <subfield code="a">1</subfield>
+        </datafield>
+        <datafield tag="966" ind1=" " ind2=" ">
+            <subfield code="a">0010172</subfield>
+            <subfield code="l">BMM</subfield>
+            <subfield code="s">SCG 821 AUE clã 11</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00742nam 2200217 450</leader>
+        <controlfield tag="001">2</controlfield>
+        <controlfield tag="003"
+            >http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&amp;RegNo=16662</controlfield>
+        <datafield tag="095" ind1=" " ind2=" ">
+            <subfield code="a">PTBN00079290</subfield>
+        </datafield>
+        <datafield tag="100" ind1=" " ind2=" ">
+            <subfield code="a">19950707d1985 m y0pory010305 ba</subfield>
+        </datafield>
+        <datafield tag="101" ind1="1" ind2=" ">
+            <subfield code="a">por</subfield>
+            <subfield code="c">spa</subfield>
+        </datafield>
+        <datafield tag="102" ind1=" " ind2=" ">
+            <subfield code="a">PT</subfield>
+        </datafield>
+        <datafield tag="200" ind1="1" ind2=" ">
+            <subfield code="a">&lt;A &gt;torre ferida pelo raio</subfield>
+            <subfield code="f">Fernando Arrabal</subfield>
+            <subfield code="g">trad. Luís Filipe Serrão</subfield>
+        </datafield>
+        <datafield tag="210" ind1=" " ind2=" ">
+            <subfield code="a">Lisboa</subfield>
+            <subfield code="c">Inquérito</subfield>
+            <subfield code="d">[D.L. 1985]</subfield>
+        </datafield>
+        <datafield tag="215" ind1=" " ind2=" ">
+            <subfield code="a">198 p.</subfield>
+            <subfield code="c">il.</subfield>
+            <subfield code="d">21 cm</subfield>
+        </datafield>
+        <datafield tag="225" ind1="2" ind2=" ">
+            <subfield code="a">Romance universal Inquérito</subfield>
+            <subfield code="v">9)</subfield>
+        </datafield>
+        <datafield tag="304" ind1=" " ind2=" ">
+            <subfield code="a">Tít. orig.: La torre herida por el rayo</subfield>
+        </datafield>
+        <datafield tag="675" ind1=" " ind2=" ">
+            <subfield code="a">821</subfield>
+            <subfield code="z">por</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="1">
+            <subfield code="a">Arrabal</subfield>
+            <subfield code="b">Fernando</subfield>
+            <subfield code="f">1932</subfield>
+        </datafield>
+        <datafield tag="702" ind1=" " ind2="1">
+            <subfield code="a">Serrão</subfield>
+            <subfield code="b">Luís</subfield>
+            <subfield code="4">730</subfield>
+        </datafield>
+        <datafield tag="801" ind1=" " ind2="0">
+            <subfield code="a">PT</subfield>
+            <subfield code="b">Biblioteca Municipal de Montalegre</subfield>
+            <subfield code="g">RPC</subfield>
+        </datafield>
+        <datafield tag="856" ind1=" " ind2=" ">
+            <subfield code="u">locateMedia.asp?cod=20060503142714&amp;ext=jpg</subfield>
+            <subfield code="z">CAPA</subfield>
+        </datafield>
+        <datafield tag="909" ind1="&#9;" ind2=" ">
+            <subfield code="a">1</subfield>
+        </datafield>
+        <datafield tag="966" ind1=" " ind2=" ">
+            <subfield code="a">0008511</subfield>
+            <subfield code="l">BMM</subfield>
+            <subfield code="s">SCG 821 ARR tor 9</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01110nam 2200349 450</leader>
+        <controlfield tag="001">11</controlfield>
+        <controlfield tag="003"
+            >http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&amp;RegNo=16662</controlfield>
+        <controlfield tag="005">20</controlfield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">972-1-02750-2</subfield>
+        </datafield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">972-0-2978-5</subfield>
+        </datafield>
+        <datafield tag="021" ind1=" " ind2=" ">
+            <subfield code="a">PT</subfield>
+            <subfield code="b">26955/89</subfield>
+        </datafield>
+        <datafield tag="021" ind1=" " ind2=" ">
+            <subfield code="a">PT</subfield>
+            <subfield code="b">33779/89</subfield>
+        </datafield>
+        <datafield tag="095" ind1=" " ind2=" ">
+            <subfield code="a">PTBN00179549</subfield>
+        </datafield>
+        <datafield tag="100" ind1=" " ind2=" ">
+            <subfield code="a">20061013g1989 m y0pory010305 ba</subfield>
+        </datafield>
+        <datafield tag="101" ind1="1" ind2=" ">
+            <subfield code="a">por</subfield>
+            <subfield code="c">eng</subfield>
+        </datafield>
+        <datafield tag="102" ind1=" " ind2=" ">
+            <subfield code="a">PT</subfield>
+        </datafield>
+        <datafield tag="105" ind1=" " ind2=" ">
+            <subfield code="a">y z 000ay</subfield>
+        </datafield>
+        <datafield tag="106" ind1=" " ind2=" ">
+            <subfield code="a">r</subfield>
+        </datafield>
+        <datafield tag="200" ind1="1" ind2=" ">
+            <subfield code="a">&lt;Os &gt;caçadores de mamutes</subfield>
+            <subfield code="f">Jean M. Auel</subfield>
+            <subfield code="g">trad. Sophie Penberthy Vinga</subfield>
+        </datafield>
+        <datafield tag="205" ind1=" " ind2=" ">
+            <subfield code="a">2a ed</subfield>
+        </datafield>
+        <datafield tag="210" ind1=" " ind2=" ">
+            <subfield code="a">Mem Martins</subfield>
+            <subfield code="c">Europa-América</subfield>
+            <subfield code="d">D.L. 1989</subfield>
+        </datafield>
+        <datafield tag="215" ind1=" " ind2=" ">
+            <subfield code="a">v</subfield>
+            <subfield code="c">1 map</subfield>
+            <subfield code="d">21 cm</subfield>
+        </datafield>
+        <datafield tag="225" ind1="2" ind2=" ">
+            <subfield code="a">Nébula</subfield>
+            <subfield code="v">21, 22)</subfield>
+        </datafield>
+        <datafield tag="304" ind1=" " ind2=" ">
+            <subfield code="a">Tít. orig. : The mammoth hunters</subfield>
+        </datafield>
+        <datafield tag="327" ind1="0" ind2=" ">
+            <subfield code="a">1º v. : 308 p</subfield>
+            <subfield code="a">2º v. : 339 p</subfield>
+        </datafield>
+        <datafield tag="675" ind1=" " ind2=" ">
+            <subfield code="a">82-311.9</subfield>
+            <subfield code="v">BN</subfield>
+            <subfield code="z">por</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="1">
+            <subfield code="a">Auel</subfield>
+            <subfield code="b">Jean M</subfield>
+            <subfield code="f">1936</subfield>
+        </datafield>
+        <datafield tag="702" ind1=" " ind2="1">
+            <subfield code="a">Vinga</subfield>
+            <subfield code="b">Sophie Penberthy</subfield>
+            <subfield code="4">730</subfield>
+        </datafield>
+        <datafield tag="801" ind1=" " ind2="0">
+            <subfield code="a">PT</subfield>
+            <subfield code="b">Biblioteca Municipal de Montalegre</subfield>
+            <subfield code="g">RPC</subfield>
+        </datafield>
+        <datafield tag="856" ind1=" " ind2=" ">
+            <subfield code="u">locateMedia.asp?cod=20060504094048&amp;ext=jpg</subfield>
+            <subfield code="z">CAPA</subfield>
+        </datafield>
+        <datafield tag="856" ind1=" " ind2=" ">
+            <subfield code="u">locateMedia.asp?cod=20060504094141&amp;ext=jpg</subfield>
+            <subfield code="z">CAPA</subfield>
+        </datafield>
+        <datafield tag="909" ind1="&#9;" ind2=" ">
+            <subfield code="a">2</subfield>
+        </datafield>
+        <datafield tag="966" ind1=" " ind2=" ">
+            <subfield code="a">0010170</subfield>
+            <subfield code="l">BMM</subfield>
+            <subfield code="s">SCG 821 AUE caç 21</subfield>
+        </datafield>
+        <datafield tag="966" ind1=" " ind2=" ">
+            <subfield code="a">0010169</subfield>
+            <subfield code="l">BMM</subfield>
+            <subfield code="s">SCG 821 AUE caç 22</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01039nam 2200325 450</leader>
+        <controlfield tag="001">13</controlfield>
+        <controlfield tag="003"
+            >http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&amp;RegNo=16662</controlfield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">972-1-03411-8</subfield>
+        </datafield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">972-1-03451-7</subfield>
+        </datafield>
+        <datafield tag="021" ind1=" " ind2=" ">
+            <subfield code="a">PT</subfield>
+            <subfield code="b">71898/93</subfield>
+        </datafield>
+        <datafield tag="021" ind1=" " ind2=" ">
+            <subfield code="a">PT</subfield>
+            <subfield code="b">78937/94</subfield>
+        </datafield>
+        <datafield tag="095" ind1=" " ind2=" ">
+            <subfield code="a">PTBN00600252</subfield>
+        </datafield>
+        <datafield tag="100" ind1=" " ind2=" ">
+            <subfield code="a">20061013d1993 m y0pory010305 ba</subfield>
+        </datafield>
+        <datafield tag="101" ind1="1" ind2=" ">
+            <subfield code="a">por</subfield>
+            <subfield code="c">eng</subfield>
+        </datafield>
+        <datafield tag="102" ind1=" " ind2=" ">
+            <subfield code="a">PT</subfield>
+        </datafield>
+        <datafield tag="105" ind1=" " ind2=" ">
+            <subfield code="a">y z 000ay</subfield>
+        </datafield>
+        <datafield tag="106" ind1=" " ind2=" ">
+            <subfield code="a">r</subfield>
+        </datafield>
+        <datafield tag="200" ind1="1" ind2=" ">
+            <subfield code="a">Planícies de passagem</subfield>
+            <subfield code="f">Jean Auel</subfield>
+            <subfield code="g">trad. Sophie Vinga</subfield>
+        </datafield>
+        <datafield tag="205" ind1=" " ind2=" ">
+            <subfield code="a">2ª ed</subfield>
+        </datafield>
+        <datafield tag="210" ind1=" " ind2=" ">
+            <subfield code="a">Mem Martins</subfield>
+            <subfield code="c">Europa-América</subfield>
+            <subfield code="d">D.L. 1993-1994</subfield>
+        </datafield>
+        <datafield tag="215" ind1=" " ind2=" ">
+            <subfield code="a">2 v. (383, 406, [3] p.)</subfield>
+            <subfield code="d">21 cm</subfield>
+        </datafield>
+        <datafield tag="225" ind1="2" ind2=" ">
+            <subfield code="a">Nébula</subfield>
+            <subfield code="v">43-44)</subfield>
+        </datafield>
+        <datafield tag="304" ind1=" " ind2=" ">
+            <subfield code="a">Tít. orig.: The plains of passage</subfield>
+        </datafield>
+        <datafield tag="675" ind1=" " ind2=" ">
+            <subfield code="a">821</subfield>
+            <subfield code="v">BN</subfield>
+            <subfield code="z">por</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="1">
+            <subfield code="a">Auel</subfield>
+            <subfield code="b">Jean M</subfield>
+            <subfield code="f">1936</subfield>
+        </datafield>
+        <datafield tag="702" ind1=" " ind2="1">
+            <subfield code="a">Vinga</subfield>
+            <subfield code="b">Sophie Penberthy</subfield>
+            <subfield code="4">730</subfield>
+        </datafield>
+        <datafield tag="801" ind1=" " ind2="0">
+            <subfield code="a">PT</subfield>
+            <subfield code="b">Biblioteca Municipal de Montalegre</subfield>
+            <subfield code="g">RPC</subfield>
+        </datafield>
+        <datafield tag="856" ind1=" " ind2=" ">
+            <subfield code="u">locateMedia.asp?cod=20060504103149&amp;ext=jpg</subfield>
+            <subfield code="z">CAPA</subfield>
+        </datafield>
+        <datafield tag="856" ind1=" " ind2=" ">
+            <subfield code="u">locateMedia.asp?cod=20060504103338&amp;ext=jpg</subfield>
+            <subfield code="z">CAPA</subfield>
+        </datafield>
+        <datafield tag="909" ind1="&#9;" ind2=" ">
+            <subfield code="a">2</subfield>
+        </datafield>
+        <datafield tag="966" ind1=" " ind2=" ">
+            <subfield code="a">0010180</subfield>
+            <subfield code="l">BMM</subfield>
+            <subfield code="s">SCG 821 AUE pla 43</subfield>
+        </datafield>
+        <datafield tag="966" ind1=" " ind2=" ">
+            <subfield code="a">0010181</subfield>
+            <subfield code="l">BMM</subfield>
+            <subfield code="s">SCG 821 AUE pla 44</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00635nam 2200193 450</leader>
+        <controlfield tag="001">4</controlfield>
+        <controlfield tag="003"
+            >http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&amp;RegNo=16662</controlfield>
+        <datafield tag="095" ind1=" " ind2=" ">
+            <subfield code="a">PTBN00510238</subfield>
+        </datafield>
+        <datafield tag="100" ind1=" " ind2=" ">
+            <subfield code="a">20061013d1939 km y0pory010305 ba</subfield>
+        </datafield>
+        <datafield tag="101" ind1="1" ind2=" ">
+            <subfield code="a">por</subfield>
+        </datafield>
+        <datafield tag="102" ind1=" " ind2=" ">
+            <subfield code="a">PT</subfield>
+        </datafield>
+        <datafield tag="200" ind1="1" ind2=" ">
+            <subfield code="a">&lt;O &gt;amor tem duas caras</subfield>
+            <subfield code="f">Henri Ardel</subfield>
+            <subfield code="g">trad. M. de Brito Guimaräes</subfield>
+        </datafield>
+        <datafield tag="210" ind1=" " ind2=" ">
+            <subfield code="a">Lisboa</subfield>
+            <subfield code="c">Guimarães Editores</subfield>
+            <subfield code="d">[1939]</subfield>
+        </datafield>
+        <datafield tag="215" ind1=" " ind2=" ">
+            <subfield code="a">216 p.</subfield>
+            <subfield code="d">19 cm</subfield>
+        </datafield>
+        <datafield tag="675" ind1=" " ind2=" ">
+            <subfield code="a">821</subfield>
+            <subfield code="z">por</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="1">
+            <subfield code="a">Ardel</subfield>
+            <subfield code="b">Henri</subfield>
+            <subfield code="f">1863-1938</subfield>
+        </datafield>
+        <datafield tag="702" ind1=" " ind2="1">
+            <subfield code="a">Guimarães</subfield>
+            <subfield code="b">M. de Brito</subfield>
+            <subfield code="4">730</subfield>
+        </datafield>
+        <datafield tag="801" ind1=" " ind2="0">
+            <subfield code="a">PT</subfield>
+            <subfield code="b">Biblioteca Municipal de Montalegre</subfield>
+            <subfield code="g">RPC</subfield>
+        </datafield>
+        <datafield tag="856" ind1=" " ind2=" ">
+            <subfield code="u">locateMedia.asp?cod=20060503144300&amp;ext=jpg</subfield>
+            <subfield code="z">CAPA</subfield>
+        </datafield>
+        <datafield tag="909" ind1="&#9;" ind2=" ">
+            <subfield code="a">1</subfield>
+        </datafield>
+        <datafield tag="966" ind1=" " ind2=" ">
+            <subfield code="a">0008710</subfield>
+            <subfield code="l">BMM</subfield>
+            <subfield code="s">SCG 821 ARD amo</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00870nam 2200289 450</leader>
+        <controlfield tag="001">14</controlfield>
+        <controlfield tag="003"
+            >http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&amp;RegNo=16662</controlfield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">972-20-0729-7</subfield>
+        </datafield>
+        <datafield tag="021" ind1=" " ind2=" ">
+            <subfield code="a">PT</subfield>
+            <subfield code="b">28621/89</subfield>
+        </datafield>
+        <datafield tag="095" ind1=" " ind2=" ">
+            <subfield code="a">PTBN00201511</subfield>
+        </datafield>
+        <datafield tag="100" ind1=" " ind2=" ">
+            <subfield code="a">20061013d1989 am y0pory010305 ba</subfield>
+        </datafield>
+        <datafield tag="101" ind1="1" ind2=" ">
+            <subfield code="a">por</subfield>
+            <subfield code="c">eng</subfield>
+        </datafield>
+        <datafield tag="102" ind1=" " ind2=" ">
+            <subfield code="a">PT</subfield>
+        </datafield>
+        <datafield tag="105" ind1=" " ind2=" ">
+            <subfield code="a">a z 001ay</subfield>
+        </datafield>
+        <datafield tag="106" ind1=" " ind2=" ">
+            <subfield code="a">r</subfield>
+        </datafield>
+        <datafield tag="200" ind1="1" ind2=" ">
+            <subfield code="a">Ruínas</subfield>
+            <subfield code="f">Brian Aldiss</subfield>
+            <subfield code="g">trad. J. Teixeira de Aguilar</subfield>
+            <subfield code="g">il. Salim Patell</subfield>
+        </datafield>
+        <datafield tag="205" ind1=" " ind2=" ">
+            <subfield code="a">1ª ed</subfield>
+        </datafield>
+        <datafield tag="210" ind1=" " ind2=" ">
+            <subfield code="a">Lisboa</subfield>
+            <subfield code="c">Dom Quixote</subfield>
+            <subfield code="d">1989</subfield>
+        </datafield>
+        <datafield tag="215" ind1=" " ind2=" ">
+            <subfield code="a">108 p.</subfield>
+            <subfield code="c">il.</subfield>
+            <subfield code="d">24 cm</subfield>
+        </datafield>
+        <datafield tag="225" ind1="2" ind2=" ">
+            <subfield code="a">Fábula</subfield>
+        </datafield>
+        <datafield tag="304" ind1=" " ind2=" ">
+            <subfield code="a">Tít. orig.: Ruins</subfield>
+        </datafield>
+        <datafield tag="675" ind1=" " ind2=" ">
+            <subfield code="a">851</subfield>
+            <subfield code="v">BN</subfield>
+            <subfield code="z">por</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="1">
+            <subfield code="a">Aldiss</subfield>
+            <subfield code="b">Brian W</subfield>
+            <subfield code="f">1925</subfield>
+        </datafield>
+        <datafield tag="702" ind1=" " ind2="1">
+            <subfield code="a">Aguilar</subfield>
+            <subfield code="b">J. Teixeira de</subfield>
+            <subfield code="f">1945-</subfield>
+            <subfield code="4">730</subfield>
+        </datafield>
+        <datafield tag="702" ind1=" " ind2="1">
+            <subfield code="a">Patell</subfield>
+            <subfield code="b">Salim</subfield>
+            <subfield code="4">440</subfield>
+        </datafield>
+        <datafield tag="801" ind1=" " ind2="0">
+            <subfield code="a">PT</subfield>
+            <subfield code="b">Biblioteca Municipal de Montalegre</subfield>
+            <subfield code="g">RPC</subfield>
+        </datafield>
+        <datafield tag="856" ind1=" " ind2=" ">
+            <subfield code="u">locateMedia.asp?cod=20060504113555&amp;ext=jpg</subfield>
+            <subfield code="z">CAPA</subfield>
+        </datafield>
+        <datafield tag="909" ind1="&#9;" ind2=" ">
+            <subfield code="a">1</subfield>
+        </datafield>
+        <datafield tag="966" ind1=" " ind2=" ">
+            <subfield code="a">0008274</subfield>
+            <subfield code="l">BMM</subfield>
+            <subfield code="s">SCG 821 ALD ruí</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00777nam 2200241 450</leader>
+        <controlfield tag="001">5</controlfield>
+        <controlfield tag="003"
+            >http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&amp;RegNo=16662</controlfield>
+        <controlfield tag="005">20</controlfield>
+        <datafield tag="021" ind1=" " ind2=" ">
+            <subfield code="a">PT</subfield>
+            <subfield code="b">19881/88</subfield>
+        </datafield>
+        <datafield tag="095" ind1=" " ind2=" ">
+            <subfield code="a">PTBN00129484</subfield>
+        </datafield>
+        <datafield tag="100" ind1=" " ind2=" ">
+            <subfield code="a">20061013d1988 m y0pora010305 ba</subfield>
+        </datafield>
+        <datafield tag="101" ind1="1" ind2=" ">
+            <subfield code="a">por</subfield>
+            <subfield code="c">eng</subfield>
+        </datafield>
+        <datafield tag="102" ind1=" " ind2=" ">
+            <subfield code="a">PT</subfield>
+        </datafield>
+        <datafield tag="200" ind1="1" ind2=" ">
+            <subfield code="a">Crónica de uma serva</subfield>
+            <subfield code="f">Margaret Atwood</subfield>
+            <subfield code="g">trad. A. Martins Lopes</subfield>
+        </datafield>
+        <datafield tag="210" ind1=" " ind2=" ">
+            <subfield code="a">Mem Martins</subfield>
+            <subfield code="c">Europa-América</subfield>
+            <subfield code="d">D.L. 1988</subfield>
+        </datafield>
+        <datafield tag="215" ind1=" " ind2=" ">
+            <subfield code="a">250, [1] p.</subfield>
+            <subfield code="d">21 cm</subfield>
+        </datafield>
+        <datafield tag="225" ind1="2" ind2=" ">
+            <subfield code="a">Nébula</subfield>
+            <subfield code="v">24)</subfield>
+        </datafield>
+        <datafield tag="304" ind1=" " ind2=" ">
+            <subfield code="a">Tít. orig. : The handmaid's tale</subfield>
+        </datafield>
+        <datafield tag="675" ind1=" " ind2=" ">
+            <subfield code="a">821</subfield>
+            <subfield code="v">BN</subfield>
+            <subfield code="z">por</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="1">
+            <subfield code="a">Atwood</subfield>
+            <subfield code="b">Margaret</subfield>
+            <subfield code="f">1939</subfield>
+        </datafield>
+        <datafield tag="702" ind1=" " ind2="1">
+            <subfield code="a">Lopes</subfield>
+            <subfield code="b">A. Martins</subfield>
+            <subfield code="4">730</subfield>
+        </datafield>
+        <datafield tag="801" ind1=" " ind2="0">
+            <subfield code="a">PT</subfield>
+            <subfield code="b">Biblioteca Municipal de Montalegre</subfield>
+            <subfield code="g">RPC</subfield>
+        </datafield>
+        <datafield tag="856" ind1=" " ind2=" ">
+            <subfield code="u">locateMedia.asp?cod=20060503145305&amp;ext=jpg</subfield>
+            <subfield code="z">CAPA</subfield>
+        </datafield>
+        <datafield tag="909" ind1="&#9;" ind2=" ">
+            <subfield code="a">1</subfield>
+        </datafield>
+        <datafield tag="966" ind1=" " ind2=" ">
+            <subfield code="a">0010173</subfield>
+            <subfield code="l">BMM</subfield>
+            <subfield code="s">SCG 821 ATW cro 24</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01113nam 2200337 450</leader>
+        <controlfield tag="001">12</controlfield>
+        <controlfield tag="003"
+            >http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&amp;RegNo=16662</controlfield>
+        <controlfield tag="005">20</controlfield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">972-1-02839-8</subfield>
+        </datafield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">972-1-02865-7</subfield>
+        </datafield>
+        <datafield tag="021" ind1=" " ind2=" ">
+            <subfield code="a">PT</subfield>
+            <subfield code="b">29412/89</subfield>
+        </datafield>
+        <datafield tag="021" ind1=" " ind2=" ">
+            <subfield code="a">PT</subfield>
+            <subfield code="b">29413/89</subfield>
+        </datafield>
+        <datafield tag="100" ind1=" " ind2=" ">
+            <subfield code="a">20061013d1989 m y0pory010305 ba</subfield>
+        </datafield>
+        <datafield tag="101" ind1="1" ind2=" ">
+            <subfield code="a">por</subfield>
+        </datafield>
+        <datafield tag="102" ind1=" " ind2=" ">
+            <subfield code="a">PT</subfield>
+        </datafield>
+        <datafield tag="105" ind1=" " ind2=" ">
+            <subfield code="a">y z 001yy</subfield>
+        </datafield>
+        <datafield tag="200" ind1="1" ind2=" ">
+            <subfield code="a">Alcorão</subfield>
+            <subfield code="f">introd. e notas: Suleiman Valey Mamede</subfield>
+            <subfield code="g">trad.: Américo de Carvalho</subfield>
+        </datafield>
+        <datafield tag="205" ind1=" " ind2=" ">
+            <subfield code="a">2ª ed</subfield>
+        </datafield>
+        <datafield tag="210" ind1=" " ind2=" ">
+            <subfield code="a">Mem Martins</subfield>
+            <subfield code="c">Europa-América</subfield>
+            <subfield code="d">D.L. 1989</subfield>
+        </datafield>
+        <datafield tag="215" ind1=" " ind2=" ">
+            <subfield code="a">Vol.I: 224, [8] p.</subfield>
+            <subfield code="a">Vol.II: 266, [7] p.</subfield>
+            <subfield code="d">18 cm</subfield>
+        </datafield>
+        <datafield tag="225" ind1="2" ind2=" ">
+            <subfield code="a">Livros de bolso Europa-América</subfield>
+            <subfield code="v">186</subfield>
+            <subfield code="v">187</subfield>
+        </datafield>
+        <datafield tag="606" ind1=" " ind2=" ">
+            <subfield code="a">Islamismo</subfield>
+        </datafield>
+        <datafield tag="606" ind1=" " ind2=" ">
+            <subfield code="a">Religião Islâmica</subfield>
+        </datafield>
+        <datafield tag="606" ind1=" " ind2=" ">
+            <subfield code="a">Alcorão</subfield>
+        </datafield>
+        <datafield tag="675" ind1=" " ind2=" ">
+            <subfield code="a">28</subfield>
+        </datafield>
+        <datafield tag="702" ind1=" " ind2="1">
+            <subfield code="a">Mamede</subfield>
+            <subfield code="b">Suleiman Valy</subfield>
+            <subfield code="f">1932</subfield>
+            <subfield code="4">080</subfield>
+        </datafield>
+        <datafield tag="702" ind1=" " ind2="1">
+            <subfield code="a">Carvalho</subfield>
+            <subfield code="b">Américo de</subfield>
+            <subfield code="f">1920-</subfield>
+            <subfield code="4">730</subfield>
+        </datafield>
+        <datafield tag="801" ind1=" " ind2="0">
+            <subfield code="a">PT</subfield>
+            <subfield code="b">Biblioteca Municipal de Montalegre</subfield>
+            <subfield code="g">RPC</subfield>
+        </datafield>
+        <datafield tag="856" ind1=" " ind2=" ">
+            <subfield code="u">locateMedia.asp?cod=20060504101130&amp;ext=jpg</subfield>
+            <subfield code="z">CAPA</subfield>
+        </datafield>
+        <datafield tag="856" ind1=" " ind2=" ">
+            <subfield code="u">locateMedia.asp?cod=20060504101147&amp;ext=jpg</subfield>
+            <subfield code="z">CAPA</subfield>
+        </datafield>
+        <datafield tag="909" ind1="&#9;" ind2=" ">
+            <subfield code="a">2</subfield>
+        </datafield>
+        <datafield tag="966" ind1=" " ind2=" ">
+            <subfield code="a">0005165</subfield>
+            <subfield code="d">I</subfield>
+            <subfield code="l">BMM</subfield>
+            <subfield code="s">SCG 28 ALC 186</subfield>
+        </datafield>
+        <datafield tag="966" ind1=" " ind2=" ">
+            <subfield code="a">0005166</subfield>
+            <subfield code="d">II</subfield>
+            <subfield code="l">BMM</subfield>
+            <subfield code="s">SCG 28 ALC 187</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00700nam 2200217 450</leader>
+        <controlfield tag="001">15</controlfield>
+        <controlfield tag="003"
+            >http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&amp;RegNo=16662</controlfield>
+        <datafield tag="095" ind1=" " ind2=" ">
+            <subfield code="a">PTBN00010458</subfield>
+        </datafield>
+        <datafield tag="100" ind1=" " ind2=" ">
+            <subfield code="a">20061013d1986 k y0pora010305 ba</subfield>
+        </datafield>
+        <datafield tag="101" ind1="1" ind2=" ">
+            <subfield code="a">por</subfield>
+            <subfield code="c">eng</subfield>
+        </datafield>
+        <datafield tag="102" ind1=" " ind2=" ">
+            <subfield code="a">PT</subfield>
+        </datafield>
+        <datafield tag="200" ind1="1" ind2=" ">
+            <subfield code="a">&lt;A &gt;longa tarde da terra</subfield>
+            <subfield code="f">Brian W. Aldiss</subfield>
+            <subfield code="g">pref. Joseph Milicia</subfield>
+            <subfield code="g">trad. Maria de Lurdes Medeiros</subfield>
+        </datafield>
+        <datafield tag="210" ind1=" " ind2=" ">
+            <subfield code="a">Lisboa</subfield>
+            <subfield code="c">Gradiva</subfield>
+            <subfield code="d">D.L. 1986</subfield>
+        </datafield>
+        <datafield tag="215" ind1=" " ind2=" ">
+            <subfield code="a">279 p.</subfield>
+            <subfield code="d">22 cm</subfield>
+        </datafield>
+        <datafield tag="225" ind1="2" ind2=" ">
+            <subfield code="a">Contacto</subfield>
+        </datafield>
+        <datafield tag="304" ind1=" " ind2=" ">
+            <subfield code="a">Tít. orig. Hothouse</subfield>
+        </datafield>
+        <datafield tag="675" ind1=" " ind2=" ">
+            <subfield code="a">821</subfield>
+            <subfield code="v">BN</subfield>
+            <subfield code="z">por</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="1">
+            <subfield code="a">Aldiss</subfield>
+            <subfield code="b">Brian W</subfield>
+            <subfield code="f">1925</subfield>
+        </datafield>
+        <datafield tag="702" ind1=" " ind2="1">
+            <subfield code="a">Milicia</subfield>
+            <subfield code="b">Joseph</subfield>
+            <subfield code="4">080</subfield>
+        </datafield>
+        <datafield tag="702" ind1=" " ind2="1">
+            <subfield code="a">Medeiros</subfield>
+            <subfield code="b">Maria de Lurdes</subfield>
+            <subfield code="4">730</subfield>
+        </datafield>
+        <datafield tag="801" ind1=" " ind2="0">
+            <subfield code="a">PT</subfield>
+            <subfield code="b">Biblioteca Municipal de Montalegre</subfield>
+            <subfield code="g">RPC</subfield>
+        </datafield>
+        <datafield tag="909" ind1="&#9;" ind2=" ">
+            <subfield code="a">1</subfield>
+        </datafield>
+        <datafield tag="966" ind1=" " ind2=" ">
+            <subfield code="a">0008438</subfield>
+            <subfield code="l">BMM</subfield>
+            <subfield code="s">SCG 821 ALD lon</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00922nam 2200289 450</leader>
+        <controlfield tag="001">16</controlfield>
+        <controlfield tag="003"
+            >http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&amp;RegNo=16662</controlfield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">972-1-01528-8</subfield>
+        </datafield>
+        <datafield tag="021" ind1=" " ind2=" ">
+            <subfield code="a">PT</subfield>
+            <subfield code="b">85449/95</subfield>
+        </datafield>
+        <datafield tag="100" ind1=" " ind2=" ">
+            <subfield code="a">20061013d1995 m y0pory0103 ba</subfield>
+        </datafield>
+        <datafield tag="101" ind1="1" ind2=" ">
+            <subfield code="a">por</subfield>
+            <subfield code="c">eng</subfield>
+        </datafield>
+        <datafield tag="102" ind1=" " ind2=" ">
+            <subfield code="a">PT</subfield>
+        </datafield>
+        <datafield tag="105" ind1=" " ind2=" ">
+            <subfield code="a">a z 000ay</subfield>
+        </datafield>
+        <datafield tag="106" ind1=" " ind2=" ">
+            <subfield code="a">r</subfield>
+        </datafield>
+        <datafield tag="200" ind1="1" ind2=" ">
+            <subfield code="a">Mulherzinhas</subfield>
+            <subfield code="f">Louisa May Alcott</subfield>
+            <subfield code="g">tradução de Maria José Navarro de Oliveira</subfield>
+        </datafield>
+        <datafield tag="205" ind1=" " ind2=" ">
+            <subfield code="a">2ª ed</subfield>
+        </datafield>
+        <datafield tag="210" ind1=" " ind2=" ">
+            <subfield code="a">Mem Martins</subfield>
+            <subfield code="c">Europa-América</subfield>
+            <subfield code="d">D.L. 1995</subfield>
+        </datafield>
+        <datafield tag="215" ind1=" " ind2=" ">
+            <subfield code="a">332 p.</subfield>
+            <subfield code="d">18 cm</subfield>
+        </datafield>
+        <datafield tag="225" ind1="2" ind2=" ">
+            <subfield code="a">Livros de bolso Europa-América</subfield>
+            <subfield code="v">161</subfield>
+        </datafield>
+        <datafield tag="304" ind1=" " ind2=" ">
+            <subfield code="a">Tít. orig.: Little women</subfield>
+        </datafield>
+        <datafield tag="606" ind1="1" ind2=" ">
+            <subfield code="a">Literatura americana</subfield>
+        </datafield>
+        <datafield tag="608" ind1=" " ind2=" ">
+            <subfield code="a">Romance</subfield>
+        </datafield>
+        <datafield tag="675" ind1=" " ind2=" ">
+            <subfield code="a">821</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="1">
+            <subfield code="a">Alcott</subfield>
+            <subfield code="b">Louisa May</subfield>
+            <subfield code="f">1832-1888</subfield>
+        </datafield>
+        <datafield tag="702" ind1=" " ind2="1">
+            <subfield code="a">Oliveira</subfield>
+            <subfield code="b">Maria José Navarro de</subfield>
+            <subfield code="4">730</subfield>
+        </datafield>
+        <datafield tag="801" ind1=" " ind2="0">
+            <subfield code="a">PT</subfield>
+            <subfield code="b">Biblioteca Municipal de Montalegre</subfield>
+            <subfield code="g">RPC</subfield>
+        </datafield>
+        <datafield tag="856" ind1=" " ind2=" ">
+            <subfield code="u">locateMedia.asp?cod=20060504113930&amp;ext=jpg</subfield>
+            <subfield code="z">CAPA</subfield>
+        </datafield>
+        <datafield tag="909" ind1="&#9;" ind2=" ">
+            <subfield code="a">1</subfield>
+        </datafield>
+        <datafield tag="966" ind1=" " ind2=" ">
+            <subfield code="a">0011674</subfield>
+            <subfield code="l">BMM</subfield>
+            <subfield code="s">SCG 821 ALC mul 161</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00893nam 2200265 450</leader>
+        <controlfield tag="001">17</controlfield>
+        <controlfield tag="003"
+            >http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&amp;RegNo=16662</controlfield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">972 710 005 8</subfield>
+        </datafield>
+        <datafield tag="021" ind1=" " ind2=" ">
+            <subfield code="a">PT</subfield>
+            <subfield code="b">40320/90</subfield>
+        </datafield>
+        <datafield tag="095" ind1=" " ind2=" ">
+            <subfield code="a">PTBN00262451</subfield>
+        </datafield>
+        <datafield tag="100" ind1=" " ind2=" ">
+            <subfield code="a">20061013d1990 m y0pory010305 ba</subfield>
+        </datafield>
+        <datafield tag="101" ind1="1" ind2=" ">
+            <subfield code="a">por</subfield>
+            <subfield code="c">eng</subfield>
+        </datafield>
+        <datafield tag="102" ind1=" " ind2=" ">
+            <subfield code="a">PT</subfield>
+        </datafield>
+        <datafield tag="105" ind1=" " ind2=" ">
+            <subfield code="a">y z 001ay</subfield>
+        </datafield>
+        <datafield tag="106" ind1=" " ind2=" ">
+            <subfield code="a">r</subfield>
+        </datafield>
+        <datafield tag="200" ind1="1" ind2=" ">
+            <subfield code="a">Cuidado com a senhora</subfield>
+            <subfield code="f">Margery Allingham</subfield>
+            <subfield code="g">trad. Maria Adelaide Namorado Freire</subfield>
+        </datafield>
+        <datafield tag="210" ind1=" " ind2=" ">
+            <subfield code="a">Mem Martins</subfield>
+            <subfield code="c">Terramar</subfield>
+            <subfield code="d">imp. 1990</subfield>
+        </datafield>
+        <datafield tag="215" ind1=" " ind2=" ">
+            <subfield code="a">236 p.</subfield>
+            <subfield code="d">21 cm</subfield>
+        </datafield>
+        <datafield tag="225" ind1="2" ind2=" ">
+            <subfield code="a">Aventura, saar</subfield>
+            <subfield code="e">sociedade anónima de alto risco</subfield>
+            <subfield code="v">2)</subfield>
+        </datafield>
+        <datafield tag="304" ind1=" " ind2=" ">
+            <subfield code="a">Tít. orig. : Look to the lady</subfield>
+        </datafield>
+        <datafield tag="675" ind1=" " ind2=" ">
+            <subfield code="a">821</subfield>
+            <subfield code="v">BN</subfield>
+            <subfield code="z">por</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="1">
+            <subfield code="a">Allingham</subfield>
+            <subfield code="b">Margery</subfield>
+            <subfield code="f">1904-1966</subfield>
+        </datafield>
+        <datafield tag="702" ind1=" " ind2="1">
+            <subfield code="a">Freire</subfield>
+            <subfield code="b">Maria Adelaide Namorado</subfield>
+            <subfield code="4">730</subfield>
+        </datafield>
+        <datafield tag="801" ind1=" " ind2="0">
+            <subfield code="a">PT</subfield>
+            <subfield code="b">Biblioteca Municipal de Montalegre</subfield>
+            <subfield code="g">RPC</subfield>
+        </datafield>
+        <datafield tag="856" ind1=" " ind2=" ">
+            <subfield code="u">locateMedia.asp?cod=20060504115055&amp;ext=jpg</subfield>
+            <subfield code="z">CAPA</subfield>
+        </datafield>
+        <datafield tag="909" ind1="&#9;" ind2=" ">
+            <subfield code="a">1</subfield>
+        </datafield>
+        <datafield tag="966" ind1=" " ind2=" ">
+            <subfield code="a">0008616</subfield>
+            <subfield code="l">BMM</subfield>
+            <subfield code="s">SCG 821 ALL cui 2</subfield>
+        </datafield>
+    </record>
+</collection>

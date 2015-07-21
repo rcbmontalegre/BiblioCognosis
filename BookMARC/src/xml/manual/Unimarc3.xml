@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by Miguel Vieira (-) -->
+<FORMAT name="UNIMARC" domain="Bibliographic" version="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../schemas/FORMAT.xsd">
+  <FIELD tag="300" name="GENERAL NOTES" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains a note on any aspect of the bibliographic item or the record relating to it.</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Text of Note" mandatory="n" repeatable="n">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <NOTES>The data in this field can be in any form. See examples for guidance. If more than one note is to be recorded, each is entered in a repeated field 300.</NOTES>
+    <RELATED tag="" name="">
+      <DESCRIPTION/>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">300 ##$aSkeleton outline of events contemporary of Lady Margaret Roper (Alexander Alesius) : (1 folded leaf) in pocket
+A note on accompanying material.</EX>
+      <EX n="2">300 ##$aIncludes index
+Used when the source format has no equivalent of field 320.</EX>
+      <EX n="3">300 ##$aContaining details of hunts, including their countries, histories and former Masters of Foxhounds, Harriers, Staghounds, Draghounds, Beagles, Basset Hounds, Otterhounds and Bloodhounds in the United Kingdom and Ireland; hunts of America, the Commonwealth and Europe, results of hound shows, three maps showing boundaries of foxhounds and one of distribution of hare hunts.</EX>
+      <EX n="4">300 ##$aDrawings executed between 1816 and 1825 are compared with the work of J.M.W. Turner in: George Filbert, his early work / Thomas Johnson. New York : Dow, 1965
+A note citing published research based on drawings described in the catalogue record and held by the institution.</EX>
+      <EX n="5">300 ##$aGift of Leavitt Hunt's daughter, Mrs William E. Patterson, 1947
+A provenance note, indicating the donor and former owner of a rare book.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="301" name=" NOTES PERTAINING TO IDENTIFICATION NUMBERS" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains a note on any identification number appearing on the item or in the record.</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Text of Note" mandatory="n" repeatable="n">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <NOTES>This field may be used for notes relating to any identification number when it appears on the document or when it is known to have been assigned to the document being recorded. It may be used to note the number itself, if it cannot be recorded in any of the fields 010 to 040 which deal with identification numbers, or it can be used to comment on a particular number. If notes about more than one number are to be recorded, each is entered in a repeated field 301.</NOTES>
+    <RELATED tag="0--" name="IDENTIFICATION BLOCK ">
+      <DESCRIPTION>Prefer the use of identification block when data from a note field in a source format can be formatted to be entered in a 0-- field.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">301 ##$a"DOE/EIA0031/2".
+A technical report number appearing on the title page of the item.</EX>
+      <EX n="2">301 ##$aIncorrectly cited as BL R&amp; D Report 5657
+A new series of library and information research reports is published, the first of which is The online public library (LIR Report 1) by A.J. Convey, A. Pearce and A.J. Wood, previously listed as BL R &amp;D Report 5657.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="302" name="NOTES PERTAINING TO CODED INFORMATION" mandatory="n" repeatable="y">
+    <DESCRIPTION>A note relating to data elements which are coded in the 1-- fields.</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Text of Note." mandatory="n" repeatable="n">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <NOTES>The data in this field can be in any form. If more than one note is to be recorded, each is entered in a repeated field 302. 
+
+In most cases a more specific note field can be used. In those instances, prefer the more specific field, e.g. use field 307 rather than 302 for notes on types of illustrations present in the item, even though illustration information is present in coded form in field 105.</NOTES>
+    <RELATED tag="1--" name="CODED INFORMATION BLOCK">
+      <DESCRIPTION>Data recorded in the CODED INFORMATION BLOCK in coded form may be recorded in field 302 in free text form with or without elaboration.</DESCRIPTION>
+    </RELATED>
+  </FIELD>
+  <FIELD tag="303" name="GENERAL NOTES PERTAINING TO DESCRIPTIVE INFORMATION" mandatory="n" repeatable="y">
+    <DESCRIPTION>A note relating to the description of the item.</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Text of Note" mandatory="n" repeatable="n">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <NOTES>The data in this field can be in any form. If more than one note is to be recorded, each is entered in a repeated field 303. 
+
+When another more specific note field relates more closely to the nature of the note to be recorded, prefer the more specific field.</NOTES>
+    <RELATED tag="304" name="NOTES PERTAINING TO TITLE AND STATEMENT OF RESPONSABILITY">
+      <DESCRIPTION>These fields all provide a more specific place for notes on description and should be used in preference to field 303 where possible.</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="305" name="NOTES PERTAINING TO EDITION AND BIBLIOGRAPHIC HISTORY">
+      <DESCRIPTION>These fields all provide a more specific place for notes on description and should be used in preference to field 303 where possible.</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="306" name="NOTES PERTAINING TO PUBLICATION, DISTRIBUTION, ETC.">
+      <DESCRIPTION>These fields all provide a more specific place for notes on description and should be used in preference to field 303 where possible.</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="308" name="NOTES PERTAINING TO SERIES">
+      <DESCRIPTION>These fields all provide a more specific place for notes on description and should be used in preference to field 303 where possible.</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="310" name="NOTES PERTAINING TO BINDING AND AVAILABILITY ">
+      <DESCRIPTION>These fields all provide a more specific place for notes on description and should be used in preference to field 303 where possible.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">303 ##$aWith a card listing abbreviations and symbols
+An accompanying material note.</EX>
+      <EX n="2">303 ##$aIncludes advertising matter
+An informal contents note.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="304" name="NOTES PERTAINING TO TITLE AND STATEMENT OF RESPONSIBILITY" mandatory="n" repeatable="y">
+    <DESCRIPTION>A note relating to the title and/or statement of responsibility as entered in a field 200 of the record.</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Text of Note" mandatory="n" repeatable="n">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <NOTES>This field contains notes on the title or statement(s) of responsibility. It may indicate the source of the title, or extra words in the title which have been omitted from the description. It may also comment or enlarge on the statement of responsibility. For example, if a cataloguing code requires that a statement of responsibility be abbreviated because it consists of more than three names, names that have been omitted from the 200 field may be added in this note field (EX 7). Parallel titles omitted from the title and statement of responsibility may be noted here (EX 5). If more than one note is to be recorded, each is entered in a repeated field 304. 
+
+There are no rules for punctuation in this field, but it is recommended that where applicable ISBD punctuation is used (EX 6).<SEEEX N="5"/>
+      <SEEEX N="7"/>
+    </NOTES>
+    <RELATED tag="305" name=" NOTES PERTAINING TO EDITION AND BIBLIOGRAPHIC HISTORY">
+      <DESCRIPTION>Field 305 is used for details of earlier or later titles related to the one entered in field 200.</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="312" name="NOTES PERTAINING TO RELATED TITLES (OF THE SAME WORK)">
+      <DESCRIPTION>Field 312 is used for details of related title such as another title found on the work or a related uniform title.</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="314" name="NOTES PERTAINING TO INTELLECTUAL RESPONSABILITY">
+      <DESCRIPTION>Field 314 is used when the note relates to intellectual responsibility not recorded in the 200 field.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">304 ##$aVol.2 has title: Air Force colours
+An item entitled US Air Force colours is in two volumes. Volume 2 is entitled Air Force colours.</EX>
+      <EX n="2">200 1#$aWho did/done it$ea crime reader for students of English$fCarlos A.Yoico, L.A. Morse
+304 ##$aThe word 'done' in the title is crossed out.
+On the title page appear the words "Who did done it".</EX>
+      <EX n="3">304 ##$aCover title
+The title proper is taken from the cover.</EX>
+      <EX n="4">304 ##$aWritten by F.G. Cockman as if by Horace Mann
+A document has on its title page the text: Midland engineman by Horace Mann edited by F.G. Cockman. The document is known to have been written in the words of F.G. Cockman who consulted and rewrote the account of Horace Mann.</EX>
+      <EX n="5">304 ##$aParallel title: Les séquestrés d'Altona
+A practice of the agency preparing the record is to include parallel titles proper as notes rather than entering them in the descriptive area. (Compare field 312, EX 3.)</EX>
+      <EX n="6">304 ##$aPt. l / by George Lee Haskins -- Pt.2 / by Herbert A. Johnson
+The record is of volume 2 of History of the Supreme Court of the United States. The document is in two parts, each with its own statement of responsibility. This example makes use of ISBD punctuation.</EX>
+      <EX n="7">200 l#$aPhilosophy and literary criticism$fedited by F.R. Leavis [et al.]
+304 ##$aEdited by F.R. Leavis, A.C. Quine, A. Kenny and R. Quirk
+The cataloguing rules do not permit the inclusion of more than one name in the statement of responsibility when there are more than three names of persons responsible on the item. The names are entered in a note.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="305" name="NOTES PERTAINING TO EDITION AND BIBLIOGRAPHIC HISTORY" mandatory="n" repeatable="y">
+    <DESCRIPTION>The field contains a note relating to the edition of the item or to its bibliographic history.</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Text of Note." mandatory="n" repeatable="n">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <NOTES>This field contains notes on this edition of the item or on works related to the item when there is no corresponding linking entry field. This includes previous titles of monographs and serials. It may include a note taken from the item itself. If more than one note is to be recorded, each is entered in a repeated field 305. 
+
+Although there are no rules on punctuation in this field, it is recommended that any citations made to other works use ISBD punctuation (EX 1,3) unless they are quotations from the text of the document itself. Any such quotations should be enclosed within quotation marks. (EX 5, 6)<SEEEX N="1"/>
+      <SEEEX N="3"/>
+      <SEEEX N="5"/>
+      <SEEEX N="6"/>
+    </NOTES>
+    <RELATED tag="300" name="GENERAL NOTE">
+      <DESCRIPTION>Although field 300 can be used as an alternative to 305, it is recommended that 305 be used for bibliographic history notes when possible.</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="311" name="NOTES PERTAINING TO LINKING FIELDS">
+      <DESCRIPTION>Field 311 is used for bibliographic history notes related to linking fields</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="4--" name="LINKING ENTRY BLOCK">
+      <DESCRIPTION>Certain bibliographic history notes may be generated from 4-- fields></DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">305 ##$aV.2. 2nd ed.
+The record relates to a monograph in 3 volumes. Volume 2 alone of the item is in its second edition.</EX>
+      <EX n="2">305 ##$aPrevious ed.: 1978
+The item was published in 1980. It was previously published in 1978 under the same title.</EX>
+      <EX n="3">305 ##$aOriginally published: London : Constable, 1957.</EX>
+      <EX n="4">305 ##$aSupersedes: British history illustrated
+The title British heritage supersedes British history illustrated. In the UNIMARC record there is no equivalent 4-- field, and so field 311 is not used.</EX>
+      <EX n="5">305 ##$a"A tentative draft for experimental use, not yet approved by the Committee on Administrative Practice" -Pref .
+A note is taken from the item itself; the note is entered in quotation marks and the source is noted.</EX>
+      <EX n="6">305 ##$a 'Five of the stories were published in the compiler's "T'ai-wan pen-ti tso-chia tuan-p'ien hsiao-shuo hsun", published in 1972'- CIP data 
+Since the note is taken from the CIP data in the item, the source is acknowledged</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="306" name="NOTES PERTAINING TO PUBLICATION, DISTRIBUTION, ETC. " mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains a note about publication, distribution, etc. of the item.</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Text of Note." mandatory="n" repeatable="n">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <NOTES>The field contains data relating to publication and distribution of the item which is not entered in field 210 PUBLICATION, DISTRIBUTION, ETC. When more than one note is to be recorded, each is entered in a repeated field 306.</NOTES>
+    <RELATED tag="210" name="PUBLICATION, DISTRIBUTION, ETC">
+      <DESCRIPTION>Some cataloguing codes relegate distributor and printer to a note, in which case field 306 may be used (EX 1).</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="620" name="PLACE ACCESS">
+      <DESCRIPTION>Access point form of the place of publication, distribution, etc., may be entered in field 620.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">306 ##$aThe imprint is false; printed by Ruddiman on the evidence of the ornaments</EX>
+      <EX n="2">306 ##$aImprint in volume 3: Tring : Lion Press
+The imprint in volume 3 of a three-volume work differs from that of the two earlier volumes.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="307" name="NOTES PERTAINING TO PHYSICAL DESCRIPTION" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains a note about the physical description of the item.</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Text of Note." mandatory="n" repeatable="n">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <NOTES>The field contains data relating to the physical description of the item which is not entered in field 215 PHYSICAL DESCRIPTION. When more that one note is to be recorded, each is entered in a repeated field 307</NOTES>
+    <RELATED tag="215" name="PHYSICAL DESCRIPTION">
+      <DESCRIPTION>The physical description is recorded in a formalized form in field 215.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">307 ##$aContains slide set in pocket</EX>
+      <EX n="2">307 ##$aIn slip case</EX>
+      <EX n="3">307 ##$aText on lining papers</EX>
+      <EX n="4">307 ##$aSignatures: A-G8, H4
+The signatures of an early printed book.</EX>
+      <EX n="5">307 ##$aPrinted on acid-free paper.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="308" name="NOTES PERTAINING TO SERIES" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains a note pertaining to a series of which the item is a part, or a series in which the item has been issued previously.</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Text of Note" mandatory="n" repeatable="n">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <NOTES>This field contains data relating to any series of which the item being recorded is a part. When more than one note is recorded, each is entered in a repeated field 308.</NOTES>
+    <RELATED tag="225" name="SERIES">
+      <DESCRIPTION>The title of the series itself is entered in field 225. Any note on this is entered in 308.</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="410" name="SERIES">
+      <DESCRIPTION>A note may be created by using the series linking entry field.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">308 ##$aPts 1 and 2 in series: African perspective
+A record is made for a multi-volume monograph in four parts of which parts 1 and 2 only are in a series.</EX>
+      <EX n="2">308 ##$aOriginally issued in series: Environmental science series</EX>
+      <EX n="3">308 ##$aEach issue individually numbered in series</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="310" name="NOTES PERTAINING TO BINDING AND AVAILABILITY" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains a note on any aspect of binding and availability.</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Text of Note" mandatory="n" repeatable="n">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <NOTES>This field contains notes on the binding and availability of the item. If more than one note is to be recorded, each is entered in a repeated field 310.</NOTES>
+    <RELATED tag="010" name="INTERNATIONAL STANDARD BOOK NUMBER (ISBN)">
+      <DESCRIPTION>Within the ISBN field, $b Qualification and $d Terms of Availability and/or Price are available for entering details of binding and terms of availability respectively. It is recommended that this data be entered in these subfields when the record has one or more ISBN, since it is often the case that each ISBN corresponds to a particular binding or has a particular availability. If there is no ISBN, this information may be entered in field 310.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">310 ##$aAlso available in special edition of 50 numbered copies signed by the author.</EX>
+      <EX n="2">310 ##$aAvailable only to subscribers</EX>
+      <EX n="3">310 ##$aBound in modern vellum</EX>
+      <EX n="4">310 ##$aClassified
+A note on restrictions of access to the item.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="311" name="NOTES PERTAINING TO LINKING FIELDS" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains a note relating to one of the linking fields.</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Text of Note" mandatory="n" repeatable="n">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <NOTES>This field contains notes which relate to data found in the 4-- LINKING ENTRY BLOCK. Data in the 4-- fields may be used to print a note. If the note that would be printed from them would not adequately indicate the relationship and the item that is related, a note can be entered in 311 (and the indicator of the corresponding 4-- field(s) set to 0 so that a note will not be automatically generated by those fields). In particular, specific relationships between the item being catalogued and another item referred in field 488 can be entered here. If more than one note is to be recorded, then each is entered in a repeated field 311.</NOTES>
+    <RELATED tag="300" name="GENERAL NOTE">
+      <DESCRIPTION>Although field 300 can be used instead of 311, it is recommended that 311 be used for notes relating to data in linking fields or notes relating to item to which a link is made in a linking field.</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="305" name="NOTES PERTAINING TO DITION  BIBLIOGRAPHIC HISTORY">
+      <DESCRIPTION>This field is used for bibliographic history notes which are not related to linking fields.</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="327" name="CONTENT NOTES">
+      <DESCRIPTION>This field is used for contents notes which are not generated by linking fields.</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="4--" name="LINKING ENTRY BLOCK">
+      <DESCRIPTION/>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">311 ##$a'Produced in conjunction with the "Bloodstock breeders' annual.".'
+488 #0$12001#$aBloodstock breeders' annual
+OR
+488 #0$tBloodstock breeders' annual 
+In the item The stallion review it states 'Produced in conjunction with the Bloodstock breeders' annual '. The record for The stallion review contains a non-specific link (field 488) to the related work Bloodstock breeders' annual; thus it is necessary to make a note corresponding to the link since a specific note cannot be generated from field 488. The note is transcribed from the item in this example.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="312" name="NOTES PERTAINING TO RELATED TITLES" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains a note relating to a title of the work, other than the title proper or parallel title proper.</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Text of Note" mandatory="n" repeatable="n">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <NOTES>This field contains notes relating to any title appearing on the item, other than the title proper or parallel title proper (see field 304), or to a title by which the work is commonly known. These include cover title, added title-page title, caption title, running title, spine title, for which the actual text of the title may be entered in the field. Titles of related works should not be noted here. If more than one note is to be recorded, then each is entered in a repeated field 312.</NOTES>
+    <RELATED tag="304" name="NOTES PERTAINING TO TITLE AND STATEMENT OF RESPONSABILITY">
+      <DESCRIPTION>Field 304 is used for notes relating to the chief title of the work. It may be used for a note on the parallel title when it is part of the title and statement of responsibility area.</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="305" name="NOTES PERTAINING TO EDITION AND BIBLIOGRAPHIC HISTORY">
+      <DESCRIPTION>Field 305 is used for notes on titles of related works, which should not be entered in field 312.</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="5--" name="RELATED TITLE BLOCK">
+      <DESCRIPTION>5-- RELATED TITLE BLOCK
+This block is used for entering a related title in a form suitable as an access point. If it is required to enter a note on any such title, it should be entered in field 312. Notes on parallel titles may be entered in field 304 or field 312 depending on whether or not they are included in the title and statement of responsibility area</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">200 l#$aAchieving changes$ea reports$fprepared by the West Virginia Advisory Committee to the U.S. Commission on Civil Rights.
+312 ##$aSubtitle on cover: A report on the 1978 West Virginia Statewide Leadership Conference on Civil Rights.
+A subtitle appears on the cover but not on the title page.</EX>
+      <EX n="2">312 ##$aCommonly known as the Guinea catalog.
+540 1#$aGuinea catalog
+Commonly known title does not actually appear on the item.</EX>
+      <EX n="3">312 ##$aSecond title page has title: Transfert de l'information
+A parallel title appears outside the chief source of information. (Compare field 304, EX 5.)</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="313" name="NOTES PERTAINING TO SUBJECT ACCESS" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains a note relating to subject access to the item described in the record.</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Text of Note" mandatory="n" repeatable="n">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <NOTES>This field may include an indication of the provision of subject indexes or classification provided in the item, as well as other ways in which subject control of the information is available. If more than one note is to be recorded, then each is entered in a repeated field 313.</NOTES>
+    <RELATED tag="321" name="EXTERNAL INDEXES/ABSTRATS/REFERENCES NOTE">
+      <DESCRIPTION>This field may be used to record indexes to a work, some of which may be subject indexes, but if a comprehensive note only on the subject approach available is required, field 313 should be used</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">313 ##$aMain sequence classified by D.D.C. Subject indexing according to PRECIS leading to classified sequence.
+A record for the British national bibliography.</EX>
+      <EX n="2">313 ##$aDocument bears UDC no. 002/050+778.14+001.4
+An official standard bears a UDC number describing its subject.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="314" name="NOTES PERTAINING TO INTELLECTUAL RESPONSIBILITY" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains a note relating to the intellectual responsibility of the work.</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Text of Note" mandatory="n" repeatable="n">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <NOTES>Notes relating to the intellectual responsibility of the item other than a note on the statement of responsibility (see field 304). This includes notes on persons or corporate bodies (including meetings) which have intellectual responsibility for the item and which may not have been recorded elsewhere in the record. If more than one note is to be recorded, each is entered in a repeated field 314.</NOTES>
+    <RELATED tag="304" name="NOTES PERTINING TO TITLE AND STATEMENT OF RESPONSABILITY">
+      <DESCRIPTION>Any note relating to data in the statement of responsibility should be entered in field 304 rather than in field 314.</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="7--" name="">
+      <DESCRIPTION>A note concerning data in fields in this block is entered in field 314. Many cataloguing codes require that any access point for an item be justified in the notes if it is not present elsewhere in the description of the item. Field 314 may be used for such notes.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">314 ##$a'Sponsored by the Environmental Mutagen Society'
+This information is not present in the 200 field.</EX>
+      <EX n="2">314 ##$aCompiled by Samuel French Ltd.</EX>
+      <EX n="3">314 ##$aDesigned and compiled by the Publication Relations Unit, Melbourne</EX>
+      <EX n="4">314 ##$aText by Denise Hooker</EX>
+      <EX n="5">314 ##$aCompiled by J.W. Jolliffe</EX>
+      <EX n="6">314 ##$aCommissioned by the Royal Australian College of Surgeons</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="315" name=" NOTES PERTAINING TO MATERIAL (OR TYPE OF PUBLICATION) SPECIFIC INFORMATION" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains a note relating to material specific information, i.e. data relevant only to one or a group of types of material.</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Text of Note" mandatory="n" repeatable="n">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <NOTES>Material specific notes (i.e. notes relating to aspects of a type of material, such as scale of maps, numbering of serials) should be entered here. If more than one note is to be recorded, each is entered in a repeated field 315.</NOTES>
+    <RELATED tag="206, 207, 208, 230 " name="Material specific area statements">
+      <DESCRIPTION>Care must be taken not to enter information in field 315 which may be accommodated elsewhere in the more specific field. For example, statements on scale in cartographic materials and numbering for serials should be entered in fields 206 and 207.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">305 ##$aSuspended 1939-1945
+A note relating to the numbering of a serial explaining why the numbering and dates do not match.</EX>
+      <EX n="2">315 ##$aScale of original ca 1:1,300
+A note relating to the scale of the original cartographic work.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="316" name="NOTE RELATING TO THE COPY IN HAND" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains a note relating to the copy in hand for older monographic publications (antiquarian). It corresponds to the ISBD(A) Notes Relating to the Copy in Hand element in the Note area.</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Text of Note" mandatory="n" repeatable="n">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <SUBFIELD tag="5" name="Institution to Which Field Applies" mandatory="y" repeatable="n">
+      <DESCRIPTION>Name of institution to which field applies in coded form. Since there are no internationally accepted codes, the codes from USMARC Code List for Organizations, which includes codes for many non-U.S. library agencies, are recommended. Otherwise, the full name of the agency or a national code may be used. If the institution holds more than one copy the subfield should also contain the shelfmark after a colon. Not repeatable. Mandatory if field present.</DESCRIPTION>
+    </SUBFIELD>
+    <NOTES/>
+    <RELATED tag="317" name="PROVENANCE NOTE">
+      <DESCRIPTION>This field contains a note relating to the provenance of the item, e.g. book-plates, author's and/or owner's autographs, seals, etc.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">316 ##$aLeaves 15-6 bound between h3 and h4$5DLC</EX>
+      <EX n="2">316 ##$aWanting all after p. 312$5CaOONL</EX>
+      <EX n="3">316 ##$aNo. 23 of an edition of 75 copies$5Uk</EX>
+      <EX n="4">316 ##$aWith: The Boston Edenezer. Boston : printed by B Green &amp; J Allen, for Samuel Phillips, 1698 - The cure of sorrow. Boston : printed by B Green, 1709$5MAmHi</EX>
+      <EX n="5">316 ##$aA la. fl. contem anotacões manuscritas sobre a página de rosto e texto$5Sp</EX>
+      <EX n="6">316 ##$aMs notes by the author$5DLC</EX>
+      <EX n="7">316 ##$aGilt-tooled centrepiece binding by Williamson of Eton, ca. 1605$5UkCU</EX>
+      <EX n="8">316 ##$aEarly 18th century blind-tooled panelled calf binding$5Uk</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="317" name="PROVENANCE NOTE" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains a note relating to the provenance of the item. It is primarily used for older monographic publications (antiquarian). It corresponds to the ISBD(A) Notes Relating to the Copy in Hand element in the Note area.</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Text of Note" mandatory="n" repeatable="n">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <SUBFIELD tag="5" name="Institution to Which Field Applies" mandatory="n" repeatable="n">
+      <DESCRIPTION>Name of institution to which field applies in coded form. Since there are no internationally accepted codes, the codes from USMARC Code List for Organizations, which includes codes for many non-U.S. library agencies, are recommended. Otherwise, the full name of the agency or a national code may be used. If the institution holds more than one copy the subfield should also contain the shelfmark after a colon. Not repeatable. Mandatory if field present.</DESCRIPTION>
+    </SUBFIELD>
+    <NOTES>It is considered that the record is made for the ideal copy. However, in this note field provenance of the copy in hand is described in the form in which it appears in the book, e.g. book-plates, author's and/or owner's autographs, seals, etc. Code of the institution to which the Provenance Note field applies is recorded in $5.</NOTES>
+    <RELATED tag="316" name="NOTES RELATING TO THE COPY IN THE HAND">
+      <DESCRIPTION>This field contains a note relating to characteristics of the copy in hand for older monographic publications, as for example, wanting leaves, copy characteristics, binding, numbered copies of an edition, etc</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">317 ##$aInscription on inside of front cover: Theodorinis ab Engelsberg$5Uk</EX>
+      <EX n="2">317 ##$aInscription on the title page in sixteenth century hand, 'Iohannes Wagge me iure tenet' $5DB/S-5-KK.555</EX>
+      <EX n="3">317 ##$aZapis na nasl. str: 'Poklonio Narodnom muzeumu Aleksander Shue... Zupnik u Stenjevcu' $5CiZaNSB: RII F-8º - 1541a
+317 ##$aZapis na nasl. str: 'Colegii Zagrabiensis Soc. Jesu. Inscriptus. 1698'$5CiZaNSB: RII F-8º - 1541b
+Notes on the inscription on the title page of two respective copies of the same item.</EX>
+      <EX n="4">317 ##$aEx libris: 'Nikolai Skerlecz de Lomniza'$5CiZaNSB: L III H13</EX>
+      <EX n="5">317 ##$aZapis na nasl. str: 'Daruje sveucilistnoj knjiznici Ivan Kukuljevic$5CiZaNSB: R II C-8º - 100b
+317 ##$aNa vrhu nasl. str. glagoljski zapis$5CiZaNSB: R II C-8º - 100b
+702 ##$aKukuljevic-Sakcinski$bIvan$4320$5CiZaNSB: R II C-8º - 100b
+This copy is donated to the National and University Library, Zagreb by Ivan Kukuljevic. On the same copy there is a glagolitic inscription in hand, probably by the donor.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="318" name="ACTION NOTE" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field is used to record preservation information and treatment. It is generally used for older monographic publications (antiquarian).</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Action." mandatory="n" repeatable="n">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <SUBFIELD tag="b" name="Action Identification" mandatory="n" repeatable="y">
+      <DESCRIPTION>A code or designation designed to identify a specific action or identify it in conjunction with time of action, e.g. a project code. Repeatable.</DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="c" name="Time of Action" mandatory="n" repeatable="y">
+      <DESCRIPTION>A code for time of action in ISO format (year, month (if applicable), day (if applicable)). Repeatable.</DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="d" name="Action Interval" mandatory="n" repeatable="y">
+      <DESCRIPTION>Subfield is used when the time cannot be expressed as a specific date, e.g. at the end of academic term or every five years (EX 7). Repeatable.</DESCRIPTION>
+      <SEEEX N="7"/>
+    </SUBFIELD>
+    <SUBFIELD tag="e" name="Contingency for Action" mandatory="n" repeatable="y">
+      <DESCRIPTION>Subfield is used when the time is linked to an unpredictable event, e.g. upon receipt (EX 3,6). Repeatable.</DESCRIPTION>
+      <SEEEX N="3"/>
+      <SEEEX N="6"/>
+    </SUBFIELD>
+    <SUBFIELD tag="f" name="Authorisation" mandatory="n" repeatable="y">
+      <DESCRIPTION>Subfield contains the text of or a citation to a rule etc. governing the action (EX 4). Repeatable</DESCRIPTION>
+      <SEEEX N="4"/>
+    </SUBFIELD>
+    <SUBFIELD tag="h" name="Jurisdiction" mandatory="n" repeatable="y">
+      <DESCRIPTION>Subfield contains the name of a person, an institution, or a position or function within an institution, in whom or in which responsibility for an action is vested (EX 7). Repeatable.</DESCRIPTION>
+      <SEEEX N="7"/>
+    </SUBFIELD>
+    <SUBFIELD tag="i" name="Method of Action" mandatory="n" repeatable="y">
+      <DESCRIPTION>Subfield refers to the technique by which the action is carried out (EX 6). Repeatable.</DESCRIPTION>
+      <SEEEX N="6"/>
+    </SUBFIELD>
+    <SUBFIELD tag="j" name="Site of Action" mandatory="n" repeatable="y">
+      <DESCRIPTION>Subfield describes the location in which the action takes place (EX 8). Repeatable</DESCRIPTION>
+      <SEEEX N="8"/>
+    </SUBFIELD>
+    <SUBFIELD tag="k" name="Action Agent" mandatory="n" repeatable="y">
+      <DESCRIPTION>Subfield contains the person or organisation which performs the action (EX 4, 8). Repeatable.</DESCRIPTION>
+      <SEEEX N="4"/>
+      <SEEEX N="8"/>
+    </SUBFIELD>
+    <SUBFIELD tag="l" name="Status" mandatory="n" repeatable="y">
+      <DESCRIPTION>Subfield contains the condition or state of the described materials, sometimes but not always resulting from an action (EX 1,2,4). Repeatable.</DESCRIPTION>
+      <SEEEX N="1"/>
+      <SEEEX N="2"/>
+      <SEEEX N="4"/>
+    </SUBFIELD>
+    <SUBFIELD tag="n" name=" Extent" mandatory="n" repeatable="y">
+      <DESCRIPTION>Subfield is used when the action affects only part of the item (EX 5). Repeatable.</DESCRIPTION>
+      <SEEEX N="5"/>
+    </SUBFIELD>
+    <SUBFIELD tag="o" name="Type of Unit" mandatory="n" repeatable="y">
+      <DESCRIPTION>Subfield is used when the action affects only part of the item (EX 5). Repeatable.</DESCRIPTION>
+      <SEEEX N="5"/>
+    </SUBFIELD>
+    <SUBFIELD tag="p" name="Nonpublic Note" mandatory="n" repeatable="n">
+      <DESCRIPTION>Subfield contains notes pertaining to an action on an item which is not displayed to the public.</DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="r" name=" Public Note" mandatory="n" repeatable="y">
+      <DESCRIPTION>Subfield contains notes pertaining to an action on an item which is displayed to the public (EX 8). Repeatable.</DESCRIPTION>
+      <SEEEX N="8"/>
+    </SUBFIELD>
+    <SUBFIELD tag="5" name="Institution to Which Field Applies" mandatory="y" repeatable="n">
+      <DESCRIPTION>Name of institution to which field applies in coded form. Since there are no internationally accepted codes, the codes from USMARC Code List for Organizations, which includes codes for many non-U.S. library agencies, are recommended. Otherwise, the full name of the agency or a national code may be used. If the institution holds more than one copy the subfield should also contain the shelfmark after a colon. Not repeatable. Mandatory if field present, except if the copy is disposed of (EX 6).</DESCRIPTION>
+      <SEEEX N="6"/>
+    </SUBFIELD>
+    <NOTES>It is considered that the record is made for the ideal copy. However, in this note field preservation information and treatment of the copy in hand is described. Code of the institution to which the Action Note field applies is recorded in $5.</NOTES>
+    <RELATED tag="141" name=" CODED DATA FIELD: ANTIQUARIAN - COPY SPECIFIC ATTRIBUTES">
+      <DESCRIPTION>This field contains fixed-length coded data relating to the copy specific attributes of older monographic publication.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">318 ##$aCondition reviewed$c19911121$ltext stained, binding intact, water damage$5QL/P18</EX>
+      <EX n="2">318 ##$aRepaired$c1991$loriginal retained, rebacked$5CA/U-1</EX>
+      <EX n="3">318 ##$aReview condition$ewhen deposit is complete$5CA/U66</EX>
+      <EX n="4">318 ##$aCondition reviewed$c19911121$lbinding intact$fSCAN$kCCM$5Uk
+Condition checked by a member of staff with the initials CCM as part of a review project called SCAN.</EX>
+      <EX n="5">318 ##$aFumigate$n12$oarchives boxes$c19861010$5LO/N-1</EX>
+      <EX n="6">318 ##$aDispose of$efive years after closing file$iincinerate$5CaQQCT</EX>
+      <EX n="7">318 ##$aReview$dEvery five years$hArchives Unit</EX>
+      <EX n="8">318 ##$aExhibit$c19980401-19981231$jVictoria &amp; Albert Museum$kJStC$rThis item is on loan to the Victoria and Albert Museum until the end of the year</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="320" name="INTERNAL BIBLIOGRAPHIES/INDEXES NOTE" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains a note indicating that the item contains a bibliography or index, optionally including the pagination.</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Text of Note" mandatory="n" repeatable="n">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <NOTES>The note may be entered in any form.</NOTES>
+    <RELATED tag="105" name="CODED DATA FIELD: BOOKS">
+      <DESCRIPTION/>
+    </RELATED>
+    <RELATED tag="110" name="CODED DATA FIELD: SERIALS">
+      <DESCRIPTION>These fields contain codes that indicate whether an item contains bibliographies and indexes and describe the availability of a serial index provided by the publisher</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="321" name="EXTERNAL INDEXES/ABSTRATS/REFERENCES NOTE">
+      <DESCRIPTION>These fields contain codes that indicate whether an item contains bibliographies and indexes and describe the availability of a serial index provided by the publisher</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">320 ##$aBibliography: p. 210</EX>
+      <EX n="2">320 ##$aIncludes bibliographical references</EX>
+      <EX n="3">320 ##$aConsists mostly of bibliographies</EX>
+      <EX n="4">320 ##$aBibliography: p.299-306. Index</EX>
+      <EX n="5">320 ##$aIndex published separately every December 
+A serial with a regular index provided as part of the subscription.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="321" name="EXTERNAL INDEXES/ABSTRACTS/REFERENCES NOTE" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains a note indicating the availability in other documents of indexes and abstracts of the item described in the record. For rare materials it may contain a brief reference to a bibliography, catalogue etc. where the item has been cited or described.</DESCRIPTION>
+    <IND1 name="Type of Coverage">
+      <DESCRIPTION>Specifies the extent of the description that will be found in the cited document.</DESCRIPTION>
+      <OPTION value="#" name="No information given">
+        <DESCRIPTION>Indicates that the information in the field is free text or does not require an introductory phrase (EX 1).</DESCRIPTION>
+      </OPTION>
+      <OPTION value="0" name="Indexing, abstracting coverage">
+        <DESCRIPTION>Indicates the information in the field specifies coverage of the item in an indexing or abstracting service (EX 2, 3). A print/display constant equivalent to "Indexed in: " would be appropriate.</DESCRIPTION>
+      </OPTION>
+      <OPTION value="1" name="Bibliography, catalogue citation">
+        <DESCRIPTION>Indicates the information in the field specifies an external source that cites the item (EX 4). A print/display constant equivalent to "Reference:" would be appropriate.</DESCRIPTION>
+      </OPTION>
+    </IND1>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Indexes, Abstracts, References Note" mandatory="n" repeatable="n">
+      <DESCRIPTION>The name of the external source where the item is indexed or cited. Not repeatable.</DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="b" name="Dates of Coverage" mandatory="n" repeatable="n">
+      <DESCRIPTION>The dates during which the external source indexed or abstracted the contents of the item. Not repeatable.</DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="x" name="International Standard Serial Number (ISSN)" mandatory="n" repeatable="n">
+      <DESCRIPTION>The ISSN of the external source document. Not repeatable.</DESCRIPTION>
+    </SUBFIELD>
+    <NOTES>Notes in this field may be structured (EX 2, 3, 4) or free text (EX 1). The ISSN should be entered in subfield $x without an introductory "ISSN".<SEEEX N="1"/>
+      <SEEEX N="2"/>
+      <SEEEX N="3"/>
+      <SEEEX N="4"/>
+    </NOTES>
+    <RELATED tag="313" name="NOTES RELATING TO SUBJECT ACCESS">
+      <DESCRIPTION>General notes concerned with the subject approach to a document should be entered in field 313.</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="320" name="INTERNAL BIBLIOGRAPHIES/INDEXES NOTE">
+      <DESCRIPTION>Notes on internal bibliographies and/or indexes should be entered here.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">321 ##$aFor a list of contents see Heyer. Historical sets, collected editions and manuals of music
+A set of musical scores described in an external publication.</EX>
+      <EX n="2">321 0#$aEducation index,$bl966-$x0013-1385
+A serial that has been indexed in its entirety by an external indexing service from 1966 to date.</EX>
+      <EX n="3">321 0#$aApplied science and technology index$x0003-6986
+321 0#$aBiography index$x0006-3053
+321 0#$aChemical abstracts$x0009-2258
+321 0#$aIndex medicus$x0019-3879
+321 0#$aInternational packaging abstracts$x0260-7409
+321 0#$aReaders' guide to periodical literature$x0034-0464
+A serial that has been indexed by a number of indexing and abstracting services.</EX>
+      <EX n="4">321 1#$aReuss, E. Bib. Novi. Testamenti Graeci, p.35
+321 1#$aRudolphi, E.C. Froschauer, 336
+321 1#$aDarlow &amp; Moule, II, p.586
+A rare book cited in several standard bibliographies.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="322" name="CREDITS NOTE (PROJECTED AND VIDEO MATERIAL AND SOUND RECORDINGS)" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains the names of persons or organizations, other than cast, who participated in the artistic or technical production of the work.</DESCRIPTION>
+    <SUBFIELD tag="a" name="Text of Note" mandatory="n" repeatable="n">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <NOTES>The term 'Credits' or its equivalent should not be entered since this can be created automatically when the note is output. When source formats do not make the same distinction between cast notes and credits notes as UNIMARC, this field should be used for both.</NOTES>
+    <RELATED tag="200" name="TITLE AND STATEMENT OF RESPONSIBILITY">
+      <DESCRIPTION>If persons or organizations which participated in the artistic or technical production of the work are given in field 200 then a 322 field is not necessary (see note on 7-- block below).</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="323" name="CAST NOTE (PROJECTED AND VIDEO MATERIAL AND SOUND RECORDINGS)">
+      <DESCRIPTION>This field records details of performers, performing groups etc.</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="7--" name="INTELLECTUAL RESPONSIBILITY BLOCK">
+      <DESCRIPTION>Many cataloguing codes require that any access point for an item be justified in the notes if it is not present elsewhere in the description of the item. Field 322 may be used for such notes.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">322 ##$aProducer, Ray Jewell; writer, Don Hall; narrator, Vic Perrin; music, Jack Meakin; editor, Rick Eisman.</EX>
+      <EX n="2">322 ##$aRobert Gugholz, clarinette. Orchestre de la Suisse romande. Ernest Ansermet, directeur.
+The source format has only one notes field for all participants. This field is used instead of the general notes field 300.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="323" name="CAST NOTE (PROJECTED AND VIDEO MATERIAL AND SOUND RECORDINGS)" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field records the names of featured players, performers, narrators, presenters etc. of projected and video material and the names of participants, performers or performing groups and the medium of performance for sound recordings.</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Text of Note" mandatory="n" repeatable="n">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <NOTES>When source formats do not make the same distinction between cast notes and credits notes as UNIMARC, field 322 CREDITS NOTE should be used for both rather than field 300 GENERAL NOTE.</NOTES>
+    <RELATED tag="322" name="CREDITS NOTE (PROJECTED AND VIDEO MATERIAL AND SOUND RECORDINGS)">
+      <DESCRIPTION>This field records details of persons or organizations other than cast or performers, performing groups etc</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="7--" name="INTELLECTUAL RESPONSIBILITY BLOCK">
+      <DESCRIPTION>Many cataloguing codes require that any access point for an item be justified in the notes if it is not present elsewhere in the description of the item. Field 323 may be used for such notes.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">323 ##$aCast: Mary Pickford, Claire McDowell, Dorothy Bernard, Charles West</EX>
+      <EX n="2">323 ##$aNarrators: Sian Phillips and Nigel Davenport</EX>
+      <EX n="3">323 ##$aMarshall Moss, violin; Neil Roberts, harpsichord</EX>
+      <EX n="4">323 ##$aNarrator: Salome Jens
+323 ##$aCast: Daryl Hannah (Ayla), Pamela Reed (Iza), James Remar (Creb) 
+There are two 323 fields, one for each category of participant. The second note includes the name of the character played by each member of the cast.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="324" name="ORIGINAL VERSION NOTE" mandatory="n" repeatable="n">
+    <DESCRIPTION>This field contains a note indicating that the item in hand is a reproduction, e.g., facsimile or microform, by including a bibliographic reference to the original item(s). The rest of the record describes the reproduction. Before 1994 this field also contained notes that the item contained facsimiles. Such notes should now be contained in field 307 NOTES PERTAINING TO PHYSICAL DESCRIPTION.</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Text of Note." mandatory="n" repeatable="n">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <NOTES>The note will usually include a word like facsimile, microform, etc., or its equivalent in other language. It is recommended that any reference to the original should be entered using ISBD punctuation (EX 1).<SEEEX N="1"/>
+    </NOTES>
+    <RELATED tag="305" name="NOTES PERTAINING TO EDITION AND BIBLIOGRAPHIC HISTORY">
+      <DESCRIPTION>Notes indicating the original of a facsimile should be entered in field 324 in preference to field 305.</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="325" name="REPRODUCTION NOTE">
+      <DESCRIPTION>Note giving details of the reproduction when the item is catalogued as if it were the original.</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="455" name="REPRODUCTION OF">
+      <DESCRIPTION>This field contains a description of an original or a link to a record describing an original.</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="456" name="REPRODUCED AS">
+      <DESCRIPTION>This field contains a description of a reproduction or a link to a record describing a reproduction.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">324 ##$aFacsimile reprint of: 1797 ed. originally published as 'The complaint and the consolation, or, Night thoughts', London : Richard Edwards, 1797</EX>
+      <EX n="2">324 ##$aMicroform reproduction of: Mithridates, or, Mr. Newmans essay on development its own confutation, London : W.J.Cleaver, 1846.</EX>
+      <EX n="3">200 1#$aNSBLes NSEécrivains français devant le cinéma$evisualité et problèmes d'écriture dans le roman français contemporain entre 1925 et 1966$fJeanne-Marie Clerc
+210 ##$aParis$cBibliothèque Nationale$d1989$eParis$gBibliothèque Nationale, Centre de Sablé
+215 ##$a33 microfiches$cargentique$d105 x 148 mm
+324 ##$aEd. microfiche: [S.l.] : [s.n.], 1983</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="325" name="REPRODUCTION NOTE" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains a note indicating that the item in hand is a reproduction of the item described in the body of the record. The rest of the record describes the original.</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Text of Note" mandatory="n" repeatable="n">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <NOTES>This field contains details of those aspects of the item in hand which distinguish it from the original. It is recommended that any reference to the original should be entered using ISBD punctuation.</NOTES>
+    <RELATED tag="305" name="NOTES PERTAINING TO EDITION AND BIBLIOGRAPHIC HISTORY">
+      <DESCRIPTION>Notes indicating the original of a facsimile should be entered in field 324 in preference to field 305.</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="324" name="ORIGINAL VERSION NOTE">
+      <DESCRIPTION>Note giving details of the original item(s) of which reproduction is being catalogued in the main body of the record.</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="455" name="REPRODUCTION OF">
+      <DESCRIPTION>This field contains a description of an original or a link to a record describing an original.</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="456" name="REPRODUCED AS">
+      <DESCRIPTION>This field contains a description of a reproduction or a link to a record describing a reproduction.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">325 ##$aMicrofiche. Cambridge : Chadwyck-Healy Ltd, 1988. 2 fiches ; 11x15 cm. (The Nineteenth Century : general collection ; N.1.1.18)</EX>
+      <EX n="2">325 ##$aEd. microfilme. Lisboa : Biblioteca Nacional, 1987. 1 bobine (71 imagens) ; 35 mm</EX>
+      <EX n="3">325 ##$aEd. microfilme. Lisboa : Biblioteca Nacional, 1986-1988. 3 bobines ; 35 mm</EX>
+      <EX n="4">325 ##$aMicroforme de reproduction. Paris : Bibliothèque Nationale, 1990. 3 microfiches : argentique, 14x</EX>
+      <EX n="5">200 1#$aOutline of a new system of logic, with a critical examination of Dr. Whately's "Elements of logic"$fby George Bentham
+210 ##$aLondon$cHunt and Clarke$b4, York Street, Covent Garden$d1827$gPrinted by Joseph Mallett$f59, Wardour Street, Soho, London
+215 ##$axii, 287, [1] p.$d8°
+700 #1$aBentham,$bGeorge$f1800-1884
+325 ##$aMicrofilm. London : British Library, 1990. 1 reel ; 35 mm
+325 ##$aMicrofiche. Cambridge : Chadwyck-Healey Ltd., 1990. 4 fiches ; 11x15 cm. (The Nineteenth Century : General Collection ; N. 1.1.4245)</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="326" name="FREQUENCY STATEMENT NOTE (SERIALS)" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains a note indicating the frequency with which a serial is issued.</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Frequency" mandatory="n" repeatable="n">
+      <DESCRIPTION>A statement indicating the frequency with which a serial is issued. Not repeatable.</DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="b" name="Dates of Frequency" mandatory="n" repeatable="n">
+      <DESCRIPTION>The date span over which the frequency mentioned in subfield $a applies. Not repeatable.</DESCRIPTION>
+    </SUBFIELD>
+    <NOTES>There is no standard form for the data in this field. It may be omitted when the data could be generated from a code in field 110 character position 1, as in EX 1. Agencies preparing records should be consistent in the use of the fields in such circumstances.</NOTES>
+    <RELATED tag="110" name="CODED DATA FIELD: SERIALS, Frequency of issue (character position 1) ">
+      <DESCRIPTION>This character position contains a code indicating the frequency of issue of the serial. Being limited to one character position, it cannot record complex situations which may be explained in field 326.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">326 ##$aMonthly
+A serial published monthly.</EX>
+      <EX n="2">326 ##$aQuarterly$bl981-
+326 ##$aMonthly$bl940-1980 
+
+A journal published monthly from 1940 to 1980 and published quarterly since.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="327" name="CONTENTS NOTE" mandatory="n" repeatable="n">
+    <DESCRIPTION>This field contains a note indicating the contents of the item.</DESCRIPTION>
+    <IND1 name="Completeness indicator">
+      <DESCRIPTION>This indicator specifies whether or not the field is considered a complete record of the contents of the item.</DESCRIPTION>
+      <OPTION value="0" name="Contents note is not complete (EX 4)">
+        <DESCRIPTION/>
+      </OPTION>
+      <OPTION value="1" name="Contents note is complete (EX 1, 2, 3)">
+        <DESCRIPTION/>
+      </OPTION>
+    </IND1>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Text of Note" mandatory="n" repeatable="y">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <NOTES>The data relating to each component part should be entered in this field in a separate occurrence of subfield $a. The data may be in any form, but it is recommended that ISBD data element definitions and punctuation be used if the title is followed by statement of responsibility (EX 1). If, however, the name of the author is placed before the title, it should be entered in access point form and followed by the title (EX 3). Punctuation is included at subfield boundaries (EX 1,2,3). The term 'contents' or its equivalent should not be entered since this can be created automatically when the contents note is output.</NOTES>
+    <RELATED tag="464" name="PIECE-ANALYTIC">
+      <DESCRIPTION>Field 464 may also be used to describe an entity at the piece-analytic level, and a note may be created directly from each 464 field.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">327 l#$aThe Venice train / translated by Alastair Hamilton. This translation originally published: London : Hamilton, 1974. Translation of 'Le train de Venise'. Paris : Presses de la Cité, 1965 ; $aMaigret and the millionaires / translated by Jean Stewart. This translation originally published: London : Hamilton, 1974. Translation of 'Maigret voyage'. Paris : Presses de la Cité, 1958 ; $aThe innocents / translated by Eileen Ellenbogen. This translation originally published: London : Hamilton, 1973. Translation of 'Les innocents'. Paris : Presses de la Cité, 1972. 
+
+The work is a translation from the French of 'The eleventh Simenon omnibus' by George Simenon. Within the contents note, full bibliographic details of the individual items are given. ISBD conventions are used.</EX>
+      <EX n="2">327 l#$aThe Venice train;$aMaigret and the millionaires;$aThe innocents.
+A contents note for the item above in a less full form.</EX>
+      <EX n="3">327 l#$aRosten, Leo. The beggar and the wallet.$aMartinez, A.L. Life with daughter.$aJohnson, James L. Hard travelin'.$aKnight, Joseph. From the insane asylum.$aMcCallum, George P. The last summer
+A contents note with the authors preceding the titles and inverted.</EX>
+      <EX n="4">327 0#$aIncludes the text of The Theft Act 1968 and The Theft Act 1978.
+A contents note in the record of a commentary on the acts which includes the complete text of the acts.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="328" name="DISSERTATION (THESIS) NOTE" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains a note indicating that the item is a thesis or dissertation and optionally including the degree for which it was presented and the academic institution awarding the degree.</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Text of Note" mandatory="n" repeatable="n">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <NOTES>There are no standards for the format of this field outside the practices of individual cataloguing rules.</NOTES>
+    <RELATED tag="105" name="CODED DATA FIELD: TEXTUAL MATERIAL, MONOGRAPHIC">
+      <DESCRIPTION>This field contains the value 'm' in one of the character positions $a/4-7 when the item is a dissertation or thesis.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">328 ##$aThesis (Ph.D.) Harvard University, 1954</EX>
+      <EX n="2">328 ##$aThèse: Droit: AixMarseille III: 1981</EX>
+      <EX n="3">328 ##$aRevision of thesis (Ph.D.) -- University of Alabama</EX>
+      <EX n="4">328 ##$aOriginally presented as the author's thesis (Ph.D.) -- Harvard University, 1979.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="330" name="SUMMARY OR ABSTRACT" mandatory="n" repeatable="y">
+    <DESCRIPTION/>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Text of Note" mandatory="n" repeatable="n">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <NOTES>This field may contain any kind of summary or abstract, whether informative, indicative, critical or evaluative. If more than one note is to be recorded, each is entered in a repeated field 330.</NOTES>
+    <RELATED tag="327" name="CONTENTS NOTE">
+      <DESCRIPTION>The contents note field should be used when references to sections contained within the item are given rather than a summary or abstract.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">330 ##$aUses puppet characters to present a lesson on safety. For primary grades.</EX>
+      <EX n="2">330 ##$aDefines and illustrates trends of various modernistic art styles in American painting. Explains how these styles are accomplished largely by the use of colour and form, disregarding recognizable subject matter</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="332" name="PREFERRED CITATION OF DESCRIBED MATERIALS" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains the citation for the materials described in the record in the form preferred by the custodian or originator.</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Preferred Citation" mandatory="n" repeatable="n">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <NOTES>A print/display constant equivalent to Cite as: might be used with this field.</NOTES>
+    <EXAMPLES>
+      <EX n="1">332 ##$aCabinet of American Illustration (Library of Congress Prints and Photographs Division)
+The citation for a collection of American illustrations in the form preferred by the Library of Congress, the holding institution.</EX>
+      <EX n="2">332 ##$aJennings M. Kent and Richard G. Niemi. Youthparent socialization panel study, 1965-1973. Ann Arbor, Mich. : InterUniversity Consortium for Political and Social Research, 1981
+The citation for a machine-readable data file in the form preferred by the originators.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="333" name="USERS/INTENDED AUDIENCE NOTE" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains information about the users or the intended audience of the material described.</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Text of Note" mandatory="n" repeatable="n">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <NOTES>A print/display constant such as Audience: might be used with this field.</NOTES>
+    <RELATED tag="100" name="GENERAL PROCESSING DATA, Target Audience Code (character positions 17-19)">
+      <DESCRIPTION>These character positions hold codes for certain types of intended audience</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">333 ##$aFor remedial reading programmes
+A note made in the record for a set of flash cards.</EX>
+      <EX n="2">333 ##$aMPAA rating: R
+A note made in the record for a motion picture indicating that it has been given a restricted rating.</EX>
+      <EX n="3">333 ##$aProgram designed for geographers, planners, geologists, meteorologists, and others who have a professional interest in analyzing spatial data
+A note made in the record for a machine-readable file.</EX>
+      <EX n="4">333 ##$a'Catholic paper for the Slovaks in Cleveland, Ohio, and vicinity'
+A note, quoted from the item, in the record for a newspaper.</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="336" name="TYPE OF ELECTRONIC RESOURCE NOTE" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains information characterizing the type of electronic resource. In addition to a general descriptor (e.g. text, computer program, numeric), more specific information, such as the form or genre of textual material (e.g. biography, dictionaries, indexes) may be recorded in this field. The field is equivalent to the ISBD(ER) Notes relating to type and extent of resource area and other resource characteristics.</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Text of Note" mandatory="n" repeatable="n">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <NOTES>A print/display constant such as Type of file: might be used with this field.</NOTES>
+    <RELATED tag="135" name="CODED DATA FIELD: ELECTRONIC RESOURCES">
+      <DESCRIPTION/>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">336 ##$aNumeric (summary statistics)</EX>
+      <EX n="2">336 ##$aText (Law reports and digests)</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="337" name="SYSTEM REQUIREMENTS NOTE (ELECTRONIC RESOURCES)" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field is used to record technical information about an electronic resource, such as the presence or absence of certain kinds of codes or the physical characteristics of the file (e.g. recording densities, parity, or blocking factors). For software, data such as the software programming language, the number of source program statements, computer requirements (e.g. computer manufacturer and model, operating system, or memory requirements), and peripheral requirements (e.g. number of tape drives, number of disk or drum units, number of terminals, or other peripheral devices, support software or related equipment) can be recorded. The field is equivalent to the ISBD(ER) Notes on systems requirements.</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Text of Note" mandatory="n" repeatable="n">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <EXAMPLES>
+      <EX n="1">337 ##$aData is in extended ASCII character set</EX>
+      <EX n="2">337 ##$aWritten in FORTRAN H with 1.5K source program statements</EX>
+      <EX n="3">337 ##$aOperates on IBM 360 and 370 under OS SVS and OSMVS with 9K of internal memory</EX>
+      <EX n="4">337 ##$aRequires IBM 2740 terminal with special narrow platen and form feeding features</EX>
+      <EX n="5">337 ##$aDisk characteristics: Disk is single sided, double density, soft sectored</EX>
+      <EX n="6">337 ##$aSystem requirements: IBM PC, 64K, with color card, 1 disk drive. Color monitor recommended.</EX>
+      <EX n="7">337 ##$aMode of use: Online video or teletype terminal or with a small dedicated computer (e.g. PDP 8).</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="345" name=" ACQUISITION INFORMATION NOTE" mandatory="n" repeatable="n">
+    <DESCRIPTION>This field may contain the name and address of the publisher, distributor, or other source for acquisition. It may also include the stock number, the physical medium, and the terms of availability for the catalogued item or a different physical format version of the item.</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Source for Acquisition/Subscription Address" mandatory="n" repeatable="y">
+      <DESCRIPTION>The name and/or address of a source for acquisition, including subscription address, of an item. Repeatable.</DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="b" name="Stock Number" mandatory="n" repeatable="y">
+      <DESCRIPTION>The number associated with the item by the supplier to facilitate distribution of the item. If the stock number is the ISBN or ISSN, it need not be repeated in this field. Repeatable.</DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="c" name="Medium" mandatory="n" repeatable="y">
+      <DESCRIPTION>The medium(s) in which the item is available. Repeatable (EX 3).</DESCRIPTION>
+      <SEEEX N="3"/>
+    </SUBFIELD>
+    <SUBFIELD tag="d" name="Terms of Availability" mandatory="n" repeatable="y">
+      <DESCRIPTION/>
+    </SUBFIELD>
+    <NOTES>If the publisher's address in field 210 PUBLICATION, DISTRIBUTION, ETC. is the same as would appear in this field it need not be repeated in this field.</NOTES>
+    <RELATED tag="210" name="PUBLICATION, DISTRIBUTION, ETC.">
+      <DESCRIPTION>This field contains the name, and in some instances the address, of the publisher.</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">345 ##$aU.S. Bureau of the Census$bC CPS 68 003
+The source for acquisition and order number of a computer file.</EX>
+      <EX n="2">345 ##$aFreytag, Berndt und Artaria$bBestellNr. 5406
+The publisher and order number for a map.</EX>
+      <EX n="3">345 ##$aNational Technical Information Service$bPB-363547$cpaper copy$d$4.00 $cmicrofiche$d$3.00
+The document distribution service, order number, available physical media, and prices for a technical report.</EX>
+      <EX n="4">210 ##$aWashington, D.C.$b1649 K ST., NW, Washington, 20065$cWider Opportunities for Women$dl979 printing, c1975 
+345 ##$aWider Opportunities for Women, 1649 K St., NW, Washington, D.C. 20065.
+The full name and address of the publisher are given in both the 210 and the 345 field.</EX>
+      <EX n="5">210 ##$aToronto$cThe Chapter$dl975-1976
+345 ##$aMultiple Sclerosis Society, Metropolitan Toronto Chapter, 13a Bloor St. West, Toronto, Ont. M5S lN5, Canada
+The full name and address of the publisher, when the information was given in abbreviated form in the 210 field.</EX>
+    </EXAMPLES>
+  </FIELD>
+</FORMAT>

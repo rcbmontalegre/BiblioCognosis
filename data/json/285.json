@@ -1,0 +1,148 @@
+[{
+  "fields": [
+    [
+      "001",
+      "285"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00313155"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19920524d1972    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<Os >irmãos Karamazov",
+      "f",
+      "Fiodor Dostoiewski",
+      "g",
+      "trad. por Maria Franco",
+      "g",
+      "int. de Eliseo Vivas"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Estúdios Cor",
+      "d",
+      "imp. 1972"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "2 v",
+      "d",
+      "20 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Obras de sempre",
+      "v",
+      "15-16"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 0",
+      "a",
+      "Dostoiévski",
+      "b",
+      "Fiódor",
+      "f",
+      "1821-1881"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Franco",
+      "b",
+      "Maria",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Vivas",
+      "b",
+      "Eliseo",
+      "4",
+      "080"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008100",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DOS irm 15"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008122",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DOS irm"
+    ]
+  ]
+}]

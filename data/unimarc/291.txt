@@ -1,0 +1,24 @@
+00892nam  2200277   450
+001   291
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-44-0303-3
+021    $a PT $b 89040/95
+095    $a PTBN00773030
+100    $a 19951004d1995    m  y0pory010305  ba
+101 1  $a por $c fre
+102    $a PT
+105    $a y   z   001zy
+106    $a r
+200 1  $a Fragmentos de um discurso amoroso $f Roland Barthes $g trad. Isabel Pascoal
+210    $a Lisboa $c Edições 70 $d imp. 1995
+215    $a 260, [4] p. $d 21 cm
+225 2  $a Signos $v 17
+304    $a Tít. orig.: Fragments d'un discours amoureux
+675    $a 821.133.1-4"19" $v BN $z por
+675    $a 177(042.3) $v BN $z por
+700  1 $a Barthes $b Roland $f 1915-1980
+702  1 $a Pascoal $b Isabel $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060511111056&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008720 $l BMM $s SCG 821 BAR fra 17

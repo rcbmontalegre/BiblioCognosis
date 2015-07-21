@@ -1,0 +1,148 @@
+[{
+  "fields": [
+    [
+      "001",
+      "522"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00441099"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19930319d1974    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "din"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "General S. S.",
+      "f",
+      "Sven Hassel",
+      "g",
+      "trad. M. Canaveira de Campos"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "2ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Europa-América"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "287 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Século XX",
+      "v",
+      "126"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : Generales S. S."
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "bn",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Hassel",
+      "b",
+      "Sven",
+      "f",
+      "1917-"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Campos",
+      "b",
+      "Manuel Canaveira",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060518093320&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008758",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 HAS gen 126"
+    ]
+  ]
+}]

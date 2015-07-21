@@ -1,0 +1,168 @@
+[{
+  "fields": [
+    [
+      "001",
+      "881"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-41-4018-0"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "215140/04"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d2004    m  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "ita"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   000yy"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >Siciliana",
+      "f",
+      "Sveva Casati Modignani",
+      "g",
+      "trad. Regina Valente"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "1ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "Asa",
+      "d",
+      "2004"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "373, [11] p.",
+      "d",
+      "24 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Romance"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Donna D'onore"
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Literatura italiana"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Modignani",
+      "b",
+      "Sveva Casati",
+      "c",
+      "pseud."
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Valente",
+      "b",
+      "Regina",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.aspx?cod=20100420120550&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0016278",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 MOD sic"
+    ]
+  ]
+}]

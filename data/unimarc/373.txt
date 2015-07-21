@@ -1,0 +1,22 @@
+00846nam  2200253   450
+001   373
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-1-05496-8
+021    $a PT $b 221136/05
+100    $a 20061013d2005----m  y0pory0103    ba
+101 1  $a por $c spa
+102    $a PT
+200 1  $a <O >segredo de Mona Lisa $f Dolores García $g tradução de Maria João Freire de Andrade
+205    $a 1ª ed
+210    $a Mem Martins $c Europa-América $d 2005
+215    $a 450,[4] p. $d 23 cm
+225 0  $a Contemporânea $v 109
+304    $a Tit. Orig.: El secreto de Monna Lisa
+608    $a Romance
+675    $a 821.134.2
+700  1 $a García $b Dolores $f 1964
+702  1 $a Andrade $b Maria João Freire de $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060512113522&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0016267 $l BMM $s SCG 821.134.2(7/8) GAR seg 109

@@ -1,0 +1,23 @@
+00833nam  2200265   450
+001   369
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-23-3094-2
+021    $a PT $b 208983/04
+100    $a 20050118d2004    a  y0pory0103    ba
+101 1  $a por $c nor
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a <A >rapariga das laranjas $f Jostein Gaarder $g trad. Maria Luísa Ringstad
+205    $a 3ª ed
+210    $a Barcarena $c Presença $d 2004
+215    $a 123, [4] p. $d 23 cm
+225 2  $a Grandes narrativas $v 222
+304    $a Tít. orig.: Appelsinpiken
+675    $a 821 $v BN $z por $v BN $z por
+700  1 $a Gaarder $b Jostein $f 1952
+702  1 $a Ringstad $b Luísa $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060512110410&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0015892 $l BMM $s SCG 821 GAA rap 222

@@ -1,0 +1,16 @@
+00614nam  2200181   450
+001   359
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20061013d1962    k  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <A >rainha africana $f C. S. Forester $g tradução de Maria Isabel Morna Braga
+210    $a Lisboa $c Portugália $d 1962
+215    $a 254 p. $d 17 cm
+225 2  $a <O >livro de bolso $v 40
+675    $a 821 $v BN $z por
+700  1 $a Forester $b C. S. $f 1899-1966
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060511170642&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008799 $l BMM $s SCG 821 FOR rai 40

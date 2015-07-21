@@ -1,0 +1,25 @@
+00973nam  2200289   450
+001   866
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 972-1-03174-7
+021    $a PT $b 42467/90
+095    $a PTBN00336599
+100    $a 19910527d1990    cd y0pory0103    ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   001ay
+106    $a r
+200 1  $a <O >segundo livro da selva $f Rudyard Kipling $g trad. Lucília Rodrigues
+210    $a Mem Martins $c Europa-América $d D.L. 1990
+215    $a 175, [1] p. $d 18 cm
+225 2  $a Livros de bolso Europa-América $v 534
+304    $a Tít. orig. : The second jungle book
+675    $a 087.5 $v BN $z por $v BN $z por $3 287999
+675    $a 820-311.3 $v BN $z por $3 438696
+700  1 $a Kipling $b Rudyard $f 1865-1936 $3 24768
+702  1 $a Rodrigues $b Lucília $4 730 $3 24770
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060627142239&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0003181 $l BMM $s SJ 087.5 KIP seg 534

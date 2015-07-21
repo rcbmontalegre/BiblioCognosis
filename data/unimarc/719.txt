@@ -1,0 +1,23 @@
+00862nam  2200265   450
+001   719
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-23-2996-0
+021    $a PT $b 208085/04
+100    $a 20061013d2004    me y0pory0103    ba
+101 1  $a por $c ita
+102    $a PT
+105    $a y   z   001ay
+106    $a r
+200 1  $a <Um >país para lá do azul do céu $f Susanna Tamaro $g trad. Maria Jorge Vilar de Figueiredo
+205    $a 4ª ed
+210    $a Queluz de baixo $c Presença $d 2004
+215    $a 93, [3] p. $d 23 cm
+225 2  $a Grandes narrativas $v 199
+304    $a Tít. orig.: Fuori
+675    $a 821 $v BN $z por
+700  1 $a Tamaro $b Susanna $f 1957-
+702  1 $a Figueiredo $b Maria Jorge Vilar de $4 730 $3 32264
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060530153444&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0015908 $l BMM $s SCG 821 TAM paí 199

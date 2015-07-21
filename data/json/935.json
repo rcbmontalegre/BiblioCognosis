@@ -1,0 +1,172 @@
+[{
+  "fields": [
+    [
+      "001",
+      "935"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1983    m  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Noites antigas",
+      "f",
+      "Norman Mailer",
+      "g",
+      "tradução de Teixeira de Aguilar"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "cop. 1983"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "vol.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Século XX",
+      "v",
+      "232, 233"
+    ],
+    [
+      "300",
+      "  ",
+      "a",
+      "Tít. orig.: Ancients evenings"
+    ],
+    [
+      "327",
+      "1 ",
+      "a",
+      "Vol. 1: 427 p.",
+      "a",
+      "Vol. 2: 339 p."
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Literatura americana"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Novela"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Mailer",
+      "b",
+      "Norman",
+      "f",
+      "1923-"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Aguilar",
+      "b",
+      "Teixeira de",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060703085531&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060703085543&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009043",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 MAI noi 232"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009031",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 MAI noi 233"
+    ]
+  ]
+}]

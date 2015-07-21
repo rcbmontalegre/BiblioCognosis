@@ -1,0 +1,18 @@
+00672nam  2200205   450
+001   324
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00423330
+100    $a 19930215d1991    m  y0pory010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a Chuva de verão $f Marguerite Duras $g trad. de Tereza Coelho
+210    $a Lisboa $c Livros do Brasil $d 1991
+215    $a 180 p. $d 22 cm
+225 2  $a Dois mundos $v 192
+304    $a Tit. orig.: La pluie d'été
+675    $a 821 $v bn $z por
+700  1 $a Duras $b Marguerite $f 1914-1996
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060511143737&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008316 $l BMM $s SCG 821 DUR chu 192

@@ -1,0 +1,20 @@
+00787nam  2200229   450
+001   288
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 84-408-0049-5
+021    $a PT
+035    $c MPEN002_d/11-11-2004/1879
+100    $a 20020925d1995    k  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a Aventuras de Sherlock Holmes $f Arthur Conan Doyle $g trad.: Ana Sofia Machado
+210    $a Amadora $c Clube Internacional do Livro $d 1995
+215    $a 191 p. $d 19 cm
+225 2  $a Grandes génios da literatura universal
+608    $a Romance policial $2 Autoridade $3 PT9999-00-10-2009040123590005542
+675    $a 82-312.4
+700  1 $a Doyle $b Arthur Conan $f 1859-1930 $c Sir
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0008434 $l BMM $s SCG 82-312.4 DOY ave

@@ -1,0 +1,25 @@
+00877nam  2200289   450
+001   9
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 972-1-02319-1
+021    $a PT $b 50314/91
+095    $a PTBN00356004
+100    $a 20061013d1991    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a a   zzzz000aa
+106    $a r
+200 1  $a <O >vale dos cavalos $f Jean M. Auel $g trad. Sophie Penberthy Vinga
+205    $a 3ª ed
+210    $a Mem Martins $c Europa-América $d D.L. 1991
+215    $a 501 p. $d 21 cm
+225 2  $a Nébula $v 16)
+304    $a Tít. orig.: The valley of horses
+675    $a 821 $v BN $z por
+700  1 $a Auel $b Jean M $f 1936
+702  1 $a Vinga $b Sophie Penberthy $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060504093325&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0010171 $l BMM $s SCG 821 AUE val 16

@@ -1,0 +1,124 @@
+[{
+  "fields": [
+    [
+      "001",
+      "533"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20070521d1965    m  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Novelas do Minho",
+      "f",
+      "Camilo Castelo Branco"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "7ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Parceria A.M. Pereira",
+      "d",
+      "1965"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "3 v.",
+      "d",
+      "227p. 20 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Obras de Camilo Castelo Branco"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821.134.3",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Castelo Branco",
+      "b",
+      "Camilo",
+      "f",
+      "1825-1890"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0012081",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821.134.3 CAS nov 19 Vol.III"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0012082",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821.134.3 CAS nov 19 Vol.III"
+    ]
+  ]
+}]

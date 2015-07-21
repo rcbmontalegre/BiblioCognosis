@@ -1,0 +1,172 @@
+[{
+  "fields": [
+    [
+      "001",
+      "941"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19880301d1979    m  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   000ay"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<Os >Buddenbrook",
+      "e",
+      "decadoncia de uma familia",
+      "f",
+      "Thomas Mann",
+      "g",
+      "trad. de Herbert Caro",
+      "g",
+      "revista por A. Vieira d'Areia"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Livros do Brasil",
+      "d",
+      "[D.L. 1979]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "538, [3] p.",
+      "d",
+      "22 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Dois mundos",
+      "v",
+      "13"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821.112.2-31\"18/19\"",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "3",
+      "618454"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Mann",
+      "b",
+      "Thomas",
+      "f",
+      "1875-1955",
+      "3",
+      "32608"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Caro",
+      "b",
+      "Herbert",
+      "4",
+      "730",
+      "3",
+      "35006"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Areia",
+      "b",
+      "A. Vieira de",
+      "f",
+      "1902-",
+      "4",
+      "640",
+      "3",
+      "6789"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060703100739&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009050",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 MAN bud 13"
+    ]
+  ]
+}]

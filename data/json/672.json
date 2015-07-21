@@ -1,0 +1,158 @@
+[{
+  "fields": [
+    [
+      "001",
+      "672"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "29669/89"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00351566"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1989    d  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "Porto"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Tenho uma ideia",
+      "e",
+      "contos",
+      "f",
+      "de Arsénio Mota",
+      "g",
+      "il. de Júlio Resende"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "Porto Editora",
+      "d",
+      "1989"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "32 p.",
+      "c",
+      "il.",
+      "d",
+      "20 X 27 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Autores portugueses",
+      "v",
+      "6"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Conto"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "82-34",
+      "v",
+      "bn",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Mota",
+      "b",
+      "Arsénio",
+      "f",
+      "1930-"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Resende",
+      "b",
+      "Júlio",
+      "c",
+      "pseud.",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060524141917&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001418",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-34 MOT ten 6"
+    ]
+  ]
+}]

@@ -1,0 +1,22 @@
+00799nam  2200253   450
+001   488
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 22351/88
+095    $a PTBN00123541
+100    $a 19890317d1988    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a Nascido para matar $f Gustav Hasford $g trad. J. Santos Tavares
+210    $a Mem Martins $c Europa-América $d D.L. 1988
+215    $a 126 p. $d 23 cm
+225 2  $a Campos de batalha $v 3
+304    $a Tit. orig. : The short timers
+675    $a 820(73)-31 $v BN $z por
+700  1 $a Hasford $b Gustav
+702  1 $a Tavares $b J. Santos $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060517151228&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008793 $l BMM $s SCG 821 HAS nas 3

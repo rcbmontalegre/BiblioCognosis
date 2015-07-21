@@ -1,0 +1,148 @@
+[{
+  "fields": [
+    [
+      "001",
+      "39"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00039643"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1983    m  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Ema",
+      "f",
+      "Jane Auten",
+      "g",
+      "trad. José Parreira Alves"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "2ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Inquérito",
+      "d",
+      "[D.L. 1983]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "501 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Romance universal Inquérito",
+      "v",
+      "4"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Austen",
+      "b",
+      "Jane",
+      "f",
+      "1775-1817",
+      "3",
+      "8531"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Alves",
+      "b",
+      "José Parreira",
+      "4",
+      "730",
+      "3",
+      "125585"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060504154412&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008343",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 AUS ema 4"
+    ]
+  ]
+}]

@@ -1,0 +1,20 @@
+00775nam  2200229   450
+001   778
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 22990/88
+095    $a PTBN00130404
+100    $a 20061013d1988    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a Nas montanhas da loucura $f H. P. Lovecraft $g trad. Manuel Joäo Gomes
+210    $a Lisboa $c Dom Quixote $d 1988
+215    $a 174, [1] p. $d 18 cm
+225 2  $a Biblioteca de bolso Dom Quixote $i Ficção $v 38
+304    $a Tít. orig. : At the montains of madness
+675    $a 821
+700  1 $a Lovecraft $b H. P. $f 1890-1937
+702  1 $a Gomes $b Manuel João
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060621105503&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0005462 $l BMM $s SCG 821 LOV mon 38

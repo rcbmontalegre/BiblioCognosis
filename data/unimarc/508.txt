@@ -1,0 +1,18 @@
+00658nam  2200205   450
+001   508
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00215879
+100    $a 20061013d1962    m  y0pora010305  ba
+101 1  $a por $c rus
+102    $a PT
+200 1  $a Primeiras alegrias $f Konstantin Aleksandrovitch Fedin $g trad. Luís de Almeida
+210    $a Lisboa $c Arcádia $d 1962
+215    $a 480, [1] p., [1] f $d 20 cm
+225 2  $a Encontro $v 23
+304    $a Tít. orig.: Pervye radosti
+675    $a 821 $v BN $z por
+700  1 $a Fedin $b Konstantin $f 1892-
+702  1 $a Almeida $b Luís de $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0008168 $l BMM $s SCG 821 FED pri 23

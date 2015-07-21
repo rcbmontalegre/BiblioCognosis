@@ -1,0 +1,19 @@
+00708nam  2200217   450
+001   701
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20061013d1984    a  y0pory0103    ba
+101 0  $a por
+102    $a PT
+200 1  $a Toadas para gente nova $f Patricia Joyce $g ilustrção de Henrique Cayatte
+210    $a Lisboa $c Horizonte $d 1984
+215    $a 21p. $c il. $d 23 cm
+225 2  $a Pássaro livre $v 52
+608    $a Poesia
+675    $a 82-1
+700  1 $a Joyce $b Patrícia $c pseud
+702  1 $a Cayatte $b Henrique $f 1957- $4 440
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060526110809&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0001644 $l BMM $s SI 82-1 JOY toa 52
+966    $a 0001645 $l BMM $s SI 82-1 JOY toa 52

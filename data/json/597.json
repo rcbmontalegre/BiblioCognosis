@@ -1,0 +1,154 @@
+[{
+  "fields": [
+    [
+      "001",
+      "597"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-0-65253-5"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "184746/02"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20021128d2002    demy0pory0103    ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "--------000zy"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "i"
+    ],
+    [
+      "135",
+      "  ",
+      "a",
+      "bocga---mnaua"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Diciopédia 2003",
+      "b",
+      "Documento electrónico",
+      "f",
+      "[ed. lit.] Porto Editora Multimédia"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "[1ª ed.]"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "P.E.M.",
+      "d",
+      "D.L. 2002"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "4 discos ópticos (CD-ROM) em caixa",
+      "c",
+      "il.",
+      "d",
+      "28 cm"
+    ],
+    [
+      "230",
+      "  ",
+      "a",
+      "Multimédia interactivo"
+    ],
+    [
+      "337",
+      "  ",
+      "a",
+      "Requisitos do sistenma: Processador Pentium II a 233 MH ; 32 MB de RAM ; Windows 98, 2000, Me, XP ou Windows NT 4.0 (SP6) ; CD-ROM 12x ; placa gráfica SVGA (milhares de cores a 800x600) ; placa de som compatível CL Sound blaster (16 bit); placa gráfica (800x600) ; 220 MB de espaço livre no disco rígido"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "030(0.034)",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "3",
+      "997273"
+    ],
+    [
+      "712",
+      "02",
+      "a",
+      "Porto Editora Multimédia",
+      "4",
+      "340",
+      "3",
+      "218241"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060522123333&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "0"
+    ]
+  ]
+}]

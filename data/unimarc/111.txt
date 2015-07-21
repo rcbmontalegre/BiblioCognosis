@@ -1,0 +1,21 @@
+00858nam  2200241   450
+001   111
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   19
+095    $a PTBN00030899
+100    $a 20061013d1981    m  y0pory0103    ba
+101 1  $a por $c spa
+102    $a PT
+200 1  $a <O >relatório de Brodie $f Jorge Luís Borges $g trad. e pref. António Alçada Baptista
+205    $a 2ª ed
+210    $a Amadora $c Bertrand $d imp. 1981
+215    $a 143, [4] p. $d 20 cm
+225 2  $a Autores universais
+304    $a Tít. orig. El informe de Brodie
+675    $a 821821.134.2(7/8) $v BN $z por $3 291171
+700  1 $a Borges $b Jorge Luís $f 1899-1986 $3 15085
+702  1 $a Baptista $b António Alçada $f 1927 $4 730 $4 080 $3 6544
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060509100248&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008352 $l BMM $s SCG 821.134.2(7/8) BOR rel

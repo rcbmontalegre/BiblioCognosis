@@ -1,0 +1,21 @@
+00847nam  2200241   450
+001   531
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00027927
+100    $a 19841001d1984    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <O >estranho mundo de Garp $f John Irving $g trad. Maria Adelaide Namorado Freire
+210    $a [Lisboa] $c Distri $d [D.L. 1984]
+215    $a 2 v $d 19 cm
+225 2  $a Distribolso
+304    $a Tít. orig. The world according to Garp
+675    $a 821 $v BN $z por
+700  1 $a Irving $b John $f 1942-
+702  1 $a Freire $b Maria Adelaide Namorado $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060518100522&ext=jpg $z CAPA
+856    $u locateMedia.asp?cod=20060518100812&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0008636 $l BMM $s SCG 821 IRV est
+966    $a 0008637 $l BMM $s SCG 821 IRV est

@@ -1,0 +1,126 @@
+[{
+  "fields": [
+    [
+      "001",
+      "775"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-33-2241-2"
+    ],
+    [
+      "020",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "021",
+      "  ",
+      "b",
+      "239755/06"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20060621d2006----k  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >Escrava",
+      "f",
+      "Holdstock, Pauline",
+      "g",
+      "trad.Vasconcelos, Ana"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Estampa",
+      "d",
+      "2006"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "303",
+      "d",
+      "23cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Prometeu"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060621102156&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0016745",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 HOL esc"
+    ]
+  ]
+}]

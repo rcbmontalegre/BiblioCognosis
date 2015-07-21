@@ -1,0 +1,180 @@
+[{
+  "fields": [
+    [
+      "001",
+      "203"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013g1966    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Tai-Pan",
+      "f",
+      "James Clavell",
+      "g",
+      "tradução de Maria de Lourdes Medeiros"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "cop. 1966"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "vol",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Século XX",
+      "v",
+      "225, 226"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Tai-Pan"
+    ],
+    [
+      "327",
+      "1 ",
+      "a",
+      "Vol. 1: 340 p",
+      "a",
+      "Vol. 2: 449 p"
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Literatura americana"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Romance"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Clavell",
+      "b",
+      "James",
+      "f",
+      "1923-1994"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Medeiros",
+      "b",
+      "Maria de Lurdes",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060510105738&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060510105753&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008246",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 CLA tai 225"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008247",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 CLA tai 226"
+    ]
+  ]
+}]

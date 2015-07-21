@@ -1,0 +1,35 @@
+{
+  "name": "BiblioCognosis",
+  "version": "1.0.0",
+  "description": "transform marc21 biliographic data into rdf",
+  "main": "ils-10448.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jgrocha/BiblioCognosis"
+  },
+  "keywords": [
+    "marc21",
+    "rdf"
+  ],
+  "author": "Jorge Gustavo Rocha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgrocha/BiblioCognosis/issues"
+  },
+  "homepage": "https://github.com/jgrocha/BiblioCognosis",
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "eyes": "^0.1.8",
+    "fs": "0.0.2",
+    "http": "0.0.0",
+    "marcjs": "^0.1.9",
+    "querystring": "^0.2.0",
+    "util": "^0.10.3",
+    "xml2js": "^0.4.4",
+    "xmldom": "^0.1.19",
+    "xpath": "0.0.8"
+  }
+}

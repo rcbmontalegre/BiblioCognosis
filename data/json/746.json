@@ -1,0 +1,150 @@
+[{
+  "fields": [
+    [
+      "001",
+      "746"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1971    am y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "rus"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >músico cego",
+      "f",
+      "Vladimir Galaktionovitch korolenko",
+      "g",
+      "trad. Natércia Caramalho"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Europa-América",
+      "d",
+      "1971"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "215 p.",
+      "c",
+      "il.",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Livros de bolso Europa-América",
+      "v",
+      "2"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Slepoj muzikant"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Korolenko",
+      "b",
+      "Vladimir",
+      "f",
+      "1853-1921"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Caramalho",
+      "b",
+      "Natércia",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060619163129&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005341",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 KOR mús 2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008187",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 KOR mús"
+    ]
+  ]
+}]

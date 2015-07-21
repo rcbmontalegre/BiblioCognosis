@@ -1,0 +1,188 @@
+[{
+  "fields": [
+    [
+      "001",
+      "600"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-0-63309-3"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "186467/02"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013e20031999e  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "--------000zy"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "i"
+    ],
+    [
+      "135",
+      "  ",
+      "a",
+      "bocga---mnaua"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Eu aprendo físico-químicas",
+      "b",
+      "Documento electrónico",
+      "e",
+      "9\" ano",
+      "f",
+      "Fernando Cunha, Zilda Cunha",
+      "g",
+      "[ed. lit.] Porto Editora Multimédia"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "[1ª ed.",
+      "b",
+      "1\" reimp.]"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "P.E.M.",
+      "d",
+      "D.L. 2002"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "1 discos óptico (CD-ROM) em caixa",
+      "d",
+      "24 cm",
+      "e",
+      "instruções de instalação ([1] f. desdobr.)"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Multimédia educativo"
+    ],
+    [
+      "230",
+      "  ",
+      "a",
+      "Multimédia interactivo"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. retirado da caixa"
+    ],
+    [
+      "337",
+      "  ",
+      "a",
+      "Requisitos do sistema : processador Pentium a 133 MHz ; 16 MB de memória RAM ; Windows 95, 98, 2000, Me,XP ou Windows NT 4.0 (SP6) ; Leitor de CD-ROM 4x ; placa de som compatível CL Sound Blaster (16 bit) ; placa gráfica SVGA (milhares de cores a 640x480) ; 50 MB de espaço livre no disco rígido"
+    ],
+    [
+      "686",
+      "  ",
+      "a",
+      "55(0.034"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Cunha",
+      "b",
+      "Fernando",
+      "3",
+      "225185"
+    ],
+    [
+      "701",
+      " 1",
+      "a",
+      "Cunha",
+      "b",
+      "Zilda",
+      "4",
+      "070",
+      "3",
+      "225186"
+    ],
+    [
+      "712",
+      "02",
+      "a",
+      "Porto Editora Multimédia",
+      "4",
+      "340",
+      "3",
+      "218241"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060522145018&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "0"
+    ]
+  ]
+}]

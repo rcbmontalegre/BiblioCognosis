@@ -1,0 +1,20 @@
+00782nam  2200229   450
+001   51
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00305876
+100    $a 19970108d1974    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <A >história de Fernão Capelo Gaivota $f Richard Bach $g trad. de António Ramos Rosa, Madalena Rosález
+205    $a 3ª ed
+210    $a Lisboa $c Moraes $d 1974
+215    $a 89, [6] p. $c il. $d 20 cm
+304    $a Tít. orig.: Jonatham Livingston Seagull
+675    $a 821 $v BN $z por
+700  1 $a Bach $b Richard
+702  1 $a Rosa $b António Ramos $f 1924 $4 730
+702  1 $a Rosález $b Madalena $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060504162919&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0012608 $l BMM $s SCG 821 BAC fer

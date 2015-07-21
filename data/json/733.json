@@ -1,0 +1,158 @@
+[{
+  "fields": [
+    [
+      "001",
+      "733"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00015457"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20070518d1986    m  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Não matem a cotovia",
+      "f",
+      "Harper Lee",
+      "g",
+      "trad. Raúl Correia"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "D.L. 1986"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "272 p.",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Livros de bolso Europa-América",
+      "v",
+      "461"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: To Kill a mockingbird~"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Lee",
+      "b",
+      "Harper",
+      "f",
+      "1926"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Correia",
+      "b",
+      "Raúl",
+      "f",
+      "1904-1985",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Jorge",
+      "b",
+      "Maria Elisa Pessoa",
+      "f",
+      "1925-",
+      "4",
+      "550"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060619145900&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005337",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 LEE não"
+    ]
+  ]
+}]

@@ -1,0 +1,160 @@
+[{
+  "fields": [
+    [
+      "001",
+      "1"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19860701d1985    k  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >guerra do fogo",
+      "f",
+      "J. H. Rosny Ainé",
+      "g",
+      "trad. Maria Jorge Vilar de Figueiredo"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Presença",
+      "d",
+      "1985"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "177, [6] p.",
+      "c",
+      "il.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Volta ao mundo",
+      "v",
+      "4"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: La guerre du feu"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Aîné",
+      "b",
+      "J. H. Rosny",
+      "c",
+      "pseud."
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Figueiredo",
+      "b",
+      "Maria Jorge Vilar de",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060503142940&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "3"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008509",
+      "l",
+      "BMM",
+      "s",
+      "SJ 821 AIN gue 4"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0003114",
+      "l",
+      "BMM",
+      "s",
+      "SJ 821 AIN gue 4"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0003115",
+      "l",
+      "BMM",
+      "s",
+      "SJ 821 AIN gue 4"
+    ]
+  ]
+}]

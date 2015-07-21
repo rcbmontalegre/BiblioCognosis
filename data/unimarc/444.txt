@@ -1,0 +1,23 @@
+00791nam  2200265   450
+001   444
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-41-1273-X
+021    $a PT $b 63827/93
+095    $a PTBN00467551
+100    $a 19930629d1993    m  y0pory010305  ba
+101 1  $a por $c ger
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a <O >homem do animatógrafo $f Gert Hofmann $g trad. Paulo Osório de Castro
+205    $a 1ª ed
+210    $a Porto $c Asa $d 1993
+215    $a 318, [2] p. $d 21 cm
+225 2  $a Letras do mundo $v 17)
+304    $a Tít. orig. : Der kinoerzähler
+675    $a 830-31"19" $v BN $z por
+700  1 $a Hofmann $b Gert $f 1932-1993
+702  1 $a Castro $b Paulo Osório de $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0008825 $l BMM $s SCG 821 HOF hom

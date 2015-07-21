@@ -1,0 +1,20 @@
+00786nam  2200229   450
+001   377
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 19840/88
+095    $a PTBN00128817
+100    $a 19880707d1988    em y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a Passagem para a India $f E. M. Forster $g trad. Bernardette Pinto Leite
+210    $a Mem Martins $c Europa-América $d D.L. 1988
+215    $a 315 p. $d 21 cm
+225 2  $a Século XX $v 290
+304    $a Tít. orig. : A passage to India
+675    $a 820(73)-31 Forster, E. M $v BN $z por
+700  1 $a Forster $b E. M. $f 1879-1970
+702  1 $a Leite $b Bernardete Pinto $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060512120200&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008803 $l BMM $s SCG 821 FOR pas 290

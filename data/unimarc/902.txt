@@ -1,0 +1,17 @@
+00630nam  2200193   450
+001   902
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20061013d1980    km y0pory010305  ba
+101 1  $a por $b eng
+102    $a PT
+200 1  $a Morte no verão e outras histórias $f Yukio Mishima
+210    $a [Cacém] $c Ró $d 1980
+215    $a 247p. ;21 cm;
+225 2  $a Autores $v 3
+300    $a Tit. orig. em Inglês : Death in midsummer and other stories
+675    $a 821
+700  1 $a Mishima $b Yukio $c pseud.
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060629105350&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0009196 $l BMM $s SCG 821 MIS mor

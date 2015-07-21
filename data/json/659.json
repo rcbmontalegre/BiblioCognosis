@@ -1,0 +1,164 @@
+[{
+  "fields": [
+    [
+      "001",
+      "659"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-710-248-4"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "143585/99"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20050628d1999    b  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Versos de fazer ó-ó",
+      "f",
+      "José Jorge Letria",
+      "g",
+      "il. André Letria"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "1ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Terramar",
+      "d",
+      "1999"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "64, [1] p.",
+      "c",
+      "il.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "300",
+      "  ",
+      "a",
+      "Obra encadernada ao contrário"
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Literatura infantil"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Poesia"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "82-1",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Letria",
+      "b",
+      "José Jorge",
+      "f",
+      "1951-"
+    ],
+    [
+      "701",
+      " 1",
+      "a",
+      "Letria",
+      "b",
+      "André",
+      "f",
+      "1973-",
+      "4",
+      "070"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060523110011&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0015361",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-1 LET ver"
+    ]
+  ]
+}]

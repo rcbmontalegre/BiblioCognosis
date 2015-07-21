@@ -1,0 +1,120 @@
+[{
+  "fields": [
+    [
+      "001",
+      "863"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19970909d19811997a  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "ita"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Era tudo verdade!...",
+      "f",
+      "Zaira Regini Venturini",
+      "g",
+      "tradução de Maria Irene Bigotte de Carvalho"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Verbo",
+      "d",
+      "1981"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "200p.",
+      "d",
+      "19cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Boutique",
+      "v",
+      "36"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "82-311.3(08) B36",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Venturini",
+      "b",
+      "Zaira Regini"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060627112749&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0003036",
+      "l",
+      "BMM",
+      "s",
+      "SJ 087.5 VEN era 36"
+    ]
+  ]
+}]

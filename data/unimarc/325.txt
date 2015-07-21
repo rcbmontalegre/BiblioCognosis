@@ -1,0 +1,20 @@
+00740nam  2200229   450
+001   325
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20061013d1988----m  y0pora010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a Destruir diz ela $f Marguerite Duras $g trad. de Iva Delgado
+210    $a Lisboa $c Livros do Brasil $d 1988
+215    $a 133 p. $d 22 cm
+225 2  $a Dois mundos $v 176
+304    $a Tit. orig.: Détruire dit-elle
+606    $a Literatura francesa
+608    $a Conto
+675    $a 821 $z por
+700  1 $a Duras $b Marguerite $f 1914-1996
+702  1 $a Delgado $b Iva $f 1940 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060511144005&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008314 $l BMM $s SCG 821 DUR des 176

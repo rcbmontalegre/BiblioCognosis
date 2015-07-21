@@ -1,0 +1,144 @@
+[{
+  "fields": [
+    [
+      "001",
+      "309"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "83945"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00107869"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19871117d1987    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "ger"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Justiça",
+      "f",
+      "Friedrich Dürrenmatt",
+      "g",
+      "trad. Maria Emília Ferros Moura"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Relógio d'Água",
+      "d",
+      "[D.L. 1987]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "221, [2] p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Crime imperfeito"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "bn",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Dürrenmatt",
+      "b",
+      "Friedrich",
+      "f",
+      "1921-1990"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Moura",
+      "b",
+      "Maria Emília Ferros",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511141304&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008582",
+      "l",
+      "BMM",
+      "s",
+      "SCG 82-312.4 DUR jus"
+    ]
+  ]
+}]

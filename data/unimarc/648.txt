@@ -1,0 +1,19 @@
+00687nam  2200217   450
+001   648
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00271214
+100    $a 20061013d1985    a  y0pory010305  ba
+101 0  $a por
+102    $a PT
+200 1  $a <O >grande continente azul $f José Jorge Letria $g il. Paula amaral
+210    $a Lisboa $c Horizonte $d 1985
+215    $a 24 p. $c il. $d 23 cm
+225 2  $a Pássaro livre $v 54
+606    $a Literatura juvenil
+675    $a 82-1
+700  1 $a Letria $b José Jorge $f 1951-
+702  1 $a Amaral $b Paula $4 440
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060523094835&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0001661 $l BMM $s SI 82-1 LET gra 54

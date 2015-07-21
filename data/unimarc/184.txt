@@ -1,0 +1,22 @@
+00962nam  2200253   450
+001   184
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+095    $a PTBN00026759
+100    $a 20061013d1984    m  y0pora0103    ba
+101 1  $a por $c spa
+102    $a PT
+200 1  $a <A >invenção de Morel $f Adolfo Bioy Casares $g prólogo de Jorge Luis Borges $g trad. Miguel Serras Pereira e Maria Teresa Sá
+210    $a Lisboa $c Antígona $d 1984
+215    $a 142, [5] p. $d 21 cm
+304    $a Tít. orig. La invención de Morel
+675    $a 821 $v BN $z por
+700  1 $a Bioy Casares $b Adolfo $f 1914-1999
+702  1 $a Borges $b Jorge Luís $f 1899-1986 $4 080
+702  1 $a Pereira $b Miguel Serras $f 1949- $3 28318 $4 730
+702  1 $a Sá $b Maria Teresa Marques de $4 730 $3 47518
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060510094139&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0008264 $l BMM $s SCG 821.134.2(7/8) BIO inv
+966    $a 0008441 $l BMM $s SCG 821.134.2(7/8) BIO inv

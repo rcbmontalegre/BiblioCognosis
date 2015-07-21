@@ -1,0 +1,138 @@
+[{
+  "fields": [
+    [
+      "001",
+      "869"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00175641"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20070402d1962    m  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >anão feiticeiro",
+      "f",
+      "Walter Scott",
+      "g",
+      "trad. António Vilalva"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Romano Torres",
+      "d",
+      "1962"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "232, [1] p.",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Obras escolhidas de autores escolhidos",
+      "v",
+      "60"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: The black dwarf"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Scott",
+      "b",
+      "Walter",
+      "c",
+      "Sir",
+      "f",
+      "1771-1832"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Vilalva",
+      "b",
+      "António",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008250",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 SCO anã 60"
+    ]
+  ]
+}]

@@ -1,0 +1,124 @@
+[{
+  "fields": [
+    [
+      "001",
+      "363"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "22358/88"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00197926"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1988    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Jardim de inverno",
+      "f",
+      "Zélia Gattai"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "D.L. 1988"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "210, [1] p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Gattai",
+      "b",
+      "Zélia",
+      "f",
+      "1916"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060512103945&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008563",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821.134.3(81) GAT jar"
+    ]
+  ]
+}]

@@ -1,0 +1,20 @@
+00780nam  2200229   450
+001   821
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 19950301d1977    m  y0pora010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a Monsignore $e romance $f Jack-Alain Léger $g trad. Eduardo Cambezes
+210    $a Amadora $c Bertrand $d imp. 1977
+215    $a 396 p. $d 20 cm
+225 2  $a Autores universais $i Monumental
+304    $a Tít. orig. : Monsignore
+675    $a 821 $v BN $z por
+700  1 $a Léger $b Jack-Alain $f 1947-
+702  1 $a Cambezes $b Eduardo $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060622170341&ext=jpg $z CAPA
+909 	  $a 3
+966    $a 0008952 $l BMM $s SCG 821 LÉG mon
+966    $a 0008953 $l BMM $s SCG 821 LÉG mon
+966    $a 0008954 $l BMM $s SCG 821 LÉG mon

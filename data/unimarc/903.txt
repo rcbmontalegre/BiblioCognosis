@@ -1,0 +1,20 @@
+00809nam  2200229   450
+001   903
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+100    $a 19840101d1983    m  y0pory010305  ba
+101 1  $a por $b eng
+102    $a PT
+200 1  $a <O >marinheiro que perdeu as graças do mar $f Yukio Mishima $g trad. Carlos Leite
+210    $a Lisboa $c Assírio & Alvim $d 1983
+215    $a 163, [4] p. $d 21 cm
+225 2  $a <O >imaginário $v 5
+304    $a Tít. orig.: Gogo no-eiko
+304    $a Tít. inglês : The sailor who feil from grace with the sea
+675    $a 895.6-31 Mishima, Y. $v med $z por
+700  1 $a Mishima $b Yukio $c pseud.
+702  1 $a Leite $b Carlos $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060629105929&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0009105 $l BMM $s SCG 821 MIS mar

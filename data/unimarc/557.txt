@@ -1,0 +1,18 @@
+00721nam  2200205   450
+001   557
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00760885
+100    $a 19950814d1965    m  y0pory010305  ba
+101 1  $a por $c ita
+102    $a PT
+200 1  $a <A >Senhora Ava $e romance $f Francesco Jovine $g trad. Arnaldo Álvaro Faria dos Santos Aboim
+210    $a Lisboa $c Minerva $d 1965
+215    $a 332, [1] p., [1] f. $d 19 cm
+225 2  $a Autores do nosso tempo $v 16
+304    $a Tít. orig. : Signora Ava
+700  1 $a Jovine $b Francesco $f 1902-1950
+702  1 $a Aboim $b Arnaldo $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060518114358&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008651 $l BMM $s SCG 821 JOV sen 16

@@ -1,0 +1,168 @@
+[{
+  "fields": [
+    [
+      "001",
+      "865"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "14391/87"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00041424"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19870623d198     m  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<Os >filhos do capitão Grant",
+      "f",
+      "Júlio Verne",
+      "g",
+      "trad. Ana Rabaça"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "D.L. 198 -"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "173 p.",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Livros de bolso Europa-América",
+      "v",
+      "481"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. Les enfants du capitaine Grant"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "087.5",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Verne",
+      "b",
+      "Jules",
+      "f",
+      "1828-1905",
+      "3",
+      "27932"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Rabaça",
+      "b",
+      "Ana Maria",
+      "4",
+      "730",
+      "3",
+      "24332"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060627142124&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0003180",
+      "l",
+      "BMM",
+      "s",
+      "SJ 087.5 VER fil 481"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005526",
+      "l",
+      "BMM",
+      "s",
+      "SJ 087.5 VER fil 481 Vol.3"
+    ]
+  ]
+}]

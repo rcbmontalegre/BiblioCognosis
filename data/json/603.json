@@ -1,0 +1,192 @@
+[{
+  "fields": [
+    [
+      "001",
+      "603"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-0-64022-7"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "210033/04"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20050915d2004    em y0pory0103    ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "--------000zy"
+    ],
+    [
+      "135",
+      "  ",
+      "a",
+      "vocddd  uuuua"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Testes e exercícios para o sucesso escolar",
+      "b",
+      "CD-ROM",
+      "e",
+      "matemática",
+      "e",
+      "12\"",
+      "f",
+      "Porto Editora Multimédia"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "[1ª ed.]"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "Porto Editora Multimédia",
+      "d",
+      "D.L. 2004"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "1 disco óptico (CD-ROM) em caixa",
+      "c",
+      "som, color",
+      "d",
+      "14x10x2 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Guia de estudo multimédia"
+    ],
+    [
+      "230",
+      "  ",
+      "a",
+      "Multimédia interactivo"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Título retirado da capa"
+    ],
+    [
+      "336",
+      "  ",
+      "a",
+      "Software desenvolvido para Windows 98,SE, 2000 (SP2), Me e XP"
+    ],
+    [
+      "337",
+      "  ",
+      "a",
+      "Requisitos do sistema: Processador Pentium II; 64 MG de memória RAM; 40 MB de espaço livre no disco rígido; Leitor de CD-ROM 8x; Placa de som compatível CL Sound Blaster (16 bits); Placa gráfica (milhares de cores a 800x600"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "51(075.3)(0.034)",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "3",
+      "1233390"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "373.5(469)(0.034)",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "3",
+      "1185153"
+    ],
+    [
+      "712",
+      "02",
+      "a",
+      "Porto Editora Multimédia",
+      "4",
+      "340",
+      "3",
+      "218241"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060522151245&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "0"
+    ]
+  ]
+}]

@@ -1,0 +1,18 @@
+00724nam  2200205   450
+001   799
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20061013d1990    m  y0pory010305  ba
+101 1  $a por $c spa
+102    $a PT $b Lisboa
+200 1  $a <A >casa verde $f Mario Vargas Llosa $g trad. de Alice Nicolau
+210    $a Lisboa $c Livros do Brasil $d 1990
+215    $a 389 p. ;22 cm
+225 2  $a Dois mundos $v 183
+304    $a Tit. orig.: La casa verde
+675    $a 860(85)-3 VAR821.134.2(7/8)
+700  1 $a Vargas Llosa $b Jorge Mario Pedro $f 1936-
+702  1 $a Nicolau $b Alice $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060622123006&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008992 $l BMM $s SCG 821.134.2(7/8) VAR cas 183

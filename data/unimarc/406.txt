@@ -1,0 +1,19 @@
+00694nam  2200217   450
+001   406
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00065698
+100    $a 20061013d1977    m  y0pora0103    ba
+101 1  $a por
+102    $a PT
+200 1  $a <O >espião $f Máximo Gorki $g trad. Serafim Ferreira
+205    $a 1ª ed
+210    $a Amadora $c Fronteira $d 1977
+215    $a 286, [2] p. $d 19 cm
+225 2  $a Clássicos da revolução $v 2
+675    $a 821 $v bn $z por
+700  1 $a Gorki $b Máximo $c pseud. $f 1868-1936
+702  1 $a Ferreira $b Serafim $f 1939- $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060516122443&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008682 $l BMM $s SCG 821 GOR esp 2

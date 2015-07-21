@@ -1,0 +1,148 @@
+[{
+  "fields": [
+    [
+      "001",
+      "31"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "19"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "26522/89"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00124758"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1989    m  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "ger"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   001ay"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Malina",
+      "f",
+      "Ingeborg Bachmann",
+      "g",
+      "trad. Maria Fernanda Branco"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Edições 70",
+      "d",
+      "imp. 1989"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "241, [2] p.",
+      "d",
+      "24 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Caligrafias",
+      "v",
+      "12)"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Malina"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "bn",
+      "z",
+      "por"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060504151158&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008864",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 BAC mal 12"
+    ]
+  ]
+}]

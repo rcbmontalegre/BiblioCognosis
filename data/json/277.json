@@ -1,0 +1,118 @@
+[{
+  "fields": [
+    [
+      "001",
+      "277"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1981    k  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Crónicas das Américas",
+      "f",
+      "Eduardo Mayone Dias"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Ler",
+      "d",
+      "1981"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "106 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Passo a Palavra",
+      "v",
+      "3"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "82-94",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Dias",
+      "b",
+      "Eduardo Mayone",
+      "f",
+      "1927-"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511100808&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008431",
+      "l",
+      "BMM",
+      "s",
+      "SCG 82-94 DIA cró 3"
+    ]
+  ]
+}]

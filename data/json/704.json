@@ -1,0 +1,128 @@
+[{
+  "fields": [
+    [
+      "001",
+      "704"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00097309"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19890503d1977    a  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >livro da comadre cegonha",
+      "f",
+      "Patrícia Joyce",
+      "g",
+      "il. José de Lemos",
+      "g",
+      "pref. Domingos Monteiro"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "4ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Sociedade de Expansão Cultural",
+      "d",
+      "imp. 1977"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "64, [1] p.",
+      "c",
+      "il.",
+      "d",
+      "24 cm"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "087.5",
+      "v",
+      "med",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Joyce",
+      "b",
+      "Patrícia",
+      "c",
+      "pseud"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060526112208&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001168",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-93 JOY liv"
+    ]
+  ]
+}]

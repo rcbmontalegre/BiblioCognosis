@@ -1,0 +1,170 @@
+[{
+  "fields": [
+    [
+      "001",
+      "525"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-695-079-1"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "28028/89"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00202153"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19891024d1989    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   001fy"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Escravos de Nova Iorque",
+      "f",
+      "Tama Ianowitz",
+      "g",
+      "trad. Carlota Pracana"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Teorema",
+      "d",
+      "D.L. 1989"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "329 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Estórias",
+      "v",
+      "23"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : Slaves of New York"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "820(73)-34 Janowitz, Tama",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Janowitz",
+      "b",
+      "Tama",
+      "f",
+      "1957-"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Pracana",
+      "b",
+      "Maria Carlota",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060518094557&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008655",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 JAN esc 23"
+    ]
+  ]
+}]

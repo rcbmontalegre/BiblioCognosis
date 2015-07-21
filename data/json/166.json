@@ -1,0 +1,170 @@
+[{
+  "fields": [
+    [
+      "001",
+      "166"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "18721/87"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19880118d1987    m  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "a",
+      "fre",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >canção de Rolando",
+      "f",
+      "Trad.: Emílio Campos Lima"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "D.L. 1987"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "204, [1] p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Clássicos",
+      "v",
+      "2"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. ori.: La chanson de Roland"
+    ],
+    [
+      "305",
+      "  ",
+      "a",
+      "Edição bilíngue em português e francês"
+    ],
+    [
+      "606",
+      "1 ",
+      "a",
+      "Literatura francesa"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Poesia"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "82-1"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Lima",
+      "b",
+      "Emílio Campos",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locatemedia.aspx?cod=20090522153034&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008868",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 LIM can 2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0011556",
+      "l",
+      "BMM",
+      "s",
+      "SCG 82-1 LIM can 2"
+    ]
+  ]
+}]

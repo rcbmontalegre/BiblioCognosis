@@ -1,0 +1,162 @@
+[{
+  "fields": [
+    [
+      "001",
+      "294"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00067654"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1978    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >moinho à beira do rio",
+      "f",
+      "George Eliot",
+      "g",
+      "trad. de Maria José Navarro de Oliveira"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "imp. 1978"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "2 v",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Livros de bolso Europa-América",
+      "v",
+      "183"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : The mill on the Floss"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Eliot",
+      "b",
+      "George",
+      "c",
+      "pseud"
+    ],
+    [
+      "701",
+      " 1",
+      "a",
+      "Oliveira",
+      "b",
+      "Maria José Navarro de",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511120925&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511120939&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005325",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 ELI moi 183"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005324",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 ELI moi 184"
+    ]
+  ]
+}]

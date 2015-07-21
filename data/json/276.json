@@ -1,0 +1,146 @@
+[{
+  "fields": [
+    [
+      "001",
+      "276"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00212717"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1975    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng."
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Grandes esperanças",
+      "f",
+      "Charles John Huffam Dickens",
+      "g",
+      "trad. Carmen Gonzalez"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "1975"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "456 p.",
+      "c",
+      "il.",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Livros de bolso Europa-América",
+      "v",
+      "120"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : Great expectations"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Dickens",
+      "b",
+      "CharlesCharles John Huffam",
+      "f",
+      "1812-1870"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "González",
+      "b",
+      "Carmen",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511095833&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005186",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DIC gra"
+    ]
+  ]
+}]

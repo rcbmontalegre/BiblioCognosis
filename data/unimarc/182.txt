@@ -1,0 +1,21 @@
+00780nam  2200241   450
+001   182
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 18737/87
+095    $a PTBN00112476
+100    $a 19880524d1987    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a Catedral $f Raymond Carver $g trad. Carlos Santos
+210    $a Lisboa $c Teorema $d imp. 1987
+215    $a 191 p. $d 21 cm
+225 2  $a Estórias $h especial $v 12
+304    $a Tít. orig.: Cathedral
+675    $a 820(73)-34 $v bn $z por
+700  1 $a Carver $b Raymond $f 1938-1988
+702  1 $a Santos $b Carlos dos $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060510093505&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0008503 $l BMM $s SCG 821 CAR cat 12
+966    $a 0008504 $l BMM $s SCG 821 CAR cat 12

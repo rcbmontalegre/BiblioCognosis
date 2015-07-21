@@ -1,0 +1,17 @@
+00617nam  2200193   450
+001   453
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00021776
+100    $a 19870501d1980    am y0pora010305  ba
+101 1  $a por $c ger
+102    $a PT
+200 1  $a Contos nocturnos $f Hoffmann $g trad. J. A. d'Oliveira
+210    $a Lisboa $c Edilivro $d 1980
+215    $a 211 p. $d 20 cm
+675    $a 821 $v BN $z por
+700  1 $a Hoffmann $b Ernest $f 1776-1822
+702  1 $a Oliveira $b J. A. de $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060517115104&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0011509 $l BMM $s SCG 821 HOF con

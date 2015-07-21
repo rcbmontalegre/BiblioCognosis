@@ -1,0 +1,124 @@
+[{
+  "fields": [
+    [
+      "001",
+      "666"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19880719d1988    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >revolta dos alfinetes",
+      "f",
+      "Alexandre Honrado",
+      "g",
+      "il. Patrícia Garrido"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "[Lisboa]",
+      "c",
+      "Horizonte",
+      "d",
+      "1988"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "22 p.",
+      "c",
+      "il.",
+      "d",
+      "23 cm"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "087.5",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Honrado",
+      "b",
+      "Alexandre",
+      "f",
+      "1960-"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Garrido",
+      "b",
+      "Patrícia",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060523112915&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001762",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-93 HON rev"
+    ]
+  ]
+}]

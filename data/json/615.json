@@ -1,0 +1,136 @@
+[{
+  "fields": [
+    [
+      "001",
+      "615"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1984    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Silka",
+      "f",
+      "Ilse Losa",
+      "g",
+      "il. de Manuela Bacelar"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Horizonte",
+      "d",
+      "1984"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "38 p.",
+      "c",
+      "il.",
+      "d",
+      "23 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Pássaro livre",
+      "v",
+      "47"
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Literatura juvenil"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "82-93"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Losa",
+      "b",
+      "Ilse",
+      "f",
+      "1913-2006"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Bacelar",
+      "b",
+      "Manuela",
+      "f",
+      "1943-",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060522161437&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001667",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-93 LOS sil 47"
+    ]
+  ]
+}]

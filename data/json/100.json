@@ -1,0 +1,138 @@
+[{
+  "fields": [
+    [
+      "001",
+      "100"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00282766"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1963    em y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >víbora de Milão",
+      "f",
+      "Marjorie Browen",
+      "g",
+      "trad. de Fernando de Castro Ferro"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Estúdios Cor",
+      "d",
+      "1963"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "428, [1] p.",
+      "d",
+      "19 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Cor de bolso",
+      "v",
+      "6)"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tit. orig. : The Vipen of Milan"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Bowen",
+      "b",
+      "Marjorie",
+      "c",
+      "pseud"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Ferro",
+      "b",
+      "Fernando de Castro",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008515",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 BOW víb"
+    ]
+  ]
+}]

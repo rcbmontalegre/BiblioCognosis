@@ -1,0 +1,18 @@
+00751nam  2200205   450
+001   888
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 19920915d1979    a  y0pory010305  ba
+101 1  $a por
+102    $a PT
+200 1  $a 15 histórias de navegadores $e Colombo, Magalhães, Diogo Botelho, Tabarly e outros $f trad. Rui Viana Pereira $g il. de Alain d'Orange e José Antunes
+210    $a Lisboa $c Verbo $d imp. 1979
+215    $a 239 p. $c il. $d 21 cm
+225 2  $a Série 15 $v 29
+675    $a 087.5 $v med $z por
+702  1 $a Pereira $b Rui Viana $4 730
+702  1 $a Orange $b Alain d' $4 440
+702  1 $9 4 $a Antunes $b José $4 440
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060628102230&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0003086 $l BMM $s SJ 087.5 PER his 39

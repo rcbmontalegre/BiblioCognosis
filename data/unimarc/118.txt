@@ -1,0 +1,22 @@
+00877nam  2200253   450
+001   118
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+021    $a PT $b 19693
+095    $a PTBN00112279
+100    $a 20061013d1988    em y0pora010305  ba
+101 1  $a por $c ita
+102    $a PT
+200 1  $a Senso $e <o >caderno secreto da Condessa Lívia $f Camillo Boito $g trad. José Colaço Barreiros
+210    $a Lisboa $c Quetzal $d 1988
+215    $a 69 p. $d 20 cm
+225 2  $a Graffiti
+300    $a com o apoio do Instituto Italiano di Cultura
+304    $a Tít. orig. : Senso-dallo scartafaccio segreto della Contessa Lívia
+675    $a 821
+700  1 $a Boito $b Camillo $f 1836-1914
+702  1 $a Barreiros $b José Colaço $f 1949- $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060509103000&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008272 $l BMM $s SCG 821 BOI sen

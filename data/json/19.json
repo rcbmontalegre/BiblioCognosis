@@ -1,0 +1,140 @@
+[{
+  "fields": [
+    [
+      "001",
+      "19"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "19537/88"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00110642"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "2061013 d1988    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "rus"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Riso vermelho",
+      "f",
+      "Leonid Andreiev"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "[Lisboa]",
+      "c",
+      "Estampa",
+      "d",
+      "D.L. 1988"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "138 p.",
+      "d",
+      "19 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Livro B",
+      "v",
+      "52"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : Krassnyi smiekh"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Andreiev",
+      "b",
+      "Léonidas",
+      "f",
+      "1871-1919"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060504120444&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008614",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 AND ris 52"
+    ]
+  ]
+}]

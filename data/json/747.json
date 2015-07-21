@@ -1,0 +1,178 @@
+[{
+  "fields": [
+    [
+      "001",
+      "747"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "21210/89"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00243626"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19900419d1989    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   000ay"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<As >ligações perigosas",
+      "f",
+      "Choderlos de Lacos",
+      "g",
+      "trad. João Pedro de Andrade, Alfredo Amorim"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Relógio d'Água",
+      "d",
+      "cop. 1989"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "358, [2] p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Clássicos"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Les liaisons dangereuses"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Laclos",
+      "b",
+      "Choderlos de",
+      "f",
+      "1741-1803"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Andrade",
+      "b",
+      "João Pedro de",
+      "f",
+      "1902-1974",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Amorim",
+      "b",
+      "Alfredo",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060619163656&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009002",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 LAC lig"
+    ]
+  ]
+}]

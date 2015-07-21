@@ -1,0 +1,158 @@
+[{
+  "fields": [
+    [
+      "001",
+      "469"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00285143"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19941109d1974    m  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "ger"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Siddhartha",
+      "f",
+      "Hermann Hesse",
+      "g",
+      "trad. Fernanda Pinto Rodrigues"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Minerva",
+      "d",
+      "1974"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "157, [1] p.",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Minerva de bolso",
+      "v",
+      "35"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821.112.2-31\"19\"",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "3",
+      "941694"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Hesse",
+      "b",
+      "Hermann",
+      "f",
+      "1877-1962",
+      "3",
+      "32145"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Rodrigues",
+      "b",
+      "Fernanda Pinto",
+      "4",
+      "730",
+      "3",
+      "25230"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060517142646&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008789",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 HES sid 35"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008788",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 HES sid 35"
+    ]
+  ]
+}]

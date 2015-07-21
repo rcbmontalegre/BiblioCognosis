@@ -1,0 +1,150 @@
+[{
+  "fields": [
+    [
+      "001",
+      "461"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00073566"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19950211d1982    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Refém - Londres",
+      "e",
+      "<o >diário de Julian Despard",
+      "f",
+      "Geoffrey Household",
+      "g",
+      "trad. Maria da Graça Lima Gomes"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "1ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Moraes",
+      "d",
+      "1982"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "183 p.",
+      "d",
+      "23 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Ficção"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : Hostage - London"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "bn",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Household",
+      "b",
+      "Geoffrey",
+      "f",
+      "1900-"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Gomes",
+      "b",
+      "Maria da Graça Lima",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060517120435&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008778",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 HOU ref"
+    ]
+  ]
+}]

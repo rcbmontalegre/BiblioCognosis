@@ -1,0 +1,176 @@
+[{
+  "fields": [
+    [
+      "001",
+      "16659"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20140408d1984    k  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "ger"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >livro do filósofo",
+      "f",
+      "Friedrich Nietzsche",
+      "g",
+      "introd.: Rosa Maria Branco",
+      "g",
+      "trad.: Ana Lobo"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "Rés",
+      "d",
+      "1984"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "131 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. ori.: Das Philosophenbuch (theoretischestudien)"
+    ],
+    [
+      "600",
+      " 1",
+      "a",
+      "Nietzsche",
+      "b",
+      "Friedrich",
+      "f",
+      "1844-1900",
+      "2",
+      "Autoridade",
+      "3",
+      "PT-----------2013070815090005797"
+    ],
+    [
+      "606",
+      "1 ",
+      "a",
+      "Filosofia",
+      "2",
+      "Autoridade",
+      "3",
+      "PT-----------2013022816560005656"
+    ],
+    [
+      "610",
+      "0 ",
+      "a",
+      "Axiologia"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "1 NIETZSCHE"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Nietzsche",
+      "b",
+      "Friedrich",
+      "f",
+      "1844-1900",
+      "2",
+      "Autoridade",
+      "3",
+      "PT-----------2013070815090005797"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Branco",
+      "b",
+      "Rosa Maria",
+      "4",
+      "080"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Lobo",
+      "b",
+      "Ana",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.aspx?cod=20140408111836&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0004845",
+      "l",
+      "BMM",
+      "s",
+      "SCG 1 NIETZSCHE liv"
+    ]
+  ]
+}]

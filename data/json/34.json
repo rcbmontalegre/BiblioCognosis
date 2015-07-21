@@ -1,0 +1,124 @@
+[{
+  "fields": [
+    [
+      "001",
+      "34"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00533806"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1947    em y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Grandeza e decadência de César Birotteau",
+      "f",
+      "Honoré de Balzac",
+      "g",
+      "trad. Alberto Pimentel (Filho)"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Guimarães Editores",
+      "d",
+      "1947"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "305 p.",
+      "d",
+      "19 cm"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Balzac",
+      "b",
+      "Honoré de",
+      "f",
+      "1799-1850"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Pimentel Filho",
+      "b",
+      "Alberto",
+      "f",
+      "1875",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008113",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 BAL gra"
+    ]
+  ]
+}]

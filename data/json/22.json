@@ -1,0 +1,154 @@
+[{
+  "fields": [
+    [
+      "001",
+      "22"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "5281/84"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00019348"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1984    m  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "b",
+      "spa"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >corsário",
+      "f",
+      "Kostas Assimacopoulos",
+      "g",
+      "trad. António Manuel C. Almeida Gonçalves"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Bertrand",
+      "d",
+      "imp. 1984"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "197 p.",
+      "d",
+      "20 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Autores universais"
+    ],
+    [
+      "300",
+      "  ",
+      "a",
+      "Trad. da versão castelhana El rey y la estatua"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "z",
+      "por",
+      "3",
+      "294462"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Assimacopoulos",
+      "b",
+      "Kostas",
+      "3",
+      "232801"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Gonçalves",
+      "b",
+      "António Manuel",
+      "f",
+      "1923",
+      "4",
+      "730",
+      "3",
+      "37080"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060504121131&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008039",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 ASS cor"
+    ]
+  ]
+}]

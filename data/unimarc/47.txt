@@ -1,0 +1,25 @@
+00876nam  2200289   450
+001   47
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-23-1223-5
+021    $a PT $b 26144/89
+095    $a PTBN00255320
+100    $a 20061013d1990    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a Palácio da lua $f Paul Auster $g trad. Rui Wahnon $g rev. Alexandra Rebelo
+205    $a 1ª ed
+210    $a Lisboa $c Presença $d 1990
+215    $a 237 p. $d 23 cm
+225 2  $a Novos continentes $v 39
+304    $a Tít. orig.: Moon palace
+675    $a 821 $v BN $z por
+700  1 $a Auster $b Paul $f 1947-
+702  1 $a Wahnon $b Rui $f 1947- $4 730
+702  1 $a Rebelo $b Alexandra $4 640
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060504160620&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008321 $l BMM $s SCG 821 AUS pal 39

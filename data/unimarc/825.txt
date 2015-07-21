@@ -1,0 +1,18 @@
+00725nam  2200205   450
+001   825
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 19940404d1974    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <O >verão antes das trevas $f Doris Lessing $g trad. Fernanda Pinto Rodrigues
+210    $a Lisboa $c Livros do Brasil $d [D.L. 1974]
+215    $a 242, [11] p. $d 22 cm
+225 2  $a Dois mundos $v 119
+304    $a Tít. orig.: The summer before the dark
+675    $a 821 $v BN $z por
+700  1 $a Lessing $b Doris $f 1919-
+702  1 $a Rodrigues $b Fernanda Pinto $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060622171940&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008988 $l BMM $s SCG 821 LES ver 119

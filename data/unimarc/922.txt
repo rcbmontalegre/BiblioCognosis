@@ -1,0 +1,30 @@
+01445nam  2200349   450
+001   922
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 19730701d1972    m  y0pory010305  ba
+101 1  $a por $c ger
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a José e seus irmãos $f Thomas Mann $g trad. de Elisa Lopes Ribeiro
+210    $a Lisboa $c Livros do Brasil $d [D.L. 1972-1973]
+215    $a 4 v. $d 22 cm
+225 2  $a Dois mundos $v 111, 111 A, 111 B, 111 C
+304    $a Tít. orig.: Joseph, der Ernahrer
+327 1  $a 1º v.: 333, [2] p. $a 2º v.: O jovem José. - 246, [4] p. $a 3º v.: José no Egipto / trad. Agenor Soares de Moura. - 557, [2] p. $a 4º v.: José o Provedor/ trad. Agenor Soares de Moura. - 506, [1] p., [2] f.
+517 1  $a <O >jovem José
+517 1  $a José no Egipto
+675    $a 821 $v BN $z por
+700  1 $a Mann $b Thomas $f 1875-1955
+702  1 $a Ribeiro $b Elisa Lopes $4 730
+702  1 $a Moura $b Agenor Soares de $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060629164050&ext=jpg $z CAPA
+856    $u locateMedia.asp?cod=20060629164103&ext=jpg $z CAPA
+856    $u locateMedia.asp?cod=20060629164112&ext=jpg $z CAPA
+856    $u locateMedia.asp?cod=20060629164122&ext=jpg $z CAPA
+909 	  $a 4
+966    $a 0009022 $l BMM $s SCG 821 MAN jos 111
+966    $a 0009018 $l BMM $s SCG 821 MAN jov 111-A
+966    $a 0009044 $l BMM $s SCG 821 MAN jos 111-B
+966    $a 0009019 $l BMM $s SCG 821 MAN jos 111-C

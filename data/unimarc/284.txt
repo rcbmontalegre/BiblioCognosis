@@ -1,0 +1,19 @@
+00729nam  2200217   450
+001   284
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00212576
+100    $a 20061013d1974    em y0pora010305  ba
+101 1  $a por $c rus
+102    $a PT
+200 1  $a Crime e castigo $f Fiodor Mikhailovitch Dostoievski $g trad. Joaquim Leite
+210    $a Porto $c Civilização $d 1974
+215    $a 608 p. $d 23 cm
+225 2  $a Clássicos Civilização
+304    $a Tít. orig. : Prestuplenie inakazanie
+675    $a 821 $v BN $z por
+700  0 $a Dostoiévski $b Fiódor $f 1821-1881
+702  1 $a Leite $b Joaquim $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060511103547&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008243 $l BMM $s SCG 821 DOS cri

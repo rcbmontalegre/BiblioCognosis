@@ -1,0 +1,166 @@
+[{
+  "fields": [
+    [
+      "001",
+      "794"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "18190/87"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1988 m y0pora010305 ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "spa"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Quem matou Palomino Molero?",
+      "f",
+      "Mario Vargas Llosa",
+      "g",
+      "tradução de António José Massano"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "1ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Dom Quixote",
+      "d",
+      "1988"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "182 p.",
+      "d",
+      "34 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Ficção universal",
+      "v",
+      "30"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Quién mató a Palomino Molero?"
+    ],
+    [
+      "500",
+      "10",
+      "a",
+      "Quem matou Palomino Molero"
+    ],
+    [
+      "606",
+      "1 ",
+      "a",
+      "Literatura peruana"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Romance"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821.134.2(7/8)"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Vargas Llosa",
+      "b",
+      "Jorge Mario Pedro",
+      "f",
+      "1936-"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Massano",
+      "b",
+      "António José",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060622115116&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008752",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821.134.2(7/8) VAR que 30"
+    ]
+  ]
+}]

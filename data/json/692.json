@@ -1,0 +1,138 @@
+[{
+  "fields": [
+    [
+      "001",
+      "692"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00023649"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19970304d1981    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >soldadinho e a pomba",
+      "f",
+      "Leonel Neves",
+      "g",
+      "desenhos Tossan"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Horizonte",
+      "d",
+      "imp. 1981"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "31, [1] p.",
+      "c",
+      "il.",
+      "d",
+      "23 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Pássaro livre",
+      "v",
+      "30"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "087.5",
+      "v",
+      "med",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Neves",
+      "b",
+      "Leonel",
+      "f",
+      "1921-1996"
+    ],
+    [
+      "702",
+      " 0",
+      "a",
+      "Tossan",
+      "c",
+      "pseud.",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060524162035&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001790",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-93 NEV sol 30"
+    ]
+  ]
+}]

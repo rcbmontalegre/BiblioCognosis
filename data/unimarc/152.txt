@@ -1,0 +1,18 @@
+00637nam  2200205   450
+001   152
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+095    $a PTBN00235415
+100    $a 19630401d1963    m  y0pora0103    ba
+101 1  $a por
+102    $a PT
+200 1  $a <A >cidade eterna $f Thomas Henry Hall Caine $g trad. de L. de C. Almeida
+205    $a 11ª ed
+210    $a Lisboa $c A. M. Teixeira $d 1963
+215    $a 354, [1] p. $d 19cm
+675    $a 821 $v BN $z por
+700  1 $a Caine $b Hall $f 1853-1931
+702  1 $a Almeida $b Laura de Castro e $f 1870 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0009137 $l BMM $s SCG 821 CAI cid

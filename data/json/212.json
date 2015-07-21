@@ -1,0 +1,200 @@
+[{
+  "fields": [
+    [
+      "001",
+      "212"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00039080"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19870126a19809999m  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Contos do imprevisto",
+      "f",
+      "Roald Dahl",
+      "g",
+      "trad. Mariana Pardal Monteiro"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Teorema",
+      "d",
+      "cop. 1980-"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "v",
+      "d",
+      "19cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Estórias",
+      "v",
+      "1 v, 2 v, 3 v"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. Tales of the unexpected"
+    ],
+    [
+      "327",
+      "0 ",
+      "a",
+      "1\" v.: 165, 2\" v.: 167, 3\" v.: 149, [2] p. - (Estórias ; 5)"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "3",
+      "292484"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Dahl",
+      "b",
+      "Roald",
+      "f",
+      "1916-1990",
+      "3",
+      "24169"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060510140554&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060510140615&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060510140627&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "5"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008421",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DAH con 1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0011743",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DAH con 1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008422",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DAH con 3"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008423",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DAH con 5"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008424",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DAH con 5"
+    ]
+  ]
+}]

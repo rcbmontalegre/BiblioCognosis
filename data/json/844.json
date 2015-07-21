@@ -1,0 +1,174 @@
+[{
+  "fields": [
+    [
+      "001",
+      "844"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "36866/90"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00256889"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19900627d1990    bc y0pory010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "a   z   001ay"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Branca-Flor e outras histórias",
+      "f",
+      "Ana de Castro Osório",
+      "g",
+      "il. Luis Manuel Gaspar"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Terramar",
+      "d",
+      "imp. 1990"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "81, [2] p.",
+      "c",
+      "il.",
+      "d",
+      "24 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Abracadabra",
+      "v",
+      "1"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821.134.3",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "087.5",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Osório",
+      "b",
+      "Ana de Castro",
+      "f",
+      "1872-1935"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Gaspar",
+      "b",
+      "Luís Manuel",
+      "f",
+      "1960-",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060626170539&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001899",
+      "l",
+      "BMM",
+      "s",
+      "SJ 821.134.3 OSÓ bra 1"
+    ]
+  ]
+}]

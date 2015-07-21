@@ -1,0 +1,18 @@
+00681nam  2200205   450
+001   818
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 19770901d1977    m  y0pora010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a Sombras chinesas $f Simon Leys $g trad. J. N. Valente Pires
+210    $a Amadora $c Bertrand $d imp. 1977
+215    $a 268, [1] p. $d 22 cm
+225 2  $a Documentos de todos os tempos
+304    $a Tít. orig. : Ombres chinaises
+675    $a 821 $v BN $z por
+700  1 $a Leys $b Simon
+702  1 $a Pires $b J. N. Valente $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060622164612&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008995 $l BMM $s SCG 32 LEY som

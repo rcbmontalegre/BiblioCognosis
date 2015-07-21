@@ -1,0 +1,178 @@
+[{
+  "fields": [
+    [
+      "001",
+      "792"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-22-2318-6"
+    ],
+    [
+      "021",
+      "  ",
+      "b",
+      "203773/03"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d2004----k y0pory0103 ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Histórias esbrenhuxas",
+      "f",
+      "Margarida Castel-Branco",
+      "g",
+      "il. Carla Antunes"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Verbo",
+      "d",
+      "2003"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "14 f.",
+      "c",
+      "il.",
+      "d",
+      "25 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Histórias esbrenhuxas",
+      "v",
+      "2"
+    ],
+    [
+      "327",
+      "1 ",
+      "a",
+      "Vol. 2: A bruxa zanaga.- [26] p"
+    ],
+    [
+      "517",
+      "1 ",
+      "a",
+      "A bruxa zanaga"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Conto",
+      "2",
+      "Autoridade",
+      "3",
+      "PT9999-00-10-2009040123590005380"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Literatura infantil e juvenil",
+      "2",
+      "Autoridade",
+      "3",
+      "PT9999-00-10-2009040123590005446"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821.134.3-343",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Castel-Branco",
+      "b",
+      "Margarida"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Antunes",
+      "b",
+      "Carla",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060622105810&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0016762",
+      "l",
+      "BMM",
+      "s",
+      "SI 821.134.3-343 CAS bru 2"
+    ]
+  ]
+}]

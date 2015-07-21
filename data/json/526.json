@@ -1,0 +1,152 @@
+[{
+  "fields": [
+    [
+      "001",
+      "526"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "21183/88"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00129818"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20070518d1988    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >desenho no tapete",
+      "f",
+      "Henry James",
+      "g",
+      "trad. Luzia Maria Martins"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Relógio d'Água",
+      "d",
+      "1988"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "72 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Ficções"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : The figure on the carpet"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "820(73)-32",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "James",
+      "b",
+      "Henry",
+      "f",
+      "1843-1916"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Martins",
+      "b",
+      "Luzia Maria",
+      "f",
+      "1926-2000",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060518094904&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009337",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 JAM des"
+    ]
+  ]
+}]

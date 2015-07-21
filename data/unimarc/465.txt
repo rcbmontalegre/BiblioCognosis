@@ -1,0 +1,20 @@
+00741nam  2200229   450
+001   465
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-662-166-6
+100    $a 20070305d1990----k  y0pory0103    ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a Achada na rua $f Patricia Highsmith $g trad. Francisco Agarez
+205    $a 2ª ed
+210    $a Lisboa $c Gradiva $d 1990
+215    $a 341 p. $d 21 cm
+225 2  $a Gradiva $v 2
+304    $a Tít. orig. Found in the street
+675    $a 82-312.4 $v BN $z por
+700  1 $a Highsmith $b Patricia $f 1921-1995
+702  1 $a Agarez $b Francisco $f 1942- $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060517141421&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008765 $l BMM $s SCG 82-312.4 HIG ach 2

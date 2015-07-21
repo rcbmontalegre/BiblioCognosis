@@ -1,0 +1,25 @@
+00962nam  2200289   450
+001   743
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-20-0006-3
+021    $a PT $b 63638/93
+095    $a PTBN00440226
+100    $a 19930324d1993    m  y0pory0103    ba
+101 1  $a por $b fre $c che
+102    $a PT
+105    $a y   z   001ay
+106    $a r
+200 1  $a <O >livro do riso e do esquecimento $f Milan Kundera $g trad. Tereza Coelho $g rev. Fernanda Frazão
+205    $a 6ª ed
+210    $a Lisboa $c Dom Quixote $d 1993
+215    $a 213 p. $d 24 cm
+225 2  $a Ficção universal $v 7
+304    $a Tít. orig.: Kniha Smichu A Zapomnení
+675    $a 885-31"19" $v BN $z por $3 408620
+700  1 $a Kundera $b Milan $f 1929- $3 27242
+702  1 $a Coelho $b Teresa $f 1960- $4 730 $3 50448
+702  1 $a Frazão $b M. Fernanda $4 640 $3 81014
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060619162134&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008703 $l BMM $s SCG 821 KUN liv 7

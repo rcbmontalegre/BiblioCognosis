@@ -1,0 +1,128 @@
+[{
+  "fields": [
+    [
+      "001",
+      "65"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00769413"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1965    de y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >antiquário",
+      "e",
+      "aventuras de Miguel",
+      "f",
+      "Georges Bayard",
+      "g",
+      "trad. Maria de Sousa"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Verbo",
+      "d",
+      "1955"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "232 p.",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Biblioteca da juventude",
+      "i",
+      "Série G",
+      "v",
+      "7"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : Michel et le brocanteur"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Bayard",
+      "b",
+      "Georges"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Sousa",
+      "b",
+      "Maria de",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008181",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 BAY ant"
+    ]
+  ]
+}]

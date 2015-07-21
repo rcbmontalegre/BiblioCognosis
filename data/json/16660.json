@@ -1,0 +1,140 @@
+[{
+  "fields": [
+    [
+      "001",
+      "16660"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20140408d1968    k  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Nietzsche",
+      "f",
+      "Daniel Halévy"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "Inova",
+      "d",
+      "1968"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "409 p.",
+      "c",
+      "il.",
+      "d",
+      "23 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "<Os >trabalhos e os dias"
+    ],
+    [
+      "600",
+      " 1",
+      "a",
+      "Nietzsche",
+      "b",
+      "Friedrich",
+      "f",
+      "1844-1900",
+      "2",
+      "Autoridade",
+      "3",
+      "PT-----------2013070815090005797"
+    ],
+    [
+      "606",
+      "1 ",
+      "a",
+      "Filosofia",
+      "2",
+      "Autoridade",
+      "3",
+      "PT-----------2013022816560005656"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "1"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Halévy",
+      "b",
+      "Daniel"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.aspx?cod=20140408112937&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0013916",
+      "l",
+      "BMM",
+      "s",
+      "SCG 1 HAL nie"
+    ]
+  ]
+}]

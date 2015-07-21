@@ -1,0 +1,22 @@
+00797nam  2200253   450
+001   30
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 21200/88
+095    $a PTBN00243651
+100    $a 20061013d1988    em.y0pory0103    ba
+101 1  $a por $c ger
+102    $a PT
+105    $a y   z   001ay
+106    $a r
+200 1  $a Trinta anos $f Ingeborg Bachmann $g trad. Leonor de Sá
+210    $a Lisboa $c Relógio d'Água $d D.L. 1988
+215    $a 199, [2] p. $d 21 cm
+225 2  $a Ficções
+304    $a Tít. orig.: Das dreibigste jahr
+675    $a 821 $v BN $z por $3 420014
+700  1 $a Bachmann $b Ingeborg $f 1926-1973 $3 5522
+702  1 $a Sá $b Leonor $4 730 $3 48604
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060504150029&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008346 $l BMM $s SCG 821 BAC tri

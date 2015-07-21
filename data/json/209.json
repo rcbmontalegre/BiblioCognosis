@@ -1,0 +1,146 @@
+[{
+  "fields": [
+    [
+      "001",
+      "209"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00097651"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19950301d1977    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Fanny Hill",
+      "e",
+      "memórias duma prostituta",
+      "f",
+      "John Cleland",
+      "g",
+      "trad. Artur de Oliveira Carvalho"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "1977"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "245 p.",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Livros de bolso Europa-América",
+      "v",
+      "151"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : Memoris of a woman of pleasure"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "bn",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Cleland",
+      "b",
+      "John",
+      "f",
+      "1835-1925"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Carvalho",
+      "b",
+      "Artur de Oliveira",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060510122657&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008486",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 CLE fan 151"
+    ]
+  ]
+}]

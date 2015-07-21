@@ -1,0 +1,25 @@
+00895nam  2200289   450
+001   379
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-662-153-4
+021    $a PT $b 34996/90
+095    $a PTBN00254398
+100    $a 20070227d1990    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a <Um >dia no Verão $f J. L. Carr $g trad. Fernanda Pinto Rodrigues $g rev. Manuel Joaquim Vieira
+205    $a 1ª ed
+210    $a Lisboa $c Gradiva $d 1990
+215    $a 209 p. $d 24 cm
+225 0  $a Gradiva $v 18
+304    $a Tít. orig. : A day in Summer
+675    $a 821 $v BN $z por
+700  1 $a Carr $b J. L.
+702  1 $a Rodrigues $b Fernanda Pinto $4 730
+702  1 $a Vieira $b Manuel Joaquim $4 640
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20070227144051&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008734 $l BMM $s SCG 821 CAR dia 18

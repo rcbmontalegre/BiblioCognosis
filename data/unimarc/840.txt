@@ -1,0 +1,19 @@
+00756nam  2200217   450
+001   840
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00287017
+100    $a 19711001d1971    m  y0pora010305  ba
+101 1  $a por $c ger
+102    $a PT
+200 1  $a <A >quinta do Tramagal $f Margot Benary Isbert $g trad. Maria Fernanda de Brito
+210    $a Porto $c Civilização $d 1971
+215    $a 323, [1] p. $d 19 cm
+225 2  $a Série juvenil civilização
+304    $a Tít. orig.: Der Ebereschenhof
+675    $a 830 $v med $z por
+700  1 $a Benary-Isbert $b Margot
+702  1 $a Brito $b Maria Fernanda Constante de $f 1926- $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060626164750&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0003280 $l BMM $s SJ 087.5 BER qui

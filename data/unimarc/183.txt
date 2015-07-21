@@ -1,0 +1,18 @@
+00756nam  2200205   450
+001   183
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+100    $a 20061013d1985    k  y0pory010305  ba
+101 1  $a por $c spa
+102    $a PT
+200 1  $a <As >doze figuras do mundo $f Jorge Luís Borges e Adolfo Bioy Casares $g trad. de Miguel Serras Pereira, Francisco Vale e Carlos Pessoa
+210    $a Lisboa $c Relógio d'Água $d 1985
+215    $a 133 p. $d 21 cm
+225 2  $a Crime imperfeito
+675    $a 821.134.2(7/8)
+700  1 $a Borges $b Jorge Luís $f 1899-1986
+701  1 $a Bioy Casares $b Adolfo $f 1914-1999
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060707141620&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008852 $l BMM $s SCG 821.134.2(7/8) BOR doz

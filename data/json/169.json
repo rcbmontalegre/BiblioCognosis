@@ -1,0 +1,164 @@
+[{
+  "fields": [
+    [
+      "001",
+      "169"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-44-0705-5"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "56442/92"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20130131d1992    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<Um >Crime quase perfeito",
+      "f",
+      "John Le Carré",
+      "g",
+      "trad.: Mário Gonçalves"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Edições 70",
+      "d",
+      "1992"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "175, [5] p.",
+      "d",
+      "24 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Alibi",
+      "i",
+      "<Os >clássicos do romance policial",
+      "v",
+      "14"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: A murder of quality"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Romance policial",
+      "2",
+      "Autoridade",
+      "3",
+      "PT9999-00-10-2009040123590005542"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "82-312.4"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Le Carré",
+      "b",
+      "John",
+      "c",
+      "pseud."
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Gonçalves",
+      "b",
+      "Mário",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060509165334&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008218",
+      "l",
+      "BMM",
+      "s",
+      "SCG 82-312.4 LeC cri 14"
+    ]
+  ]
+}]

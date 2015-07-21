@@ -1,0 +1,21 @@
+00831nam  2200241   450
+001   890
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+095    $a PTBN00037301
+100    $a 19821201d1982    m  y0pora0103    ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a Bennett $f Elliott Lewis $g trad. Eduardo Saló
+210    $a Mem Martins $c Europa-América $d [D.L. 1982]-
+215    $a v. $d 18 cm
+225 2  $a Livros de bolso Europa-América $i Clube do crime $v 4-
+304    $a Tít. orig. : Bennett 3 -
+327 0  $a 1" v.: Quatro assassínos.- 155, [6] p.
+675    $a 82-312.4 $v BN $z por $3 288123
+700  1 $a Lewis $b Elliott $3 208495
+702  1 $a Saló $b Eduardo $4 730 $3 228002
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060628121654&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0009771 $l BMM $s SCG 82-312-4 LEW ben 35

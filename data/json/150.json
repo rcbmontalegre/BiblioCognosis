@@ -1,0 +1,148 @@
+[{
+  "fields": [
+    [
+      "001",
+      "150"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00818065"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19960624d1968    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "ita"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<Os >amores difíceis",
+      "f",
+      "Italo Calvino",
+      "g",
+      "trad. de Manuel Duarte"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Arcádia",
+      "d",
+      "1968"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "166, [1] p.",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Arcádia de bolso",
+      "v",
+      "72"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tit. orig.: Gli amori difficilli"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Calvino",
+      "b",
+      "Italo",
+      "f",
+      "1923-1985"
+    ],
+    [
+      "702",
+      " 1",
+      "9",
+      "3",
+      "a",
+      "Duarte",
+      "b",
+      "Manuel",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060509151420&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008727",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 CAL amo 72"
+    ]
+  ]
+}]

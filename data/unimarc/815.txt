@@ -1,0 +1,22 @@
+00822nam  2200253   450
+001   815
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-8423-44-6
+021    $a PT $b 139241/99
+100    $a 20000727d1999    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   a   000yy
+106    $a r
+200 1  $a Gatos e mais gatos $f Doris Lessing $g trad. Maria Isabel Barreno
+210    $a Lisboa $c Cotovia $d imp. 1999
+215    $a 165, [2] p. $d 21 cm
+225 2  $a Livros Cotovia
+304    $a Tít. orig.: Particularly cats and more cats
+675    $a 821.111-31"19" $v BN $z por
+700  1 $a Lessing $b Doris $f 1919-
+702  1 $a Barreno $b Maria Isabel $f 1939- $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060622163042&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0015074 $l BMM $s SCG 821 LES gat

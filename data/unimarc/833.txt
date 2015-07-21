@@ -1,0 +1,25 @@
+00895nam  2200289   450
+001   833
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 972-561-176-4
+021    $a PT $b 30343/89
+095    $a PTBN00243745
+100    $a 19900423d1989    d  y0pory010305  ba
+101 0  $a por
+102    $a PT
+105    $a a   z   001ay
+106    $a r
+200 1  $a História de dona Redonda e da sua gente $f Virgínia de Castro e Almeida
+205    $a 6ª ed
+210    $a Lisboa $c Clássica $d 1989
+215    $a XII, 252 p. $c il. $d 19 cm
+225 2  $a Juvenil $v 18
+675    $a 087.5 $v BN $z por
+675    $a 821.134.3 $v BN $z por
+700  1 $a Almeida $b Virgínia de Castro e $f 1874-1945
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060626152953&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0003093 $l BMM $s SJ 821.134.3 ALM his 18
+966    $a 0001333 $l BMM $s SJ 821.134.3 ALM his 18

@@ -1,0 +1,24 @@
+00858nam  2200277   450
+001   257
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-1-02871-1
+021    $a PT $b 78985/94
+095    $a PTBN00772257
+100    $a 19950927d1994    em y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a Vidas em jogo $f Jackie Collins $g trad. Mafalda Ferrari
+205    $a 2ª ed
+210    $a Mem Martins $c Europa-América $d D.L. 1994
+215    $a 590, [1] p. $d 21 cm
+225 2  $a Obras de Jackie Collins $v 10
+304    $a Tít orig.: Chances
+675    $a 821.111(73)-93"19" $v BN $z por
+700  1 $a Collins $b Jackie $f 1937
+702  1 $a Ferrari $b Mafalda $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060510162541&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008231 $l BMM $s SCG 821 COL vid 10

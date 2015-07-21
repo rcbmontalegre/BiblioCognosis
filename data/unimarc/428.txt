@@ -1,0 +1,14 @@
+00467nam  2200157   450
+001   428
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00519600
+100    $a 19931122d1941    m  y0pory010305  ba
+101 1  $a por
+102    $a PT
+200 1  $a Vencido $f M. Delly $g trad. Jayme Adour da Camara
+215    $a 256 p. $d 20 cm
+700  0 $a Delly $c pseud
+702  1 $a Camara $b Jayme Adour da $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0008375 $l BMM $s SCG 821 DEL ven 27

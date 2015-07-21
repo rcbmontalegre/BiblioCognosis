@@ -1,0 +1,20 @@
+00749nam  2200229   450
+001   275
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+095    $a PTBN00037274
+100    $a 19821201d1977    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a Chandler $f William Denbow $g trad. de Eduardo Saló
+210    $a Mem Martins $c Europa-América $d 1977
+215    $a 143 p. $d 18 cm
+225 2  $a Livros de bolso Europa-América $i Clube do crime $v 7
+304    $a Tít. orig. : Chandler
+675    $a 82-312.4 $v bn $z por
+700  1 $a Denbow $b William
+702  1 $a Saló $b Eduardo $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060511095522&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008384 $l BMM $s SCG 82-312.4 DEN cha 7

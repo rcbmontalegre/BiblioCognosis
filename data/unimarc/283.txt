@@ -1,0 +1,23 @@
+00816nam  2200265   450
+001   283
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-29-0231-8
+021    $a PT $b 44065/92
+095    $a PTBN00375967
+100    $a 20061013d1992    m  y0pory010305  ba
+101 1  $a por $c ger
+102    $a PT
+105    $a y   z   001ay
+106    $a r
+200 1  $a Mentiras piedosas $f Irene Dische $g trad. Maria Adélia Silva Melo
+210    $a Lisboa $c Difel $d imp. 1992
+215    $a 235, [2] p. $d 23 cm
+225 2  $a Literatura estrangeira
+304    $a Tít. orig. : Fromme Lügen
+675    $a 821 $v BN $z por
+700  1 $a Dische $b Irene
+702  1 $a Melo $b Maria Adélia Silva $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060511102732&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008491 $l BMM $s SCG 821 DIS met

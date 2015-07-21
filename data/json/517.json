@@ -1,0 +1,148 @@
+[{
+  "fields": [
+    [
+      "001",
+      "517"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00027776"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20070518d1984    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "No limiar da realidade",
+      "f",
+      "Robert Bloch",
+      "g",
+      "trad. Margarida Pratas"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "[D.L. 1984]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "142 p.",
+      "c",
+      "il.",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Livros de bolso",
+      "i",
+      "Série pêndulo",
+      "v",
+      "5"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Twilight zone"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "bn",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Bloch",
+      "b",
+      "Robert",
+      "f",
+      "1918-1994"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Pratas",
+      "b",
+      "Margarida",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060517173333&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005169",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 BLO lim 5"
+    ]
+  ]
+}]

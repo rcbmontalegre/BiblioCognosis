@@ -1,0 +1,162 @@
+[{
+  "fields": [
+    [
+      "001",
+      "300"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "24322/89"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00324302"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19890502d1931    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Voo nocturno",
+      "f",
+      "Antoine Saint-Exupéry",
+      "g",
+      "pref. André Gide",
+      "g",
+      "trad. Carlos Leite"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Difel",
+      "d",
+      "cop. 1931"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "145 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Outras ficções"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tit. orig.: Vol de nuit"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "840-3",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Saint-Exupéry",
+      "b",
+      "Antoine de",
+      "f",
+      "1900-1944"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Gide",
+      "b",
+      "André",
+      "f",
+      "1869-1951",
+      "4",
+      "080"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Leite",
+      "b",
+      "Carlos",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511122120&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008796",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 SAI voo"
+    ]
+  ]
+}]

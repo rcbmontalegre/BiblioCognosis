@@ -1,0 +1,176 @@
+[{
+  "fields": [
+    [
+      "001",
+      "957"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "32862/89"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00217702"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19900103d1989    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   001fy"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Entre os lençóis",
+      "f",
+      "Ian McEwan",
+      "g",
+      "trad. Fernanda Pinto Rodrigues",
+      "g",
+      "rev. Carmen de Carvalho"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "1ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Gradiva",
+      "d",
+      "1989"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "142 p.",
+      "d",
+      "24 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Gradiva",
+      "v",
+      "15"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "820-34 McEwan, Ian",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "MacEwan",
+      "b",
+      "Ian",
+      "f",
+      "1948-"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Rodrigues",
+      "b",
+      "Fernanda Pinto",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Carvalho",
+      "b",
+      "Carmen de",
+      "4",
+      "640"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060703123258&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009201",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 McE ent 15"
+    ]
+  ]
+}]

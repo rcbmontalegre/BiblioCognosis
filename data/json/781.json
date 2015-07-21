@@ -1,0 +1,140 @@
+[{
+  "fields": [
+    [
+      "001",
+      "781"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00264103"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20071123d1984    k  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Estas searas",
+      "e",
+      "contos e crónicas",
+      "f",
+      "Ilse Losa"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Horizonte",
+      "d",
+      "cop. 1984"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "104 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Encontro",
+      "v",
+      "2"
+    ],
+    [
+      "620",
+      "  ",
+      "d",
+      "Lisboa"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "82-34"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "82-94"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Losa",
+      "b",
+      "Ilse",
+      "f",
+      "1913-2006"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060621111705&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008944",
+      "l",
+      "BMM",
+      "s",
+      "SCG 82-34 LOS est 2"
+    ]
+  ]
+}]

@@ -1,0 +1,18 @@
+00660nam  2200205   450
+001   66
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00287080
+100    $a 20061013d1971    m  y0pora010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a <Os >bem-aventurados da desolação $f Jean-Pierre Hervé Bazin $g trad. Rogério Lima
+210    $a Amadora $c Bertrand $d [D.L. 1971]
+215    $a 282, [3] p. $d 20 cm
+225 2  $a Autores universais
+304    $a Tít. orig.: Les bienheureux de la désolation
+675    $a 821
+700  1 $a Bazin $b Hervé
+702  1 $a Lima $b Rogério $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0008183 $l BMM $s SCG 821 BAZ bem

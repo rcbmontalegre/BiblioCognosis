@@ -1,0 +1,19 @@
+00762nam  2200217   450
+001   274
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00037236
+100    $a 20061013d1981    am y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a Oliver Twist $f Charles Dickens $g trad. de Fernanda Pinto Rodrigues
+210    $a Mem Martins $c Europa-América $d 1981
+215    $a 372 p. $d 18 cm
+225 2  $a Livros de bolso Europa-América $v 302
+304    $a Tít. orig. : Oliver Twist
+675    $a 821 $v BN $z por
+700  1 $a Dickens $b CharlesCharles John Huffam $f 1812-1870
+702  1 $a Rodrigues $b Fernanda Pinto $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060511094842&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0005191 $l BMM $s SCG 821 DIC oli

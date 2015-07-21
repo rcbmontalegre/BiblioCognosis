@@ -1,0 +1,17 @@
+00584nam  2200193   450
+001   548
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00341313
+100    $a 19910717d1962    m  y0pory010305  ba
+101 1  $a por
+102    $a PT
+200 1  $a <Os >melhores contos de Kafka $f trad. A. Serra Lopes
+210    $a Lisboa $c Arcádia $d 1962
+215    $a 196 p. $d 21 cm
+225 2  $a Antologia $v 13
+675    $a 821.162.3-34"18\19" $v BN $z por
+700  1 $a Kafka $b Franz $f 1883-1924
+702  1 $a Lopes $b A. Serra
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0008903 $l BMM $s SCG 821 KAF mel 13

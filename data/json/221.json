@@ -1,0 +1,160 @@
+[{
+  "fields": [
+    [
+      "001",
+      "221"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "26238/89"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00202004"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1989    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   001ay"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >vestido vermelho",
+      "f",
+      "Stig Dagerman",
+      "g",
+      "trad. Irene Lisboa"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "2ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Antígona",
+      "d",
+      "1989"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "188, [2] p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : Brant Barn"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "839.7-31 Dagerman, Stig",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Dagerman",
+      "b",
+      "Stig",
+      "f",
+      "1923-1954"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Lisboa",
+      "b",
+      "Irene",
+      "f",
+      "1892-1958"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060510144524&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008498",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DAG ver"
+    ]
+  ]
+}]

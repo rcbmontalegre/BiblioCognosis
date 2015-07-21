@@ -1,0 +1,194 @@
+[{
+  "fields": [
+    [
+      "001",
+      "912"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-1-04780-5"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "217171/04"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d2004    m  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   001yy"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >segredo dos Templários",
+      "e",
+      "<o >destino de Cristo",
+      "f",
+      "Lynn Picknett, Clive Prince",
+      "g",
+      "trad. Maria do Rosário Heitor"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "4ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "2004"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "423, [1] p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Millenium",
+      "v",
+      "27"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Templar revelation"
+    ],
+    [
+      "320",
+      "  ",
+      "a",
+      "Contém bibliografia"
+    ],
+    [
+      "601",
+      "02",
+      "a",
+      "Ordem dos Templários"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Picknett",
+      "b",
+      "Lynn",
+      "3",
+      "1019073"
+    ],
+    [
+      "701",
+      " 1",
+      "a",
+      "Prince",
+      "b",
+      "Clive",
+      "4",
+      "070",
+      "3",
+      "1019074"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Heitor",
+      "b",
+      "Maria do Rosário",
+      "4",
+      "730",
+      "3",
+      "791619"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060629141020&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0016060",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 PIC seg 27"
+    ]
+  ]
+}]

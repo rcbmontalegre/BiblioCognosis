@@ -1,0 +1,162 @@
+[{
+  "fields": [
+    [
+      "001",
+      "877"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1992----k  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   000ay"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >cartuxa de Parma",
+      "f",
+      "Stendhal",
+      "g",
+      "trad. Adolfo Casais Monteiro",
+      "g",
+      "introd. Italo Calvino"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Relógio d'Água",
+      "d",
+      "1992"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "529 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Clássicos"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: La Chartreuse de Parme"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821"
+    ],
+    [
+      "700",
+      " 0",
+      "a",
+      "Stendhal",
+      "c",
+      "pseud.",
+      "f",
+      "1783-1842"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Calvino",
+      "b",
+      "Italo",
+      "f",
+      "1923-1985",
+      "4",
+      "080",
+      "3",
+      "19894"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Monteiro",
+      "b",
+      "Adolfo Casais",
+      "f",
+      "1908-1972",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060627161926&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009129",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 STE car"
+    ]
+  ]
+}]

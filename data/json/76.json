@@ -1,0 +1,174 @@
+[{
+  "fields": [
+    [
+      "001",
+      "76"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-23-1215-4"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "26128/89"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00240783"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1990    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   000ay"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Terra de ninguém",
+      "f",
+      "Nina Berberova",
+      "g",
+      "trad. Maria Jorge Vilar de Figueiredo"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "1ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Presença",
+      "d",
+      "1990"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "73 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Aura",
+      "v",
+      "20)"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : Le roseau révolté"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Berberova",
+      "b",
+      "Nina"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Figueiredo",
+      "b",
+      "Maria Jorge Vilar de",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060508144126&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008403",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 BER ter 20"
+    ]
+  ]
+}]

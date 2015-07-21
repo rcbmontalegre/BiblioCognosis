@@ -1,0 +1,20 @@
+00756nam  2200229   450
+001   690
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00927549
+100    $a 20061013d1978    m  y0pory010305  ba
+101 0  $a por
+102    $a PT
+200 1  $a <O >livrinho dos macacos $e poemas e um conto para crianças $f Leonel Neves $g desenhos de Tossan
+210    $a Lisboa $c Horizonte $d 1978
+215    $a 31 p. $c il., color. $d 23 cm
+225 2  $a Pássaro livre $v 12
+606    $a Literatura infantil
+608    $a Poesia
+675    $a 82-1 $v BN $z por
+700  1 $a Neves $b Leonel $f 1921-1996
+702  0 $a Tossan $c pseud. $4 440
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060524161617&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0001806 $l BMM $s SI 82-1 NEV liv 12

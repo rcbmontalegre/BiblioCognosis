@@ -1,0 +1,114 @@
+[{
+  "fields": [
+    [
+      "001",
+      "797"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1973    km y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "spa"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "História secreta de uma novela",
+      "f",
+      "Mário Vargas Llosa",
+      "g",
+      "trad. António José Massano"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Assírio & Alvim",
+      "d",
+      "1973"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "65, [3] p.",
+      "d",
+      "16 cm"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821.134.2(7/8)"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Vargas Llosa",
+      "b",
+      "Jorge Mario Pedro",
+      "f",
+      "1936-"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060622120225&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008948",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821.134.2(7/8) VAR his"
+    ]
+  ]
+}]

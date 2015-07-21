@@ -1,0 +1,24 @@
+00877nam  2200277   450
+001   770
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 972-41-4227-2
+021    $a PT $b 232072/05
+100    $a 20061013d2005----m y0pory0103 ba
+101 1  $a por $c ita
+102    $a PT
+200 1  $a Qualquer coisa de bom $f Sveva Casati Modignani $g trad.: Regina Valente
+205    $a 3ª ed
+210    $a Porto $c Asa $d 2005
+215    $a 342, [10] p. $d 24 cm
+225 0  $a Romance
+304    $a Tít. orig.: Qualcosa di buono
+606 1  $a Literatura italiana
+608    $a Romance $2 Autoridade $3 PT9999-00-10-2009040123590005548
+675    $a 821
+700  1 $a Modignani $b Sveva Casati $c pseud.
+702  1 $a Valente $b Regina $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060621091242&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0016755 $l BMM $s SCG 821 MOD qua

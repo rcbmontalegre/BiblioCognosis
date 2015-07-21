@@ -1,0 +1,130 @@
+[{
+  "fields": [
+    [
+      "001",
+      "38"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00143366"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1963    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >mulher de trinta anos",
+      "f",
+      "Honoré de Balzac",
+      "g",
+      "trad. Jorge Reis"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Guimarães Editores",
+      "d",
+      "1963"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "218, [1]p.",
+      "d",
+      "19 cm"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : La femme de trente ans"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Balzac",
+      "b",
+      "Honoré de",
+      "f",
+      "1799-1850"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Reis",
+      "b",
+      "Jorge",
+      "f",
+      "1926",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0007885",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 BAL mul"
+    ]
+  ]
+}]

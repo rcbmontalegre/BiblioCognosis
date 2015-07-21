@@ -1,0 +1,20 @@
+00771nam  2200229   450
+001   630
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b l4239/86
+095    $a PTBN00039002
+100    $a 19870112d1986    m  y0pory010305  ba
+101 0  $a por
+102    $a PT
+200 1  $a <O >cantar da Tila $e poemas para a juventude $f Matilde Rosa Araújo $g il. Maria Keil
+205    $a 8ª ed
+210    $a [Lisboa] $c Horizonte $d imp. 1986
+215    $a 46,[2]p. $c il. $d 24 cm
+225 2  $a Obras de Matilde Rosa Araújo
+675    $a 869.0-1 Araújo, M.R. $v med $z por
+700  1 $a Araújo $b Matilde Rosa $f 1921-
+702  1 $a Keil $b Maria $f 1914- $4 440
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060522164926&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0001810 $l BMM $s SI 82-1 ARA can

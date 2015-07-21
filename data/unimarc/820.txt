@@ -1,0 +1,19 @@
+00788nam  2200217   450
+001   820
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20061013d1983    k  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <Um >casamento apropriado $f Doris Lessing $g Fernanda Pinto Rodrigues
+210    $a Lisboa $c Livros do Brasil $d [D.L. 1983]
+215    $a 387, [10] p. $d 22 cm
+225 2  $a Dois mundos $i Os filhos da violência $v 144-A, 2ºVol.
+300    $a Livro 2 da série Filhos da violência
+304    $a Tit. orig: A proper marriage
+675    $a 821
+700  1 $a Lessing $b Doris $f 1919-
+702  1 $a Rodrigues $b Fernanda Pinto $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060622165518&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008990 $l BMM $s SCG 821 LES cas 144-A

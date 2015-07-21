@@ -1,0 +1,158 @@
+[{
+  "fields": [
+    [
+      "001",
+      "636"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "14255/86"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00039039"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19870130d1986    k  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "História com recadinho",
+      "f",
+      "Luísa Dacosta",
+      "g",
+      "il. Karin Somero"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "Figueirinhas",
+      "d",
+      "D.L. 1986"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "52,[2]p.",
+      "c",
+      "il.",
+      "d",
+      "30 cm"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "087.5",
+      "v",
+      "med",
+      "z",
+      "por"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "869.0-34 Dacosta, L.",
+      "v",
+      "med",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Dacosta",
+      "b",
+      "Luísa",
+      "f",
+      "1927-"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Somero",
+      "b",
+      "Karin",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060522171635&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001315",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-34 DAC his"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001314",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-34 DAC his"
+    ]
+  ]
+}]

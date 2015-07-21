@@ -1,0 +1,21 @@
+00802nam  2200241   450
+001   335
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 14360/86
+095    $a PTBN00041255
+100    $a 20061013d1987    m  y0pora0103    ba
+101 1  $a por $c spa
+102    $a PT
+200 1  $a <O >velho Gringo $f Carlos Fuentes $g trad. António José Massano
+205    $a 1ª ed
+210    $a Lisboa $c Dom Quixote $d 1987
+215    $a 213 p. $d 23 cm
+225 2  $a Ficção universal $v 19
+304    $a Tit. orig. Gringo viejo
+675    $a 821.134.2(7/8) $v BN $z por $3 302053
+700  1 $a Fuentes $b Carlos $f 1928 $3 29666
+702  1 $a Massano $b António José $4 730 $3 25558
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060511153848&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008477 $l BMM $s SCG 821.134.2(7/8) FUE vel 19

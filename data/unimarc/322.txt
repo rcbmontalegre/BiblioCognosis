@@ -1,0 +1,21 @@
+00857nam  2200241   450
+001   322
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+095    $a PTBN00037351
+100    $a 19821201d1981    m  y0pora0103    ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a <A >túlipa negra $f Alexandre Dumas $g trad. Adelino dos Santos Rodrigues
+210    $a Mem Martins $c Europa-América $d 1981
+215    $a 182, [1] p. $d 18 cm
+225 2  $a Livros de bolso Europa-América $v 276
+304    $a Tít. orig. La tulipe noire
+675    $a 821 $v BN $z por $3 288125
+700  1 $a Dumas $b Alexandre $f 1802-1870 $3 45382
+702  1 $a Rodrigues $b Adelino dos Santos $4 730 $3 61431
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060511143406&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0005202 $l BMM $s SCG 821 DUM túl 276
+966    $a 1002882 $l BEM $s BEM 821.134.3 DUM

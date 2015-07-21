@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:admin="http://webns.net/mvcb/">
+    <foaf:Person rdf:ID="12345">
+        <foaf:name>J. H. Rosny Aîné</foaf:name>
+        <foaf:givenname>J. H. Rosny</foaf:givenname>
+        <foaf:family_name>Aîné</foaf:family_name>
+    </foaf:Person>
+</rdf:RDF>

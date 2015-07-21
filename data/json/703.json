@@ -1,0 +1,156 @@
+[{
+  "fields": [
+    [
+      "001",
+      "703"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00049173"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19770301d1977    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Romance da gata preta",
+      "e",
+      "fábulas e outras poesias",
+      "f",
+      "Patrícia Joyce"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "2ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Sociedade de Expansão Cultural",
+      "d",
+      "1977"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "75, [4] p.",
+      "c",
+      "il.",
+      "d",
+      "24 cm"
+    ],
+    [
+      "300",
+      "  ",
+      "a",
+      "Patrícia Joyce, pseud. de Dagmar Joyce Damas Mora, 1913-"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821.134.3-1\"19\"",
+      "v",
+      "med",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Joyce",
+      "b",
+      "Patrícia",
+      "c",
+      "pseud"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060526111746&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "3"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001134",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-1 JOY rom"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001132",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-1 JOY rom"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "1100163",
+      "l",
+      "BEBB",
+      "s",
+      "BEBB 82-93 JOYp"
+    ]
+  ]
+}]

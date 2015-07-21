@@ -1,0 +1,25 @@
+01080nam  2200289   450
+001   582
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 972-46-0917-0
+021    $a PT $b 122578/98
+100    $a 20070518d2000    m  y0pory010305  ba
+101 0  $a por
+102    $a PT
+200 1  $a Histórias de Lana-caprina $f Bento da Cruz
+210    $a Lisboa $c Notícias $d 1998
+215    $a 289 p. $d 22 cm
+225 2  $a Obras de Bento da Cruz
+606    $a Literatura portuguesa $2 Autoridade $3 PT-----------2012041710390005598
+675    $a 821.134.3-34
+700  1 $a Cruz $b Bento da $f 1925- $2 Autoridade $3 PT-----------2013051517190005737
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060519105006&ext=jpg $z CAPA
+909 	  $a 6
+966    $a 0014830 $l BMM $s SCG 82-34(469.202) CRU his
+966    $a 0017148 $l BMM-PS $s PS 821.134.3(469.202) CRU his
+966    $a 0017149 $l BMM-PS $s PS 821.134.3(469.202) CRU his
+966    $a 1001812 $l BEM $s BEM 821.134.3 CRU
+966    $a 1103801 $l BEBB $s BEBB 821.134.3 CRU
+966    $a 0019941 $l BMM $s SCG 821.134.3(469.202)-34 CRU his

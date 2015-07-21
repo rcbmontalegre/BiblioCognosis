@@ -1,0 +1,128 @@
+[{
+  "fields": [
+    [
+      "001",
+      "224"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1982    k  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >criada e o amo",
+      "f",
+      "Robert Coover",
+      "g",
+      "tradução de Bernardo Antunes Navarro"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Fragmentos",
+      "d",
+      "cop. 1982"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "68 p.",
+      "d",
+      "19 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Fragmentos"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Coover",
+      "b",
+      "Robert"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060510145323&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008394",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 COO cri"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008634",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 COO cri"
+    ]
+  ]
+}]

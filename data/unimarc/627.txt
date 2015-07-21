@@ -1,0 +1,25 @@
+01111nam  2200289   450
+001   627
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+021    $a PT $b 14240/86
+100    $a 19870112d1986    cd y0pory010305  ba
+101 0  $a por
+102    $a PT
+200 1  $a <O >livro da Tila $e cantigas pequeninas $f Matilde Rosa Araújo
+205    $a 10ª ed
+210    $a Lisboa $c Horizonte $d 1986
+215    $a 37,[3]p. $c il. $d 24 cm
+225 2  $a Obras de Matilde Rosa Araújo
+606    $a Literatura portuguesa $2 Autoridade $3 PT-----------2012041710390005598
+608    $a Literatura infantil e juvenil $2 Autoridade $3 PT9999-00-10-2009040123590005446
+608    $a Poesia $2 Autoridade $3 PT9999-00-10-2009040123590005517
+675    $a 821.134.3-1
+675    $a 087.5
+700  1 $a Araújo $b Matilde Rosa $f 1921-2010 $2 Autoridade $3 PT-----------2013102217230005941
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060522164524&ext=jpg $z CAPA
+909 	  $a 3
+966    $a 0001623 $l BMM $s SI 821.134.3-1 ARA liv
+966    $a 0001622 $l BMM $s SI 821.134.3-1 ARA liv
+966    $a 0019811 $l BMM $s SI 821.134.3-1 ARA liv

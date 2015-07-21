@@ -1,0 +1,126 @@
+[{
+  "fields": [
+    [
+      "001",
+      "737"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20011010d1986    k  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "ger"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >marquesa de O...",
+      "a",
+      "<O >terramoto no Chile",
+      "f",
+      "Heinrich von Kleist",
+      "g",
+      "tradução de José M. Justo"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Antígona",
+      "d",
+      "1986"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "105 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Kleist",
+      "b",
+      "Heinrich von",
+      "f",
+      "1777-1811"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060619153500&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008892",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 KLE mar"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008906",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 KLE mar"
+    ]
+  ]
+}]

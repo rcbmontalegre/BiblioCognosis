@@ -1,0 +1,22 @@
+00904nam  2200253   450
+001   516
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 21646/88
+095    $a PTBN00131807
+100    $a 20061013d1988    em y0pory0103    ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <A >letra encarnada $f Nathaniel Hawthorne $g trad. Fernando Pessoa $g introd. George Monteiro
+210    $a Lisboa $c Dom Quixote $d 1988
+215    $a 326 p. $d 18 cm
+225 2  $a Biblioteca de bolso Dom Quixote $i Ficção $v 34
+304    $a Tít. orig.: The scarlet letter
+675    $a 821 $v BN $z por
+700  1 $a Hawthorne $b Nathaniel $f 1804-1864
+702  1 $a Pessoa $b Fernando $f 1888-1935 $4 730
+702  1 $a Monteiro $b George $f 1932- $4 080
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060517172158&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0005326 $l BMM $s SCG 821 HAW let 34
+966    $a 0005327 $l BMM $s SCG 821 HAW let 34

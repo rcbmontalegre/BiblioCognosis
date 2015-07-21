@@ -1,0 +1,144 @@
+[{
+  "fields": [
+    [
+      "001",
+      "766"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-23-3486-7"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "235153/05"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d2005----m y0pory0103 ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "És o meu segredo",
+      "f",
+      "Tiago Rebelo"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "1ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Barcarena",
+      "c",
+      "Presença",
+      "d",
+      "2005"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "189, [3] p.",
+      "d",
+      "23 cm"
+    ],
+    [
+      "225",
+      "0 ",
+      "a",
+      "Grandes narrativas",
+      "v",
+      "304"
+    ],
+    [
+      "606",
+      "1 ",
+      "a",
+      "Literatura portuguesa"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Romance"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821.134.3"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Rebelo",
+      "b",
+      "Tiago"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060620164941&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0016749",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821.134.3 REB és 304"
+    ]
+  ]
+}]

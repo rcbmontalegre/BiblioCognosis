@@ -1,0 +1,27 @@
+00968nam  2200313   450
+001   978
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-20-0692-4
+021    $a PT $b 26626/89
+100    $a 20061013d1989    m  y0pora0103    ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   001ay
+106    $a r
+200 1  $a <Uma >casa para Mr. Biswas $f V. S. Naipaul $g tradução de José Vieira Lima
+205    $a 1ª ed
+210    $a Lisboa $c Dom Quixote $d 1989
+215    $a 569 p. $d 24 cm
+225 2  $a Ficção universal $v 48
+304    $a Tít. orig.: A house for Mr. Biswas
+304    $a O autor nasceu em Trinidade
+532 12 $a <Uma >casa para Mister Biswas
+606 1  $a Literatura inglesa
+608    $a Romance
+675    $a 821
+700  1 $a Naipaul $b V. S. $f 1932-
+702  1 $a Lima $b José Vieira de $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060705092539&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008919 $l BMM $s SCG 821 NAI cas 48

@@ -1,0 +1,17 @@
+00660nam  2200193   450
+001   800
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20061013d1973    m  y0pora010305  ba
+101 1  $a por
+102    $a PT
+200 1  $a <O >lobo do mar $f Jack London $g trad. de Joäo Guerreiro Boto
+210    $a Mem Martins $c Europa-América $d 1973
+215    $a 315, [2] p. $c il. $d 18 cm
+225 2  $a Livros de bolso Europa-América $v 66
+675    $a 821 $v BN $z por
+700  1 $a London $b Jack $c pseud
+702  1 $a Boto $b João Guerreiro $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060622140724&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0005464 $l BMM $s SCG 821 LON lob 66

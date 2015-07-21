@@ -1,0 +1,20 @@
+00733nam  2200229   450
+001   59
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 83934
+095    $a PTBN00107874
+100    $a 20061013d1987    m  y0pory010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a Incidentes $f Roland Barthes $g trad. Tereza Coelho, Alexandre Melo
+210    $a Lisboa $c Quetzal $d 1987
+215    $a 98, [4] p. $d 23 cm
+225 2  $a Serpente emplumada
+675    $a 821 $v BN $z por
+700  1 $a Barthes $b Roland $f 1915-1980
+702  1 $a Coelho $b Teresa $f 1960- $4 730
+702  1 $a Melo $b Alexandre $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060508110636&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008283 $l BMM $s SCG 821 BAR inc

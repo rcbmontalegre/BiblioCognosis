@@ -1,0 +1,196 @@
+[{
+  "fields": [
+    [
+      "001",
+      "782"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-662-129-1"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "26912/89"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00157754"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19890809d1989    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   000ay"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >expresso verde",
+      "f",
+      "Herbert Lieberman",
+      "g",
+      "trad. António Neves Pedro, Maria Georgina Segurado",
+      "g",
+      "rev. Manuel Joaquim Vieira"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "1a ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Gradiva",
+      "d",
+      "1989"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "516 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Não incomode",
+      "v",
+      "23"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: The green train"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "820(73)-312.4 Lieberman, Herbert",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Lieberman",
+      "b",
+      "Herbert"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Pedro",
+      "b",
+      "António Neves",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Segurado",
+      "b",
+      "Maria Georgina",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Vieira",
+      "b",
+      "Manuel Joaquim",
+      "4",
+      "640"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060621122115&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008999",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 LIE exp 23"
+    ]
+  ]
+}]

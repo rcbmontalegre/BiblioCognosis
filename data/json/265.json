@@ -1,0 +1,158 @@
+[{
+  "fields": [
+    [
+      "001",
+      "265"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00852552"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1954    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "David Copperfield",
+      "f",
+      "Charles Dickens",
+      "g",
+      "trad. de Mário Domingues"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Romano Torres",
+      "d",
+      "1954"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "629, [2] p.",
+      "d",
+      "20 cm"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: David Copperfield"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Dickens",
+      "b",
+      "CharlesCharles John Huffam",
+      "f",
+      "1812-1870"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Domingues",
+      "b",
+      "Mário",
+      "f",
+      "1899-1977",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511095549&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "3"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008090",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DIC dav"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008092",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DIC dav"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009142",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DIC dav"
+    ]
+  ]
+}]

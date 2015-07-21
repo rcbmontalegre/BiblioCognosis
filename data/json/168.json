@@ -1,0 +1,146 @@
+[{
+  "fields": [
+    [
+      "001",
+      "168"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00046977"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19780401d1978    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "A sangue frio",
+      "e",
+      "narração verídica de um quádruplo assassínio e suas consequências",
+      "f",
+      "Truman Capote",
+      "g",
+      "trad. de Maria Isabel Braga"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Livros do Brasil",
+      "d",
+      "[D.L. 1978]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "363, [4] p.",
+      "d",
+      "22 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Dois mundos",
+      "v",
+      "93"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: In cold blood"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Capote",
+      "b",
+      "Truman",
+      "f",
+      "1924-1984"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Braga",
+      "b",
+      "Maria Isabel Morna",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060509164636&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008483",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 CAP san 93"
+    ]
+  ]
+}]

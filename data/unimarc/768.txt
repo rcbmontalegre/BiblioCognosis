@@ -1,0 +1,23 @@
+00815nam  2200265   450
+001   768
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 972-41-2869-5
+021    $a PT $b 231088/05
+100    $a 20061013d2004    m  y0pory0103    ba
+101 1  $a por $c ita
+102    $a PT
+105    $a y   z   000ay
+200 1  $a Baunilha e chocolate $f Sveva Sasati Modignani $g trad. Regina Valente
+205    $a 12ª ed
+210    $a Porto $c Asa $d 2005
+215    $a 415, [1] p. $d 24 cm
+225 2  $a Romance
+304    $a Tít. orig.: Vaniglia e ciocolato
+675    $a 821 $v BN $z por
+700  1 $a Modignani $b Sveva Casati $c pseud.
+702  1 $a Valente $b Regina $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060620173227&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0016752 $l BMM $s SCG 821 MOD bau

@@ -1,0 +1,154 @@
+[{
+  "fields": [
+    [
+      "001",
+      "329"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d--------k  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >amante",
+      "f",
+      "Marguerite Duras",
+      "g",
+      "trad. Luisa Costa Gomes e Maria da Piedade Ferreira"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "5ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Difel",
+      "d",
+      "D.L. 1984"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "98 p.",
+      "d",
+      "23 cm"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. L'amant"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Duras",
+      "b",
+      "Marguerite",
+      "f",
+      "1914-1996",
+      "3",
+      "29724"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Gomes",
+      "b",
+      "Luísa Costa",
+      "f",
+      "1954",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Ferreira",
+      "b",
+      "Maria da Piedade",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511145448&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008523",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DUR ama"
+    ]
+  ]
+}]

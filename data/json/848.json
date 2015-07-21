@@ -1,0 +1,162 @@
+[{
+  "fields": [
+    [
+      "001",
+      "848"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00332888"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19920317d1972    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<Os >sessenta pais",
+      "f",
+      "Meindert Dejong",
+      "g",
+      "trad. Maria Isabel Morna Dias Braga, Mario Augusto de Almeida Braga"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "Civilização",
+      "d",
+      "1972"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "229 p.",
+      "d",
+      "19 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Juvenil Civilização"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tit. orig. : The house of sixty fathers"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "087.5"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "De Jong",
+      "b",
+      "Meindert"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Braga",
+      "b",
+      "Maria Isabel Morna",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Braga",
+      "b",
+      "Mário",
+      "f",
+      "1921-",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060627100154&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0003282",
+      "l",
+      "BMM",
+      "s",
+      "SJ 087.5 DeJ ses"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "1003403",
+      "l",
+      "BEM",
+      "s",
+      "BEM 087.5 DEJ"
+    ]
+  ]
+}]

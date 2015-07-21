@@ -1,0 +1,23 @@
+00827nam  2200265   450
+001   141
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-1-02735-9
+021    $a PT $b 26944/89
+095    $a PTBN00127954
+100    $a 19890711d1989    m  y0pora010305  ba
+101 1  $a por $c fre
+102    $a PT
+105    $a a   z   001ay
+106    $a r
+200 1  $a <O >castelo dos cárpatos $f Júlio Verne $g trad. Emílio Campos Lima
+210    $a Mem Martins $c Europa-América $d D.L.1989
+215    $a 160 p. $c il. $d 18 cm
+225 2  $a Livros de bolso Europa-América $v 515
+304    $a Tit. orig. : Le chateau des Carpathes
+675    $a 821 $v BN $z por
+700  1 $a Verne $b Jules $f 1828-1905
+702  1 $a Lima $b Emílio Campos $4 730
+801  0 $a PT $b Bi
+856    $u locateMedia.asp?cod=20070329162400&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0005525 $l BMM $s SCG 821 VER cas 515

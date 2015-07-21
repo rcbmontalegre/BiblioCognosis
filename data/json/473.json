@@ -1,0 +1,150 @@
+[{
+  "fields": [
+    [
+      "001",
+      "473"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-25-0403-7"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "27848/89"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00267962"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19891108d1989    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Empresta-nos o seu marido?",
+      "e",
+      "e outras comédias da vida sexual"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "4ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Venda Nova",
+      "c",
+      "Bertrand",
+      "d",
+      "imp. 1989"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "230 p.",
+      "d",
+      "23 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Autores universais"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tit. orig.: May we borrow your husband?: and other comedies of the sexual life"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Greene",
+      "b",
+      "Graham",
+      "f",
+      "1904-1991"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060517143419&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008442",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 GRE emp"
+    ]
+  ]
+}]

@@ -1,0 +1,174 @@
+[{
+  "fields": [
+    [
+      "001",
+      "223"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-1-02765-0"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "51512/91"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00188086"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1989    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   000ay"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Anjo da morte",
+      "f",
+      "Robin Cook",
+      "g",
+      "trad. Sophie Penberthy Vinga"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "2ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "D.L. 1991"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "252, [1] p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Obras de Robin Cook"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : Godplayer"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Cook",
+      "b",
+      "Robin",
+      "f",
+      "1940-"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Vinga",
+      "b",
+      "Sophie Penberthy",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060510144400&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008228",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 COO anj"
+    ]
+  ]
+}]

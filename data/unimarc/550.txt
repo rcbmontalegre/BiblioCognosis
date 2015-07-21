@@ -1,0 +1,17 @@
+00651nam  2200193   450
+001   550
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00388510
+100    $a 19920723d1962    m  y0pory010305  ba
+101 1  $a por
+102    $a PT
+200 1  $a Cura de repouso $f Aldous Huxley $g trad. Joäo Gaspar Simöes
+210    $a Lisboa $c Editorial Inquérito $d [D.L. 1962]
+215    $a 249, [2] p. $d 20 cm
+225 2  $a <Os >melhores contos dos melhores contistas $v 1
+675    $a 821 $v BN $z por
+700  1 $a Huxley $b Aldous $f 1894-1963
+702  1 $a Simões $b João Gaspar $f 1903-1987 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0008149 $l BMM $s SCG 821 HUX cur 1

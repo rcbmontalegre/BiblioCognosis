@@ -1,0 +1,15 @@
+00486nam  2200169   450
+001   430
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00519596
+100    $a 19931122d1941    m  y0pory010305  ba
+101 1  $a por
+102    $a PT
+200 1  $a Magali $f M. Delly
+210    $a S. Paulo $c Companhia Editora Nacional $d 1938
+215    $a 243, [2] p. $d 20 cm
+675    $a 821 $v BN $z por
+700  0 $a Delly $c pseud
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0008374 $l BMM $s SCG 821 DEL mag 30

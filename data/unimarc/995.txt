@@ -1,0 +1,24 @@
+00848nam  2200277   450
+001   995
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-23-1069-0
+021    $a PT $b 26117/89
+095    $a PTBN00226078
+100    $a 19900220d1989    m  y0pory010305  ba
+101 1  $a por $c fre
+102    $a PT
+105    $a y   z   001fy
+106    $a r
+200 1  $a <A >vida modo de usar $e romances $f Georges Perec $g trad. Pedro Tamen
+205    $a 1ª ed
+210    $a Lisboa $c Presença $d 1989
+215    $a 519 p. $d 23 cm
+225 2  $a Novos continentes $v 37
+304    $a Tít. orig.: La vie mode d'emploi
+675    $a 840-34"19" $v BN $z por
+700  1 $a Perec $b Georges $f 1936-
+702  1 $a Tamen $b Pedro $f 1934-
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060705145411&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0009351 $l BMM $s SCG 821 PER vid 37

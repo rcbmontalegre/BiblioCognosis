@@ -1,0 +1,22 @@
+00810nam  2200253   450
+001   106
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   19
+021    $a PT $b 14403/87
+095    $a PTBN00108606
+100    $a 20061013d1987    m  y0pory0103    ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <A >missão $f Robert Bolt $g trad. Pilar Ramos
+210    $a Mem Martins $c Europa-América $d D.L. 1987
+215    $a 234, [1] p. $d 21 cm
+225 2  $a Século XX $v 279
+304    $a Tít. orig.: The mission
+675    $a 821
+700  1 $a Bolt $b Robert $f 1924-1995 $3 15269
+702  1 $a Mendonça $b Luís $f 1937- $3 279224 $4 550
+702  1 $a Ramos $b Pilar $4 730 $3 102766
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060509093429&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0016596 $l BMM $s SCG 821 BOL mis 279

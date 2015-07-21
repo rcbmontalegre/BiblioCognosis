@@ -1,0 +1,158 @@
+[{
+  "fields": [
+    [
+      "001",
+      "456"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-1-02953-x"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "35490/90"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1990    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   001ad"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Odisseia",
+      "f",
+      "Homero",
+      "g",
+      "Trad. e notas Cascais Franco"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "2ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Men Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "D.L. 1990"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "262, [1] p.",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Livros de bolso Europa-América",
+      "v",
+      "260"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821"
+    ],
+    [
+      "700",
+      " 0",
+      "a",
+      "Homero"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Franco",
+      "b",
+      "Cascais",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060517115615&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005334",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 HOM odi 260"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0016282",
+      "l",
+      "BMM-PS",
+      "s",
+      "821 HOM ODI 260"
+    ]
+  ]
+}]

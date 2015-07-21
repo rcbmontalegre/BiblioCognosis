@@ -1,0 +1,16 @@
+00557nam  2200181   450
+001   424
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00503581
+100    $a 19931014d1938    km y0pory010305  ba
+101 0  $a por
+102 �� $a PT
+200 1  $a Juventude sequestrada $e romance $f Delly $g trad. de Manuel L. Rodrigues
+210    $a Lisboa $c Minerva $d 1938
+215    $a 206 p. $d 19 cm
+675    $a 821 $v BN $z por
+700  0 $a Delly $c pseud
+702  1 $a Rodrigues $b Manuel $f 1909- $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0008366 $l BMM $s SCG 821 DEL juv 19

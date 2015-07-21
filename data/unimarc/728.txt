@@ -1,0 +1,20 @@
+00706nam  2200229   450
+001   728
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 83927
+095    $a PTBN00031306
+100    $a 20070518d1987    k  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a Dança de família $f David Leavitt $g trad. Paula Reis
+210    $a Lisboa $c Teorema $d imp. 1987
+215    $a 214 p. $d 21 cm
+225 2  $a Estórias $v 9)
+304    $a Tít. orig. Family dancing
+675    $a 821 $v BN $z por
+700  1 $a Leavitt $b David $f 1961-
+702  1 $a Reis $b Paula $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060619112500&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008929 $l BMM $s SCG 821 LEA dan 9

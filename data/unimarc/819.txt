@@ -1,0 +1,21 @@
+00817nam  2200241   450
+001   819
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+100    $a 20140404d1974    m  y0pora010305  ba
+101 1  $a por
+102    $a PT
+200 1  $a Aforismos $f Geor Christoph Lichtenberg $g trad.: João da Fonseca Amaral
+210    $a Lisboa $c Estampa $d 1974
+215    $a 111, [6] p. $d 19 cm
+225 2  $a Livro B $v 22
+304    $a Tít. ori.: Aphorismes
+608    $a Máximas $2 Autoridade $3 PT9999-00-10-2009040123590005452
+675    $a 82-84
+700  1 $a Lichtenberg $b Geor Christoph
+702  1 $a Amaral $b João da Fonseca $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060622165014&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0008950 $l BMM $s SCG 82-84 LIC afo
+966    $a 0008951 $l BMM $s SCG 82-84 LIC afo 22

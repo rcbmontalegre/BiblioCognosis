@@ -1,0 +1,22 @@
+00927nam  2200253   450
+001   650
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+021    $a PT $b 14514/87
+100    $a 20061013d1987----a  y0pora010305  ba
+101 0  $a por
+102    $a PT
+200 1  $a Contos do tapete voador $f José Jorge Letria $g ilust.: Rui Truta
+210    $a Porto $c Asa $d 1987
+215    $a 36 p. $c il. $d 21 cm
+225 2  $a Asa juvenil $v 34
+606    $a Literatura portuguesa $2 Autoridade $3 PT-----------2012041710390005598
+608    $a Literatura infantil e juvenil $2 Autoridade $3 PT9999-00-10-2009040123590005446
+608    $a Conto $2 Autoridade $3 PT9999-00-10-2009040123590005380
+675    $a 821.134.3-34
+700  1 $a Letria $b José Jorge $f 1951-
+702  1 $a Truta $b Rui $f 1961- $4 440
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060523095141&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0001487 $l BMM $s SI 821.134.3-34 LET con

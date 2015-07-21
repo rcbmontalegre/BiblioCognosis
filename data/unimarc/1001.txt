@@ -1,0 +1,23 @@
+00961nam  2200265   450
+001   1001
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20050209d1976----m  y0pora010305  ba
+101 1  $a por $c spa
+102    $a PT
+200 1  $a Heptameron $f Margarida de Navarra $g trad. Luíza Neto Jorge, Manuel João Gomes
+210    $a Lisboa $c Estampa $d 1976
+215    $a 3 vol. $d 19 cm
+225 2  $a Biblioteca clássica $v 4
+300    $a Heptameron
+675    $a 860 $v med $z por
+700  0 $a Margarida de Navarra $f 1492-1549
+702  1 $a Jorge $b Luísa Neto $f 1939-1989 $4 730
+702  1 $a Gomes $b Manuel João $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060705163510&ext=jpg $z CAPA
+856    $u locateMedia.asp?cod=20060705163550&ext=jpg $z CAPA
+856    $u locateMedia.asp?cod=20060705163637&ext=jpg $z CAPA
+909 	  $a 3
+966    $a 0008921 $l BMM $s SCG 821 NAV hep 4
+966    $a 0008922 $l BMM $s SCG 821 NAV hep 4
+966    $a 0008923 $l BMM $s SCG 821 NAV hep 4

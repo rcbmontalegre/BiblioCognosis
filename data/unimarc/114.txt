@@ -1,0 +1,19 @@
+00723nam  2200217   450
+001   114
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+095    $a PTBN00149661
+100    $a 19640301g19649999m  y0pora0103    ba
+101 1  $a por
+102    $a PT
+200 1  $a Decâmeron $f Giovanni Boccacio $g trad. Joaquim de Macedo
+210    $a Porto $c Sousa & Almeida $d 1964-
+215    $a v. $d 19 cm
+327 0  $a 1" v.: 366, [3] p
+675    $a 821 $v BN $z por $3 288435
+700  1 $a Boccaccio $b Giovanni $f 1313-1375 $3 10685
+702  1 $a Macedo $b Joaquim Lopes de $f 1879 $4 730 $3 151956
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060509101614&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0005170 $l BMM $s SCG 821 BOC dec 309

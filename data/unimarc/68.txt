@@ -1,0 +1,17 @@
+00658nam  2200193   450
+001   68
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00827749
+100    $a 19960826d1968    m  y0pory010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a Úrsula mirouet $e cenas da vida de província $f Balzac
+210    $a Lisboa $c Portugália $d 1968
+215    $a 380, [1] p., [3] f $c il. $d 20 cm
+225 2  $a <A >comédia humana
+700  1 $a Balzac $b Honoré de $f 1799-1850
+702  1 $a Andrade $b João Pedro de $f 1902-1974 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060508115401&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0007880 $l BMM $s SCG 821 BAL úrs

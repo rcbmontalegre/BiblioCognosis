@@ -1,0 +1,138 @@
+[{
+  "fields": [
+    [
+      "001",
+      "965"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19940129d1972    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<As >três mulheres de Antibes",
+      "f",
+      "William Somerset Maugham",
+      "g",
+      "trad. Otávio Mendes Cajado, Leonel Villandro"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Livros do Brasil",
+      "d",
+      "[D.L. 1972]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "278, 7 p.",
+      "d",
+      "20 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Autores de sempre"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tit. orig.: The mixture as before"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "820",
+      "v",
+      "med",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Maugham",
+      "b",
+      "W. Somerset",
+      "f",
+      "1874-1965"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Cajado",
+      "b",
+      "Octávio Mendes",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Vilandro",
+      "b",
+      "Leonel",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008258",
+      "l",
+      "BMM",
+      "s",
+      "SCG 82-34 MAU trê"
+    ]
+  ]
+}]

@@ -1,0 +1,142 @@
+[{
+  "fields": [
+    [
+      "001",
+      "138"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00274493"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1963    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Catorze histórias",
+      "f",
+      "Pearl Sydenstricker Buck",
+      "g",
+      "trad. Joäo Cabral do Nascimento"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Minerva",
+      "d",
+      "1963"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "303, [1] p.",
+      "d",
+      "19 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Minerva",
+      "i",
+      "Capa amarela"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : Fourteen stories"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Buck",
+      "b",
+      "Pearl S",
+      "f",
+      "1892-1973"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Nascimento",
+      "b",
+      "Cabral do",
+      "f",
+      "1897-1978",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008120",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 BUC cat"
+    ]
+  ]
+}]

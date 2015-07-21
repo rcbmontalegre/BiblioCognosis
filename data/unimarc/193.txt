@@ -1,0 +1,21 @@
+00834nam  2200241   450
+001   193
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+095    $a PTBN00027787
+100    $a 20061013d1984    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <O >martelo de Deus e outras histórias do Padre Brown $f G. K. Chesterton $g trad.: Carlos Grifo Babo
+210    $a Lisboa $c Gradiva $d 1984
+215    $a 147 p. $d 20 cm
+225 2  $a Não incomode $v 8
+304    $a Tít. orig. The innocence of father Brown
+675    $a 821
+700  1 $a Chesterton $b Gilbert Keith $f 1874-1936
+702  1 $a Babo $b Carlos Grifo $f 1919- $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060510101139&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0008676 $l BMM $s SCG 821 CHE mar 8
+966    $a 0008664 $l BMM $s SCG 821 CHE mar 8

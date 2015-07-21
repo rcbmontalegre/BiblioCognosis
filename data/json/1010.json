@@ -1,0 +1,142 @@
+[{
+  "fields": [
+    [
+      "001",
+      "1010"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-222-453-0"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "231811/05"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d2005----k  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >presente ideal",
+      "g",
+      "tradução de Guilhermina Rebelo de Andrade"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Verbo",
+      "d",
+      "2005"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "[32] p.",
+      "c",
+      "il.",
+      "d",
+      "22 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Abram alas para o Noddy",
+      "v",
+      "5"
+    ],
+    [
+      "606",
+      "1 ",
+      "a",
+      "Literatura infantil"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "087.5"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Andrade",
+      "b",
+      "Margarida"
+    ],
+    [
+      "710",
+      "02",
+      "a",
+      "Enid Blyton, Lda"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060706121750&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0016774",
+      "l",
+      "BMM",
+      "s",
+      "SI 087.5 AND pre 5"
+    ]
+  ]
+}]

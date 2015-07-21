@@ -1,0 +1,146 @@
+[{
+  "fields": [
+    [
+      "001",
+      "642"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00008760"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19860101d1985    km y0pora010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "João Ar-Puro no país do fumo",
+      "f",
+      "José Jorge Letria",
+      "g",
+      "il. Paula Oliveira"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "Asa",
+      "d",
+      "imp. 1985"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "33 p.",
+      "c",
+      "il.",
+      "d",
+      "21x21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Asa juvenil",
+      "v",
+      "26"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "087.5",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Letria",
+      "b",
+      "José Jorge",
+      "f",
+      "1951-"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Oliveira",
+      "b",
+      "Paula",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060524113041&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001500",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-93 LET joã 26"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001499",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-93 LET joã 26"
+    ]
+  ]
+}]

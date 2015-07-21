@@ -1,0 +1,19 @@
+00777nam  2200217   450
+001   827
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 19780401d1978    m  y0pora010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a <A >crisálida $e crónicas argelinas $f Aicha Lemsine $g trad. de Maria José Marinho
+210    $a Amadora $c Bertrand $d imp. 1978
+215    $a 218, [1] p. $d 21 cm
+225 2  $a <A >mulher e o mundo
+304    $a Tít. orig.: La chrysalide: chroniques algériennes
+675    $a 821 $v BN $z por
+700  1 $a Lemsine $b Aicha $f 1942-
+702  1 $a Marinho $b Maria José $f 1928- $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060622172757&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0009016 $l BMM $s SCG 821 LEM cri
+966    $a 0008941 $l BMM $s SCG 821 LEM cri

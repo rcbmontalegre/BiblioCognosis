@@ -1,0 +1,20 @@
+00764nam  2200229   450
+001   232
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 17815/87
+095    $a PTBN00129845
+100    $a 19880920d1987    em y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <O >negro do narciso $f Joseph Conrad $g trad. Luzia Maria Martins
+210    $a Lisboa $c Relógio d'Água $d D.L. 1987
+215    $a 206 p. $d 21 cm
+225 2  $a Ficções
+304    $a Tít. orig. : The nigger of the narcissus
+675    $a 820-31 $v BN $z por
+700  1 $a Conrad $b Joseph $f 1857-1924
+702  1 $a Martins $b Luzia Maria $f 1926-2000 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060510150954&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008273 $l BMM $s SCG 821 CON neg

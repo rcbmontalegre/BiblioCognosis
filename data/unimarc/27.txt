@@ -1,0 +1,17 @@
+00601nam  2200193   450
+001   27
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00490171
+100    $a 20061013d1957    em y0pory010305  ba
+101 1  $a por
+102    $a PT
+200 1  $a <O >livro de Marco Polo $f trad. de H. Ferreira Alves $g il. Nuno
+210    $a Lisboa $c Portugália $d [D.L. 1957]
+215    $a 389 p., [3] f $c il. $d 20 cm
+675    $a 821 $v RPC $z por
+700  1 $a Polo $b Marco $f 1254-1323
+702  1 $a Alves $b H. Ferreira $4 730
+702  0 $a Nuno $4 440
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0008251 $l BMM $s SCG 821 ALV liv

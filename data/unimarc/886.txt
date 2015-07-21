@@ -1,0 +1,20 @@
+00793nam  2200229   450
+001   886
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20061013d1982----k  y0pory0103    ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a 15 histórias de artes marciais $f Bertrand Solet $g il. René Follet $g trad. Maria Adelaide Couto Viana
+210    $a Lisboa $c Verbo $d 1982
+215    $a 234, [4] p. $c il. $d 21 cm
+225 2  $a Série 15 $v 44
+304    $a Tít. orig. : 15 histoires d'arts martiaux
+606    $a Artes Marciais
+675    $a 94
+700  1 $a Solet $b Bertrand
+702  1 $a Follet $b René $4 440
+702  1 $a Viana $b Maria Adelaide Couto $f 1921-1990 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060628101710&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0003087 $l BMM $s SJ 94 SOL his 44

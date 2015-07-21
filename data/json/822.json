@@ -1,0 +1,158 @@
+[{
+  "fields": [
+    [
+      "001",
+      "822"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "11918/88"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00322607"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1988    m  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "ita"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "Lisboa"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Se não agora, quando?",
+      "f",
+      "Primo Levi",
+      "g",
+      "trad. de José Colaço Barreiros"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "1ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Dom Quixote",
+      "d",
+      "1988"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "328 p.",
+      "d",
+      "24 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Ficção universal",
+      "v",
+      "33"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "1",
+      "z",
+      "por",
+      "3",
+      "463208"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Levi",
+      "b",
+      "Primo",
+      "f",
+      "1919-1987"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Barreiros",
+      "b",
+      "José Colaço",
+      "f",
+      "1949-",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060622170824&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008753",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 LEV não 33"
+    ]
+  ]
+}]

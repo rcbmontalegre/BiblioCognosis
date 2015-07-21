@@ -1,0 +1,154 @@
+[{
+  "fields": [
+    [
+      "001",
+      "930"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-695-102-X"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "36828/90"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00351886"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19901012d1990    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >pega azul e seis historietas mais",
+      "f",
+      "Adalberto Alves",
+      "g",
+      "il. de Figueiredo Sobral"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Teorema",
+      "d",
+      "[D.l. 1990]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "77 p.",
+      "c",
+      "il.",
+      "d",
+      "19 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Sésamo",
+      "v",
+      "15"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821.134.3",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Alves",
+      "b",
+      "Adalberto",
+      "f",
+      "1939-"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Sobral",
+      "b",
+      "Figueiredo",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060630111225&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0002006",
+      "l",
+      "BMM",
+      "s",
+      "SJ 821.134.3 ALV peg 15"
+    ]
+  ]
+}]

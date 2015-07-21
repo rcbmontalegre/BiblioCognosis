@@ -1,0 +1,142 @@
+[{
+  "fields": [
+    [
+      "001",
+      "79"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00237069"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1974    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >atlântida",
+      "f",
+      "Pierre Benoit",
+      "g",
+      "trad. de Edmundo Motrena"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Minerva",
+      "d",
+      "1974"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "190, [1] p.",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Minerva de bolso",
+      "v",
+      "34"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : L'atlantide"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Benoit",
+      "b",
+      "Pierre"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Motrena",
+      "b",
+      "Edmundo",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060508145338&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008349",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 BEN atl 34"
+    ]
+  ]
+}]

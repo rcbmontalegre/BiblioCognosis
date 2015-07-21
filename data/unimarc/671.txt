@@ -1,0 +1,20 @@
+00750nam  2200229   450
+001   671
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+009     
+021    $a PT $b 10681/85
+100    $a 19861001d1986    m  y0pory010305  ba
+101 0  $a por
+102    $a PT
+200 1  $a <Os >segredos do subterrâneo $f Arsénio Mota
+210    $a Lisboa $c Um de Outubro $d 1986
+215    $a 77, [2] p. $c il. $d 21 cm
+300    $a Prémio literário Ano Internacional da Juventude
+675    $a 821.134.3-32 $z por
+700  1 $a Mota $b Arsénio $f 1930-
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060524141413&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0001524 $l BMM $s SJ 821.134.3 MOT seg
+966    $a 0001523 $l BMM $s SJ 821.134.3 MOT seg

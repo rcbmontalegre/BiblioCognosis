@@ -1,0 +1,27 @@
+01309nmm  2200313   450
+001   601
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-0-63009-4
+021    $a PT $b 190035/03
+100    $a 20061013e20031997e  y0pory0103    ba
+101 0  $a por
+102    $a PT
+105    $a --------000zy
+106    $a i
+135    $a bocga---mnaua
+200 1  $a Eu aprendo portuguos $b Documento electrónico $e 9" ano $f Judite Gasparinho, Lúcia Vaz Pedro $g [ed.] Porto Editora Multimédia
+205    $a [1ª ed., $b 2" reimp.]
+210    $a Porto $c P.E.M. $d D.L. 2003
+215    $a 1 CD-ROM em caixa $d 24 cm $e instruções de instalação ([1] f. desdobr.)
+225 2  $a Multimédia educativo
+230    $a Dados
+304    $a Tít. retirado da etiqueta
+337    $a Requisitos do sistema: Processador Pentium a 133 MHz, 16 MB de espaço livre no disco rígido, 32 MB de memória RAM, leitor de CD-ROM 4x, placa de som compatível CL Sound Blaster (16 bit), placa gráfica SVGA (milhares de cores a 640x480)
+675    $a 811.134.3(0.034)(075) $3 910911
+675    $a 373.4(0.034)(075) $3 993003
+700  1 $a Gasparinho $b Judite $3 233775
+701  1 $a Pedro $b Lúcia Vaz $4 070 $3 883966
+712 02 $a Porto Editora Multimédia $4 340 $3 218241
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060522145440&ext=jpg $z CAPA
+909 	  $a 0

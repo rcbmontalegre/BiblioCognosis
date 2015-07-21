@@ -1,0 +1,152 @@
+[{
+  "fields": [
+    [
+      "001",
+      "885"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1984    a  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "15 portugueses no mundo",
+      "f",
+      "coord. e selecção de textos de Maria Adelaide Couto Viana",
+      "g",
+      "il. Augusto Trigo"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Verbo",
+      "d",
+      "imp. 1984"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "250 p.",
+      "c",
+      "il.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Série 15",
+      "v",
+      "49"
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Literatura juvenil"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "087.5"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Viana",
+      "b",
+      "Maria Adelaide Couto",
+      "f",
+      "1921-1990",
+      "4",
+      "220"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Trigo",
+      "b",
+      "Augusto",
+      "f",
+      "1938-",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060628095756&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0003090",
+      "l",
+      "BMM",
+      "s",
+      "SJ 087.5 VIA por 49"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "1003481",
+      "l",
+      "BEM",
+      "s",
+      "BEM 087.5 VIA"
+    ]
+  ]
+}]

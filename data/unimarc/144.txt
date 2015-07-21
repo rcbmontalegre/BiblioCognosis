@@ -1,0 +1,25 @@
+01034nam  2200289   450
+001   144
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20061013f19------m y0pory010305 ba
+101 1  $a por $c ita
+102    $a PT
+105    $a a z 001ay
+106    $a r
+200 1  $a Se numa noite de inverno um viajante $f Italo Calvino $g pref. Paolo Angeleri $g trad. Maria de Lurdes Sirgado Ganho e José Manuel de Vasconcelos
+205    $a 2ª ed
+210    $a Lisboa $c Vega $d [19--]
+215    $a 287p. $d 21 cm
+225 2  $a Provisórios & definitivos
+304    $a Tít. orig.: Se una notte d'inverno un viaggiatore
+606    $a Literatura italiana
+608    $a Romance
+675    $a 821 $v BN $z por
+700  1 $a Calvino $b Italo $f 1923-1985
+702  1 $a Angeleri $b Paolo $f 1924 $4 080 [Autor do prefácio]
+702  1 $a Ganho $b Maria de Lurdes Sirgado $f 1949 $4 730
+702  1 $a Vasconcelos $b José Manuel de $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060509143415&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008505 $l BMM $s SCG 821 CAL num

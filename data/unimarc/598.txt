@@ -1,0 +1,23 @@
+01407nmm  2200265   450
+001   598
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-0-01042-8
+021    $a PT $b 168747/01
+100    $a 20061013d2001    demy0pory0103    ba
+101 0  $a por
+102    $a PT
+105    $a --------000zy
+106    $a i
+135    $a bocga---mnaua
+200 1  $a Diciopédia 2002 $b Documento electrónico $e <o >poder do conhecimento 2002 $f [ed. lit.] Porto Editora Multimédia
+205    $a [5ª ed.]
+210    $a Porto $c P.E.M. $d D.L. 2001
+215    $a 4 discos ópticos (CD-ROM) em caixa $c color., som $d 13x21x28 cm $e guia de exploração para pais e professores (16 p.)
+230    $a Multimédia interactivo
+304    $a Tít. retirado da caixa
+337    $a Requisitos do sistema : Processador Pentium; a 133 MHz (Pentium II recomendado); 16 MB de memória RAM (32 MB recomendados); Windows 95,98, 2000, Me ou Windows NT 4.0; CD-ROM 4x ; placa de som compatílvel CL Sound Blaster (16 bit); placa de vídeo SVGA ( milhares de cores a 800x600); 165 MB de espaço livre no disco rígido; rato compatível Microsoft. - Para usufruir das potencialidades on-line associadas a este produto é necessário dispor de acesso à internet
+675    $a 030(0.034) $v BN $z por $v BN $z por $3 997273
+712 02 $a Porto Editora Multimédia $4 340 $3 218241
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RCP
+856    $u locateMedia.asp?cod=20060522142135&ext=jpg $z CAPA
+909 	  $a 0

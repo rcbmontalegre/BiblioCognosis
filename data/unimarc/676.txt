@@ -1,0 +1,18 @@
+00657nam  2200205   450
+001   676
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20061013d1985    d  y0pory0103    ba
+101 0  $a por
+102    $a PT
+200 1  $a Lua não muito obrigado $f Carlos Pinhão $g il. Pedro Cavalheiro
+210    $a [S.l.] $c Horizonte $d 1985
+215    $a 14 p. $c il. $d 16 cm
+225 0  $a Sete estrelas $v 9
+606    $a Literatura infantil
+675    $a 82-1
+700  1 $a Pinhão $b Carlos $f 1924-1993
+702  1 $a Cavalheiro $b Pedro $4 440
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060524145137&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0002649 $l BMM $s SI 82-1 PIN lua 9

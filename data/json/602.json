@@ -1,0 +1,154 @@
+[{
+  "fields": [
+    [
+      "001",
+      "602"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "23982/88"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d19889999c  y0pory0103    ba20030128d1988d a d0pora0103 da"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "a z 001gy"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Mistérios",
+      "f",
+      "Matilde Rosa Araújo",
+      "g",
+      "il. Alice Jorge"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Horizonte",
+      "d",
+      "cop. 1988"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "39 p.",
+      "c",
+      "il.",
+      "d",
+      "30 cm"
+    ],
+    [
+      "606",
+      "2 ",
+      "a",
+      "Literatura infantil"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Poesia"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "82-1"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Araújo",
+      "b",
+      "Matilde Rosa",
+      "f",
+      "1921-"
+    ],
+    [
+      "701",
+      " 1",
+      "a",
+      "Jorge",
+      "b",
+      "Alice",
+      "f",
+      "1924-",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060522150332&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001316",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-1 ARA mis"
+    ]
+  ]
+}]

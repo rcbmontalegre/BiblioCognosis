@@ -1,0 +1,180 @@
+[{
+  "fields": [
+    [
+      "001",
+      "723"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-47-2373-9"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "212657/04"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d2004    m  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   000ay"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<Um >dia de cada vez",
+      "f",
+      "Jamie Weisman",
+      "g",
+      "trad. Ana Teresa Mota",
+      "g",
+      "rev. Maria Cancela"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "1ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Cacém",
+      "c",
+      "Texto Editora",
+      "d",
+      "2004"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "192 p.",
+      "d",
+      "23 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Histórias de vida"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: As i live and breathe"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Weisman",
+      "b",
+      "Jamie",
+      "3",
+      "1217012"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Mota",
+      "b",
+      "Ana Teresa",
+      "4",
+      "730",
+      "3",
+      "1217013"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Cancela",
+      "b",
+      "Marta",
+      "4",
+      "730",
+      "3",
+      "251263"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060530162815&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0016136",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 WEI dia"
+    ]
+  ]
+}]

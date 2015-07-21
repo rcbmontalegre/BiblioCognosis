@@ -1,0 +1,22 @@
+00835nam0 2200253   450
+001   718
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 972-47-2897-8
+021    $a PT $b 224940/05
+100    $a 20061013d2005----k  y0pory0103    ba
+101 1  $a por
+102    $a PT
+200 1  $a Por detrás Do Véu $f Lydia Laube $g Manuel Marques
+205    $a 1ª ed
+210    $a Lisboa $c Texto Editora $d 2005
+215    $a 207 p. $d 23 cm
+304    $a tít. ori.: "Behind the Veil"
+608    $a História como género literário. Biografias e autobiografias $2 Autoridade $3 PT9999-00-10-2009040123590005428
+675    $a 82-94
+700  1 $a Laube $b Lydia
+702  1 $a Marques $b Manuel $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060530150409&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0016129 $l BMM $s SCG 82-94 LAU por

@@ -1,0 +1,23 @@
+00813nam  2200265   450
+001   928
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 21212/89
+095    $a PTBN00243629
+100    $a 19900419d1989    em.y0pory010305  ba
+101 1  $a por $c ger
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a <O >cisne negro $f Thomas Mann $g trad. Domingos Monteiro
+205    $a 1ª ed
+210    $a Lisboa $c Relógio d'Água $d 1989
+215    $a 161, [2] p. $d 21 cm
+225 2  $a Ficções
+304    $a Tít. orig.: Die Betrogene
+675    $a 830-31"18/19" $v BN $z por
+700  1 $a Mann $b Thomas $f 1875-1955
+702  1 $a Monteiro $b Domingos $f 1903-1980 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060629171434&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0009184 $l BMM $s SCG 821 MAN cis

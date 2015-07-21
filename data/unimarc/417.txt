@@ -1,0 +1,14 @@
+00443nam  2200157   450
+001   417
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00734058
+100    $a 19950527d1932    m  y0pory010305  ba
+101 1  $a por
+102    $a PT
+200 1  $a <A >hipócrita $f M. Delly
+210    $a Porto $c A. Figueirinhas $d 1932
+215    $a 1 v. $d 19 cm
+700  0 $a Delly $c pseud
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0008248 $l BMM $s SCG 821 DEL hip 15

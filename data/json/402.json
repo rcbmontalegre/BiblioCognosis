@@ -1,0 +1,144 @@
+[{
+  "fields": [
+    [
+      "001",
+      "402"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00000454"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20070518d1973    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<Os >Thibault",
+      "f",
+      "Roger Martin du Gard",
+      "g",
+      "trad. Casimiro Fernandes"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Livros do Brasil",
+      "d",
+      "[D.L. 1973]-"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "vol.3, 523p.",
+      "d",
+      "22 cm"
+    ],
+    [
+      "225",
+      "0 ",
+      "a",
+      "Dois mundos",
+      "v",
+      "30-B"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. Les Thibault"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "bn",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Du Gard",
+      "b",
+      "Roger Martin",
+      "f",
+      "1881-1958"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Fernandes",
+      "b",
+      "Casimiro",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060516121524&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008530",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DuG thi 30-B"
+    ]
+  ]
+}]

@@ -1,0 +1,146 @@
+[{
+  "fields": [
+    [
+      "001",
+      "397"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00000932"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19800501d1980    m  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Cláudio e Messalina",
+      "f",
+      "Robert Graves",
+      "g",
+      "trad. de Rogério Petinga"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Amadora",
+      "c",
+      "Bertrand",
+      "d",
+      "imp. 1980"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "496, [1] p.",
+      "d",
+      "20 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Autores universais"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. Claudius, the God, and his wife Messalina"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "bn",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Graves",
+      "b",
+      "Robert",
+      "f",
+      "1895-1985",
+      "3",
+      "39904"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Petinga",
+      "b",
+      "Rogério",
+      "4",
+      "730",
+      "3",
+      "78624"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060516110241&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008679",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 GRA clá"
+    ]
+  ]
+}]

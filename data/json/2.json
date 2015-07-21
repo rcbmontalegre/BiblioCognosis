@@ -1,0 +1,144 @@
+[{
+  "fields": [
+    [
+      "001",
+      "2"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00079290"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19950707d1985    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "spa"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >torre ferida pelo raio",
+      "f",
+      "Fernando Arrabal",
+      "g",
+      "trad. Luís Filipe Serrão"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Inquérito",
+      "d",
+      "[D.L. 1985]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "198 p.",
+      "c",
+      "il.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Romance universal Inquérito",
+      "v",
+      "9)"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: La torre herida por el rayo"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Arrabal",
+      "b",
+      "Fernando",
+      "f",
+      "1932"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Serrão",
+      "b",
+      "Luís",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060503142714&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008511",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 ARR tor 9"
+    ]
+  ]
+}]

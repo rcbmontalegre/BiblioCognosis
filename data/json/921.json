@@ -1,0 +1,178 @@
+[{
+  "fields": [
+    [
+      "001",
+      "921"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1987----m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "ger"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "a   z   000ay"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Doutor Fausto",
+      "e",
+      "<a >vida do compositor alemão Adrian Leverkühn narrada por um amigo",
+      "f",
+      "Thomas Mann",
+      "g",
+      "trad. Herbert Caro",
+      "g",
+      "rev. José Jacinto da Silva Pereira"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "1ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Dom Quixote",
+      "d",
+      "1987"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "587 p.",
+      "d",
+      "24 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Ficção universal",
+      "v",
+      "27"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Doktor Faustus"
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Literatura alemã"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Romance"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Mann",
+      "b",
+      "Thomas",
+      "f",
+      "1875-1955"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Caro",
+      "b",
+      "Herbert",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Pereira",
+      "b",
+      "José Jacinto da Silva",
+      "4",
+      "640"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de ontalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060629163221&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009042",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 MAN dou 27"
+    ]
+  ]
+}]

@@ -1,0 +1,19 @@
+00759nam  2200217   450
+001   915
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20061013d1982    m  y0pora010305  ba
+101 1  $a por
+102    $a PT
+200 1  $a Chesapeake $f James A. Michener $g trad. Joaquim Duarte Peixoto
+210    $a Mem Martins $c Europa-América $d [D.L. 1982]
+215    $a 2 v. $d 21 cm
+225 2  $a Século XX $v 184-185)
+675    $a 821 $v BN $z por
+700  1 $a Michener $b James A. $f 1907-
+702  1 $a Peixoto $b Joaquim $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060629155217&ext=jpg $z CAPA
+856    $u locateMedia.asp?cod=20060629155224&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0009052 $l BMM $s SCG 821 MIC che 184
+966    $a 0009051 $l BMM $s SCG 821 MIC che 185

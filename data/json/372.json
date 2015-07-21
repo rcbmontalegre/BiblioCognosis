@@ -1,0 +1,196 @@
+[{
+  "fields": [
+    [
+      "001",
+      "372"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00431536"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1971    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<Os >novos forsyte",
+      "f",
+      "John Glasworthy",
+      "g",
+      "trad. Maria Ondina"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Livros do Brasil",
+      "d",
+      "[D.L. 1971]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "v",
+      "d",
+      "22 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Dois mundos"
+    ],
+    [
+      "327",
+      "0 ",
+      "a",
+      "1º v. : 313, [3] p. - (Dois mundos ; 109) ;",
+      "a",
+      "2º v. : A colher de prata. - (Dois mundos ; 109 A) ;",
+      "a",
+      "3º v. : O canto do cisne. - 331, [2] p. - (Dois mundos ; 109 A)"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Glasworthy",
+      "b",
+      "John"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Braga",
+      "b",
+      "Maria Ondina",
+      "f",
+      "1932-2003",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060512112630&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "6"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008533",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 GAL nov 109"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008537",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 GAL nov 109"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008535",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 GAL nov 109-A"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008536",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 GAL nov 109-A"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008534",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 GAL nov 109-B"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008538",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 GAL nov 109-B"
+    ]
+  ]
+}]

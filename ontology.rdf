@@ -1,0 +1,1938 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY def "http://datos.bne.es/def/" >
+    <!ENTITY terms "http://purl.org/dc/terms/" >
+    <!ENTITY vann "http://purl.org/vocab/vann/" >
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY dc "http://purl.org/dc/elements/1.1/" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<rdf:RDF xmlns="http://datos.bne.es/vocab/"
+     xml:base="http://datos.bne.es/vocab/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:def="http://datos.bne.es/def/"
+     xmlns:terms="http://purl.org/dc/terms/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:vann="http://purl.org/vocab/vann/">
+    <owl:Ontology rdf:about="http://datos.bne.es/def/">
+        <rdfs:label xml:lang="es">Ontología BNE</rdfs:label>
+        <terms:license rdf:datatype="&xsd;anyURI">http://creativecommons.org/licenses/by-nc-sa/2.0/</terms:license>
+        <vann:preferredNamespaceUri rdf:datatype="&xsd;anyURI">http://datos.bne.es/def/</vann:preferredNamespaceUri>
+        <rdfs:isDefinedBy rdf:datatype="&xsd;anyURI">http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <vann:example rdf:datatype="&xsd;anyURI">http://datos.bne.es/resource/XX1147441</vann:example>
+        <terms:modified>2014-3-11</terms:modified>
+        <dc:contributor>Ricardo Santos Muñoz</dc:contributor>
+        <owl:versionInfo>1.0</owl:versionInfo>
+        <terms:created>2014-3-11</terms:created>
+        <terms:title xml:lang="en">BNE ontology</terms:title>
+        <dc:contributor>Daniel Vila-Suero</dc:contributor>
+        <terms:abstract xml:lang="en">The ontology of National Library of Spain (BNE) is the core data model undelying the Linked Data solution of BNE: datos.bne.es. datos.bne.es is an open knowledge base that gathers, integrates and delivers the full catalogue in open and semantically enriched formats.
+</terms:abstract>
+        <rdfs:comment xml:lang="es"></rdfs:comment>
+        <dc:creator xml:lang="es">Biblioteca Nacional de España</dc:creator>
+        <terms:description xml:lang="es">La ontología de la Biblioteca Nacional de España (BNE) es el modelo de datos central que se utiliza en datos.bne.es, la base de conocimiento abierta de la BNE. datos.bne.es recoge, integra y estructura información del catálogo y las digitalizaciones producidas en los sistemas de información de la BNE poniendola disponible utilizando tecnologías semánticas y datos enlazados.</terms:description>
+        <terms:abstract xml:lang="es">La ontología de la Biblioteca Nacional de España (BNE) es el modelo de datos central que se utiliza en datos.bne.es, la base de conocimiento abierta de la BNE. datos.bne.es recoge, integra y estructura información del catálogo y las digitalizaciones producidas en los sistemas de información de la BNE poniendola disponible utilizando tecnologías semánticas y datos enlazados.</terms:abstract>
+        <vann:preferredNamespacePrefix>bneonto</vann:preferredNamespacePrefix>
+        <rdfs:comment xml:lang="es">La ontología de la Biblioteca Nacional de España (BNE) es el modelo de datos central que se utiliza en datos.bne.es, la base de conocimiento abierta de la BNE. datos.bne.es recoge, integra y estructura información del catálogo y las digitalizaciones producidas en los sistemas de información de la BNE poniendola disponible utilizando tecnologías semánticas y datos enlazados.</rdfs:comment>
+        <terms:title xml:lang="es">Ontología BNE</terms:title>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://datos.bne.es/def/label -->
+
+    <owl:AnnotationProperty rdf:about="&def;label">
+        <rdfs:subPropertyOf rdf:resource="&rdfs;label"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/contributor -->
+
+    <owl:AnnotationProperty rdf:about="&dc;contributor"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/creator -->
+
+    <owl:AnnotationProperty rdf:about="&dc;creator"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/abstract -->
+
+    <owl:AnnotationProperty rdf:about="&terms;abstract"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/created -->
+
+    <owl:AnnotationProperty rdf:about="&terms;created"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/description -->
+
+    <owl:AnnotationProperty rdf:about="&terms;description"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/license -->
+
+    <owl:AnnotationProperty rdf:about="&terms;license"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/modified -->
+
+    <owl:AnnotationProperty rdf:about="&terms;modified"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/title -->
+
+    <owl:AnnotationProperty rdf:about="&terms;title"/>
+    
+
+
+    <!-- http://purl.org/vocab/vann/example -->
+
+    <owl:AnnotationProperty rdf:about="&vann;example"/>
+    
+
+
+    <!-- http://purl.org/vocab/vann/preferredNamespacePrefix -->
+
+    <owl:AnnotationProperty rdf:about="&vann;preferredNamespacePrefix"/>
+    
+
+
+    <!-- http://purl.org/vocab/vann/preferredNamespaceUri -->
+
+    <owl:AnnotationProperty rdf:about="&vann;preferredNamespaceUri"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://datos.bne.es/def/OP1001 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP1001">
+        <rdfs:label xml:lang="en">is created by (person)</rdfs:label>
+        <rdfs:label xml:lang="es">es creada por (persona)</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1001"/>
+        <rdfs:range rdf:resource="&def;C1005"/>
+        <owl:inverseOf rdf:resource="&def;OP5001"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP1002 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP1002">
+        <rdfs:label xml:lang="en">is realized through</rdfs:label>
+        <rdfs:label xml:lang="es">es realizada a través de</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1001"/>
+        <rdfs:range rdf:resource="&def;C1002"/>
+        <owl:inverseOf rdf:resource="&def;OP2002"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP1003 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP1003">
+        <rdfs:label xml:lang="en">has part (work)</rdfs:label>
+        <rdfs:label xml:lang="es">tiene parte (obra)</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1001"/>
+        <rdfs:range rdf:resource="&def;C1001"/>
+        <owl:inverseOf rdf:resource="&def;OP1004"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP1004 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP1004">
+        <rdfs:label xml:lang="en">is part of work (work)</rdfs:label>
+        <rdfs:label xml:lang="es">forma parte de (obra)</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:range rdf:resource="&def;C1001"/>
+        <rdfs:domain rdf:resource="&def;C1001"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP1005 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP1005">
+        <rdfs:label xml:lang="en">is created by (corporate body)</rdfs:label>
+        <rdfs:label xml:lang="es">es creada por (entidad corporativa)</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1001"/>
+        <rdfs:range rdf:resource="&def;C1006"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP1006 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP1006">
+        <rdfs:label xml:lang="en">has as subject (work)</rdfs:label>
+        <rdfs:label xml:lang="es">tiene como materia (obra)</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1001"/>
+        <rdfs:range rdf:resource="&def;C1001"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP1007 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP1007">
+        <rdfs:label xml:lang="en">is subject (work) of</rdfs:label>
+        <rdfs:label xml:lang="es">es materia de (obra)</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:range rdf:resource="&def;C1001"/>
+        <rdfs:domain rdf:resource="&def;C1001"/>
+        <owl:inverseOf rdf:resource="&def;OP1006"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP1008 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP1008">
+        <rdfs:label xml:lang="en">has subject (person)</rdfs:label>
+        <rdfs:label xml:lang="es">tiene como materia (persona)</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1001"/>
+        <rdfs:range rdf:resource="&def;C1005"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP1009 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP1009">
+        <rdfs:label xml:lang="en">has as subject (expression)</rdfs:label>
+        <rdfs:label xml:lang="es">tiene como materia (expresión)</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1001"/>
+        <rdfs:range rdf:resource="&def;C1002"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP1010 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP1010">
+        <rdfs:label xml:lang="en">has as subject (corporate body)</rdfs:label>
+        <rdfs:label xml:lang="es">tiene como materia (entidad corporativa)</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1001"/>
+        <rdfs:range rdf:resource="&def;C1006"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP2001 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP2001">
+        <rdfs:label xml:lang="en">is embodied in</rdfs:label>
+        <rdfs:label xml:lang="es">está materializada en</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1002"/>
+        <rdfs:range rdf:resource="&def;C1003"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP2002 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP2002">
+        <rdfs:label xml:lang="en">is realization of
+</rdfs:label>
+        <rdfs:label xml:lang="es">es realización de</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:range rdf:resource="&def;C1001"/>
+        <rdfs:domain rdf:resource="&def;C1002"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP2003 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP2003">
+        <rdfs:label xml:lang="en">has part (expression)</rdfs:label>
+        <rdfs:label xml:lang="es">tiene parte (expresión)</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:range rdf:resource="&def;C1002"/>
+        <rdfs:domain rdf:resource="&def;C1002"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP2004 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP2004">
+        <rdfs:label xml:lang="en">is part (expression) of</rdfs:label>
+        <rdfs:label xml:lang="es">forma parte (expresión) de</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:range rdf:resource="&def;C1002"/>
+        <rdfs:domain rdf:resource="&def;C1002"/>
+        <owl:inverseOf rdf:resource="&def;OP2003"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP2005 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP2005">
+        <rdfs:label xml:lang="en">is subject (expression) of</rdfs:label>
+        <rdfs:label xml:lang="es">es materia (expresión) de</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:range rdf:resource="&def;C1001"/>
+        <rdfs:domain rdf:resource="&def;C1002"/>
+        <owl:inverseOf rdf:resource="&def;OP1009"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP3001 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP3001">
+        <rdfs:label xml:lang="en">is exemplified by</rdfs:label>
+        <rdfs:label xml:lang="es">está ejemplificado por</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+        <rdfs:range rdf:resource="&def;C1004"/>
+        <owl:inverseOf rdf:resource="&def;OP4001"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP3002 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP3002">
+        <rdfs:label xml:lang="en">is embodiment of</rdfs:label>
+        <rdfs:label xml:lang="es">es materialización de</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:range rdf:resource="&def;C1002"/>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+        <owl:inverseOf rdf:resource="&def;OP2001"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP3003 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP3003">
+        <rdfs:label xml:lang="en">is created (manifestation) by (person)</rdfs:label>
+        <rdfs:label xml:lang="es">es creada (manifestación) por (persona)</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+        <rdfs:range rdf:resource="&def;C1005"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP3004 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP3004">
+        <rdfs:label xml:lang="en">is created (manifestation) by (corporate body)</rdfs:label>
+        <rdfs:label xml:lang="es">es creada (manifestación) por (entidad corporativa)</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+        <rdfs:range rdf:resource="&def;C1006"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP3005 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP3005">
+        <rdfs:label xml:lang="en">contributes (person) to (manifestation)</rdfs:label>
+        <rdfs:label xml:lang="es">contribuye (persona) a (manifestación)</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/
+
+</rdfs:isDefinedBy>
+        <rdfs:range rdf:resource="&def;C1003"/>
+        <rdfs:domain rdf:resource="&def;C1005"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP3006 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP3006">
+        <rdfs:label xml:lang="en">has contributor</rdfs:label>
+        <rdfs:label xml:lang="es">tiene contribuidor</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+        <rdfs:range rdf:resource="&def;C1005"/>
+        <owl:inverseOf rdf:resource="&def;OP3005"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP3007 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP3007">
+        <rdfs:label xml:lang="en">has relation</rdfs:label>
+        <rdfs:label xml:lang="es">tiene relation</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP3008 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP3008">
+        <rdfs:label xml:lang="en">has subject</rdfs:label>
+        <rdfs:label xml:lang="es">tiene como materia</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP4001 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP4001">
+        <rdfs:label xml:lang="en">is exemplar of</rdfs:label>
+        <rdfs:label xml:lang="es">es ejemplar de</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:range rdf:resource="&def;C1003"/>
+        <rdfs:domain rdf:resource="&def;C1004"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP5001 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP5001">
+        <rdfs:label xml:lang="en">is creator of (person)</rdfs:label>
+        <rdfs:label xml:lang="es">es creador de (persona)</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:range rdf:resource="&def;C1001"/>
+        <rdfs:domain rdf:resource="&def;C1005"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP5002 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP5002">
+        <rdfs:label xml:lang="en">is creator (person) of (manifestation)</rdfs:label>
+        <rdfs:label xml:lang="es">es creador (persona) de (manifestación)</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:range rdf:resource="&def;C1003"/>
+        <rdfs:domain rdf:resource="&def;C1005"/>
+        <owl:inverseOf rdf:resource="&def;OP3003"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP5003 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP5003">
+        <rdfs:label xml:lang="en">is subject (person) of</rdfs:label>
+        <rdfs:label xml:lang="es">es materia (persona) de</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:range rdf:resource="&def;C1001"/>
+        <rdfs:domain rdf:resource="&def;C1005"/>
+        <owl:inverseOf rdf:resource="&def;OP1008"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP6001 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP6001">
+        <rdfs:label xml:lang="en">is creator (corporate body) of</rdfs:label>
+        <rdfs:label xml:lang="es">es creador de (entidad corporativa)</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:range rdf:resource="&def;C1001"/>
+        <rdfs:domain rdf:resource="&def;C1006"/>
+        <owl:inverseOf rdf:resource="&def;OP1005"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP6002 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP6002">
+        <rdfs:label xml:lang="en">is subordinate of</rdfs:label>
+        <rdfs:label xml:lang="es">es subordinado de</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1006"/>
+        <rdfs:range rdf:resource="&def;C1006"/>
+        <owl:inverseOf rdf:resource="&def;OP6003"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP6003 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP6003">
+        <rdfs:label xml:lang="en">has subordinate</rdfs:label>
+        <rdfs:label xml:lang="es">tiene subordinado</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:range rdf:resource="&def;C1006"/>
+        <rdfs:domain rdf:resource="&def;C1006"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP6004 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP6004">
+        <rdfs:label xml:lang="en">is creator (corporate body) of (manifestation) </rdfs:label>
+        <rdfs:label xml:lang="es">es creador (entidad corporativa) de (manifestación)</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:range rdf:resource="&def;C1003"/>
+        <rdfs:domain rdf:resource="&def;C1006"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP6005 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP6005">
+        <rdfs:label xml:lang="en">is subject (corporate body) of</rdfs:label>
+        <rdfs:label xml:lang="es">es materia (entidad corporativa) de </rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/OP7001 -->
+
+    <owl:ObjectProperty rdf:about="&def;OP7001">
+        <rdfs:label xml:lang="en">has as subject (concept)</rdfs:label>
+        <rdfs:label xml:lang="es">tiene como materia (concepto)</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1001"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://datos.bne.es/def/P1001 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P1001">
+        <rdfs:label xml:lang="en">has title of the work</rdfs:label>
+        <rdfs:label xml:lang="es">tiene título de la obra</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="en">Title</def:label>
+        <def:label xml:lang="es">Título</def:label>
+        <rdfs:domain rdf:resource="&def;C1001"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P1002 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P1002">
+        <rdfs:label xml:lang="en">source consulted</rdfs:label>
+        <rdfs:label xml:lang="es">fuente consultada</rdfs:label>
+        <def:label xml:lang="en">Source consulted</def:label>
+        <def:label xml:lang="es">Fuente consultada</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1001"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P1003 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P1003">
+        <rdfs:label xml:lang="en">citation note</rdfs:label>
+        <rdfs:label xml:lang="es">información encontrada</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="en">Information found</def:label>
+        <def:label xml:lang="es">Información encontrada</def:label>
+        <rdfs:domain rdf:resource="&def;C1001"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P1004 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P1004">
+        <rdfs:label xml:lang="en">has date of the work</rdfs:label>
+        <rdfs:label xml:lang="es">tiene fecha de la obra</rdfs:label>
+        <def:label xml:lang="en">Date</def:label>
+        <def:label xml:lang="fecha">Fecha</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1001"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P1005 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P1005">
+        <rdfs:label xml:lang="en">has other variant name (work)</rdfs:label>
+        <rdfs:label xml:lang="es">tiene otra variante de nombre (obra)</rdfs:label>
+        <def:label xml:lang="en">Variant title</def:label>
+        <def:label xml:lang="es">Otro título</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1001"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P1006 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P1006">
+        <rdfs:label xml:lang="en">numbering of part</rdfs:label>
+        <rdfs:label xml:lang="es">numeración de parte</rdfs:label>
+        <def:label xml:lang="en">Number</def:label>
+        <def:label xml:lang="es">Número</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1001"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P1007 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P1007">
+        <rdfs:label xml:lang="en">cataloguer&apos;s note</rdfs:label>
+        <rdfs:label xml:lang="es">nota del catalogador</rdfs:label>
+        <def:label xml:lang="en">Cataloger&apos;s note</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="es">Nota del catalogador</def:label>
+        <rdfs:domain rdf:resource="&def;C1001"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P1008 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P1008">
+        <rdfs:label xml:lang="en">has medium of performance (musical work)</rdfs:label>
+        <rdfs:label xml:lang="es">tiene medio de interpretación (obra musical)</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="en">Medium of performance</def:label>
+        <def:label xml:lang="es">Medio de interpretación</def:label>
+        <rdfs:domain rdf:resource="&def;C1001"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P1009 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P1009">
+        <rdfs:label xml:lang="en">has key (musical work)</rdfs:label>
+        <rdfs:label xml:lang="es">tiene clave (obra musical)</rdfs:label>
+        <def:label xml:lang="en">Key</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="es">Tonalidad</def:label>
+        <rdfs:domain rdf:resource="&def;C1001"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P1010 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P1010">
+        <rdfs:label xml:lang="en">Signatory to a treaty, etc.</rdfs:label>
+        <rdfs:label xml:lang="es">firmante del tratado</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="en">Signatory to the treaty</def:label>
+        <def:label xml:lang="es">Firmante del tratado</def:label>
+        <rdfs:domain rdf:resource="&def;C1001"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P1011 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P1011">
+        <rdfs:label xml:lang="en">label associated with author</rdfs:label>
+        <rdfs:label xml:lang="es">etiqueta asociada al autor</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P1012 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P1012">
+        <rdfs:label xml:lang="en">label of part</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P2001 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P2001">
+        <rdfs:label xml:lang="en">has language of expression</rdfs:label>
+        <rdfs:label xml:lang="es">tiene lengua de la expresión</rdfs:label>
+        <def:label xml:lang="en">Language</def:label>
+        <def:label xml:lang="es">Lengua</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1002"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P2002 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P2002">
+        <rdfs:label xml:lang="en">has other distinguishing characteristic of expression</rdfs:label>
+        <rdfs:label xml:lang="es">tiene otras características distintivas de expresión</rdfs:label>
+        <def:label xml:lang="en">Form</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="es">Forma</def:label>
+        <rdfs:domain rdf:resource="&def;C1002"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3001 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3001">
+        <rdfs:label xml:lang="en">has name of publisher, producer, distributor</rdfs:label>
+        <rdfs:label xml:lang="es">tiene nombre de editor, productor, distribuidor</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="en">Publisher</def:label>
+        <def:label xml:lang="es">Editorial</def:label>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3002 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3002">
+        <rdfs:label xml:lang="en">has title proper</rdfs:label>
+        <rdfs:label xml:lang="es">tiene título propiamente dicho</rdfs:label>
+        <def:label xml:lang="en">Title</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="es">Título</def:label>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3003 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3003">
+        <rdfs:label xml:lang="en">has place of publication, production, distribution</rdfs:label>
+        <rdfs:label xml:lang="es">tiene lugar de publicación, producción, distribución</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="en">Place of publication</def:label>
+        <def:label xml:lang="es">Lugar de publicación</def:label>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3004 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3004">
+        <rdfs:label xml:lang="en">has specific material designation and extent</rdfs:label>
+        <rdfs:label xml:lang="es">tiene designación específica del material y extensión</rdfs:label>
+        <def:label xml:lang="en">Physical description or extent</def:label>
+        <def:label xml:lang="es">Descripción física o extensión</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3005 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3005">
+        <rdfs:label xml:lang="en">has content form and media type statement</rdfs:label>
+        <rdfs:label xml:lang="es">tiene mención de forma del contenido y de tipo de medio</rdfs:label>
+        <def:label xml:lang="en">Content form</def:label>
+        <def:label xml:lang="es">Tipo de material</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3006 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3006">
+        <rdfs:label xml:lang="en">has date of publication, production, distribution</rdfs:label>
+        <rdfs:label xml:lang="es">tiene fecha de publicación, producción, distribución</rdfs:label>
+        <def:label xml:lang="en">Date of publication</def:label>
+        <def:label xml:lang="es">Fecha de publicación</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3007 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3007">
+        <rdfs:label xml:lang="en">has dimensions</rdfs:label>
+        <rdfs:label xml:lang="es">tiene dimensiones</rdfs:label>
+        <def:label xml:lang="en">Dimension</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="es">Dimensiones</def:label>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3008 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3008">
+        <rdfs:label xml:lang="en">has statement of responsibility relating to title</rdfs:label>
+        <rdfs:label xml:lang="es">tienen mención de responsabilidad relativa al título</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="en">Statement of responsabilidad</def:label>
+        <def:label xml:lang="es">Mención de autoría</def:label>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3009 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3009">
+        <rdfs:label xml:lang="en">Identifier for the manifestation</rdfs:label>
+        <rdfs:label xml:lang="es">depósito legal</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="en">Legal Deposit</def:label>
+        <def:label xml:lang="es">Depósito Legal</def:label>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3012 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3012">
+        <rdfs:label xml:lang="en">has other physical details</rdfs:label>
+        <rdfs:label xml:lang="es">tiene otros detalles físicos</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="en">Other physical details</def:label>
+        <def:label xml:lang="es">Otras características físicas</def:label>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3013 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3013">
+        <rdfs:label xml:lang="en">ISBN</rdfs:label>
+        <rdfs:label xml:lang="es">ISBN</rdfs:label>
+        <def:label xml:lang="en">ISBN</def:label>
+        <def:label xml:lang="es">ISBN</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3014 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3014">
+        <rdfs:label xml:lang="es">has other title information</rdfs:label>
+        <rdfs:label xml:lang="es">tiene información complementaria del título</rdfs:label>
+        <def:label xml:lang="es">Resto del título</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="en">Remainder of title</def:label>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3015 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3015">
+        <rdfs:label xml:lang="en">has note</rdfs:label>
+        <rdfs:label xml:lang="es">tiene nota</rdfs:label>
+        <def:label xml:lang="en">Note</def:label>
+        <def:label xml:lang="es">Nota</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3016 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3016">
+        <rdfs:label xml:lang="en">has title proper of series or multipart monographic resource</rdfs:label>
+        <rdfs:label xml:lang="es">tiene título propiamente dicho de serie o recurso monográfico multiparte</rdfs:label>
+        <def:label xml:lang="en">Series</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="es">Serie</def:label>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3017 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3017">
+        <rdfs:label xml:lang="en">has edition statement</rdfs:label>
+        <rdfs:label xml:lang="es">tiene mención de edición</rdfs:label>
+        <def:label xml:lang="en">Edition</def:label>
+        <def:label xml:lang="es">Edición</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3018 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3018">
+        <rdfs:label xml:lang="en">has numbering within series or multipart monographic resource</rdfs:label>
+        <rdfs:label xml:lang="es">tiene numeración de serie o recurso monográfico multiparte</rdfs:label>
+        <def:label xml:lang="en">Numbering within series</def:label>
+        <def:label xml:lang="es">Número en la serie</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3019 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3019">
+        <rdfs:label xml:lang="en">has name of printer or manufacturer</rdfs:label>
+        <rdfs:label xml:lang="es">tiene nombre de impresor o fabricante</rdfs:label>
+        <def:label xml:lang="en">Printer</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="es">Impresor</def:label>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3020 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3020">
+        <rdfs:label xml:lang="en">publisher&apos;s number for music (manifestation)</rdfs:label>
+        <rdfs:label xml:lang="es">número del editor para música (manifestación
+)</rdfs:label>
+        <def:label xml:lang="en">Music editor number</def:label>
+        <def:label xml:lang="es">Número de editor musical</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3021 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3021">
+        <rdfs:label xml:lang="en">has note on material description</rdfs:label>
+        <rdfs:label xml:lang="es">tiene nota sobre descripción del material</rdfs:label>
+        <def:label xml:lang="en">Note</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="es">Nota</def:label>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3022 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3022">
+        <rdfs:label xml:lang="en">is in series</rdfs:label>
+        <rdfs:label xml:lang="es">pertenece a serie</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="en">Series</def:label>
+        <def:label xml:lang="es">Serie o colección</def:label>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3023 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3023">
+        <rdfs:label xml:lang="en">has note on contents</rdfs:label>
+        <rdfs:label xml:lang="es">tiene nota sobre el contenido</rdfs:label>
+        <def:label xml:lang="en">Note on contents</def:label>
+        <def:label xml:lang="es">Nota de contenido</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3024 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3024">
+        <rdfs:label xml:lang="en">has performer</rdfs:label>
+        <rdfs:label xml:lang="es">tiene intérprete</rdfs:label>
+        <def:label xml:lang="en">Performers</def:label>
+        <def:label xml:lang="es">Intérpretes</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3025 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3025">
+        <rdfs:label xml:lang="en">has note on bibliographic reference</rdfs:label>
+        <rdfs:label xml:lang="es">tiene nota de referencia bibliográfica</rdfs:label>
+        <def:label xml:lang="en">Bibliographic reference</def:label>
+        <def:label xml:lang="es">Referencia bibliográfica</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3026 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3026">
+        <rdfs:label xml:lang="en">has note on publication, production, distribution, etc.</rdfs:label>
+        <rdfs:label xml:lang="es">tiene nota sobre publicación, producción, distribución, etc.</rdfs:label>
+        <def:label xml:lang="en">Note on publication</def:label>
+        <def:label xml:lang="es">Nota de publicación</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3027 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3027">
+        <rdfs:label xml:lang="en">has place of printing or manufacturer</rdfs:label>
+        <rdfs:label xml:lang="es">tiene lugar de impresión o fabricación</rdfs:label>
+        <def:label xml:lang="en">Place of printing</def:label>
+        <def:label xml:lang="es">Lugar de impresión</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3028 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3028">
+        <rdfs:label xml:lang="en">variant title (manifestation)</rdfs:label>
+        <rdfs:label xml:lang="es">variante de título (manifestación)</rdfs:label>
+        <def:label xml:lang="en">Variant title</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="es">Otro título</def:label>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3029 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3029">
+        <rdfs:label xml:lang="en">has accompanying material statement</rdfs:label>
+        <rdfs:label xml:lang="es">tiene mención de material anejo</rdfs:label>
+        <def:label xml:lang="en">Accompanying material</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="es">Material de acompañamiento</def:label>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3030 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3030">
+        <rdfs:label xml:lang="en">has dependent title of title proper</rdfs:label>
+        <rdfs:label xml:lang="es">tiene título dependiente de título propiamente dicho</rdfs:label>
+        <def:label xml:lang="en">Dependent title</def:label>
+        <def:label xml:lang="es">Título dependiente</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3031 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3031">
+        <rdfs:label xml:lang="en">has numeric designation</rdfs:label>
+        <rdfs:label xml:lang="es">tiene designación  numérica</rdfs:label>
+        <def:label xml:lang="en">Chronological or sequential designation</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="es">Fechas o secuencia de la revista</def:label>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3032 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3032">
+        <rdfs:label xml:lang="en">has note on frequency</rdfs:label>
+        <rdfs:label xml:lang="es">tiene nota de frecuencia</rdfs:label>
+        <def:label xml:lang="en">Frequency</def:label>
+        <def:label xml:lang="es">Periodicidad</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3033 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3033">
+        <rdfs:label xml:lang="en">has dependent title designation of title proper</rdfs:label>
+        <rdfs:label xml:lang="es">tiene designación de título dependiente de título propiamente dicho</rdfs:label>
+        <def:label xml:lang="en">Dependent title</def:label>
+        <def:label xml:lang="es">Título dependiente</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3034 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3034">
+        <rdfs:label xml:lang="en">has note on relationship to other resources</rdfs:label>
+        <rdfs:label xml:lang="es">tiene nota de relación con otros recursos</rdfs:label>
+        <def:label xml:lang="en">Related resource</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="es">Recurso relacionado</def:label>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3035 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3035">
+        <rdfs:label xml:lang="en">has statement of scale</rdfs:label>
+        <rdfs:label xml:lang="es">tiene mención de escala</rdfs:label>
+        <def:label xml:lang="en">Scale</def:label>
+        <def:label xml:lang="es">Escala</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3036 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3036">
+        <rdfs:label xml:lang="en">has note on use or audience</rdfs:label>
+        <rdfs:label xml:lang="es">tiene nota de uso o destinatario</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="en">Note on use</def:label>
+        <def:label xml:lang="es">Nota de alcance</def:label>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3037 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3037">
+        <rdfs:label xml:lang="en">has note on basis of description</rdfs:label>
+        <rdfs:label xml:lang="es">tiene nota sobre base de descripción</rdfs:label>
+        <def:label xml:lang="es">Descripción basada en:</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="en">Basis of descripción</def:label>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3038 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3038">
+        <rdfs:label xml:lang="en">has terms of availability</rdfs:label>
+        <rdfs:label xml:lang="es">tiene condiciones de disponibilidad</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="en">Price</def:label>
+        <def:label xml:lang="es">Precio</def:label>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3039 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3039">
+        <rdfs:label xml:lang="en">ISSN</rdfs:label>
+        <rdfs:label xml:lang="es">ISSN</rdfs:label>
+        <def:label xml:lang="en">ISSN</def:label>
+        <def:label xml:lang="es">ISSN</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3040 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3040">
+        <rdfs:label xml:lang="en">has note on nature, scope, form, purpose or language</rdfs:label>
+        <rdfs:label xml:lang="es">tiene nota sobre naturaleza, alcance, forma, propósito o lengua</rdfs:label>
+        <def:label xml:lang="en">Note</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="es">Nota</def:label>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3041 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3041">
+        <rdfs:label xml:lang="en">has standard identifier</rdfs:label>
+        <rdfs:label xml:lang="es">tiene identificador normalizado</rdfs:label>
+        <def:label xml:lang="en">Other standard identifier</def:label>
+        <def:label xml:lang="es">Otros números normalizados</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3042 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3042">
+        <rdfs:label xml:lang="en">has note on material type or resource specific type</rdfs:label>
+        <rdfs:label xml:lang="es">tiene nota sobre tipo de material o tipo específico de recurso</rdfs:label>
+        <def:label xml:lang="en">Note</def:label>
+        <def:label xml:lang="es">Nota</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3043 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3043">
+        <rdfs:label xml:lang="en">has note on edition area and bibliographic history</rdfs:label>
+        <rdfs:label xml:lang="es">tiene nota sobre el área de edición e historia bibliográfica</rdfs:label>
+        <def:label xml:lang="en">Note on edition</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="es">Nota sobre la edición</def:label>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3044 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3044">
+        <rdfs:label xml:lang="en">has note on system requirements</rdfs:label>
+        <rdfs:label xml:lang="es">tiene nota de requisitos mínimos del sistema</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="en">System requirements</def:label>
+        <def:label xml:lang="es">Requisitos del sistema</def:label>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3045 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3045">
+        <rdfs:label xml:lang="en">has dependent title of series or multipart monographic resource</rdfs:label>
+        <rdfs:label xml:lang="es">tiene título dependiente de serie o recurso monográfico multiparte</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="en">Dependent title of series</def:label>
+        <def:label xml:lang="es">Título dependiente de la serie</def:label>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3046 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3046">
+        <rdfs:label xml:lang="en">has note on relationship between continuing resources</rdfs:label>
+        <rdfs:label xml:lang="es">tiene nota sobre la relación con recursos continuados</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3047 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3047">
+        <rdfs:label xml:lang="en">has note on reproduction</rdfs:label>
+        <rdfs:label xml:lang="es">tiene nota de reproducción</rdfs:label>
+        <def:label xml:lang="es">Nota de versión original</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="en">Reproduction note</def:label>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3048 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3048">
+        <rdfs:label xml:lang="en">has date of printing or manufacturer</rdfs:label>
+        <rdfs:label xml:lang="es">tiene fecha de impresión o fabricación</rdfs:label>
+        <def:label xml:lang="en">Date of impression or manufacturing</def:label>
+        <def:label xml:lang="es">Fecha de impresión o fabricación</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3049 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3049">
+        <rdfs:label xml:lang="en">has international standard number of series or multipart monographic resource</rdfs:label>
+        <rdfs:label xml:lang="es">tiene número normalizado internacional de serie o recurso monográfico multiparte</rdfs:label>
+        <def:label xml:lang="en">Series ISSN</def:label>
+        <def:label xml:lang="es">ISSN de la serie</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3050 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3050">
+        <rdfs:label xml:lang="en">has statement of responsibility relating to edition</rdfs:label>
+        <rdfs:label xml:lang="es">tiene mención de responsabilidad relativa a edición</rdfs:label>
+        <def:label xml:lang="en">Edition statement</def:label>
+        <def:label xml:lang="es">Mención de edición</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3051 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3051">
+        <rdfs:label xml:lang="en">has music format statement</rdfs:label>
+        <rdfs:label xml:lang="es">tiene mención de formato musical</rdfs:label>
+        <rdfs:comment xml:lang="en">Music format</rdfs:comment>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:comment xml:lang="es">Formato musical</rdfs:comment>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3052 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3052">
+        <rdfs:label xml:lang="en">has note on series and multipart monographic resources</rdfs:label>
+        <rdfs:label xml:lang="es">tiene nota de serie o recurso monográfico multiparte</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="en">Series note</def:label>
+        <def:label xml:lang="es">Nota de serie</def:label>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3053 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3053">
+        <rdfs:label xml:lang="en">has dependent title designation of series or multipart monographic resource</rdfs:label>
+        <rdfs:label xml:lang="es">tiene designación de título dependiente de serie o recurso monográfico multiparte</rdfs:label>
+        <def:label xml:lang="en">Dependent title of series</def:label>
+        <def:label xml:lang="es">Título dependiente de la serie</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3054 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3054">
+        <rdfs:label xml:lang="en">has note on supplement to or insert in</rdfs:label>
+        <rdfs:label xml:lang="es">tiene nota de suplemento a o de insertado en</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="en">Suplement to or insert in:</def:label>
+        <def:label xml:lang="es">Suplemento o parte de</def:label>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3055 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3055">
+        <rdfs:label xml:lang="en">has note on supplements, inserts, etc.</rdfs:label>
+        <rdfs:label xml:lang="es">tiene nota de suplementos, insertos, etc</rdfs:label>
+        <def:label xml:lang="en">Suplements:</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="es">Suplementos:</def:label>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3056 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3056">
+        <rdfs:label xml:lang="en">has coordinates</rdfs:label>
+        <rdfs:label xml:lang="es">tiene coordenadas</rdfs:label>
+        <def:label xml:lang="en">Coordinates</def:label>
+        <def:label xml:lang="es">Coordenadas</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3057 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3057">
+        <rdfs:label xml:lang="en">has longitude and latitude</rdfs:label>
+        <rdfs:label xml:lang="es">tiene longitud y latitud</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="en">Longitude and latitude</def:label>
+        <def:label xml:lang="es">Longitud y latitud</def:label>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3058 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3058">
+        <rdfs:label xml:lang="en">has note on mode of access</rdfs:label>
+        <rdfs:label xml:lang="es">tiene nota sobre modo de acceso</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="en">Note on mode of access</def:label>
+        <def:label xml:lang="es">Nota sobre modo de acceso</def:label>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3059 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3059">
+        <rdfs:label xml:lang="en">has fingerprint</rdfs:label>
+        <rdfs:label xml:lang="es">tiene identificador tipográfico</rdfs:label>
+        <def:label xml:lang="en">Fingerprint</def:label>
+        <def:label xml:lang="es">Identificador topográfico</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3060 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3060">
+        <rdfs:label xml:lang="en">has note on binding</rdfs:label>
+        <rdfs:label xml:lang="es">tiene nota sobre la encuadernación</rdfs:label>
+        <def:label xml:lang="en">Nota sobre la encuadernación</def:label>
+        <def:label xml:lang="en">Note on binding</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3061 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3061">
+        <rdfs:label xml:lang="en">has content form</rdfs:label>
+        <rdfs:label xml:lang="es">tiene forma del contenido</rdfs:label>
+        <def:label xml:lang="en">Content form</def:label>
+        <def:label xml:lang="es">Forma del contenido</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3062 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3062">
+        <rdfs:label xml:lang="en">has media type</rdfs:label>
+        <rdfs:label xml:lang="es">tiene tipo de medio</rdfs:label>
+        <def:label xml:lang="en">Media type</def:label>
+        <def:label xml:lang="es">Tipo de medio</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3063 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3063">
+        <rdfs:label xml:lang="en">has right ascension and declination</rdfs:label>
+        <rdfs:label xml:lang="es">tiene ascensión recta y declinación</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="en">Cartographic mathematical data</def:label>
+        <def:label xml:lang="es">Datos matemáticos cartográficos</def:label>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3064 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3064">
+        <rdfs:label xml:lang="en">type of resource</rdfs:label>
+        <rdfs:label xml:lang="es">tipo de recurso</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1003"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3065 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3065">
+        <rdfs:label xml:lang="en">has note of incipit</rdfs:label>
+        <rdfs:label xml:lang="es">tiene nota de incipit</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="es">nota</def:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3066 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3066">
+        <rdfs:label xml:lang="en">associated image</rdfs:label>
+        <rdfs:label xml:lang="en">thumbnail</rdfs:label>
+        <rdfs:label xml:lang="es">miniatura</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="es">imagen asociada</def:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P3067 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P3067">
+        <rdfs:label xml:lang="en">abstract</rdfs:label>
+        <rdfs:label xml:lang="es">resumen</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P5001 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P5001">
+        <rdfs:label xml:lang="en">has name of person</rdfs:label>
+        <rdfs:label xml:lang="es">tiene nombre de persona</rdfs:label>
+        <def:label xml:lang="en">Name</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="es">Nombre</def:label>
+        <rdfs:domain rdf:resource="&def;C1005"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P5002 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P5002">
+        <rdfs:label xml:lang="en">has dates of person</rdfs:label>
+        <rdfs:label xml:lang="es">tiene fechas de persona</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="en">Dates</def:label>
+        <def:label xml:lang="es">Fechas asociadas</def:label>
+        <rdfs:domain rdf:resource="&def;C1005"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P5003 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P5003">
+        <rdfs:label xml:lang="en">has title of person</rdfs:label>
+        <rdfs:label xml:lang="es">tiene calificativo de persona</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="en">Title, rank or office</def:label>
+        <def:label xml:lang="es">Título, rango, oficio o cargo</def:label>
+        <rdfs:domain rdf:resource="&def;C1005"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P5004 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P5004">
+        <rdfs:label xml:lang="en">fuller form of name (person)</rdfs:label>
+        <rdfs:label xml:lang="es">nombre completo (persona)</rdfs:label>
+        <def:label xml:lang="en">Fuller form of name</def:label>
+        <def:label xml:lang="es">Forma completa del nombre</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1005"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P5005 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P5005">
+        <rdfs:label xml:lang="en">has biography or history</rdfs:label>
+        <rdfs:label xml:lang="es">tiene biografía o historia</rdfs:label>
+        <def:label xml:lang="en">Other biographical or historical data</def:label>
+        <def:label xml:lang="es">Otros datos biográficos o históricos</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1005"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P5006 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P5006">
+        <rdfs:label xml:lang="en">related person (person)</rdfs:label>
+        <rdfs:label xml:lang="es">persona relacionada (persona)</rdfs:label>
+        <def:label xml:lang="en">Related person</def:label>
+        <def:label xml:lang="es">Persona relacionada</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1005"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P5007 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P5007">
+        <rdfs:label xml:lang="en">has other designation associated with the person</rdfs:label>
+        <rdfs:label xml:lang="es">tiene otras designaciones asociadas con la persona</rdfs:label>
+        <def:label xml:lang="en">Numeration</def:label>
+        <def:label xml:lang="es">Numeración</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1005"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P5008 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P5008">
+        <rdfs:label xml:lang="en">has pseudonymous persona</rdfs:label>
+        <rdfs:label xml:lang="es">tiene pseudónimo</rdfs:label>
+        <def:label xml:lang="en">Note on pseudonyms</def:label>
+        <def:label xml:lang="es">Nota sobre seudónimos</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1005"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P5009 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P5009">
+        <rdfs:label xml:lang="en">related corporate body (person)</rdfs:label>
+        <rdfs:label xml:lang="es">entidad relacionada (persona)</rdfs:label>
+        <def:label xml:lang="en">Related group or body</def:label>
+        <def:label xml:lang="es">Entidad o grupo relacionado</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1005"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P5010 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P5010">
+        <rdfs:label xml:lang="en">date of birth</rdfs:label>
+        <rdfs:label xml:lang="es">fecha de nacimiento</rdfs:label>
+        <def:label xml:lang="es">fecha de nacimiento
+</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P5011 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P5011">
+        <rdfs:label xml:lang="en">date of death</rdfs:label>
+        <rdfs:label xml:lang="es">fecha de fallecimiento</rdfs:label>
+        <def:label xml:lang="en">date of death</def:label>
+        <def:label xml:lang="es">fecha de fallecimiento</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P6001 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P6001">
+        <rdfs:label xml:lang="en">has name of the corporate body</rdfs:label>
+        <rdfs:label xml:lang="es">tiene nombre de entidad corporativa</rdfs:label>
+        <def:label xml:lang="en">Name</def:label>
+        <def:label xml:lang="es">Nombre</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1006"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P6002 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P6002">
+        <rdfs:label xml:lang="en">has hierarchical subordinate</rdfs:label>
+        <rdfs:label xml:lang="es">subordinada jerárquica</rdfs:label>
+        <def:label xml:lang="en">Subordinate unit</def:label>
+        <def:label xml:lang="es">Entidad subordinada</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1006"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P6003 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P6003">
+        <rdfs:label xml:lang="en">has date associated with the corporate body</rdfs:label>
+        <rdfs:label xml:lang="es">tiene fecha asociada a la entidad corporativa</rdfs:label>
+        <def:label xml:lang="en">Date of meeting or treaty signing</def:label>
+        <def:label xml:lang="es">Fecha del congreso o tratado</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1006"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P6004 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P6004">
+        <rdfs:label xml:lang="en">has place associated with the corporate body</rdfs:label>
+        <rdfs:label xml:lang="es">tiene lugar asociado a la entidad corporativa</rdfs:label>
+        <def:label xml:lang="en">Place of congress or exhibition</def:label>
+        <def:label xml:lang="es">Lugar del congreso o exhibición</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1006"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P6005 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P6005">
+        <rdfs:label xml:lang="en">has other variant name (corporate body)</rdfs:label>
+        <rdfs:label xml:lang="es">tiene otra variante de nombre (entidad corporativa)</rdfs:label>
+        <def:label xml:lang="en">Other variant name</def:label>
+        <def:label xml:lang="es">Variantes del nombre</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1006"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P6006 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P6006">
+        <rdfs:label xml:lang="en">has number associated with the corporate body</rdfs:label>
+        <rdfs:label xml:lang="es">tiene número asociado a la entidad corporativa</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="en">Number of meeting</def:label>
+        <def:label xml:lang="es">Número del congreso o exposición</def:label>
+        <rdfs:domain rdf:resource="&def;C1006"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P6007 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P6007">
+        <rdfs:label xml:lang="en">related corporate body (corporate body)</rdfs:label>
+        <rdfs:label xml:lang="es">entidad relacionada (entidad corporativa)</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="en">Related group or body</def:label>
+        <def:label xml:lang="es">Entidad o grupo relacionado</def:label>
+        <rdfs:domain rdf:resource="&def;C1006"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P6008 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P6008">
+        <rdfs:label xml:lang="en">note</rdfs:label>
+        <rdfs:label xml:lang="es">nota</rdfs:label>
+        <def:label xml:lang="en">Note</def:label>
+        <def:label xml:lang="es">Nota</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/
+</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1006"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/P6009 -->
+
+    <owl:DatatypeProperty rdf:about="&def;P6009">
+        <rdfs:label xml:lang="en">related person (corporate body) </rdfs:label>
+        <rdfs:label xml:lang="es">persona relacionada (entidad corporativa)</rdfs:label>
+        <def:label xml:lang="en">Related person</def:label>
+        <def:label xml:lang="es">Persona relacionada</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <rdfs:domain rdf:resource="&def;C1006"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://datos.bne.es/def/id -->
+
+    <owl:DatatypeProperty rdf:about="&def;id">
+        <rdfs:label xml:lang="en">BNE id</rdfs:label>
+        <rdfs:label xml:lang="es">BNE id</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://datos.bne.es/def/C1001 -->
+
+    <owl:Class rdf:about="&def;C1001">
+        <rdfs:label xml:lang="en">Work</rdfs:label>
+        <rdfs:label xml:lang="es">Obra
+</rdfs:label>
+        <rdfs:isDefinedBy></rdfs:isDefinedBy>
+        <rdfs:comment xml:lang="en">A work is an abstract entity; there is no single material object one can point to as the work. We recognize the work through individual realizations or expressions of the work, but the work itself exists only in the commonality of content between and among the various expressions of the work. Because the notion of a work is abstract, it is difficult to define precise boundaries for the entity. The concept of what constitutes a work and where the line of demarcation lies between one work and another may in fact be viewed differently from one culture to another. Consequently the bibliographic conventions established by various cultures or national groups may differ in terms of the criteria they use for determining the boundaries between one work and another. For the purposes of this model variant texts incorporating revisions or updates to an earlier text are viewed simply as expressions of the same work (i.e., the variant texts are not viewed as separate works). Similarly, abridgements or enlargements of an existing text, or the addition of parts or an accompaniment to a musical composition are considered to be different expressions of the same work. Translations from one language to another, musical transcriptions and arrangements, and dubbed or subtitled versions of a film are also considered simply as different expressions of the same original work. By contrast, when the modification of a work involves a significant degree of independent intellectual or artistic effort, the result is viewed, for the purpose of this model, as a new work. Thus paraphrases, rewritings, adaptations for children, parodies, musical variations on a theme and free transcriptions of a musical composition are considered to represent new works. Similarly, adaptations of a work from one literary or art form to another (e.g., dramatizations, adaptations from one medium of the graphic arts to another, etc.) are considered to represent new works. Abstracts, digests and summaries are also considered to represent new works. [Source: http://iflastandards.info/ns/fr/frbr/frbrer/C1001]</rdfs:comment>
+        <def:label xml:lang="en">Work</def:label>
+        <def:label xml:lang="es">Obra</def:label>
+    </owl:Class>
+    
+
+
+    <!-- http://datos.bne.es/def/C1002 -->
+
+    <owl:Class rdf:about="&def;C1002">
+        <rdfs:label xml:lang="en">Expression</rdfs:label>
+        <rdfs:label xml:lang="es">Expresión</rdfs:label>
+        <rdfs:comment xml:lang="en">An expression is the specific intellectual or artistic form that a work takes each time it is &quot;realized&quot;. Expression encompasses, for example, the specific words, sentences, paragraphs, etc. that result from the realization of a work in the form of a text, or the particular sounds, phrasing, etc. resulting from the realization of a musical work. The boundaries of the entity expression are defined, however, so as to exclude aspects of physical form, such as typeface and page layout, that are not integral to the intellectual or artistic realization of the work as such. Inasmuch as the form of expression is an inherent characteristic of the expression, any change in form (e.g., from alpha-numeric notation to spoken word) results in a new expression. Similarly, changes in the intellectual conventions or instruments that are employed to express a work (e.g., translation from one language to another) result in the production of a new expression. If a text is revised or modified, the resulting expression is considered to be a new expression. The degree to which bibliographic distinctions are made between variant expressions of a work will depend to some extent on the nature of the work itself, on the anticipated needs of users and on what the cataloguer can reasonably be expected to recognize from the manifestation being described. Differences in form of expression (e.g., the differences between the expression of a work in the form of musical notation and the expression of the same work in the form of recorded sound) will normally be reflected in the bibliographic record, no matter what the nature of the work itself may be. Variant expressions in the same form (e.g., revised versions of a text) will often be indirectly identified as different expressions because the variation is apparent from the data associated with an attribute used to identify the manifestation in which the expression is embodied (e.g., an edition statement). Variations that would be evident only from a more detailed analysis and comparison of expressions (e.g., variations between several of the early texts of Shakespeare&apos;s Hamlet) would normally be reflected in the data only if the nature or stature of the work warranted such analysis, and only if it was anticipated that the distinction would be important to users. [Source: http://iflastandards.info/ns/fr/frbr/frbrer/C1002]</rdfs:comment>
+        <def:label xml:lang="en">Version</def:label>
+        <def:label xml:lang="es">Versión</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+    </owl:Class>
+    
+
+
+    <!-- http://datos.bne.es/def/C1003 -->
+
+    <owl:Class rdf:about="&def;C1003">
+        <rdfs:label xml:lang="en">Manifestation</rdfs:label>
+        <rdfs:label xml:lang="es">Manifestación</rdfs:label>
+        <def:label xml:lang="en">Edition</def:label>
+        <rdfs:comment xml:lang="en">The entity defined as manifestation encompasses a wide range of materials, including manuscripts, books, periodicals, maps, posters, sound recordings, films, video recordings, CD-ROMs, multimedia kits, etc. As an entity, manifestation represents all the physical objects that bear the same characteristics, in respect to both intellectual content and physical form. When a work is realized, the resulting expression of the work may be physically embodied on or in a medium such as paper, audio tape, video tape, canvas, plaster, etc. That physical embodiment constitutes a manifestation of the work. In some cases there may be only a single physical exemplar produced of that manifestation of the work (e.g., an author&apos;s manuscript, a tape recorded for an oral history archive, an original oil painting, etc.). In other cases there are multiple copies produced in order to facilitate public dissemination or distribution. In those cases there is normally a more formal production process involved, and a publisher, producer, or distributor takes responsibility for the process. In other cases there may be only a limited number of copies made of an original exemplar for purposes such as private study (e.g., a dubbing of an original recording of a piece of music), or preservation (e.g., a photocopy produced on permanent paper of an author&apos;s original typescript). Whether the scope of production is broad (e.g., in the case of publication, etc.) or limited (e.g., in the case of copies made for private study, etc.), the set of copies produced in each case constitutes a manifestation. All copies produced that form part of the same set are considered to be copies of the same manifestation. The boundaries between one manifestation and another are drawn on the basis of both intellectual content and physical form. When the production process involves changes in physical form the resulting product is considered a new manifestation. Changes in physical form include changes affecting display characteristics (e.g., a change in typeface, size of font, page layout, etc.), changes in physical medium (e.g., a change from paper to microfilm as the medium of conveyance), and changes in the container (e.g., a change from cassette to cartridge as the container for a tape). Where the production process involves a publisher, producer, distributor, etc., and there are changes signalled in the product that are related to publication, marketing, etc. (e.g., a change in publisher, repackaging, etc.), the resulting product may be considered a new manifestation. Whenever the production process involves modifications, additions, deletions, etc. that affect the intellectual or artistic content, the result is a new manifestation embodying a new expression of the work. Changes that occur deliberately or even inadvertently in the production process that affect the copies result, strictly speaking, in a new manifestation. A manifestation resulting from such a change may be identified as a particular &quot;state&quot; or &quot;issue&quot; of the publication. Changes that occur to an individual copy after the production process is complete (e.g., the loss of a page, rebinding, etc.) are not considered to result in a new manifestation. That copy is simply considered to be an exemplar (or item) of the manifestation that deviates from the copy as produced. [Source: http://iflastandards.info/ns/fr/frbr/frbrer/C1003]</rdfs:comment>
+        <def:label xml:lang="es">Edición</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+    </owl:Class>
+    
+
+
+    <!-- http://datos.bne.es/def/C1004 -->
+
+    <owl:Class rdf:about="&def;C1004">
+        <rdfs:label xml:lang="en">Item</rdfs:label>
+        <rdfs:label xml:lang="es">Ejemplar</rdfs:label>
+        <def:label xml:lang="en">Item</def:label>
+        <rdfs:comment xml:lang="en">The entity defined as item is a concrete entity. It is in many instances a single physical object (e.g., a copy of a one-volume monograph, a single audio cassette, etc.). There are instances, however, where the entity defined as item comprises more than one physical object (e.g., a monograph issued as two separately bound volumes, a recording issued on three separate compact discs, etc.). In terms of intellectual content and physical form, an item exemplifying a manifestation is normally the same as the manifestation itself. However, variations may occur from one item to another, even when the items exemplify the same manifestation, where those variations are the result of actions external to the intent of the producer of the manifestation (e.g., damage occurring after the item was produced, binding performed by a library, etc.). [Source: http://iflastandards.info/ns/fr/frbr/frbrer/C1004]</rdfs:comment>
+        <def:label xml:lang="es">Ejemplar</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+    </owl:Class>
+    
+
+
+    <!-- http://datos.bne.es/def/C1005 -->
+
+    <owl:Class rdf:about="&def;C1005">
+        <rdfs:label xml:lang="en">Person</rdfs:label>
+        <rdfs:label xml:lang="es">Persona</rdfs:label>
+        <def:label xml:lang="en">Person</def:label>
+        <rdfs:comment xml:lang="en">The entity defined as person encompasses individuals that are deceased as well as those that are living. For the purposes of this model persons are treated as entities only to the extent that they are involved in the creation or realization of a work (e.g., as authors, composers, artists, editors, translators, directors, performers, etc.), or are the subject of a work (e.g., as the subject of a biographical or autobiographical work, of a history, etc.). [Source: http://iflastandards.info/ns/fr/frbr/frbrer/C1005]</rdfs:comment>
+        <def:label xml:lang="es">Persona</def:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/
+</rdfs:isDefinedBy>
+    </owl:Class>
+    
+
+
+    <!-- http://datos.bne.es/def/C1006 -->
+
+    <owl:Class rdf:about="&def;C1006">
+        <rdfs:label xml:lang="en">Corporate Body</rdfs:label>
+        <rdfs:label xml:lang="es">Entidad Corporativa</rdfs:label>
+        <rdfs:isDefinedBy>http://datos.bne.es/def/</rdfs:isDefinedBy>
+        <def:label xml:lang="en">Corporate body</def:label>
+        <rdfs:comment xml:lang="en">The entity defined as corporate body encompasses organizations and groups of individuals and-or organizations that are identified by a particular name, including occasional groups and groups that are constituted as meetings, conferences, congresses, expeditions, exhibitions, festivals, fairs, etc. The entity also encompasses organizations that act as territorial authorities, exercising or claiming to exercise government functions over a certain territory, such as a federation, a state, a region, a local municipality, etc. The entity encompasses organizations and groups that are defunct as well as those that continue to operate.  For the purposes of this model corporate bodies are treated as entities only to the extent that they are involved in the creation or realization of a work (e.g., as the sponsors or endorsers of a work, etc.), or are the subject of a work (e.g., as the subject of a history, etc.). [Source: http://iflastandards.info/ns/fr/frbr/frbrer/C1006]</rdfs:comment>
+        <def:label xml:lang="es">Entidad</def:label>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.2) http://owlapi.sourceforge.net -->
+

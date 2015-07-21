@@ -1,0 +1,156 @@
+[{
+  "fields": [
+    [
+      "001",
+      "662"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19880304d1987    d  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >lago dos cisnes azuis",
+      "f",
+      "Alexandre Honrado",
+      "g",
+      "il. Maria Keil"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "1ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "Asa",
+      "d",
+      "1987"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "112 p.",
+      "c",
+      "il.",
+      "d",
+      "20 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Ramo verde",
+      "i",
+      "Novelas juvenis",
+      "v",
+      "2"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821.134.3",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Honrado",
+      "b",
+      "Alexandre",
+      "f",
+      "1960-"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Keil",
+      "b",
+      "Maria",
+      "f",
+      "1914-",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060523111243&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0002114",
+      "l",
+      "BMM",
+      "s",
+      "SJ 821.134.3 HON lag 2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0002115",
+      "l",
+      "BMM",
+      "s",
+      "SJ 821.134.3 HON lag 2"
+    ]
+  ]
+}]

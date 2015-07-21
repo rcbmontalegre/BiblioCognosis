@@ -1,0 +1,149 @@
+<templates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:noNamespaceSchemaLocation="../../xsd/frbrizer.xsd">
+   
+   <!-- A simple example file that shows the rules for creating person, work, expression and manifestation entities from 100 and 240 fields -->
+   
+   <!-- keyfilter is used to remove punctuation etc. from the values that are used in the keystring -->
+   <keyfilter>replace(lower-case(string-join($key, '\')), '[^a-z0-9\\#|¤§]', '')</keyfilter>
+   
+   <entity type="http://iflastandards.info/ns/fr/frbr/frbrer/C1005" label="Person" templatename="MARC21-100-Person">
+      <note>Creator identified with the help of field 100</note>
+      <anchor tag="100"/>
+      <attributes>
+         <datafield tag="100">
+            <subfield code="a" type="http://iflastandards.info/ns/fr/frbr/frbrer/P3039" label="has name of person"/>
+            <subfield code="d" type="http://iflastandards.info/ns/fr/frbr/frbrer/P3040" label="has dates of person"/>
+            <subfield code="e"/>
+         </datafield>
+      </attributes>
+      <relationships>
+         <relationship type="http://iflastandards.info/ns/fr/frbr/frbrer/P2010" itype="http://iflastandards.info/ns/fr/frbr/frbrer/P2009">
+            <target entity="MARC21-240-Work"/>
+         </relationship>
+      </relationships>
+      <label select="*:datafield/*:subfield[ends-with(@*:type, 'P3039')]"/>
+      <key order="1">
+         <element>*:datafield[@tag = '100'][1]/*:subfield[@code = 'a'][1]</element>
+         <element>*:datafield[@tag = '100'][1]/*:subfield[@code = 'd'][1]</element>
+      </key>
+   </entity>
+
+   
+   <entity type="http://iflastandards.info/ns/fr/frbr/frbrer/C1001" label="Work" templatename="MARC21-240-Work">
+      <note>Work identified by title in 240</note>
+      <anchor tag="240"/>
+      <attributes>
+         <datafield tag="240">
+            <subfield code="a" type="http://iflastandards.info/ns/fr/frbr/frbrer/P3001" label="has title of the work"/>
+            <subfield code="p" type="http://iflastandards.info/ns/fr/frbr/frbrer/P3001" label="has title of the work"/>
+            <subfield code="n" type="http://iflastandards.info/ns/fr/frbr/frbrer/P3001" label="has title of the work"/>
+            <subfield code="k" type="http://iflastandards.info/ns/fr/frbr/frbrer/P3002" label="has form of work"/>
+            <subfield code="f" type="http://iflastandards.info/ns/fr/frbr/frbrer/P3003" label="has date of the work"/>
+         </datafield>
+         <datafield tag="380">
+            <subfield code="a" type="http://iflastandards.info/ns/fr/frbr/frbrer/P3002" label="has form of work"/>
+         </datafield>
+      </attributes>
+      <label select="string-join(*:datafield[@tag='240']/*:subfield[@code = ('a','n','p')], ' / ')"/>
+      <key order="2">
+         <element>local:sort-relationships(*:relationship[ends-with(@*:type, 'P2009')])[1]/@*:href</element>
+         <element>*:datafield[@tag = '240']/*:subfield[@code = 'a'][1]</element>
+         <element>*:datafield[@tag = '240']/*:subfield[@code = 'p'][1]</element>
+         <element>*:datafield[@tag = '240']/*:subfield[@code = 'n'][1]</element>
+         <element>*:datafield[@tag = '380']/*:subfield[@code = 'a'][1]</element>
+         <element>*:datafield[@tag = '240']/*:subfield[@code = 'f'][1]</element>
+      </key>
+      <relationships>
+         <relationship type="http://iflastandards.info/ns/fr/frbr/frbrer/P2001" label="is realized through" itype="http://iflastandards.info/ns/fr/frbr/frbrer/P2002" ilabel="is realization of">
+            <target entity="MARC21-240-Expression" same-field="true"/>
+         </relationship>
+      </relationships>
+   </entity>
+   
+   <entity type="http://iflastandards.info/ns/fr/frbr/frbrer/C1002" label="Expression" templatename="MARC21-240-Expression" subtype="{($anchor_field/*:subfield[@code='h'], $record/*:datafield[@tag='336']/*:subfield[@code = 'a'])[1]}">
+      <note>Expression for the work identified in 240</note>
+      <anchor tag="240" condition="@ind1 = '1'"/>
+      <attributes>
+         <controlfield tag="008"/>
+         <!-- as an example we can use 245$a as expression title-->
+         <datafield tag="245">
+            <subfield code="a" type="http://iflastandards.info/ns/fr/frbr/frbrer/P3008"/>
+            <subfield code="b" type="http://iflastandards.info/ns/fr/frbr/frbrer/P3008"/>
+         </datafield>
+         <datafield tag="240">
+            <subfield code="p"/>
+            <subfield code="s" type="http://iflastandards.info/ns/fr/frbr/frbrer/P3012"/>
+         </datafield>
+         <datafield tag="041">
+            <subfield code="d" type="http://iflastandards.info/ns/fr/frbr/frbrer/P3011"/>
+            <subfield code="a" type="http://iflastandards.info/ns/fr/frbr/frbrer/P3011"/>
+            <subfield code="l"/>
+         </datafield>
+         <datafield tag="336">
+            <subfield code="a" type="http://iflastandards.info/ns/fr/frbr/frbrer/P3009"/>
+         </datafield>
+      </attributes>
+      <label select="string-join((*:datafield/*:subfield[ends-with(@*:type, 'P3009')][1], *:datafield/*:subfield[ends-with(@*:type, 'P3011')][1], *:datafield/*:subfield[ends-with(@*:type, 'P3008')]), ' / ')"/>
+      <key order="3">
+         <element>*:relationship[ends-with(@*:type, 'P2002')][1]/@*:href</element>
+         <element>*:datafield[@tag = '336']/*:subfield[@code='a']</element>
+         <element>*:datafield[@tag = '041']/*:subfield[@code=('a', 'd')][1]</element>
+         <element>*:datafield[@tag = '240']/*:subfield[@code='s']</element>
+      </key>
+      <relationships>
+         <relationship type="http://iflastandards.info/ns/fr/frbr/frbrer/P2003" itype="http://iflastandards.info/ns/fr/frbr/frbrer/P2004">
+            <target entity="MARC21-001-Manifestation"/>
+         </relationship>
+      </relationships>
+   </entity>
+ 
+   <entity type="http://iflastandards.info/ns/fr/frbr/frbrer/C1003" label="Manifestation" templatename="MARC21-001-Manifestation">
+      <note>Manifestation</note>
+      <anchor tag="001"/>
+      <attributes>
+         <controlfield tag="001"/>
+         <controlfield tag="008"/>
+         <datafield tag="020">
+            <subfield code="a" />
+         </datafield>
+         <datafield tag="024">
+            <subfield code="a"/>
+         </datafield>
+         <datafield tag="245">
+            <subfield code="a"/>
+            <subfield code="b"/>
+            <subfield code="c"/>
+         </datafield>
+         <datafield tag="250">
+            <subfield code="a"/>
+         </datafield>
+         <datafield tag="260">
+            <subfield code="a"/>
+            <subfield code="b"/>
+            <subfield code="c"/>
+         </datafield>
+         <datafield tag="300">
+            <subfield code="a"/>
+            <subfield code="b"/>
+            <subfield code="c"/>
+         </datafield>
+         <datafield tag="337">
+            <subfield code="a"/>
+         </datafield>
+         <datafield tag="338">
+            <subfield code="a"/>
+         </datafield>
+         <datafield tag="490">
+            <subfield code="a"/>
+            <subfield code="v"/>
+            <subfield code="p"/>
+         </datafield>
+      </attributes>
+      <label select="string-join(*:datafield[@tag = '245']/*:subfield[@code = ('a', 'b', 'c')], ' / ')"/>
+      <key order="1">
+         <element>if (*:datafield[@tag=("020","024")][1]/*:subfield[@code='a'][1]) then *:datafield[@tag=("020","024")][1]/*:subfield[@code='a'][1]/replace(., '\(.*\)', '') else *:controlfield[@tag='001']</element>        
+      </key>
+      <relationships/>
+   </entity>
+   
+</templates>

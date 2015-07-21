@@ -1,0 +1,19 @@
+00716nam  2200217   450
+001   536
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00217025
+100    $a 20070518d1974    m  y0pora010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a <O >sol de cobre $f André Kedros $g trad. de Carlos Loures
+210    $a Lisboa $c Europa-América $d 1974
+215    $a 140, [3] p. $d 18 cm
+225 2  $a Livros de bolso Europa-América $v 78
+304    $a Tít. orig.: Le soleil de cuivre
+675    $a 821 $v BN $z por
+700  1 $a Kedros $b André
+702  1 $a Loures $b Carlos $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060518101653&ext=jpg $z capa
+909 	  $a 1
+966    $a 0005346 $l BMM $s SCG 821 kED sol 78

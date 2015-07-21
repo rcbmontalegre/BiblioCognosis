@@ -1,0 +1,25 @@
+00889nam  2200289   450
+001   48
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-1-02873-8
+021    $a PT $b 30177/89
+095    $a PTBN00225986
+100    $a 20070514d1989    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a Biplano $f Richard Bach $g pref. Ray Bradbury $g trad. Maria Fernanda César
+205    $a 2ª ed
+210    $a Mem Martins $c Europa-América $d D.L. 1989
+215    $a 179 p. $d 22 cm
+225 2  $a Obras de Richard Bach $v 3
+304    $a Tít. orig. : Biplane
+675    $a 821 $v BN $z por
+700  1 $a Bach $b Richard
+702  1 $a Bradbury $b Ray $f 1920 $4 080
+702  1 $a César $b Maria Fernanda $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060504161516&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0005113 $l BMM $s SCG 821 BAC bip

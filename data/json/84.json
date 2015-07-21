@@ -1,0 +1,162 @@
+[{
+  "fields": [
+    [
+      "001",
+      "84"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "19948"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00112489"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19880522d1988    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Morte suspensa",
+      "f",
+      "Maurice Blanchot",
+      "g",
+      "trad. Jorge Camacho"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Edições 70",
+      "d",
+      "1988"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "86 p.",
+      "d",
+      "24 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Caligrafias",
+      "v",
+      "4)"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: L'arrêt de mort"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Blanchot",
+      "b",
+      "Maurice",
+      "f",
+      "1907-2003"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Camacho",
+      "b",
+      "Jorge",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060508151749&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008289",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 BLA mor 4"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008309",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 BLA mor 4"
+    ]
+  ]
+}]

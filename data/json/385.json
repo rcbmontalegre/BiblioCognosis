@@ -1,0 +1,168 @@
+[{
+  "fields": [
+    [
+      "001",
+      "385"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-9013-05-5"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "32952/89"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00250686"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19900508d1990    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "ita"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   000ay"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Todos os nossos ontens",
+      "f",
+      "Natalia Ginzburg",
+      "g",
+      "trad. Anna Alba Caruso"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Cotovia",
+      "d",
+      "cop. 1990"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "332, [3] p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Livros Cotovia"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : Tutti i nostri ieri"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "850-31\"19\"",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Ginzburg",
+      "b",
+      "Natalia",
+      "f",
+      "1916-1991"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Caruso",
+      "b",
+      "Ana Alba",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060515155525&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008561",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 GIN tod"
+    ]
+  ]
+}]

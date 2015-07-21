@@ -1,0 +1,156 @@
+[{
+  "fields": [
+    [
+      "001",
+      "913"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "219276/04"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d2004----a y0pory0103 ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >livro das estrelas",
+      "f",
+      "Erik L'Homme",
+      "g",
+      "tradução de Alda Durães"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "1ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "Asa",
+      "d",
+      "2004"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "v.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Romance jovem"
+    ],
+    [
+      "327",
+      "1 ",
+      "a",
+      "vol. III: O rosto da escuridão. - 256 p."
+    ],
+    [
+      "606",
+      "1 ",
+      "a",
+      "Literatura juvenil"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Prosa narrativa"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "087.5"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "L'Homme",
+      "b",
+      "Erik"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Durães",
+      "b",
+      "Alda",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060629143608&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0016740",
+      "l",
+      "BMM",
+      "s",
+      "SJ 087.5 LHO ros"
+    ]
+  ]
+}]

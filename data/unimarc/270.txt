@@ -1,0 +1,18 @@
+00657nam  2200205   450
+001   270
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00758017
+100    $a 20061013d1952    km y0pory010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a Tentação irresistível $f Delly $g trad. Humberto A. Santos
+210    $a Porto $c Liv. Progredior $d 1952
+215    $a 200 p. $d 20 cm
+304    $a Tít. orig. : La lune d'or
+675    $a 821 $v BN $z por
+700  0 $a Delly $c pseud
+702  1 $a Santos $b Humberto A $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060511093454&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008377 $l BMM $s SCG 821 DEL ten 41

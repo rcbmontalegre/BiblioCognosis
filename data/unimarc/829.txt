@@ -1,0 +1,23 @@
+00884nam  2200265   450
+001   829
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 22927/88
+095    $a PTBN00123965
+100    $a 19890331d1988    d  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a a   z   000ay
+106    $a r
+200 1  $a O que Katy fez $f Susan Coolidge $g trad. Maria Espiridia Viterbo $g adapt. Isabel Patrícia, Martins da Rocha
+210    $a Porto $c Edinter $d 1988
+215    $a 61 p. $c il. $d 20 cm
+225 2  $a <As >histórias que eu mais gosto $v 5
+675    $a 087.5 $v BN $z por
+700  1 $a Patrícia $b Isabel
+701  1 $a Rocha $b Martins da $4 070
+702  1 $a Coolidge $b Susan $c pseud $4 100
+702  1 $a Viterbo $b Maria Espirídia $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060626121640&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0001062 $l BMM $s SJ 087.5 COO que 5

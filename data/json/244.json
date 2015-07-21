@@ -1,0 +1,158 @@
+[{
+  "fields": [
+    [
+      "001",
+      "244"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "19671"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00112285"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1988    em y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "spa"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Prosa do observatório",
+      "f",
+      "Júlio Cortázar",
+      "g",
+      "fotografias de Júlio Cortázar com a colab. de António Gálvez"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Quetzal",
+      "d",
+      "1988"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "60, [1] p.",
+      "c",
+      "il.",
+      "d",
+      "20 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Graffiti"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : Prosa del observatorio"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821.134.2(7/8)"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Cortázar",
+      "b",
+      "Julio",
+      "f",
+      "1914-1984"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Gálvez",
+      "b",
+      "António",
+      "4",
+      "600"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Pereira",
+      "b",
+      "Carlos Martins",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060510154036&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008330",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821.134.2(7/8) COR pro"
+    ]
+  ]
+}]

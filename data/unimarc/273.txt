@@ -1,0 +1,20 @@
+00844nam  2200229   450
+001   273
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00284903
+100    $a 20061013d1975    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <O >homem e o espectro $f Charles John Huffmam Dickens $g trad. de Maria Graciete Alves
+210    $a Lisboa $c Editors Associadod $d [D.L. 1975]
+215    $a 172, [1] p. $d 18 cm
+225 2  $a Livros unibolso $v 85
+304    $a Tít. orig.: The haunted man and the ghost's bargain
+675    $a 821 $v BN $z por
+700  1 $a Dickens $b CharlesCharles John Huffam $f 1812-1870
+702  1 $a Alves $b Maria Graciete $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060511094607&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0008102 $l BMM $s SCG 821 DIC hom
+966    $a 0008103 $l BMM $s SCG 821 DIC hom

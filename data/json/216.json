@@ -1,0 +1,134 @@
+[{
+  "fields": [
+    [
+      "001",
+      "216"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013f19401950km y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<As >aventuras amorosas de Moll Flanders",
+      "f",
+      "Daniel Defoe",
+      "g",
+      "trad. de José Parreira Alves"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Inquérito",
+      "d",
+      "[194-?]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "396 p.",
+      "c",
+      "il., estampa",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "<Os >melhores romances dos melhores romancistas"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Defoe",
+      "b",
+      "Daniel",
+      "f",
+      "1660-1731"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "3"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009135",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DEF ave"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009134",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DEF ave"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008093",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DEF ave"
+    ]
+  ]
+}]

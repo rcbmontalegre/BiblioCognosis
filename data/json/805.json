@@ -1,0 +1,110 @@
+[{
+  "fields": [
+    [
+      "001",
+      "805"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1985    k  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<Um >falcão no punho",
+      "e",
+      "diário 1",
+      "f",
+      "Maria Gabriela Llansol"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Rolim",
+      "d",
+      "imp. 1985"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "164, [4] p.",
+      "d",
+      "23 cm"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Llansol",
+      "b",
+      "Maria Gabriela",
+      "f",
+      "1931-",
+      "3",
+      "79199"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060622152944&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008943",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 LLA fal"
+    ]
+  ]
+}]

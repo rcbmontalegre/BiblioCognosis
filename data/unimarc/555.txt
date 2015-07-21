@@ -1,0 +1,26 @@
+00915nam  2200301   450
+001   555
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 972-20-0689-4
+021    $a PT $b 26621/89
+095    $a PTBN00127508
+100    $a 19890628d1989    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a a   z   000ay
+106    $a r
+200 1  $a Música aprisionada $f Francis King $g trad. J. Teixeira de Aguilar
+205    $a 1ª ed
+210    $a Lisboa $c Dom Quixote $d 1989
+215    $a 122 p. $d 24 cm
+225 2  $a Fábula
+304    $a Tít. orig. : Frozen music
+675    $a 821
+700  1 $a King $b Francis $f 1923-
+702  1 $a Aguilar $b J. Teixeira de $f 1945- $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060518114128&ext=jpg $z CAPA
+856    $u locateMedia.aspx?cod=20090527120049&ext=GIF $z Indice
+909 	  $a 1
+966    $a 0008898 $l BMM $s SCG 821 KIN mús

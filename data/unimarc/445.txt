@@ -1,0 +1,20 @@
+00839nam  2200229   450
+001   445
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 19770801d1977    m  y0pora010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a <Os >miseráveis $f Victor Hugo $g trad. rev. por L. Pereira Gil
+210    $a Lisboa $c Amigos do Livro $d [D.L. 1977]-
+215    $a v $d 19 cm
+225 2  $a Grandes romances para a juventude
+305    $a Tít. orig. : Les misérables
+327 0  $a 1º v.: 285, [3] p. : il. ; $a 2º v.: [D.L. 1977]. - 303, [9] p. : il. ; $a 3º v.: 305, [6] p. : il.
+675    $a 821 $v BN $z por
+700  1 $a Hugo $b Victor $f 1802-1885
+702  1 $a Gil $b L. Pereira $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 3
+966    $a 0012760 $l BMM $s SCG 821 HUG mis 1
+966    $a 0012657 $l BMM $s SCG 821 HUG mis 2
+966    $a 0012658 $l BMM $s SCG 821 HUG mis 3

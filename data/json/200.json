@@ -1,0 +1,144 @@
+[{
+  "fields": [
+    [
+      "001",
+      "200"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00027785"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1983    m  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Não mandem orquídeas a Miss Blandish",
+      "f",
+      "James Hadley Chase",
+      "g",
+      "trad. Mariana Pardal Monteiro"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Edições 70",
+      "d",
+      "imp. 1983"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "225, [6] p.",
+      "d",
+      "17 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Alibi",
+      "v",
+      "4"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "T��t. orig. No orchids for miss Blandish"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Chase",
+      "b",
+      "James Hadley",
+      "c",
+      "pseud",
+      "3",
+      "23917"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Monteiro",
+      "b",
+      "Mariana Pardal",
+      "4",
+      "730",
+      "3",
+      "171756"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060510103611&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008724",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 CHA não 4"
+    ]
+  ]
+}]

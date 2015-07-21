@@ -1,0 +1,23 @@
+00843nam  2200265   450
+001   998
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-1-03147-X
+021    $a PT $b 41699/90
+095    $a PTBN00269153
+100    $a 20061013d1990    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a <O >triunfo dos porcos $f George Orwell $g trad. Madalena Esteves
+210    $a Mem Martins $c Europa-América $d D.L. 1990
+215    $a 124, [4] p. $d 21 cm
+225 2  $a Século XX $v 325
+304    $a Tít. orig. : Animal farm
+675    $a 821 $v BN $z por
+700  1 $a Orwell $b George $c pseud. $f 1903-1950
+702  1 $a Esteves $b Maria Madalena $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060705152536&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0009292 $l BMM $s SCG 821 ORW tru 325

@@ -1,0 +1,174 @@
+[{
+  "fields": [
+    [
+      "001",
+      "632"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "29670/89"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1989    c  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "a   z   000zy"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >rei Rique e outras histórias",
+      "f",
+      "Ilse Losa",
+      "g",
+      "il. Júlio Resende"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "Porto Editora",
+      "d",
+      "1989"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "31, [4] p.",
+      "c",
+      "il.",
+      "d",
+      "20x27 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Autores portugueses",
+      "v",
+      "7"
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Literatura infantil"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "82-93",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Losa",
+      "b",
+      "Ilse",
+      "f",
+      "1913-2006"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Resende",
+      "b",
+      "Júlio",
+      "c",
+      "pseud.",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060522165405&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001353",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-93 LOS rei 7"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "1001016",
+      "l",
+      "BEM",
+      "s",
+      "BEM 83-93 LOS"
+    ]
+  ]
+}]

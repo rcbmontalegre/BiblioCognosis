@@ -1,0 +1,19 @@
+00700nam  2200217   450
+001   15
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00010458
+100    $a 20061013d1986    k  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <A >longa tarde da terra $f Brian W. Aldiss $g pref. Joseph Milicia $g trad. Maria de Lurdes Medeiros
+210    $a Lisboa $c Gradiva $d D.L. 1986
+215    $a 279 p. $d 22 cm
+225 2  $a Contacto
+304    $a Tít. orig. Hothouse
+675    $a 821 $v BN $z por
+700  1 $a Aldiss $b Brian W $f 1925
+702  1 $a Milicia $b Joseph $4 080
+702  1 $a Medeiros $b Maria de Lurdes $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0008438 $l BMM $s SCG 821 ALD lon

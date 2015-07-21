@@ -1,0 +1,150 @@
+[{
+  "fields": [
+    [
+      "001",
+      "121"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "14931/87"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1971    am y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >amor louco",
+      "f",
+      "André Breton",
+      "g",
+      "trad. Luísa Neto Jorge"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Estampa",
+      "d",
+      "1971"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "158p.",
+      "c",
+      "il.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Ficções",
+      "v",
+      "1"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: L'amour fou"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Breton",
+      "b",
+      "André",
+      "f",
+      "1896-1966"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Jorge",
+      "b",
+      "Luísa Neto",
+      "f",
+      "1939-1989",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060509110418&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0010884",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 BRE amo 1"
+    ]
+  ]
+}]

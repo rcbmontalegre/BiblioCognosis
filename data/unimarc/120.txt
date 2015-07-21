@@ -1,0 +1,20 @@
+00715nam  2200229   450
+001   120
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 18557/87
+095    $a PTBN00031485
+100    $a 19871209d1987    k  y0pora0103    ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a Nadja $f André Breton $g trad. Ernesto Sampaio
+205    $a 2ª ed
+210    $a Lisboa $c Estampa $d D.L. 1987
+215    $a 138 p. $c il. $d 21 cm
+225 2  $a Ficções $v 3
+675    $a 821 $v bn $z por $3 297318
+700  1 $a Breton $b André $f 1896-1966 $3 39294
+702  1 $a Sampaio $b Ernesto $4 730 $3 31804
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060509104414&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0010883 $l BMM $s SCG 821 BRE nad 3

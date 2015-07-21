@@ -1,0 +1,18 @@
+00691nam  2200205   450
+001   756
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00370857
+100    $a 20061013d1974    m  y0pory010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a Inquérito a uma crucificação $f Jean Lartéguy $g trad. Maria Auta Monteiro Costa
+210    $a Amadora $c Bertrand $d 1974
+215    $a 511, [4] p. $d 20 cm
+225 2  $a Autores universais $i Série monumental
+304    $a T��t. orig.: Enquête sur un crucifié
+675    $a 821 $v BN $z por
+700  1 $a Lartéguy $b Jean $c pseud
+702  1 $a Costa $b Maria Auta Monteiro $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0008935 $l BMM $s SCG 821 LAR inq

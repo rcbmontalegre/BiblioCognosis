@@ -1,0 +1,17 @@
+00655nam  2200193   450
+001   789
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-650-584-4
+100    $a 20030225 2005    m  y0pory010305  ba
+101 0  $a por $c spa
+102    $a PT
+200 1  $a <O >grande livro da sexualidade $f José R. Díaz Morfa ...[et. al.] $g tradução de Dr" Anabela Nápoles
+205    $a 1ª ed
+210    $a Lisboa $c Didáctica editora $d 2005
+215    $a 99p.;[6]p. $d 31cm
+675    $a 613.88 $v BN $z por
+701  1 $a Díaz Morfa $b José R
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060622102450&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0016763 $l BMM $s SI 613.88 MOR gra

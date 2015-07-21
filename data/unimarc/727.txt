@@ -1,0 +1,23 @@
+00875nam  2200265   450
+001   727
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-1-02759-6
+021    $a PT $b 25256/89
+095    $a PTBN00188094
+100    $a 20070518d1989    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a ab  z   001zd
+106    $a r
+200 1  $a <Os >sete pilares da sabedoria $f T. E. Lawrence $g trad. Clarisse Tavares
+210    $a Mem Martins $c Europa-América $d D.L. 1989
+215    $a 701 p., [8] p. il $c il. $d 21 cm
+225 2  $a Clássicos $v 6
+304    $a Tít. orig.: Seven pillars of wisdom
+675    $a 820-3 Lawrence, T. E. $v BN $z por
+700  1 $a Lawrence $b T. E. $f 1888-1935
+702  1 $a Tavares $b Clarisse $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060619112048&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008930 $l BMM $s SCG 821 LAW set 6

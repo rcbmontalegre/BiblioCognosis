@@ -1,0 +1,21 @@
+00774nam  2200241   450
+001   167
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+021    $a PT $b 289003/89
+095    $a PTBN00254836
+100    $a 19900521d1989    m  y0pory0103    ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   000ay
+200 1  $a <A >casa da Rússia $f John Le Carré $g trad.: José Vieira de Lima
+210    $a Lisboa $c Dom Quixote $c Circulo de Leitores $d 1989
+215    $a 361 p. $d 24 cm
+225 2  $a Ficção universal $v 56
+675    $a 821 $v BN $z por
+700  1 $a Le Carré $b John $c pseud.
+702  1 $a Lima $b José Vieira de $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060509164517&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008219 $l BMM $s SCG 821 LeC cas 56

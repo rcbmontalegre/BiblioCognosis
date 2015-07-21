@@ -1,0 +1,110 @@
+[{
+  "fields": [
+    [
+      "001",
+      "466"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19950526d19      km y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Nossa Senhora de Paris",
+      "f",
+      "Victor Hugo"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "Lello&irmão",
+      "d",
+      "[19--]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "2 v",
+      "d",
+      "8º"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821.133.1-31\"18\"",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "3",
+      "558810"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Hugo",
+      "b",
+      "Victor",
+      "f",
+      "1802-1885",
+      "3",
+      "23526"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0012659",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 HUG nos"
+    ]
+  ]
+}]

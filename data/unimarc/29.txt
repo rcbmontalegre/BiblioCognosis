@@ -1,0 +1,19 @@
+00764nam  2200217   450
+001   29
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20061013d198     m  y0pory0103    ba
+101 1  $a por $c fre
+102    $a PT
+106    $a r
+200 1  $a <Um >é o outro $f Elisabeth Badinter $g trad. Miguel Serras Pereira e Ana Luísa Faria
+210    $a Lisboa $c Relógio d'Água $d [198-]
+215    $a 348, [3] p. $d 21 cm
+304    $a Tít. orig.: L'un est l'autre
+675    $a 821 $v RPC $z por
+700  1 $a Badinter $b Elizabeth $f 1944 $3 98113
+702  1 $a Pereira $b Miguel Serras $f 1949- $3 28318 $4 730
+702  1 $a Faria $b Ana Luísa $4 730 $3 25879
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060504145320&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008280 $l BMM $s SCG 821 BAD out

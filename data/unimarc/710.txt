@@ -1,0 +1,19 @@
+00950nmm0 2200217   450
+001   710
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-47-2581-2
+100    $a 20070518d--------k  y0pory0103    ba
+101 0  $a por
+102    $a PT
+105    $a --------000zy
+135    $a bocga---mnaua
+200 1  $a <O >Sapo explica Matemática $b Documento electrónico $e Lições interactivas, inumeros exercicios, testes, jogo de plataforma, Super sapo a grande aventura $f Texto Editora
+205    $a [1ª ed
+210    $a Cacém $c Texto Editora $d D.L. 2004
+215    $a <1=       1> disco óptico (CD-ROM) em caixa $c IL $d 21cm
+230    $a Dados
+337    $a Requisitos mínimos : Windows 98, 2000, Me, XP - Processador Pentium II 300Mhz - 64Mb de memória RAM - CD-Rom 16X - Placa de Som - Placa Gráfica c/ 4Mb RAM e 800X600 pixels
+675    $a 55(51)(0.034) $v BN $z por
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060526152610&ext=jpg $z CAPA
+909 	  $a 0

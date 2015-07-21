@@ -1,0 +1,138 @@
+[{
+  "fields": [
+    [
+      "001",
+      "783"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19850101d1985    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Rua principal",
+      "f",
+      "Sinclair Lewis",
+      "g",
+      "trad. Juvenal Jacinto"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Livros do Brasil",
+      "d",
+      "[D.L. 1985]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "458, [3] p.",
+      "d",
+      "22 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Dois mundos",
+      "v",
+      "72"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Main street"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Lewis",
+      "b",
+      "Sinclair",
+      "f",
+      "1885-1951"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Jacinto",
+      "b",
+      "Juvenal",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060621122851&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008997",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 LEW rua 72"
+    ]
+  ]
+}]

@@ -1,0 +1,20 @@
+00853nam  2200229   450
+001   791
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-33-1829-6
+100    $a 20040127d2003    bc y0pory0103    ba
+101 0  $a por
+102    $a PT
+105    $a a   z   000yy
+106    $a r
+200 1  $a <O >meu primeiro livro de jogos mágicos $e 8 tabuleiros de jogo com mais de 50 fichas $f il. Kelly Dooley $g [ed. lit.] Editorial Estampa
+210    $a Lisboa $c Estampa $d imp. 2003
+215    $a [14] p. $c muito il. $d 35 cm $e 1 envelope com fichas de jogo
+675    $a 087.5 $v BN $z por $v BN $z por $3 287999
+675    $a 793.4 $v BN $z por $3 439366
+702  1 $a Dooley $b Kelly $4 440 $3 1180503
+712 02 $a Editorial Estampa $4 340 $3 516865
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060622105046&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0016764 $l BMM $s SI 793 KEL meu

@@ -1,0 +1,24 @@
+00997nam  2200289   450
+001   16163
+005   20
+010    $a 972-570-144-5
+021    $a PT $b 79792/94
+100    $a 20131031d1994 b y0pory0103 ba
+101 1  $a por
+102    $a PT
+200 1  $a <A >raposa e a galinha $f recontado por Judy Hamilton $g il. R. James Binnie $g trad. Ivette Colaço
+210    $a Lisboa $c Replicação $d 1994
+215    $a [28] p. $c il. $d 18 cm
+225 2  $a Livros aranhiço $v 144
+317    $a Oferecido por D. teresa Gomes
+608    $a Literatura infantil e juvenil $2 Autoridade $3 PT9999-00-10-2009040123590005446
+608    $a Conto $2 Autoridade $3 PT9999-00-10-2009040123590005380
+675    $a 087.5
+675    $a 82-34
+700  1 $a Hamilton $b Judy
+702  1 $a Binnie $b R. James $4 440
+702  1 $a Colaço $b Ivette $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.aspx?cod=20131031150228&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0019677 $l BMM $s SI 82-34 HAM rap 144

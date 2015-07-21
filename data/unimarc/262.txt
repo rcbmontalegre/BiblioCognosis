@@ -1,0 +1,23 @@
+00896nam  2200265   450
+001   262
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 19839/88
+095    $a PTBN00123564
+100    $a 20061013d1988    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a a   z   000ay
+106    $a r
+200 1  $a <A >loja de antiguidades $f Charles Dickens $g trad. Maria de Fatima Fonseca
+210    $a Mem Martins $c Europa-América $d D.L.1988
+215    $a 578, [1] p. $c il. $d 22 cm
+225 2  $a Clássicos $v 4
+304    $a Tit. orig.: The old curiosity shop
+675    $a 821 $v BN $z por
+700  1 $a Dickens $b CharlesCharles John Huffam $f 1812-1870
+702  1 $a Fonseca $b Maria de Fátima $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060511090717&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0008489 $l BMM $s SCG 821 DIC loj 4
+966    $a 0008104 $l BMM $s SCG 821 DIC loj 4

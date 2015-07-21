@@ -1,0 +1,19 @@
+00753nam  2200217   450
+001   976
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20061013d1975    m  y0pora010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a <O >lírio do mar $f André Pieyre de Mandiargues $g trad. Helena Albarran
+210    $a Lisboa $c Arcádia $d 1975
+215    $a 145 p. $d 21 cm
+225 2  $a Biblioteca Arcádia $i Ficção
+304    $a Tít. orig. : Le lis de mer
+675    $a 821 $v BN $z por
+700  1 $a Mandiargues $b André Pieyre de $f 1909-1991
+702  1 $a Albarran $b Maria Helena $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060704162909&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0009194 $l BMM $s SCG 821 MAN lír
+966    $a 0009193 $l BMM $s SCG 821 MAN lír

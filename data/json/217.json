@@ -1,0 +1,154 @@
+[{
+  "fields": [
+    [
+      "001",
+      "217"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00010521"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1986    k  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Deserto",
+      "f",
+      "J. M. G. Le Clézio",
+      "g",
+      "Trad. Fernanda Botelho"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "1ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Dom Quixote",
+      "d",
+      "1986"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "290 p.",
+      "d",
+      "24 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Ficção universal",
+      "v",
+      "12"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Désert"
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Literatura francesa"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Le Clézio",
+      "b",
+      "Jean-Marie Gustave",
+      "f",
+      "1940-"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Botelho",
+      "b",
+      "Fernanda",
+      "f",
+      "1929-",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060510142342&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008340",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 LeC des 12"
+    ]
+  ]
+}]

@@ -1,0 +1,19 @@
+00759nam  2200217   450
+001   208
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00048122
+100    $a 20070305d1983    m  y0pora0103    ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <O >coração das trevas $f Joseph Conrad $g trad. e introd. de Aníbal Fernandes
+210    $a Lisboa $c Estampa $d 1983
+215    $a 120, [5] p. $d 18 cm
+225 2  $a Novas direcções
+304    $a Tít. orig.: Heart of darkness
+675    $a 821 $v BN $z por $v BN $z por $3 1009896
+700  1 $a Conrad $b Joseph $f 1857-1924 $3 41469
+702  1 $a Fernandes $b Aníbal $f 1944- $4 730 $3 24760
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060510114805&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008597 $l BMM $s SCG 821 CON cor

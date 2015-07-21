@@ -1,0 +1,158 @@
+[{
+  "fields": [
+    [
+      "001",
+      "512"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "11273/86"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00015453"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1986    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >oeste do Éden",
+      "f",
+      "Harry Harrisson",
+      "g",
+      "trad. Ana Maria Falcäo Bastos"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "1ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Gradiva",
+      "d",
+      "1986"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "514 p.",
+      "c",
+      "il.",
+      "d",
+      "22 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Contacto",
+      "v",
+      "2"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: West of Eden"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "bn",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Harrisson",
+      "b",
+      "Harry"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Bastos",
+      "b",
+      "Ana Falcão",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060517165746&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008623",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 HAR oes 2"
+    ]
+  ]
+}]

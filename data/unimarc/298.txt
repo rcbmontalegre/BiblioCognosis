@@ -1,0 +1,25 @@
+00919nam  2200289   450
+001   298
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 972-41-2655-2
+021    $a PT $b 173656/01
+100    $a 20020412d2001    me y0pory0103    ba
+101 1  $a por $c spa
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a Tão veloz como o desejo $f Laura Esquivel $g trad. Helena Pitta
+205    $a 3ª ed
+210    $a Porto $c Asa $d 2001
+215    $a 128 p. $d 24 cm
+225 2  $a Romance
+304    $a Tít. orig.: Tan veloz como el deseo
+675    $a 821.134.2(72)-31"19" $v BN $z por $v BN $z por $3 562710
+700  1 $a Esquivel $b Laura $f 1950 $3 100267
+702  1 $a Pita $b Helena $4 730 $3 159388
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060511121622&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0015575 $l BMM $s SCG 821.134.2(7/8) ESQ tão
+966    $a 1002777 $l BEM $s BEM 821.134.3 ESQ

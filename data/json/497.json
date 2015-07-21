@@ -1,0 +1,156 @@
+[{
+  "fields": [
+    [
+      "001",
+      "497"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00016888"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19860301d1986    k  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Catch 22",
+      "d",
+      "Artigo 22",
+      "f",
+      "Joseph Heller",
+      "g",
+      "trad. Eduardo Saló",
+      "z",
+      "por"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "1ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Dom Quixote",
+      "d",
+      "1986"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "426 p.",
+      "d",
+      "24 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Ficção universal",
+      "v",
+      "8"
+    ],
+    [
+      "510",
+      "1 ",
+      "a",
+      "Artigo 22",
+      "z",
+      "por"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Heller",
+      "b",
+      "Joseph",
+      "f",
+      "1923-1999"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Saló",
+      "b",
+      "Eduardo",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060517152712&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008622",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 HEL cat 8"
+    ]
+  ]
+}]

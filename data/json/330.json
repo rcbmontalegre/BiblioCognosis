@@ -1,0 +1,164 @@
+[{
+  "fields": [
+    [
+      "001",
+      "330"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00039329"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19981113d1986    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >grande Gatsby",
+      "f",
+      "F. Scott Fitzgerald",
+      "g",
+      "pref. e trad. José Rodrigues Miguéis"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "2ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Presença",
+      "d",
+      "1986"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "172 p.",
+      "d",
+      "23 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Novos horizontes",
+      "v",
+      "14, 540"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Fitzgerald",
+      "b",
+      "F. Scott",
+      "f",
+      "1896-1940"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Miguéis",
+      "b",
+      "José Rodrigues",
+      "f",
+      "1901-1980",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511152625&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511163608&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008627",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 FIT gra 14"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005318",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 FIT gra 540"
+    ]
+  ]
+}]

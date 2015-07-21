@@ -1,0 +1,88 @@
+[{
+  "fields": [
+    [
+      "001",
+      "432"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "020",
+      "  ",
+      "a",
+      "BR"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "d--------k  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "BR"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >lirio da montanha",
+      "f",
+      "M. Delly",
+      "g",
+      "Trad. Lygia Estrada"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "224p.",
+      "d",
+      "20cm"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Estrada",
+      "b",
+      "Lygia"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008239",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DEL lyr 8"
+    ]
+  ]
+}]

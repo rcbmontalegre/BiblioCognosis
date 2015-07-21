@@ -1,0 +1,21 @@
+00752nam  2200241   450
+001   57
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+021    $a PT $b 19665
+100    $a 20061013d1988    m  y0pory0103    ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <O >papagaio de Flaubert $f Julian Barnes $g trad.: Ana Maria Amador
+210    $a Lisboa $c Quetzal $d 1988
+215    $a 225 p. $d 23 cm
+225 2  $a Serpente emplumada
+304    $a Tít. orig.: Flaubert's Parrot
+606 1  $a Literatura inglesa
+675    $a 821
+700  1 $a Barnes $b Julian $f 1946-
+702  1 $a Amador $b Ana Maria $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060508104616&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008406 $l BMM $s SCG 821 BAR pap

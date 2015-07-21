@@ -1,0 +1,21 @@
+00737nam  2200241   450
+001   808
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+021    $a PT $b 26718/89
+100    $a 19890911d1989    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   000ay
+200 1  $a Filmes tristes $f Mark Lindquist $g trad. Tomaz Vaz da Silva
+210    $a Lisboa $c Quetzal $d 1989
+215    $a 184 p. $d 21 cm
+225 2  $a Nova narrativa
+304    $a Tít. orig. : Sad movies
+675    $a 821 $v BN $z por
+700  1 $a Lindquist $b Mark
+702  1 $a Silva $b Tomás Vaz da $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060622154516&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008946 $l BMM $s SCG 821 LIN fil

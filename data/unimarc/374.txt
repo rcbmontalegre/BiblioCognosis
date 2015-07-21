@@ -1,0 +1,23 @@
+00784nam  2200265   450
+001   374
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-41-3952-2
+021    $a PT $b 220075/04
+100    $a 20060117d2004    m  y0pory0103    ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   001yy
+106    $a r
+200 1  $a Viagem sem regresso $f Katy Gardner $g trad. Isabel Alves
+205    $a 4ª ed
+210    $a Porto $c Asa $d 2004
+215    $a 284, [3] p. $d 24 cm
+225 2  $a Romance
+225 2  $a Asa literatura
+304    $a Tít. orig.: Losing gemma
+700  1 $a Gardner $b Katy $3 1215611
+702  1 $a Alves $b Isabel $4 730 $3 33379
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060512113815&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0016146 $l BMM $s SCG 821 GAR via

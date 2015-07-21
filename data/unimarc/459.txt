@@ -1,0 +1,19 @@
+00737nam  2200217   450
+001   459
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00322584
+100    $a 19880808d1968    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT $b Lisboa
+200 1  $a <O >Falsário indeciso $f Patricia Highsmith $g trad. Raquel Carvalho
+210    $a Lisboa $c Livros do Brasil $d 1968
+215    $a 261 p. $d 22 cm
+225 2  $a Vida e aventura $v 48
+304    $a Tit. orig.: The tremor of forgery
+675    $a 821 $v BN $z por
+700  1 $a Highsmith $b Patricia $f 1921-1995
+702  1 $a Carvalho $b Raquel $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060517120225&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008762 $l BMM $s SCG 821 HIG fal 49

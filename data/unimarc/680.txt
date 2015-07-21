@@ -1,0 +1,20 @@
+00769nam  2200229   450
+001   680
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20061013d1983    a  y0pory0103    ba
+101 0  $a por
+102    $a PT
+200 1  $a <O >coelho atleta e a sua escola de desporto $f Carlos Pinhão $g il. de Madalena Raimundo
+210    $a Lisboa $c Horizonte $d 1983
+215    $a 38 p. $c il. $d 23 cm
+225 2  $a Pássaro livre $v 40
+606    $a Literatura juvenil
+608    $a Prosa narrativa
+675    $a 82-93
+700  1 $a Pinhão $b Carlos $f 1924-1993
+702  1 $a Raimundo $b Madalena $4 440
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060524151406&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0001616 $l BMM $s SI 82-93 PIN coe 40
+966    $a 0001617 $l BMM $s SI 82-93 PIN coe 40

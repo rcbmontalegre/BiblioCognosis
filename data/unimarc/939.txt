@@ -1,0 +1,26 @@
+00997nam  2200301   450
+001   939
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-1-02976-9
+021    $a PT $b 33331/89
+095    $a PTBN00254080
+100    $a 19900427d1989    m  y0pory0103    ba
+101 1  $a por $c fre
+102    $a PT
+105    $a a   z   001ay
+106    $a r
+200 1  $a <A >volta ao mundo em 80 dias $f Júlio Verne $g trad. Ana Cristina Pinto
+205    $a 2ª ed
+210    $a Mem Martins $c Europa-América $d D.L. 1989
+215    $a 221 p. $c il. $d 18 cm
+225 2  $a Livros de bolso Europa-América $v 307
+304    $a Tít. orig.: Le tour du monde en 80 jours
+675    $a 087.5 $v BN $z por $z por
+675    $a 821.133.1-93"18/19" $v BN $z por $z por
+675    $z por $z por
+700  1 $a Verne $b Jules $f 1828-1905 $3 27932
+702  1 $a Pinto $b Ana Cristina Lima $4 730 $3 78985
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060703094528&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0005579 $l BMM $s SJ 087.5 VER vol 307

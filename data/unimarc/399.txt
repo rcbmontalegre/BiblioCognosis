@@ -1,0 +1,18 @@
+00727nam  2200205   450
+001   399
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00285163
+100    $a 19941109d1974    m  y0pory0103    ba
+101 1  $a por $c rus
+102    $a PT
+200 1  $a Tarass Bulba $f Nicolau Vassilievitch Gogol $g trad. Mário Augusto de Almeida Braga
+210    $a Mem Martins $c Europa-América $d 1974
+215    $a 179 p. $c il. $d 18 cm
+225 2  $a Livros de bolso Europa-América $v 94
+675    $a 821 $v bn $z por
+700  1 $a Gogol $b Nicolau Vasilievich $f 1809-1852
+702  1 $a Braga $b Mário $f 1921- $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060516113649&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0005311 $l BMM $s SCG 821 GOG tar 94

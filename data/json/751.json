@@ -1,0 +1,180 @@
+[{
+  "fields": [
+    [
+      "001",
+      "751"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "16661/88"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00124793"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19890417d1988    m  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   001gy"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Cantos de Maldoror",
+      "a",
+      "<seguidos de >Poesias",
+      "f",
+      "Isidore Ducasse Conde de Lautréamont",
+      "g",
+      "trad. Pedro Tamen"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Fenda",
+      "d",
+      "imp. 1988"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "254, [6] p.",
+      "c",
+      "il.",
+      "d",
+      "25 cm"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : Les chants de Maldoror"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : Poésies"
+    ],
+    [
+      "517",
+      "1 ",
+      "a",
+      "<seguidos de >Poesias"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "840-1 Lautréamont, Conde de",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "3",
+      "289178"
+    ],
+    [
+      "700",
+      " 0",
+      "a",
+      "Lautréamont",
+      "c",
+      "Conde de",
+      "c",
+      "pseud",
+      "3",
+      "62854"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Tamen",
+      "b",
+      "Pedro",
+      "f",
+      "1934-",
+      "4",
+      "730",
+      "3",
+      "29527"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060620095110&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008939",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 LAU can"
+    ]
+  ]
+}]

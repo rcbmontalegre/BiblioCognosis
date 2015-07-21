@@ -1,0 +1,22 @@
+00769nam  2200253   450
+001   384
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-9013-36-5
+021    $a PT $b 43762/91
+095    $a PTBN00347774
+100    $a 20061013d1991    m  y0pory010305  ba
+101 1  $a por $c ita
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a <O >caminho da cidade $e romance $f Natalia Ginzburg $g trad. Anna Alba Caruso
+210    $a Lisboa $c Cotovia $d 1991
+215    $a 86, [1] p. $d 21 cm
+225 2  $a Livros Cotovia
+304    $a Tít. orig. : La strada che va in città
+675    $a 821 $v BN $z por
+700  1 $a Ginzburg $b Natalia $f 1916-1991
+702  1 $a Caruso $b Ana Alba $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0008662 $l BMM $s SCG 821 GIN cam

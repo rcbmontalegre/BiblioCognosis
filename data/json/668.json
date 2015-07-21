@@ -1,0 +1,160 @@
+[{
+  "fields": [
+    [
+      "001",
+      "668"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-0-61310-6"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "130021/98"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20000330d1998    cd y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "i"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Eu adoro as palavras!",
+      "b",
+      "CD-ROM",
+      "f",
+      "[ed. lit.] Porto Editora Multimédia"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "[1ª ed.]"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "P.E.M.",
+      "d",
+      "cop. 1998"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "1 disco óptico (CD-ROM)",
+      "c",
+      "color",
+      "d",
+      "27 cm",
+      "e",
+      "notas para pais e professores (11, 19 p., pag. converg.)"
+    ],
+    [
+      "230",
+      "��",
+      "a",
+      "Dados"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. retirado da etiqueta"
+    ],
+    [
+      "337",
+      "  ",
+      "a",
+      "Requisitos do sistema: compatível; Processador 486DX/33 MHz; Memória RAM 8 MB (12 recomendados com Windows 95); espaço no disco rígido 5 MB; Windows 3.1x ou 95; placa de som 8 bit; CD-Rom dupla velocidade; placa de vídeo 256 cores a 640x480"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "372.41/.46(075)(0.034)",
+      "3",
+      "1098801"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "793.7-053.2(0.034)",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "3",
+      "1056870"
+    ],
+    [
+      "712",
+      "02",
+      "a",
+      "Porto Editora Multimédia",
+      "4",
+      "340",
+      "3",
+      "218241"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060523114351&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "0"
+    ]
+  ]
+}]

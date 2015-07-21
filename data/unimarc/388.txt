@@ -1,0 +1,17 @@
+00643nam  2200193   450
+001   388
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20061013g19701972km y0pory010305  ba
+101 1  $a por $c rus
+102    $a PT
+200 1  $a <Os >vagabundos $f Gorki $g [trad. de Egito Gonçalves]
+210    $a [Porto] $c Inova $d 1970
+215    $a 1vol. 381 p. $d 23 cm
+225 2  $a Obras completas $v 3
+675    $a 821 $v bn $z por
+700  1 $a Gorki $b Máximo $c pseud. $f 1868-1936
+702  1 $a Gonçalves $b Egito $f 1920-2001 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060516095413&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008544 $l BMM $s SCG 821 GOR vag 3

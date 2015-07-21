@@ -1,0 +1,22 @@
+00911nam  2200253   450
+001   665
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 972-43-0127-3
+021    $a PT $b 44321/91
+100    $a 20120813d1991    a  y0pory0103    ba
+101 0  $a por
+102    $a PT
+200 1  $a <A >Família dos Paladinos $f Alberto Oliveira Ointo $g ilust.: Martinho Dias
+210    $a Porto $c Edinter $d 1991
+215    $a 96 p. $c il. $d 22 cm
+225 0  $a Contos da história $v 4
+608    $a Publicações para crianças e jovens $2 Autoridade $3 PT-----------2012021614460005594
+608    $a Conto $2 Autoridade $3 PT9999-00-10-2009040123590005380
+675    $a 821.134.3-34
+700  1 $a Pinto $b Alberto Oliveira $f 1962-
+702  1 $a Dias $b Martinho $f 1968- $4 440
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.aspx?cod=20120813154754&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0015148 $l BMM $s SJ 821.134.3-34 PIN fam 4

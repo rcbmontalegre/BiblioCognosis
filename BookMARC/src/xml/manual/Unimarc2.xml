@@ -1,0 +1,1337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FORMAT name="UNIMARC" domain="Bibliographic" version="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../schemas/FORMAT.xsd">
+  <FIELD tag="200" name="TITLE AND STATEMENT OF RESPONSIBILITY" mandatory="y" repeatable="n">
+    <DESCRIPTION>
+     This field contains the title along with any 
+     other title information and statements of 
+     responsibility relating to the title including
+     any of the preceding repeated in other languages
+     (parallel titles, parallel statements of 
+     responsibility, etc.) generally in the form 
+     and sequence in which they appear on the item 
+     being catalogued. It corresponds to the ISBD 
+     Title and Statement of Responsibility area. 
+  </DESCRIPTION>
+    <IND1 name="Title Significance Indicator">
+      <DESCRIPTION>
+        This specifies whether the agency preparing  the record considers that the title proper as specified in the first $a subfield  deserves treatment as an access point. 
+        This corresponds to making a title added 
+        entry or treating the title as main entry 
+        under certain cataloguing codes. 
+       </DESCRIPTION>
+      <OPTION value="0" name="Title is not significant">
+        <DESCRIPTION>
+		This title does not warrant an added entry.
+		</DESCRIPTION>
+      </OPTION>
+      <OPTION value="1" name="Title is significant">
+        <DESCRIPTION>
+		An access point is to be made from this title.
+		</DESCRIPTION>
+      </OPTION>
+    </IND1>
+    <IND2/>
+    <SUBFIELD tag="a" mandatory="y" name="Title Proper" repeatable="y">
+      <DESCRIPTION>
+       The chief title of the item, includes 
+       alternative title but excludes other title 
+       information (e.g. subtitles) and parallel 
+       titles. Repeatable for additional titles by 
+       the same author (EX 5). Mandatory for every 
+       record. 
+      </DESCRIPTION>
+      <SEEEX N="5"/>
+    </SUBFIELD>
+    <SUBFIELD tag="b" repeatable="y" mandatory="n" name="General Material Designation">
+      <DESCRIPTION>
+          Text of general material designation 
+          (EX 3, 11). This subfield contains a term
+          indicating the broad class of material to
+          which the item belongs given in the 
+          language and script of the agency 
+          preparing the record. It corresponds to 
+	  the ISBD General Material Designation. 
+       </DESCRIPTION>
+      <SEEEX N="3"/>
+      <SEEEX N="11"/>
+    </SUBFIELD>
+    <SUBFIELD tag="c" mandatory="y" repeatable="y" name="Title Proper by Another Author">
+      <DESCRIPTION>
+         The chief title of a work by an author 
+         other than the one responsible for the 
+         first title when they are both contained
+         in the same item and when there is no collective 
+         title. Repeatable for each additional title proper by another author (EX 12).
+        </DESCRIPTION>
+      <SEEEX N="12"/>
+    </SUBFIELD>
+    <SUBFIELD tag="d" mandatory="n" repeatable="y" name="Parallel Title Proper">
+      <DESCRIPTION>      
+        The title proper in another language and/or 
+        script relating to a title proper appearing 
+        in a $a or $c subfield (EX 4, 13, 14).
+        Repeatable for each additional parallel title. 
+        </DESCRIPTION>
+      <SEEEX N="4"/>
+      <SEEEX N="13"/>
+      <SEEEX N="14"/>
+    </SUBFIELD>
+    <SUBFIELD tag="e" mandatory="n" repeatable="y" name="Other Title Information">
+      <DESCRIPTION>
+        Subtitles and other title information that 
+        appear subordinate to the title proper on an item 
+        (EX 1, 2, 10). Repeatable for each segment of other 
+        title information (EX 10) and for parallel other title 
+        information (EX 13, 14). It does not include variant 
+        titles such as spine title, cover title, and other titles 
+        found outside the principal source of information. It may 
+        be subordinate to a title appearing in subfield $a, $c or $d. 
+        </DESCRIPTION>
+      <SEEEX N="1"/>
+      <SEEEX N="2"/>
+      <SEEEX N="10"/>
+      <SEEEX N="13"/>
+      <SEEEX N="14"/>
+    </SUBFIELD>
+    <SUBFIELD tag="f" mandatory="n" repeatable="y" name="First Statement of Responsibility">
+      <DESCRIPTION>  
+       The first statement of responsibility for a title appearing 
+       in subfield $a, $c or $d, or for a numbered or named part of 
+       a work appearing in subfields $h or $i. Repeatable after each 
+       subfield $a, $c, $d, $h or $i which has an accompanying statement 
+       of responsibility (EX 12) or for each parallel statement of 
+       responsibility (EX 6). 
+       </DESCRIPTION>
+      <SEEEX N="12"/>
+      <SEEEX N="6"/>
+    </SUBFIELD>
+    <SUBFIELD tag="g" mandatory="n" repeatable="y" name="Subsequent Statement of Responsibility">
+      <DESCRIPTION>
+        A statement of responsibility after the first statement of  
+        responsibility and relating to the same title (EX 1, 4, 8, 9). 
+        It is repeatable for each additional subsequent statement of 
+        responsibility (EX 1, 8, 9) and for each parallel subsequent 
+        statement of responsibility (EX 14). 
+       </DESCRIPTION>
+      <SEEEX N="1"/>
+      <SEEEX N="4"/>
+      <SEEEX N="8"/>
+      <SEEEX N="9"/>
+      <SEEEX N="14"/>
+    </SUBFIELD>
+    <SUBFIELD tag="h" repeatable="y" mandatory="n" name="Number of a Part">
+      <DESCRIPTION>
+      The section or part numbering for items that are identified by 
+      a common name and a subsection name (EX 3, 11). Repeatable for 
+      each subsection or lower level division (EX 11) or for a parallel part number.
+      </DESCRIPTION>
+      <SEEEX N="3"/>
+      <SEEEX N="11"/>
+    </SUBFIELD>
+    <SUBFIELD tag="i" repeatable="y" mandatory="y" name="Name of a Part">
+      <DESCRIPTION>
+       The section or part name for items which are identified by a 
+       common name and a subsection name (EX 3, 11). Repeatable for 
+       each subsection or lower level division (EX 11) or for a parallel part name. 
+       </DESCRIPTION>
+      <SEEEX N="3"/>
+      <SEEEX N="11"/>
+    </SUBFIELD>
+    <SUBFIELD tag="v" repeatable="n" mandatory="n" name="Volume Designation">
+      <DESCRIPTION>
+       Used to indicate a particular part of an item that is related 
+       to another item. This subfield is used only when a 200 field is 
+       embedded in a 4-- linking field. It further defines the part of 
+       the linked item that bears the relationship designated by the 4-- tag. 
+       For example, an item may be a volume of a series, in which case the 
+       series title and the volume designation are entered in an embedded 200 field (EX 7). 
+       Volume designation may be numbers, years, etc. Not repeatable. 
+       </DESCRIPTION>
+      <SEEEX N="7"/>
+    </SUBFIELD>
+    <SUBFIELD tag="z" repeatable="y" mandatory="n" name="Language of Parallel Title Proper">
+      <DESCRIPTION>
+       Coded identification of the language of a parallel title that appears in
+       a $d subfield. If $d is repeated, this subfield should be repeated, the 
+       languages identified reflecting the order of the parallel titles. This 
+       subfield and any repeats should always come last in the field (EX 4, 13, 14).  
+       See Appendix A for list of codes. 
+       </DESCRIPTION>
+      <SEEEX N="4"/>
+      <SEEEX N="13"/>
+      <SEEEX N="14"/>
+    </SUBFIELD>
+    <SUBFIELD tag="5" repeatable="n" mandatory="n" name="Institution to Which Field Applies">
+      <DESCRIPTION>
+      Name of institution to which field applies in coded form.  
+      Since there are no internationally accepted codes, the codes from USMARC
+      Code List for Organizations, which includes codes for many non-U.S. library 
+      agencies, are recommended. Otherwise, the full name of the agency or a national
+      code may be used. If the institution holds more than one copy the subfield
+      should also contain the shelfmark after a colon. Not repeatable. 
+      <P/>This subfield is used only when a 200 field is embedded in a 4-- linking field. 
+      It further defines the part of the linked item that bears the relationship designated 
+      by the 4-- tag. It is generally used for older monographic publications (antiquarian)
+      to identify the institution which possesses the item with copy specific information. 
+      The case may be of an item bound in an _artificial_ collection (EX 17). 
+      </DESCRIPTION>
+      <SEEEX N="17"/>
+    </SUBFIELD>
+    <NOTES>ISBD information: 
+
+The data in the field should be entered as specified in ISBD for the Title and Statement of Responsibility Area. Subfield $z is not an ISBD data element. The correspondence between this field and the ISBD specification is illustrated below. 
+
+UNIMARC subfield
+ Element name
+ ISBD (G) Section
+ Preceding punctuation
+ 
+$a
+$a (repeated)
+
+$b
+$c
+$d
+$e
+$f
+$g
+
+$h
+$i
+ Title proper
+Title proper by the same author
+General material designation
+Title proper by another author
+Parallel title proper
+Other title information
+First statement of responsibility
+Subsequent statement of responsibility
+Number of a part
+Name of a part
+ 1.1
+1.6
+
+1.2
+1.6
+1.3
+1.4
+1.5
+1.5
+
+1.1.4 ISBD(S)
+1.1.4 ISBD(S)
+ New area
+;
+
+[ ]
+.
+=
+:
+/
+;
+
+.
+, if after $h, else . 
+ 
+
+
+The above table illustrates the preceding punctuation which occurs in most situations but not necessarily when parallel data is present. Further information is found in the appropriate ISBD. 
+
+When ISBD data is not found in the source record, no attempt should be made to create it from other data elements in a record. For example, if the source record does not have a data element 'statement of responsibility as found on the item', data from the access point fields of the source record should not be used to create one. 
+
+When an item has a collective title consisting of the title of separate works contained within it, any conjunction in the title is included in the subfield of the title it precedes (EX 5). 
+
+Parallel data: 
+
+Parallel data appearing on the item, i.e. data repeated in other languages or script, is denoted in ISBD by the use of equals sign followed by a space '= ' at the start of any block of parallel data. In UNIMARC '= ' is included in the data wherever required by ISBD, preceding and in the same subfield as the data to which it relates. 
+
+A title translated by the cataloguer is recorded in field 541 unless it is the only title supplied by the source record. 
+
+Title access: 
+
+The data in 200 $a will usually be that used to create an access point for the record under the title, if the title significance indicator (indicator 1) is set to 1. There is no other field in the UNIMARC format from which an added entry under title proper can be created when the record is used in the production of a catalogue. 
+
+General material designation: 
+
+The general material designation is entered in the language of the agency preparing the record. Lists of general material designations are found in ISBDs. For monographs and serials in the usual print form, the designation 'Printed text' may optionally be used. When an item has a collective title proper and comprises more than one interdependent component belonging to distinct material categories, the field will include a subfield for each general material designation. 
+
+When displayed, the general material designation is enclosed in brackets [ ]. These are ISBD prescribed punctuation and are not included in the record. 
+</NOTES>
+    <RELATED tag="101" name="LANGUAGE OF THE ITEM">
+      <DESCRIPTION>
+       The language of the title proper in the 200 $a subfield may be indicated in $g of 
+       field 101. However if there is no language entered in 101 $g, it can be assumed that
+       the language of the title proper is the same as the first language of the text,
+       entered in the first occurrence of $a in the 101 field. The language of any parallel
+       titles is contained in 200 $z. 
+       </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="304" name="NOTES PERTAINING TO TITLE AND STATEMENT OF RESPONSIBILITY">
+      <DESCRIPTION>
+       Used for notes on the contents of field 200. 
+       </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="312" name="NOTES RELATING TO RELATED TITLES">
+      <DESCRIPTION>
+       Used for notes containing the text of and/or comments on related titles. 
+       </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="423" name="ISSUED WITH">
+      <DESCRIPTION>
+       Used for added entries for titles contained in additional 200 $a subfields,
+       for 200 $c subfields and for titles associated with these (EX 12). 
+       </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="5--" name="RELATED TITLE BLOCK">
+      <DESCRIPTION>
+       Used for added entries for parallel titles contained in 200$d (EX 4) and for
+       variant titles such as spine title. 
+       </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="530" name="KEY TITLE (SERIALS)">
+      <DESCRIPTION>
+       When the source format carries a key title, which may or may not 
+       </DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">
+       200 l#$aNSBThe NSEGreat Fear of 1789$erural panic in revolutionary France$f[by]
+       Georges LeFebvre$gtranslated from the French by Joan White$gintroduction by George Rudé.
+       The ISBD entry appears as: 
+       The Great Fear of 1789 : rural panic in revolutionary France / [by] Georges LeFebvre ; 
+       translated from the French by Joan White ; introduction by George Rudé. 
+       'The ' is marked as having no filing value. 
+       </EX>
+      <EX n="2">
+       200 l#$aWhat is modern mathematics?$ea guide to teachers in further education$fYorkshire
+       and Humberside Council for Further Education 
+       The ISBD entry appears as: 
+       What is modern mathematics? : a guide to teachers in further education / Yorkshire and
+       Humberside Council for Further Education 
+       The question mark '?' of the title proper is retained since it is not ISBD prescribed
+       punctuation. 
+       </EX>
+      <EX n="3">
+       200 0#$aBulletin signalétique$bMicroform$hSection 9$iSciences de l'ingénieur$fCentre 
+       national de la recherche scientifique
+       The ISBD entry appears as: 
+       Bulletin signalétique [Microform]. Section 9, Sciences de l'ingénieur / Centre national
+       de la recherche scientifique 
+       </EX>
+      <EX n="4">
+       200 l#$aIndustrial steam locomotives of Germany and Austria$d= Dampfloks auf
+       Industriebahnen der BRD, DDR, und Österreich$fcompiled by Brian Rumary$gGerman
+       translations by M. Spellen$zger 
+       510 1#$aDampfloks auf Industriebahnen der BRD, DDR, und Österreich$zger 
+       The item has a parallel title that is coded as German. An added entry is required for
+       the parallel title, so it is repeated in field 510. 
+       </EX>
+      <EX n="5">
+       200 l# $aFlash and filigree$aand, The Magic Christian$fby Terry Southern 
+       The item contains two individual works by the same author, each with its own title but
+       without any collective title. 
+       </EX>
+      <EX n="6">
+       200 1#$aBibliographica belgica$fCommission belge de bibliographie$f= Belgische Commissie
+       voor bibliografie 
+       The item has a title in Latin with parallel statements of responsibility in French and 
+       Dutch. The $f subfield is repeated and the data is preceded by an equals sign '=' and
+       space. 
+       </EX>
+      <EX n="7">
+       410 #0$12000#$aSeries de histórica general$vv.5$171001$aMexico (City).$bUniversidad  
+       Nacional.$bInstituto de Investigaciones Históricas. 
+       This example illustrates the use of field 200 embedded in a linking entry field. A link
+       is made between the item being catalogued and the series to which it belongs, using 
+       field 410. Embedded within the 410 field are the 710 field containing the name of the 
+       corporate body primarily responsible for the series and the 200 field containing the name
+       of the series. The item being catalogued is v.5 of the series, so v.5 is entered in the
+       200 $v field. 
+       </EX>
+      <EX n="8">
+       200 1#$aThree adventures of Asterix$iAsterix in Switzerland$ftext by Goscinny$gdrawings
+       by Uderzo$gtranslated by Anthea Bell and Derek Hockridge.
+       The item is one of three unnumbered volumes, with a common title for the set of three
+       and individual titles for each volume. The first statement of responsibility is entered
+       in $f and all others in $g. Note that a statement of responsibility may contain more than
+       one name (second $g). Alternatively, the volume could have been treated as in EX 9. 
+       </EX>
+      <EX n="9">
+       200 1#$aAsterix in Switzerland$ftext by Goscinny$gdrawings by Uderzo$gtranslated by 
+       Anthea Bell and Derek Hockridge
+       461 #1$12001#$aThree adventures of Asterix 
+       The same example as EX 8 but treated differently in the source format of the agency 
+       preparing the record. 
+       </EX>
+      <EX n="10">
+       200 1#$aLife wish$ereincarnation$ereality or hoax$fMaurice Rawlings 
+       Example of multiple occurrences of other title information. 
+       </EX>
+      <EX n="11">
+       200 1#$aBritish standard methods of analysis of fat and fatty oils$bPrinted
+       text$hPart l$iPhysical methods$hSection 1.12$iDetermination of the dilation of fats.
+       A standards document with sections and subsections as recorded in a multimedia  
+       bibliography. The general material designation is stated. 
+       </EX>
+      <EX n="12">
+       200 l#$aPour les valeurs bourgeoises$fpar Georges Hourdin$cContre les valeurs
+       bourgeoises$fpar Gilbert Ganne 
+       423 #0$l2001#$aContre les valeurs bourgeoises$1700#1$aGanne,$bGilbert 
+       The ISBD entry appears as: 
+       Pour les valeurs bourgeoises / par Georges Hourdin. Contre les valeurs 
+       bourgeoises / par Gilbert Ganne. 
+       An item contains two works by different authors without common title. Note that 
+       subfield $f First Statement of Responsibility is repeated after each title. In order
+       to provide for author/title and title added entries for the second named work, the
+       author and title are entered in field 423. 
+       </EX>
+      <EX n="13">
+       200 1#$aApplications of ecological (biophysical) land classification in
+       Canada$eproceedings of the second meeting$d= Applications de la classification écologique
+       (biophysicale) du territoire au Canada$ecompte rendu de la deuxième réunion$fCanada 
+       Committee on Ecological (Biophysical) Land Classification, 47 April 1978, Victoria,
+       British Columbia$gcompiled and edited by C.D.A. Rubec$zfre. 
+       The item contains 'blocked' data for title and other title information, but since the
+       statements of responsibility are not parallel, these are outside the block. 
+       </EX>
+      <EX n="14">
+       200 l#$aPrinting at Gregynog$easpects of a great private press$d= Argraffu yng
+       Ngregynog$eagweddau ar wasg breifat fawr$fMichael Hutchins$gtranslated by David 
+       Jenkyns$g= y cyfieithiad gan David Jenkyns$zwel. 
+       The source format has not blocked the description by language since the first 
+       statement of responsibility belongs to each set of language data; therefore the
+       equals sign precedes each new set of elements in the parallel language. 
+       </EX>
+      <EX n="15">
+       200 1#$aNSBLe NSEwestern, nouvelle éd.$cÉvolution et renouveau du western (19621968) 
+       The publication is without a collective title and the edition statement for one of the
+       titles thus appears in the title area rather than in an edition area. The source
+       format treated this unusually placed data element like a part of the title proper. 
+       </EX>
+      <EX n="16">
+       200 0#$aVol. 3 
+       461 #0$100183.040221.7$15010#$aWorks$1700#1$a Shakespeare$bWilliam 
+       The record is for a part without a distinctive title from a source format that constructs
+       separate records for each level in a bibliographic hierarchy. The 461 contains the control
+       number of the record for a 9 volume set of complete works of Shakespeare without
+       distinctively named individual volumes. 
+       </EX>
+      <EX n="17 ">
+       481 #1$1001930112003$12000#$aTheoria generalis aequationum omnium graduum novis illustrata
+       formulis ac iuxta principia sublimioris calculi finitorum deducta$fautore p. Dominico
+       Martinovics$5CiZaNSB: R IIF-8º-1133privez1$1210##$aBudae$d1780 
+       or
+       481 #1$0001930112003$tTheoria generalis aequationum omnium graduum novis illustrata
+       formulis ac iuxta principia sublimioris calculi finitorum deducta. 
+       CiZaNSB: R IIF-8º-1133privez1$cBudae$d1780
+       </EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="205" name="EDITION STATEMENT" mandatory="n" repeatable="y">
+    <DESCRIPTION>
+   The field contains a statement of the edition of the item along with any additional issue
+   statement and statement of responsibility relating to the edition. It corresponds to the
+   ISBD Edition Area. 
+   </DESCRIPTION>
+    <IND1 name=" blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" mandatory="n" repeatable="n" name="Edition Statement">
+      <DESCRIPTION>
+       A word, phrase or group of characters in a formal statement, identifying an item as
+       a member of an edition. Not repeatable: additional edition statements are entered in $b. 
+      </DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="b" mandatory="n" repeatable="y" name="Issue Statement">
+      <DESCRIPTION>
+       This subfield contains an edition statement relating to an issue or an additional
+       edition statement which: 
+       is formally identified as constituting an edition within an edition, or
+       has significant differences in content from other issues of the larger edition to which 
+       it belongs (EX 5),
+       or
+       is an alternative designation for the edition named in subfield $a (EX 6). 
+       It corresponds to the ISBD Additional Edition Statement. Repeatable for a parallel or
+       additional issue statement. 
+      </DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="d" mandatory="n" repeatable="n" name="Parallel Edition Statement">
+      <DESCRIPTION>
+       The statement of an edition in a language and/or script other than the edition statement
+       in subfield $a (EX 9). Repeatable for each edition statement in other languages. 
+      </DESCRIPTION>
+      <SEEEX N="9"/>
+    </SUBFIELD>
+    <SUBFIELD tag="f" mandatory="n" repeatable="n" name="Statement of Responsibility Relating to Edition">
+      <DESCRIPTION>
+      The first of any statements of responsibility relating to the edition. May appear 
+      following subfields $a (EX 8, 9), $b (EX 7), or $d (EX 9). Repeatable for parallel 
+      first statements and first statements relating to additional edition statements.
+      </DESCRIPTION>
+      <SEEEX N="8"/>
+      <SEEEX N="9"/>
+      <SEEEX N="7"/>
+    </SUBFIELD>
+    <SUBFIELD tag="g" mandatory="n" repeatable="n" name="Subsequent Statement of Responsibility">
+      <DESCRIPTION>
+      Any subsequent statement of responsibility relating to the edition (EX 7). Follows
+      subfield $f. Repeatable for additional subsequent statements and parallel subsequent
+      statements. 
+      </DESCRIPTION>
+      <SEEEX N="7"/>
+    </SUBFIELD>
+    <NOTES>ISBD information: 
+
+The data in the field should be entered, as specified in ISBD, in the terms that appear on the item. When data is supplied by the cataloguer, it should be enclosed within brackets [ ]. The correspondence between this field and ISBD specification is illustrated below. 
+
+UNIMARC subfield 
+ Element name 
+ ISBD(G) section 
+ Preceding Punctuation 
+ 
+$a
+$d
+$f
+$g
+$b 
+ Edition statement
+Parallel edition statement
+Statement of responsibility relating to edition
+Subsequent statement of responsibility
+Issue or additional edition statement 
+ 2.1
+2.2
+2.3, 2.5
+2.3, 2.5
+2.4 
+ New area
+=
+/
+;
+, 
+ 
+
+
+Subfield content: 
+
+Statements of responsibility are entered immediately after the edition/issue statement to which they specifically apply. If a statement of responsibility applies to the work as a whole, and not merely to one particular edition or issue, it is entered in subfields 200 $f or $g. A single statement of responsibility may contain more than one name in some cases (EX 8). 
+
+When a statement relating to an issue or reprint is present in the item and there is no edition statement present, the issue statement is entered in subfield $a (EX 4). Many cataloguing codes do not transcribe an edition statement when it refers to a first edition. 
+
+Parallel data: 
+
+Parallel data appearing on the item, i.e. data repeated in another language or script, is denoted in ISBD by the use of equals sign followed by a space '= ' at the start of any block of parallel data. In UNIMARC '= ' is included in the data wherever required by ISBD, preceding and in the same subfield as the data to which it relates (EX 9). 
+<SEEEX N="8"/>
+      <SEEEX N="4"/>
+      <SEEEX N="9"/>
+    </NOTES>
+    <RELATED tag="200" name="TITLE AND STATEMENT OF STATEMENT">
+      <DESCRIPTION>
+       Statements of responsibility relating to the title as a whole are entered in field 200. 
+      </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="305" name="NOTES RELATING TO EDITION AND BIBLIOGRAPHIC HISTORY">
+      <DESCRIPTION>
+      Used for notes on the contents of field 205. 
+      </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="7--" name="INTELLECTUAL RESPONSIBILITY BLOCK">
+      <DESCRIPTION>
+      Any names in an edition statement for which access points are 
+      </DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">
+    205 ##$a16th ed.
+    </EX>
+      <EX n="2">
+    205 ##$aNew and revised ed. 
+    </EX>
+      <EX n="3">
+    205 ##$aLarge print ed. 
+    </EX>
+      <EX n="4">
+    205 ##$a2nd impression 
+    </EX>
+      <EX n="5">
+    205 ##$a3rd ed.$b2nd (corrected) impression 
+    A title Ireland edited by L. Russell Muirhead states 'Third edition. Second (corrected)  
+    impression'. Second (corrected) impression is an issue statement and is entered in $b. 
+    </EX>
+      <EX n="6">
+    205 ##$aEnglish full ed.$b4th international ed. 
+    The English full edition of UDC is also labelled 'Fourth international edition'. The
+    additional edition statement is entered in $b. 
+    </EX>
+      <EX n="7">
+    205 ##$a2nd ed.$breissued$fwith a foreword by Magnus Magnusson$gextra notes by P. Gardner 
+    The second edition of an item is reissued with the addition of a foreword by Magnus 
+    Magnusson,with extra notes by P. Gardner. 
+    </EX>
+      <EX n="8">
+    205 ##$a4th ed.$frevised by H.G. Le Mesurier and E. McIntosh$breprinted with corrections 
+    The 4th edition of The pocket Oxford dictionary of accurate English is revised by H.G. Le Mesurier and E. McIntosh. A reprint is issued with corrections. 
+    </EX>
+      <EX n="9">
+    205 ##$a2nd ed.$fedited by Larry C. Lewis$d= 2e éd.$frédigé par Larry C. Lewis. 
+    A parallel edition statement 
+    </EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="206" name="MATERIAL SPECIFIC AREA: CARTOGRAPHIC MATERIALS - MATHEMATICAL DATA" mandatory="c" repeatable="y">
+    <DESCRIPTION>
+   The statements of scale, projections, coordinates and equinox of a cartographic item. 
+   </DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <MANDATORY-CONDITION>
+      <RULE>substring($leader, 7, 1) = 'e' or substring($leader, 7, 1) = 'f'</RULE>
+      <NOTES>This field is mandatory for cartographic material.</NOTES>
+    </MANDATORY-CONDITION>
+    <SUBFIELD tag="a" name=" Notes on Field Contents" mandatory="n" repeatable="n">
+      <DESCRIPTION>
+       The text of the statements of scale, projection, coordinates, equinoxes and epochs
+       including ISBD punctuation. Not repeatable. 
+   </DESCRIPTION>
+    </SUBFIELD>
+    <NOTES>The field is equivalent to the ISBD(CM) Mathematical Data Area. The field is not divided into subfields since data from this field will not usually be used when a search is made on the contents of the record, this field is used primarily for display, whereas coded data fields for cartographic materials 120, 122, 123 and 131 are used for information retrieval. Specifications for format and punctuation of the data in this field are contained in the ISBD(CM). Note that all ISBD specified punctuation is carried in the field, even when it occurs at the subfield boundary. </NOTES>
+    <RELATED tag="120" name="CODED DATA FIELD: CARTOGRAPHIC MATERIALS">
+      <DESCRIPTION>
+       This field contains a code for map projection. 
+      </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="122" name="CODED DATA FIELD: TIME PERIOD OF ITEM CONTENT">
+      <DESCRIPTION>
+      This field contains in coded form the date to which the item applies, it 
+      includes the data which is found in the statement of equinox in records 
+      relating to celestial charts. 
+      </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="123" name="CODED DATA FIELD: CARTOGRAPHIC MATERIALS - SCALE AND COORDINATES">
+      <DESCRIPTION/>
+    </RELATED>
+    <RELATED tag="131" name="CODED DATA FIELD: CARTOGRAPHIC MATERIALS - GEODETIC, GRID AND 
+     VERTICAL MEASUREMENT">
+      <DESCRIPTION/>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">
+     206 ##$aScale 1:6 336 000 (W 170º-W 50º/N 80º -N 40º) 
+     </EX>
+      <EX n="2">
+206 ##$aScale 1:250 000. Vertical scale 1:125 000 ; Universal Transverse Mercator proj. (W 124º- W 122º/N 58º-N57º) 
+</EX>
+      <EX n="3">
+206 ##$a(RA 16 hr. 30 min. to 19 hr. 30min./Decl. -16º to -49º; eq. 1950, epoch 1948) 
+
+Example of a celestial chart. 
+</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag=" 207" name=" MATERIAL SPECIFIC AREA: SERIALS NUMBERING " mandatory="n" repeatable="n">
+    <DESCRIPTION>This field contains the numbering and/or dates of coverage of the first and last issues of a serial when the numbers and dates are known. It corresponds to the ISBD(S) Numbering Area </DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="Formatted Numbering Indicator">
+      <DESCRIPTION>This indicator indicates whether the volume and dates are formatted or structured. 
+</DESCRIPTION>
+      <OPTION value="0" name="formatted">
+        <DESCRIPTION/>
+      </OPTION>
+      <OPTION value="1" name="not formatted">
+        <DESCRIPTION/>
+      </OPTION>
+    </IND2>
+    <SUBFIELD tag="a" name="Numbering: Dates and Volume Designation" mandatory="n" repeatable="y">
+      <DESCRIPTION>The numbering and/or dates of coverage as defined in the Field Definition above. Repeatable when a new sequence of numbering is started. 
+</DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="z" name="Source of Numbering Information" mandatory="n" repeatable="y">
+      <DESCRIPTION>A note on the source of numbering information when it is not taken from the item itself (EX 6). Repeatable.</DESCRIPTION>
+      <SEEEX N="6"/>
+    </SUBFIELD>
+    <NOTES>The field contains numbering and/or dates of coverage. Dates of coverage given in this field do not necessarily coincide with the dates of publication in the record. 
+
+Recommendations for formatting this field are contained in ISBD(S). 
+</NOTES>
+    <RELATED tag="210" name="PUBLICATION, DISTRIBUTION, ETC">
+      <DESCRIPTION>Subfield $d contains the date of publication of the item which is entered in field 200 in the prescribed form, whether or not it coincides with any date in field 207. </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="225" name="SERIES">
+      <DESCRIPTION>When an item is a member of a series and bears a series number within that series (e.g. v.7 of a monographic series), the number within the series should be entered in field 225. 
+</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1"> 
+207 #0$aVol. l, no. l (Jan. 1940)- 
+A serial which is still being published is numbered 
+</EX>
+      <EX n="2">
+207 #0$aVol. 1, no. 1 (1 Apr. 1946)-vol.26, no. 195 (10 Oct.1972) = no. l-no. 6943 
+A daily newspaper was published from April 1, 1946 to October 10, 1972 starting with volume 1 number 1 and ending with volume 26, number 195. In addition, each issue was numbered consecutively from 1 to 6943. 
+</EX>
+      <EX n="3">
+207 #0$aApr.1978-July 1983 
+
+A serial is published monthly from April 1978 to July 1983 and has no volume or issue numbering. 
+</EX>
+      <EX n="4">
+207 #0$aVol. l, pt. l (June 1845)-vol. 72, pt. 12 (Dec.1916)$aN.s. vol. l, no. l (Jan.1917)- 
+A serial started with volume 1, part 1, in June 1845 and in 1917 after volume 72 part 12 when it changed its format it started renumbering from New series, volume 1, number 1. Each sequence is entered in a separate subfield. 
+</EX>
+      <EX n="5">
+207 #0$a1951/1- 
+A serial starting in 1951 is numbered 1951/1 onwards. 
+</EX>
+      <EX n="6">
+207 #l$aBegan in 1963$zBUCOP 
+An unformatted serial numbering statement
+</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="208" name="MATERIAL SPECIFIC AREA: PRINTED MUSIC SPECIFIC STATEMENT" mandatory="n" repeatable="n">
+    <DESCRIPTION>This field contains a statement, transcribed from the item, relating to the particular format of a printed or manuscript music item. The field corresponds to the ISBD(PM) Printed Music Specific Area. </DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Printed Music Specific Statement" mandatory="n" repeatable="n">
+      <DESCRIPTION>The statement related to the particular format of the item in hand, taken from the title page (EX 1, 2). Not repeatable. 
+</DESCRIPTION>
+      <SEEEX N="1"/>
+      <SEEEX N="2"/>
+    </SUBFIELD>
+    <SUBFIELD tag="d" name="Parallel Printed Music Specific Statement(s)" mandatory="n" repeatable="y">
+      <DESCRIPTION>Any additional statements in a different language and/or script, taken from the title page (EX 2). Repeatable for each additional statement. 
+</DESCRIPTION>
+    </SUBFIELD>
+    <NOTES>Parallel data: 
+
+Parallel data appearing on the item, i.e. data repeated in another language or script, is denoted in ISBD by the use of the equals sign followed by a space = at the start of any block of parallel data. In UNIMARC '= ' is included in the data whenever required by ISBD, preceding and in the same subfield as the data to which it relates (EX 2). 
+<SEEEX N="2"/>
+    </NOTES>
+    <RELATED tag="125" name="CODED DATA: SOUND RECORDINGS AND MUSICAL SCORES">
+      <DESCRIPTION/>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">
+208 ##$aMiniature score 
+</EX>
+      <EX n="2">
+208 ##$aOrchester-Partitur$d= Full score 
+</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="210" name="PUBLICATION, DISTRIBUTION, ETC" mandatory="n" repeatable="n">
+    <DESCRIPTION>This field contains information on the publication, distribution and manufacture of the item including associated dates. It corresponds to the ISBD Publication, Distribution, etc. Area. </DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Place of Publication, Distribution, etc" mandatory="n" repeatable="y">
+      <DESCRIPTION>The town or other locality where the item is published or distributed as named in it. If the place is not well-known or is incorrectly or archaically spelled, amplification may be added in brackets according to the provisions of ISBD (EX 2, 3). Repeatable for each place named (EX 7, 12, 13) or for the place of publication in another language (EX 14). 
+</DESCRIPTION>
+      <SEEEX N="2"/>
+      <SEEEX N="3"/>
+      <SEEEX N="7"/>
+      <SEEEX N="12"/>
+      <SEEEX N="13"/>
+      <SEEEX N="14"/>
+    </SUBFIELD>
+    <SUBFIELD tag="b" name="Address of Publisher, Distributor, etc." mandatory="n" repeatable="y">
+      <DESCRIPTION>The full postal address of a publisher or distributor within parentheses or brackets, usually included because the publisher is not well-known (EX 4). Repeatable
+</DESCRIPTION>
+      <SEEEX N="4"/>
+    </SUBFIELD>
+    <SUBFIELD tag="c" name="Name of Publisher, Distributor, etc." mandatory="n" repeatable="y">
+      <DESCRIPTION>The name of the publisher or distributor which may be in a shortened form so long as it is readily recognisable (EX 1). When a statement of function of the distributor is included, it is entered in this subfield in brackets (EX 5, 12). Repeatable (EX 8). 
+</DESCRIPTION>
+      <SEEEX N="1"/>
+      <SEEEX N="5"/>
+      <SEEEX N="12"/>
+      <SEEEX N="8"/>
+    </SUBFIELD>
+    <SUBFIELD tag="d" name="Date of Publication, Distribution, etc." mandatory="n" repeatable="y">
+      <DESCRIPTION>The date or approximate date of publication or a copyright date (EX 7) or date of manufacture (EX 11). An open date (EX 6) or spanning date (EX 10) is permitted. Repeatable for a date of distribution when included in addition to a date of publication and separated from it by an intervening subfield (EX 12). </DESCRIPTION>
+      <SEEEX N="7"/>
+      <SEEEX N="11"/>
+      <SEEEX N="6"/>
+      <SEEEX N="10"/>
+      <SEEEX N="12"/>
+    </SUBFIELD>
+    <SUBFIELD tag="e" name="Place of Manufacture" mandatory="n" repeatable="y">
+      <DESCRIPTION>The place of manufacture of an item, e.g. the place of printing of a book (EX 9). If the place is not well-known or is incorrectly named, amplification may be added in brackets according to the provisions of ISBD. Repeatable. </DESCRIPTION>
+      <SEEEX N="9"/>
+    </SUBFIELD>
+    <SUBFIELD tag="f" name="Address of Manufacturer" mandatory="n" repeatable="y">
+      <DESCRIPTION>The full postal address of the manufacturer, usually included because the manufacturer is not well known. Repeatable. 
+</DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="g" name="Name of Manufacturer" mandatory="n" repeatable="y">
+      <DESCRIPTION>The name of the manufacturer (e.g. printer) (EX 3, 9). May be in a shortened form so long as it is readily recognisable. Repeatable. </DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="h" name="Date of Manufacture" mandatory="n" repeatable="y">
+      <DESCRIPTION>The date of manufacture of an item when used to supplement the date of publication (EX 13). Repeatable. 
+</DESCRIPTION>
+      <SEEEX N="13"/>
+    </SUBFIELD>
+    <NOTES>Subfield contents: 
+
+It is recommended that each record should have a field 210. Where place and name of publisher are not known, [S.l.] (sine loco) and [s.n.] (sine nomine) or their equivalents in non-roman scripts are entered in subfields $a and $c respectively (EX 9). When more than one publisher/distributor is given, each is preceded by its place in separate repeated subfields (EX 5, 8). The rules for the omission or names of places and publishers depend on the practices of the agency. 
+
+Dates: 
+
+A date is always in subfield $d. If the date of publication is not known a copyright date or an approximate date may be given. Such a date may be indicated as a copyright date (EX 7) or date of manufacture. A copyright date may be entered in addition to the date of publication; both are entered in the same subfield $d. When date of manufacture is entered in addition to the date in subfield $d, it is entered in subfield $h (EX 13). Parentheses are omitted from this subfield, and are generated at output. 
+
+A spanning date may be entered in any date subfield (EX 10). When an open date is entered (EX 6) it is entered without any following space. If required, such spaces are generated at output. 
+
+Parallel data: 
+
+Parallel data may be entered in this field, in which case it is entered in a repeated subfield and preceded by an equals sign and space '= '' (EX 14). 
+
+ISBD information: 
+
+ISBD recommend that any full address in $b or $f be entered in brackets if it is supplied by the cataloguer or in parentheses if it is taken from the item. Since this is not prescribed punctuation, it should be carried if required for a record even when it occurs at a subfield boundary (EX 4). When a distributor is named, a term such as Distributor or its equivalent may be entered in brackets (EX 5, 12). Although these brackets are prescribed punctuation in the ISBD, they are not dropped at subfield boundaries in the UNIMARC record. 
+
+For further information on the data content of this field refer to the relevant ISBD. The correspondence between this field and ISBD specification is illustrated below. 
+
+UNIMARC subfield 
+ Element name 
+ ISBD(G) section 
+ Preceding punctuation 
+ 
+$a
+$a (repeated)
+$b
+$c
+$d
+$e
+$e (repeated)
+$f
+$g
+$h 
+ Place of publication, distribution, etc
+Subsequent place of publication, distribution etc
+Address of publisher, distributor, etc
+Name of publisher, distributor, etc
+Date of publication, distribution, etc
+Place of manufacture
+Subsequent place of manufacture
+Address of manufacturer
+Name of manufacturer
+Date of manufacture 
+ 4.1
+4.1
+4.2
+4.3
+4.4
+4.5
+4.6
+4.7 
+ New area
+;
+
+
+:
+,
+(if present
+;
+
+
+:
+, 
+ 
+
+
+The entire statement of manufacture is enclosed within parentheses. 
+<SEEEX N="9"/>
+      <SEEEX N="5"/>
+      <SEEEX N="8"/>
+      <SEEEX N="7"/>
+      <SEEEX N="10"/>
+      <SEEEX N="6"/>
+      <SEEEX N="14"/>
+      <SEEEX N="4"/>
+      <SEEEX N="5"/>
+      <SEEEX N="12"/>
+    </NOTES>
+    <RELATED tag="100" name="GENERAL PROCESSING DATA, Dates of publication (character positions 9-16)">
+      <DESCRIPTION>Dates of publication are entered in field 100 as well as in 210 $d. Both should be entered. 
+</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="102" name="COUNTRY OF PUBLICATION OR PRODUCTION">
+      <DESCRIPTION>This field contains a code for the country or countries of publication or production and a code for the locality. It is recommended that field 102 be used in addition to field 210. 
+</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="205" name="EDITION STATEMENT">
+      <DESCRIPTION>A date of printing for a reprint etc. may be included in an edition or issue statement. 
+</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="345" name="ACQUISITION INFORMATION NOTE">
+      <DESCRIPTION>This field contains the full mailing address of a publisher, distributor etc. </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="620" name="PLACE ACCESS">
+      <DESCRIPTION>If it is desired to provide an access point for the place of publication, production etc., the place is entered in this field. </DESCRIPTION>
+    </RELATED>
+    <RELATED tag="7--" name=" INTELLECTUAL RESPONSIBILITY BLOCK">
+      <DESCRIPTION>If it is desired to provide an access point for a publisher or manufacturer, the name of the person or body is entered in a 7-- field. </DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">
+210 ##$a[Cambridge, Mass.]$cHarvard Univ. P.$dl981 
+The place of publication is not in the chief source of information. The agency abbreviates common words in the publisher's name. 
+</EX>
+      <EX n="2">
+210 ##$aBrampton [Cumbria]$cL.Y.T.C.$d[1978 or 1979] 
+The place in the imprint is not well-known and a county is added. The date is not certain. 
+</EX>
+      <EX n="3">
+210 ##$aNottigham [i.e. Nottingham]$c[s.n.]$dl966$gSherwood Printers 
+The place name is incorrectly or archaically spelled and no publisher is named. 
+</EX>
+      <EX n="4">
+210 ##$aLondon$b(52, St. George's Avenue, N7)$cSt George's Church$d[1975] 
+The address of the publisher has been included by the agency preparing the record. The date is taken from elsewhere than the chief source of information and is enclosed in brackets. 
+</EX>
+      <EX n="5">
+210 ##$aColorado Springs$cMyles$aLondon$cHouseman [distributor]$dl980 
+The statement of the function of the distributor is added. 
+</EX>
+      <EX n="6">
+210 ##$aLondon$cMacmillan for the Linnean Society$dl964-@ 
+The date is an open date. In this example the end of field marker is included for clarity. 
+</EX>
+      <EX n="7">
+210 ##$aLondon$aBoston$cButterworth$dcop. 1982 
+A repeated place of publication is needed for one publisher. The date is a copyright date and indicated as such. 
+</EX>
+      <EX n="8">
+210 ##$aIpswich$cBoydell P.$aBungay$cWaveney Publications$dl976 
+The item has more than one publisher. 
+</EX>
+      <EX n="9">
+210 ##$a[S.l.$cs.n.]$dl974$eManchester$gUnity Press 
+The item has only the name of the printer. S.l.and s.n. are supplied. 
+</EX>
+      <EX n="10">
+210 ##$aLondon, [etc.]$cO.U.P.$dl978-1981 
+The agency preparing the record enters only the first place of publication. The item was published in separate volumes over a period of time. 
+</EX>
+      <EX n="11">
+210 ##$aBombay$c[s.n.]$dl980 printing 
+The date of printing is given in lieu of a date of publication and indicated as such. 
+</EX>
+      <EX n="12">
+210 ##$aLondon$cEducational Record$dl973$aNew York$cEdcorp [distributor]$dl975 
+</EX>
+      <EX n="13">
+210 ##$aGeneva$cWHO$aLondon$cdistributed by H.M.S.O.$dl970$hl973 printing 
+</EX>
+      <EX n="14">
+210 ##$aBern$cBundeskanzlei$a= Berne$cChancellerie fédérale$dl974 
+Both name and place of publisher are in more than one language. 
+</EX>
+      <EX n="15">
+210 ##$aA Paris$cChez l'auteur$dAvec Privilège du Roy, 1700 
+The item has a privilege date. 
+</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="211" name="PROJECTED PUBLICATION DATE" mandatory="n" repeatable="n">
+    <DESCRIPTION>This field contains the projected date of publication of an item. The field is used for CIP (Cataloguing In Publication) entries and similar advance records created from information provided by the publisher.</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Date" mandatory="n" repeatable="n">
+      <DESCRIPTION>The data should be recorded according to ISO 8601-1989 in all-numeric form without separators between year, month, and day, i.e. YYYYMMDD. Where day or month and day are unknown, those positions contain blanks. Not repeatable.
+</DESCRIPTION>
+    </SUBFIELD>
+    <NOTES>This is a temporary field, to be deleted when the record is updated.</NOTES>
+    <RELATED tag="210" name="PUBLICATION, DISTRIBUTION, ETC">
+      <DESCRIPTION/>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">
+RECORD LABEL -----n------------------
+210 ##$aLondon$cFaber$dl999
+211 ##$a199911##
+A new CIP record for a work scheduled to be published in November 1999.
+RECORD LABEL -----p------------------
+210 ##$aLondon$cFaber$dl999
+The 211 field is deleted when the updated record for the work is issued after publication.
+</EX>
+      <EX n="2">
+RECORD LABEL -----n------------------
+210 ##$aNew York$cMacmillan$dl999
+211 ##$a199912##
+A new record for a work scheduled to be published in December 1999.
+RECORD LABEL -----p------------------
+210 ##$aNew York$cMacmillan$d2000
+The updated record for the same work. Publication was delayed
+</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="215" name="PHYSICAL DESCRIPTION" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains information on the physical characteristics of the item. This field corresponds to the ISBD Physical Description Area. 
+</DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Specific Material Designation and Extent of Ite" mandatory="n" repeatable="y">
+      <DESCRIPTION>The name of the specific type of material to which the item belongs (EX 3, 6, 7-14) and/or an indication of the number of pieces or constituent parts (EX 1, 2, 5). Repeatable (EX 8). 
+</DESCRIPTION>
+      <SEEEX N="3"/>
+      <SEEEX N="6"/>
+      <SEEEX N="7"/>
+      <SEEEX N="8"/>
+      <SEEEX N="9"/>
+      <SEEEX N="10"/>
+      <SEEEX N="11"/>
+      <SEEEX N="12"/>
+      <SEEEX N="13"/>
+      <SEEEX N="14"/>
+      <SEEEX N="1"/>
+      <SEEEX N="2"/>
+      <SEEEX N="5"/>
+      <SEEEX N="8"/>
+    </SUBFIELD>
+    <SUBFIELD tag="c" name="Other Physical Details" mandatory="n" repeatable="n">
+      <DESCRIPTION>Physical data about an item other than that contained elsewhere in this field or in the notes fields, e.g. details of illustrative matter, whether an item has colour or sound, etc. (EX 9-10). Not repeatable</DESCRIPTION>
+      <SEEEX N="9"/>
+      <SEEEX N="10"/>
+    </SUBFIELD>
+    <SUBFIELD tag="d" name="Dimensions" mandatory="n" repeatable="y">
+      <DESCRIPTION>The linear measurements of an item and/or (in the case of an item which requires equipment for its use) dimensions relevant to the use of the item (EX 9), and/or the bibliographic format of older printed books (EX 16). This subfield also includes details of any container (EX 15). Repeatable after repeats of $a (EX 8). 
+</DESCRIPTION>
+      <SEEEX N="9"/>
+      <SEEEX N="16"/>
+      <SEEEX N="15"/>
+    </SUBFIELD>
+    <SUBFIELD tag="e" name="Accompanying Material" mandatory="n" repeatable="y">
+      <DESCRIPTION>A brief description of any material accompanying the item being described, which is intended to be used with the item (EX 4,8). Repeatable. 
+</DESCRIPTION>
+      <SEEEX N="4"/>
+      <SEEEX N="8"/>
+    </SUBFIELD>
+    <NOTES>The treatment of accompanying material will vary according to the cataloguer's view of its importance. Compare EX 4, 8, 15.
+
+Punctuation at subfield boundaries should not be entered in the field; however, within a subfield, any separating punctuation is entered (see especially EX 4). For further information on the data content of this field, refer to the relevant ISBD. The correspondence between this field and ISBD specifications is illustrated below. 
+
+UNIMARC subfield 
+ Element name 
+ ISBD(G) section 
+ Preceding punctuation 
+ 
+$a
+
+$c
+$d
+$e 
+ Specific material designation and extent of item
+Other physical details
+Dimensions
+Accompanying materials 
+ 5.1
+
+5.2
+5.3
+5.4 
+ New area
+
+:
+;
++ 
+ <SEEEX N="4"/>
+      <SEEEX N="8"/>
+      <SEEEX N="15"/>
+    </NOTES>
+    <RELATED tag="105" name="CODED DATA FIELD: BOOKS, Illustration Codes (character positions 0-3)">
+      <DESCRIPTION>These character positions contain illustration codes that correspond to the illustration data in 215 $c. 
+</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="126" name="SOUND RECORDINGS: PHYSICAL ATTRIBUTES">
+      <DESCRIPTION/>
+    </RELATED>
+    <RELATED tag="130" name="CODED DATA FIELD: MICROFORMS: PHYSICAL ATTRIBUTES">
+      <DESCRIPTION/>
+    </RELATED>
+    <RELATED tag="307" name="NOTES PERTAINING TO PHYSICAL DESCRIPTION">
+      <DESCRIPTION>Any detail concerning physical description which cannot be entered in field 215 may be entered as a note in field 307. 
+</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">
+215 ##$a264 p., 24 leaves of plates$cill., 17 facs.$d21 cm$el map 
+</EX>
+      <EX n="2">
+215 ##$ax, 32, 73 p., [1] leaf of plates$cmaps$d21 cm 
+</EX>
+      <EX n="3">
+215 ##$al folder (6 p.)$cmaps, plans, charts, portraits$d21 x 30 cm 
+</EX>
+      <EX n="4">
+215 ##$a3 vol. (49, 37, 18 p.)$cill., col.maps$d22 cm$esound disk (16 min): 33 1/3 rpm., mono., 17.5 cm 
+</EX>
+      <EX n="5">
+215 ##$a35 S.$c16 graph. Darst.$d24 cm 
+</EX>
+      <EX n="6">
+215 ##$al map$cboth sides, col.$d41 x 84 cm, folded to 22 x 10 cm 
+</EX>
+      <EX n="7">
+215 ##$al globe$ccol., mounted on metal stand$d31 cm in diam. 
+</EX>
+      <EX n="8">
+215 ##$al score(vi, 63p.)$d20cm.$al6 parts$d32 cm.$el booklet 
+The main components are a score and 16 parts. The heights of these items differ. There is an accompanying booklet. 
+</EX>
+      <EX n="9">
+215 ##$al film reel (20 min., 570 m)$cnitrate, b &amp;w, si.$dl6 mm 
+The item is a silent black and white 16mm. 20 minute film reel on a nitrate base. It is 570 metres long. The catalogue entry would appear as follows: 
+1 film reel (20 min., 570 m) : nitrate, b&amp; 
+w, si. ; 16 mm 
+</EX>
+      <EX n="10">
+215 ##$al videocassette (Umatic) (30 min.)$ccol., sd. 
+The item is a colour videocassette in U-matic format, with sound, lasting 30 minutes. 
+</EX>
+      <EX n="11">
+215 ##$al sound reel (100 min.)$c19 cm/s., 4 track, adjacent 
+The item is a fourtrack sound reel with a playing time of 100 minutes at a speed of 19 cm./second. The track configuration is given. 
+</EX>
+      <EX n="12">
+215 ##$al sound reel (50 min.)$c38 cm/s., 2 track, stereo, Dolby processed 
+The item is a two-track stereo sound reel with a playing time of 50 minutes at a speed of 38 cm./second. A Dolby noise reduction system has been used. 
+</EX>
+      <EX n="13">
+215 ##$al sound disc$c33 1/3 rpm, coarse 
+The item is a sound disc with a playing speed of 33 1/3 rpm. The groove width is coarse. 
+</EX>
+      <EX n="14">
+215 ##$al sound disc$c78 rpm, vertical 
+The item is a sound disc with a playing speed of 78 rpm. The groove direction is vertical. 
+</EX>
+      <EX n="15">
+215 ##$a3 filmstrips (96 fr.)$ccol.$d35 mm
+215 ##$a1 map$ccol.$d25x25 cm folding to 10x18 cm
+215 ##$a13 rocks and minerals$din container$d14x9x2 cm
+215 ##$a1 wallchart$ccol.$d48x90 folding to 24x15 cm 
+</EX>
+      <EX n="16">
+215 ##$a340 p., 4 leaves of plates$cill.$d4to (19 cm.) 
+The item is a book from the hand-press era. 
+</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="225" name="SERIES" mandatory="n" repeatable="y">
+    <DESCRIPTION>This field contains the title of the series along with any other title information and statements of responsibility relating to the title including any of the preceding repeated in other languages, in the form and sequence in which they appear on the item being catalogued. It corresponds to the ISBD Series Area. </DESCRIPTION>
+    <IND1 name="Form of Title Indicator">
+      <DESCRIPTION>The access point form of the series should be recorded in a linking entry 410 field. This indicator specifies whether the series statement is the same as the access point form as recorded in field 410. 
+</DESCRIPTION>
+      <OPTION value="0" name="Not the same as the established form">
+        <DESCRIPTION>The agency preparing the record considers the access point form in 410 differs from the series statement in 225 (EX 1, 6).</DESCRIPTION>
+        <SEEEX N="1"/>
+        <SEEEX N="6"/>
+      </OPTION>
+      <OPTION value="1" name=" No established form">
+        <DESCRIPTION>No access point form has been established: therefore there is no corresponding title in 410 (EX 2).</DESCRIPTION>
+        <SEEEX N="2"/>
+      </OPTION>
+      <OPTION value="2" name=" Same as the established form">
+        <DESCRIPTION>The agency preparing the record considers the data in field 225 to be equivalent to the established form. 
+In all cases it is recommended that any established form be entered in field 410 </DESCRIPTION>
+      </OPTION>
+    </IND1>
+    <IND2 name="blank (not defined)"/>
+    <SUBFIELD tag="a" name="Series Title" mandatory="n" repeatable="n">
+      <DESCRIPTION>The title of the series in the form in which it appears on the item being recorded. Not repeatable. 
+</DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="d" name="Parallel Series Title" mandatory="n" repeatable="y">
+      <DESCRIPTION>The title of the series in another language and/or script relating to the series title appearing in subfield $a. Repeatable for each additional parallel series title (EX 3). 
+</DESCRIPTION>
+      <SEEEX N="3"/>
+    </SUBFIELD>
+    <SUBFIELD tag="e" name="Other Title Information" mandatory="n" repeatable="y">
+      <DESCRIPTION>Subtitles and other title information that appear on the item subordinate to the series title in $a or $d or to the name of a part in $i (EX 4). Repeatable for each segment of other title information and for parallel other title information.</DESCRIPTION>
+    </SUBFIELD>
+    <SUBFIELD tag="f" name="Statement of Responsibility" mandatory="n" repeatable="y">
+      <DESCRIPTION>The statement of responsibility for a title appearing in $a or $d (EX 1) or for a numbered or named part within the series appearing in $h or $i (EX 5). Repeatable for additional statements of responsibility and for parallel statements of responsibility. 
+</DESCRIPTION>
+      <SEEEX N="1"/>
+      <SEEEX N="5"/>
+    </SUBFIELD>
+    <SUBFIELD tag="h" name=" Number of a Part" mandatory="n" repeatable="y">
+      <DESCRIPTION>The section or part number of the series in $a. Repeatable for each subsection or lower level division or for a parallel part number (EX 3). 
+</DESCRIPTION>
+      <SEEEX N="3"/>
+    </SUBFIELD>
+    <SUBFIELD tag="i" name=" Name of a Part" mandatory="n" repeatable="y">
+      <DESCRIPTION>The section or part name of the subseries when the series entered in $a is divided into subseries. Repeatable for each lower level of subseries or for a parallel subseries name (EX 3, 5). 
+</DESCRIPTION>
+      <SEEEX N="3"/>
+      <SEEEX N="5"/>
+    </SUBFIELD>
+    <SUBFIELD tag="v" name="Volume Designation" mandatory="n" repeatable="y">
+      <DESCRIPTION>The number of the item being recorded within the series entered in field 225, and any term used in the item to designate it, which may be in abbreviated form (EX 1, 2, 3, 4, 5). Repeatable (EX 3). 
+</DESCRIPTION>
+      <SEEEX N="1"/>
+      <SEEEX N="2"/>
+      <SEEEX N="3"/>
+      <SEEEX N="4"/>
+      <SEEEX N="5"/>
+    </SUBFIELD>
+    <SUBFIELD tag="x" name="ISSN of Series" mandatory="n" repeatable="y">
+      <DESCRIPTION>The ISSN of the series, entered as an 8-digit number with a hyphen between the 4th and 5th digits. The term ISSN is omitted and should be generated on output (EX 1). Repeatable when the series and subseries each has an ISSN. 
+</DESCRIPTION>
+      <SEEEX N="1"/>
+    </SUBFIELD>
+    <SUBFIELD tag="z" name="Language of Parallel Title" mandatory="y" repeatable="y">
+      <DESCRIPTION>Coded identification of the language of a parallel title that appears in a $d subfield (EX 3). If $d is repeated, this subfield is repeated, the languages identified reflecting tile order of the parallel titles. This subfield and any repetitions of it always come last in the field. See Appendix A for language 
+</DESCRIPTION>
+      <SEEEX N="3"/>
+    </SUBFIELD>
+    <NOTES>ISBD information: 
+
+The data in the field should be entered in the form and sequence as on the piece as specified in ISBD for the Series Area. Subfield $z is not an ISBD data element. The correspondence between this field and ISBD is illustrated below. The text within the ISBD series area is enclosed within parentheses '( )' which are not carried in the UNIMARC record. 
+
+UNIMARC subfield 
+ Element name 
+ ISBD(G) section 
+ Preceding punctuation 
+ 
+$a
+$d
+$e
+$f
+$h
+$i
+$v
+$x 
+ Series title
+Parallel series title
+Other title information
+Statement of responsibility
+Number of a part
+Name of a part
+Volume designation
+ISSN of series 
+ 6.1
+6.2
+6.3
+6.4
+6.7
+6.7
+6.6
+6.5 
+ New area
+=
+:
+/
+.
+, if after $h, else .
+;
+, 
+ 
+
+
+Parallel data: 
+
+Parallel data appearing on the item, i.e. data appearing in another language or script, is denoted in ISBD by the use of equals sign followed by a space '= ' at the start of any block of parallel data. In UNIMARC '= ' is included in the data whenever required by ISBD, preceding and in the same subfield as the data to which it relates (EX 3, 6). 
+
+Subfield content: 
+
+This field is used only for the series belonging to the item whose title is entered in field 200. If the record is for an item which is a serial or series, field 225 is used only if that serial or series itself belongs to a series. The title of the serial or series being catalogued is entered in field 200 (see field 200, EX 3). 
+
+When the source record does not contain the series title in the form as on the piece, no attempt should be made to create it from an established form of the series title. The established form may be entered in field 410 and a note on the series title may be created from it. 
+
+When the record of a series has what may be either a subtitle or a subseries title but it is not possible to determine which of the two it is, prefer to code it as subfield $e Other title information. Number and name of part are one data element in ISBD and some source formats may not be able to distinguish. In these cases when converting to UNIMARC prefer $i to $h. 
+
+<SEEEX N="3"/>
+      <SEEEX N="6"/>
+    </NOTES>
+    <RELATED tag="011" name="ISSN">
+      <DESCRIPTION>The ISSN of a series title entered in field 200 is entered in field 011. 225 $x relates only to the ISSN of a serial title in 225 $a or $i. 
+</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="410" name="SERIES">
+      <DESCRIPTION>The established form of a series title may be entered in a 200 field embedded in field 410. 
+</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="411" name=" SUBSERIES">
+      <DESCRIPTION>The established form a subseries title may be entered in a 200 field embedded in field 411. 
+</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="461" name="SET">
+      <DESCRIPTION>Field 461 is used when an agency which uses a record structure that emphasises linking separate records for the data from various levels requires a reference to a record describing a serial. 
+</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="530" name="KEY TITLE">
+      <DESCRIPTION>If the series has a key title, it should not be entered in field 530 as that contains the key title of the work whose title is in 200$a. If the series has a key title, it may be noted in field 308. 
+</DESCRIPTION>
+    </RELATED>
+    <RELATED tag="7--" name="INTELLECTUAL RESPONSIBILITY BLOCK">
+      <DESCRIPTION>If access is required to the name of any persons or bodies entered in subfield $f, the access form of the name should be entered in a 7-- field or in a 7-- field embedded in a field 410 or 411. 
+</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">
+225 0#$aOccasional paper$fBritish Museum$x0412-4815$vno. 33
+410 #0$171002$aBritish Museum$12000#$aOccasional papers 
+</EX>
+      <EX n="2">
+225 2#$aInternational series in the science of the solid state$vvol. 10
+225 1#$aPergamon international library 
+Xray diffraction topology is in two series. The second is not used as an access point, so there is no established form equivalent to it (first indicator set to 1). 
+</EX>
+      <EX n="3">
+225 2#$aEuropaische Hochschulschriften$hReihe I$iDeutsche Literatur und Germanistik$vBd. 298$d= Publications universitaires européennes$hSérie I$iLangue et littérature allemandes$vvol. 298$d= European university papers$hSeries I$iGerman language and literature$vvol. 298$zfre$zeng 
+An item is vol. 298 of a subseries with parallel information in three languages. The title is the same as the established form. 
+The ISBD display: 
+(Europaische Hochschulschriften. Reihe I, Deutsche Literatur und Germanistik ; Bd. 298 = Publications universitaires européennes. Série I, Langue et littérature allemandes ; vol. 298 = European university papers. Series I, Germany language and literature ; vol. 298) 
+</EX>
+      <EX n="4">
+225 2#$aExperimental biology and medicine$emonographs on interdisciplinary topics$vvol. 6 
+</EX>
+      <EX n="5">
+225 2#$aAbhandlungen der Mathematisch-Naturwissenschaftliche Klasse$fAkademie der Wissenschaften und der Literatur$vJahrg. 1976, Nr. 3 
+</EX>
+      <EX n="6">
+225 0#$aWorld films$iFrance 
+</EX>
+    </EXAMPLES>
+  </FIELD>
+  <FIELD tag="230" name="MATERIAL SPECIFIC AREA: ELECTRONIC RESOURCE CHARACTERISTICS " mandatory="c" repeatable="y">
+    <DESCRIPTION>This field contains information on the file characteristics pertaining to the type and extent of a electronic resource. </DESCRIPTION>
+    <IND1 name="blank (not defined)"/>
+    <IND2 name="blank (not defined)"/>
+    <MANDATORY-CONDITION>
+      <RULE>substring($leader, 7, 1) = 'l' or substring($leader, 7, 1) = 'm'</RULE>
+      <NOTES>This field is mandatory for electronic resources.</NOTES>
+    </MANDATORY-CONDITION>
+    <SUBFIELD tag="a" name="Designation and extent of file" mandatory="n" repeatable="n">
+      <DESCRIPTION>The designation of the file identifies the particular type of file(s) which constitutes the work and is given in the language of the bibliographic agency. Designation of type of file is mandatory. 
+The extent of file consists of the number of files that make up the content of the data or the program. Additional measures of extent may be added as appropriate. The specific terms for extent of file are in the language of the bibliographic agency. Extent of file is optional. 
+Not repeatable. 
+</DESCRIPTION>
+    </SUBFIELD>
+    <NOTES>The field is equivalent to the ISBD(ER) Type and Extent of Resource Area. Each statement of extent is enclosed in parentheses after the designation of the file. The number of files constituting the content of the data or program is given in arabic numerals. The number of records and/or bytes may be given for a data file and the number of statements and/or bytes may be given for a program. When the number of files is given, this further statement of extent is introduced by a colon, space. For a multi-part file, the number of records and/or bytes or the number of statements and/or bytes may be given for each file. The number of records and/or bytes or the number of statements and/or bytes may be approximated (EX 5). <SEEEX N="5"/>
+    </NOTES>
+    <RELATED tag="135" name="CODED DATA FIELDS: ELECTRONIC RESOURCES">
+      <DESCRIPTION>This field contains coded data relating to electronic resources. 
+</DESCRIPTION>
+    </RELATED>
+    <EXAMPLES>
+      <EX n="1">
+230 ##$aComputer data 
+</EX>
+      <EX n="2">
+230 ##$aComputer program (1 file: 1958 statements) 
+</EX>
+      <EX n="3">
+230 ##$aComputer data (5 files) and programs (15 files) 
+</EX>
+      <EX n="4">
+230 ##$aComputer data (3 files: 800 records, 3150 bytes) and computer data (7 files) 
+</EX>
+      <EX n="5">
+230 ##$aComputer program (2 files: ca. 650 statements each) 
+</EX>
+      <EX n="6">
+230 ##$aComputer data (2 files: 729 records each) and programs (3 files: 7260, 3450, 2518 bytes) 
+</EX>
+    </EXAMPLES>
+  </FIELD>
+</FORMAT>

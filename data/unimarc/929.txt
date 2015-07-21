@@ -1,0 +1,21 @@
+00801nam  2200241   450
+001   929
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00008796
+100    $a 19860921d1985    m  y0pora010305  ba
+101 1  $a por
+102    $a PT
+200 1  $a Histórias para meninos sem juízo $f Jacques Prévert $g il. Elsa Henriquez $g trad. Pedro Tamen
+210    $a Lisboa $c Teorema $d imp. 1985
+215    $a 90, [3] p. $c il. $d 19 cm
+225 2  $a Sésamo $v 2
+675    $a 087.5 $v bn $z por
+675    $z por
+700  1 $a Prévert $b Jacques $f 1900-1977
+702  1 $a Henriquez $b Elsa $4 440
+702  1 $a Tamen $b Pedro $f 1934- $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060630110217&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0001819 $l BMM $s SJ 087.5 PRÉ his 2
+966    $a 0001820 $l BMM $s SJ 087.5 PRÉ his 2

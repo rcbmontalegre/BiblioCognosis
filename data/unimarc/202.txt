@@ -1,0 +1,18 @@
+00666nam  2200205   450
+001   202
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20060305d1982    k  y0pory010305  ba
+101 0  $a por
+102    $a PT
+200 1  $a Um verão assim $a <As >máscaras de sábado $f Mário Cláudio $g prefácio de Eduardo Lourenço
+205    $a 2ª ed
+210    $a Porto $c O Oiro do Dia $d 1982
+215    $a 132 p. $d 23 cm
+225 2  $a Metamorfoses $v 23
+300    $a Obra repetida
+675    $a 821 $v BN $z por
+700  1 $a Cláudio $b Mário $c pseud
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060510105657&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008833 $l BMM $s SCG 821.134.3 CLá ver

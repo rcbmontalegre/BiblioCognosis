@@ -1,0 +1,24 @@
+00853nam  2200277   450
+001   358
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-708-114-2
+021    $a PT $b 45027/91
+095    $a PTBN00338165
+100    $a 19910606d1991    m  y0pory010305  ba
+101 1  $a por $c fre
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a Madame Bovary $f Gustave Flaubert $g trad. João Pedro de Andrade
+205    $a 1ª ed
+210    $a Lisboa $c Relógio d'Água $d 1991
+215    $a 372 p. $d 21 cm
+225 2  $a Clássicos
+304    $a Tít. orig.: Madame Bovary
+675    $a 840-31"18" $v BN $z por
+700  1 $a Flaubert $b Gustave $f 1821-1881
+702  1 $a Andrade $b João Pedro de $f 1902-1974 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060511170145&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008968 $l BMM $s SCG 821 FLA mad

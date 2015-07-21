@@ -1,0 +1,22 @@
+00871nam  2200253   450
+001   130
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+100    $a 20061013a1988 k y0pory0103 ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <O >monte dos vendavais $f Emily Brontë $g tradução de Maria Franco e Cabral do Nascimento
+205    $a 2ª ed
+210    $a Mem Martins $c Europa-América $d 1988
+215    $a 258 p. $d 18 cm
+225 2  $a Livros de bolso Europa-América $v 10
+606 1  $a Literatura inglesa
+608    $a Romance $2 Autoridade $3 PT9999-00-10-2009040123590005548
+675    $a 821
+700  1 $a Brontë $b Emily $f 1818-1848
+702  1 $a Franco $b Maria $4 730
+702  1 $a Nascimento $b Cabral do $f 1897-1978 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060509121313&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0011514 $l BMM $s SCG 821 BRO mon 10

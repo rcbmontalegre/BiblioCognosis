@@ -1,0 +1,20 @@
+00741nam  2200229   450
+001   231
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 24315/88
+095    $a PTBN00324313
+100    $a 20061013d1988    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a Tufão $f Joseph Conrad $g trad. Daniel Gonçalves
+210    $a Lisboa $c Difel $d [D.L. 1988]
+215    $a 115 p. $d 23 cm
+225 2  $a Literatura estrangeira
+304    $a Tít. orig.: Typhoon and other stories
+675    $a 821 $v BN $z por
+700  1 $a Conrad $b Joseph $f 1857-1924
+702  1 $a Gonçalves $b Daniel $f 1921- $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060510150824&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008583 $l BMM $s SCG 821 CON tuf

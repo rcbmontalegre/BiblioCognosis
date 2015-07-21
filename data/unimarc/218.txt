@@ -1,0 +1,25 @@
+00963nam  2200289   450
+001   218
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 12345
+100    $a 20061013d1986    m  y0pory0103    ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a À espera dos bárbaros $f J. M. Coetzee $g tradução de José Agostinho Baptista
+205    $a 1ª ed
+210    $a Lisboa $c Dom Quixote $d 1986
+215    $a 136 p. $d 24 cm
+225 2  $a Ficção universal $v 13
+304    $a Tít. orig.: Waiting for the barbarians
+334    $a James Tait Black Memorial Prize $c 1980 $d África do Sul
+334    $a Booker Prize $c 1983
+334    $a Prémio Nobel de Literatura $c 2003
+606 1  $a Literatura sul-africana
+608    $a Romance
+675    $a 821
+700  1 $a Coetzee $b J. M $f 1940
+702  1 $a Baptista $b José Agostinho $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060510143303&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0015383 $l BMM $s SCG 821 COE esp 13

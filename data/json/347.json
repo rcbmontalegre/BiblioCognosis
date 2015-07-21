@@ -1,0 +1,154 @@
+[{
+  "fields": [
+    [
+      "001",
+      "347"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00055720"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1978    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >ilha dos pinguins",
+      "f",
+      "Anatole France",
+      "g",
+      "trad. Sampaio Marinho"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "imp. 1978"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "247, [9] p.",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Livros de bolso Europa-América",
+      "v",
+      "176"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: L'ile des pingouins"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "bn",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "France",
+      "b",
+      "Anatole",
+      "c",
+      "pseud"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Marinho",
+      "b",
+      "Sampaio",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511161720&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008578",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 FRA ilh 176"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008579",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 FRA ilh 176"
+    ]
+  ]
+}]

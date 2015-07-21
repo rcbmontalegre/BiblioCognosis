@@ -1,0 +1,18 @@
+00634nam  2200205   450
+001   126
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 84-408-0059-2
+100    $a 20061013d1995    k  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a Jane Eyre $f Charlotte Brontë
+210    $a Amadora $c Ediclube $d [D.L.1995]
+215    $a 486 p. $d 19 cm
+225 2  $a Grandes génios da literatura universal
+675    $a 821
+700  1 $a Brontë $b Charlotte $f 1816-1855
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060509113531&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008208 $l BMM $s SCG 821 BRO jan

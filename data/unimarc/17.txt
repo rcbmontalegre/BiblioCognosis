@@ -1,0 +1,23 @@
+00893nam  2200265   450
+001   17
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972 710 005 8
+021    $a PT $b 40320/90
+095    $a PTBN00262451
+100    $a 20061013d1990    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   001ay
+106    $a r
+200 1  $a Cuidado com a senhora $f Margery Allingham $g trad. Maria Adelaide Namorado Freire
+210    $a Mem Martins $c Terramar $d imp. 1990
+215    $a 236 p. $d 21 cm
+225 2  $a Aventura, saar $e sociedade anónima de alto risco $v 2)
+304    $a Tít. orig. : Look to the lady
+675    $a 821 $v BN $z por
+700  1 $a Allingham $b Margery $f 1904-1966
+702  1 $a Freire $b Maria Adelaide Namorado $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060504115055&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008616 $l BMM $s SCG 821 ALL cui 2

@@ -1,0 +1,20 @@
+00724nam  2200229   450
+001   631
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20061013d1985----da y0pory010305  ba
+101 0  $a por
+102    $a PT
+200 1  $a <O >quadro roubado $f Ilse Losa $g il. João Nunes
+210    $a Porto $c Asa $d imp. 1985
+215    $a 53 p. $c il. $d 21x21 cm
+225 2  $a Asa juvenil $v 24
+606    $a Literatura infantil
+608    $a Conto
+675    $a 82-34 $v BN $z por
+700  1 $a Losa $b Ilse $f 1913-2006
+702  1 $a Nunes $b João $f 1951- $4 440
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060522165212&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0001497 $l BMM $s SI 82-34 LOS qua 24
+966    $a 0001498 $l BMM $s SI 82-34 LOS qua 24

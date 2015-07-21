@@ -1,0 +1,18 @@
+00692nam  2200205   450
+001   824
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 19641001d1964    m  y0pora010305  ba
+101 1  $a por
+102    $a PT
+200 1  $a <As >palavras são pedras $f Carlos Levi $g trad. Mário Delgado
+210    $a Lisboa $c Arcádia $d 1964
+215    $a 208, [1] p. $c il. $d 18 cm
+225 2  $a Biblioteca Arcádia de Bolso $v 34
+304    $a Tít. orig.: Le parole sono pietre
+675    $a 821 $v BN $z por
+700  1 $a Levi $b Carlo $f 1902-1975
+702  1 $a Delgado $b Mário $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060622171535&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0009065 $l BMM $s SCG 821 LEV pal 34

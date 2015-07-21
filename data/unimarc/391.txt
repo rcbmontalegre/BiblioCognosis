@@ -1,0 +1,24 @@
+00865nam  2200277   450
+001   391
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 25443/89
+095    $a PTBN00124798
+100    $a 19890417d1989    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a Agitação $f Michael Gilbert $g trad. Fernando Correia Marques $g rev. Manuel Joaquim Vieira
+205    $a 1a ed
+210    $a Lisboa $c Gradiva $d 1989
+215    $a 325 p. $d 21 cm
+225 2  $a Não incomode $v 21
+304    $a Tít. orig.: Trouble
+675    $a 820-31 $v BN $z por
+700  1 $a Gilbert $b Michael
+702  1 $a Marques $b Fernando Correia $4 730
+702  1 $a Vieira $b Manuel Joaquim $4 640
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060516102640&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008668 $l BMM $s SCG 821 GIL agi 21

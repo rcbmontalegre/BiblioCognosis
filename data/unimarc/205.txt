@@ -1,0 +1,24 @@
+00862nam  2200277   450
+001   205
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-662-1305
+021    $a PT $b 28298/89
+095    $a PTBN00191281
+100    $a 20070305d1989    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a Não há morte nem mudança $f Mary Higgins Clark $g trad. Maria Luísa Gonçalves dos Santos
+205    $a 1a ed
+210    $a Lisboa $c Gradiva $d 1989
+215    $a 295 p. $d 21 cm
+225 2  $a Não incomode $v 24)
+304    $a Tit. orig. : Weep no more, my lady
+675    $a 821 $v BN $z por
+700  1 $a Clark $b Mary Higgins
+702  1 $9 1 $a Santos $b Maria Luísa $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060510111138&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008599 $l BMM $s SCG 821 CLA não 24

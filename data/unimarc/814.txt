@@ -1,0 +1,20 @@
+00740nam  2200229   450
+001   814
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-1-02760-X
+021    $a PT $b 26937/89
+095    $a PTBN00351516
+100    $a 2061013 d1988    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT $b Mem Martins
+200 1  $a <O >quinto filho $f Doris Lessing $g trad. de Adelina Antunes
+210    $a Mem Martins $c Europa-América $d cop. 1988
+215    $a 172 p. $d 21 cm
+225 2  $a Século XX $v 304
+304    $a Tit. orig. The fifth child
+675    $a 821 $z por
+700  1 $a Lessing $b Doris $f 1919-
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060622162826&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008754 $l BMM $s SCG 821 LES qui 304

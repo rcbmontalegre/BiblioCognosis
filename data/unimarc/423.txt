@@ -1,0 +1,17 @@
+00590nam  2200193   450
+001   423
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00499370
+100    $a 19931008d1930    km y0pory010305  ba
+101 1  $a por
+102    $a PT
+200 1  $a <O >rei dos Andes $f M. Delly $g trad. Germano Campos Monteiro
+205    $a Nova ed
+210    $a Porto $c A. Figueirinhas $d 1930
+215    $a 292 p. $d 19 cm
+675    $a 821 $v BN $z por
+700  0 $a Delly $c pseud
+702  1 $a Monteiro $b Germano Campos $f 1897-1939 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0008371 $l BMM $s SCG 821 DEL rei 26

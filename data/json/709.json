@@ -1,0 +1,206 @@
+[{
+  "fields": [
+    [
+      "001",
+      "709"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-0-64611-X"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "174134/00"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20070518d2000    de y0pory0103    ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "--------000zy"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "i"
+    ],
+    [
+      "135",
+      "  ",
+      "a",
+      "b a a"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Descobrir a Terra",
+      "b",
+      "Documento electrónico",
+      "e",
+      "Geografia Física, Geologia, Cioncias da Terra e da vida",
+      "f",
+      "Rui Manuel da Costa Barbosa, Francisco José Sena Pires",
+      "g",
+      "[ed. lit.] Porto Editora Multimédia"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "[1ª ed.",
+      "b",
+      "1\" reimp.]"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "Porto Editora",
+      "d",
+      "D.L. 2001"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "1 disco óptico (CD-ROM) em caixa",
+      "c",
+      "il.",
+      "d",
+      "21cm"
+    ],
+    [
+      "230",
+      "  ",
+      "a",
+      "Dados"
+    ],
+    [
+      "337",
+      "  ",
+      "a",
+      "Requisitos do sistema: Processador Pentium a 133 MHz; 8 MB de RAM; Windows 95, 98, ou Windows NT; CD-ROM 4x; placa de som (16 bit); placa de vídeo SVGA ( milhares de cores a 640x480)"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "55(075)(0.034)",
+      "3",
+      "1185150"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "911.2(075)(0.034)",
+      "3",
+      "1185152"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "373.5(469)(0.034)",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "371.6(469)(0.034)",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "3",
+      "1185154"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Barbosa",
+      "b",
+      "Rui Manuel da Costa",
+      "3",
+      "1005508"
+    ],
+    [
+      "701",
+      " 1",
+      "a",
+      "Pires",
+      "b",
+      "Francisco José Sena",
+      "4",
+      "070"
+    ],
+    [
+      "712",
+      "02",
+      "a",
+      "Porto Editora Multimédia",
+      "4",
+      "340"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060526143546&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "0"
+    ]
+  ]
+}]

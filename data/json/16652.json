@@ -1,0 +1,154 @@
+[{
+  "fields": [
+    [
+      "001",
+      "16652"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-1-02677-8"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "25243/89"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20140403d1989    m  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Como restaurar objectos de arte",
+      "f",
+      "Policarpo Lemos"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "1989"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "108, [4] p.",
+      "c",
+      "il.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Arte de viver",
+      "v",
+      "142"
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Artes decorativas",
+      "2",
+      "Autoridade",
+      "3",
+      "PT-----------2013020511150005640"
+    ],
+    [
+      "610",
+      "0 ",
+      "a",
+      "Técnicas de restauro"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "7.025"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "745/749"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Lemos",
+      "b",
+      "Policarpo"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.aspx?cod=20140403103314&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0007727",
+      "l",
+      "BMM",
+      "s",
+      "SCG 745/749 LEM com"
+    ]
+  ]
+}]

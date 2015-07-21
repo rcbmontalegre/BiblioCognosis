@@ -1,0 +1,22 @@
+00854nam  2200253   450
+001   882
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-23-3171-X
+021    $a PT $b 208478/04
+100    $a 20050119d2004    m  y0pory0103    ba
+101 1  $a por $c ita
+102    $a PT
+105    $a y   z   000ay
+200 1  $a <Uma >mãe quase perfeita $f Paola Mastrocola $g trad. Maria Jorge Vilar Figueiredo
+205    $a 1ª ed
+210    $a Barcarena $c Presença $d 2004
+215    $a 276, [4] p. $d 23 cm
+225 2  $a Grandes narrativas $v 243
+304    $a Tít. orig.: Palline di pane
+675    $a 821.131.1-31"19" $v BN $z por $z por
+700  1 $a Mastrocola $b Paola $3 582221
+702  1 $a Figueiredo $b Maria Jorge Vilar de $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060628094553&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0015891 $l BMM $s SCG 821 MAS mãe 243

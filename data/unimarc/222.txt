@@ -1,0 +1,19 @@
+00808nam  2200217   450
+001   222
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00056606
+100    $a 20061013d1978    m  y0pora0103    ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <A >vida amorosa de Moll Flanders $f Daniel Defoe $g trad. Fernanda Pinto Rodrigues
+210    $a Mem Martins $c Europa-América $d [D.L. 1978]
+215    $a 265 p. $d 18 cm
+225 2  $v 188 $a Livros de Bolso
+304    $a Tít. orig.: The fortunes and misfortunes of the famous Moll Flanders
+675    $a 821 $v BN $z por
+700  1 $a Defoe $b Daniel $f 1660-1731 $3 47152
+702  1 $a Rodrigues $b Fernanda Pinto $4 730 $3 25230
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060510144804&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0005185 $l BMM $s SCG 821 DEF vid 188

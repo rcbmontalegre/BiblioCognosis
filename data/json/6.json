@@ -1,0 +1,168 @@
+[{
+  "fields": [
+    [
+      "001",
+      "6"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-1-02965-3"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "35514/90"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1990    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   001ay"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Olho de gato",
+      "f",
+      "Margaret Atwood",
+      "g",
+      "trad.: Ana Heizkessel"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "D.L. 1990"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "371 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Século XX",
+      "v",
+      "313"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Cat's eye"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Atwood",
+      "b",
+      "Margaret",
+      "f",
+      "1939"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Heizkessel",
+      "b",
+      "Ana",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060503145652&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008202",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 ATW olh 313"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008203",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 ATW olh 313"
+    ]
+  ]
+}]

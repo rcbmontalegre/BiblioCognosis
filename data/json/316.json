@@ -1,0 +1,188 @@
+[{
+  "fields": [
+    [
+      "001",
+      "316"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-564-030-6"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "43939/91"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00357311"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1991    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   001ay"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Hiroshima meu amor",
+      "f",
+      "Marguerite Duras",
+      "g",
+      "trad. Maria José Palla, M. Villaverde Cabral"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "3ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Quetzal",
+      "d",
+      "1991"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "124, [3] p.",
+      "d",
+      "20 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Graffiti"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Hiroshima, mon amour"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "82-2",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Duras",
+      "b",
+      "Marguerite",
+      "f",
+      "1914-1996"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Palla",
+      "b",
+      "Maria José",
+      "f",
+      "1944",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Cabral",
+      "b",
+      "Manuel Villaverde",
+      "f",
+      "1940",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511142158&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008426",
+      "l",
+      "BMM",
+      "s",
+      "SCG 82-2 DUR hir"
+    ]
+  ]
+}]

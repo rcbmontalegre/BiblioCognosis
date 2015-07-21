@@ -1,0 +1,160 @@
+[{
+  "fields": [
+    [
+      "001",
+      "758"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20090219d1985    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >princesa",
+      "f",
+      "D. H. Lawrence",
+      "g",
+      "trad. Aníbal Fernandes",
+      "g",
+      "gravuras de Ilda David"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Assírio & Alvim",
+      "d",
+      "1985"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "88, [3] p., 2 f. il",
+      "c",
+      "il.",
+      "d",
+      "19 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Gato maltês",
+      "v",
+      "9"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tit. orig.: The princess"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Lawrence",
+      "b",
+      "D. H.",
+      "f",
+      "1885-1930"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Fernandes",
+      "b",
+      "Aníbal",
+      "f",
+      "1944-",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "David",
+      "b",
+      "Ilda",
+      "f",
+      "1956-",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060620104751&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009061",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 LAW pri 9"
+    ]
+  ]
+}]

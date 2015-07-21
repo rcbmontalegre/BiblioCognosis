@@ -1,0 +1,140 @@
+[{
+  "fields": [
+    [
+      "001",
+      "1006"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-22-2421-2"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20030530d2002    b  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Noddy vai às compras",
+      "g",
+      "trad. de Guilhermina Rebelo de Andrade"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Verbo",
+      "d",
+      "2005"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "[30]p.",
+      "d",
+      "23cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Abram alas para o Noddy",
+      "v",
+      "1"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "087.5(075)",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Andrade",
+      "b",
+      "Guilhermina",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Blyton",
+      "b",
+      "Enid Mary",
+      "f",
+      "1897-1968"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060706103411&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0016770",
+      "l",
+      "BMM",
+      "s",
+      "SI 087.5 AND nod 1"
+    ]
+  ]
+}]

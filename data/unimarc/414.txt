@@ -1,0 +1,16 @@
+00606nam  2200181   450
+001   414
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 19941004f19601970km y0pory0103    ba
+101 1  $a por $c rus
+102    $a PT
+200 1  $a <O >retrato $f Nikolau Gogol $g versão de Daniel de Carvalho
+210    $a [Lisboa $c Portugália $d [19--?]
+215    $a 152 p. $d 17 cm
+225 2  $a <O >livro de bolso $i Clássico $v 10
+675    $a 821 $v bn $z por
+700  1 $a Gogol $b Nicolau Vasilievich $f 1809-1852
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 2
+966    $a 0008165 $l BMM $s SCG 821 GOG ret 10
+966    $a 0008166 $l BMM $s SCG 821 GOG ret 10

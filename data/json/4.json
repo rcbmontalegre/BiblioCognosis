@@ -1,0 +1,126 @@
+[{
+  "fields": [
+    [
+      "001",
+      "4"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00510238"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1939    km y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >amor tem duas caras",
+      "f",
+      "Henri Ardel",
+      "g",
+      "trad. M. de Brito Guimaräes"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Guimarães Editores",
+      "d",
+      "[1939]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "216 p.",
+      "d",
+      "19 cm"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Ardel",
+      "b",
+      "Henri",
+      "f",
+      "1863-1938"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Guimarães",
+      "b",
+      "M. de Brito",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060503144300&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008710",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 ARD amo"
+    ]
+  ]
+}]

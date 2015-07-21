@@ -1,0 +1,20 @@
+00749nam  2200229   450
+001   696
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-610-268-5
+021    $b 150012/00
+100    $a 20061013d2000    d  y0pory0103    ba
+101 0  $a por
+102    $a PT
+200 1  $a <A >fábula dos feijões cinzentos $e 25 de Abril, como quem conta um conto $f José Vaz $g il. Elsa Navarro
+210    $a Porto $c Campo das Letras $d 2000
+215    $a [17] p. $c il. $d 15 cm
+225 0  $a Palmo e Meio $v 9
+606    $a Literatura infantil
+675    $a 82-34
+700  1 $a Vaz $b José $f 1940-
+702  1 $a Navarro $b Elsa $4 440
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060525152532&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0015066 $l BMM $s SI 82-34 VAZ fáb 9

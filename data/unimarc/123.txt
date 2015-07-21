@@ -1,0 +1,20 @@
+00779nam  2200229   450
+001   123
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   19
+095    $a PTBN00288950
+100    $a 19940901d1974    m  y0pory0103    ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <O >professor $f Charlotte Bronte $g trad. de Adolfo Casais Monteiro
+205    $a 3ª ed
+210    $a Lisboa $c Inquérito $d [D.L. 1974]
+215    $a 350, [2] p. $d 20 cm
+225 2  $a <Os >melhores romances dos melhores romancistas $v 18
+304    $a Tít. orig.: The professor
+675    $a 821 $v BN $z por $3 288122
+700  1 $a Brontë $b Charlotte $f 1816-1855 $3 17609
+702  1 $a Monteiro $b Adolfo Casais $f 1908-1972 $4 730 $3 32512
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0008114 $l BMM $s SCG 821 BRO pro

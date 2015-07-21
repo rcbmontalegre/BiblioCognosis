@@ -1,0 +1,19 @@
+00752nam  2200217   450
+001   351
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00004814
+100    $a 20061013d1979    m  y0pora0103    ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <A >alternativa diabólica $f Frederick Forsyth $g trad. Mascarenhas Barreto
+210    $a Lisboa $c Livros do Brasil $d [D.L. 1979]
+215    $a 382, [2] p. $d 22 cm
+225 2  $a Dois mundos $v 136
+304    $a Tít. orig. The devil's alternative
+675    $a 821 $v BN $z por
+700  1 $a Forsyth $b Frederick $f 1938
+702  1 $a Barreto $b Mascarenhas $f 1923- $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060511162955&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008580 $l BMM $s SCG 821 FOR alt 136

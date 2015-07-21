@@ -1,0 +1,16 @@
+00560nam  2200181   450
+001   549
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00341326
+100    $a 19910718f19001960m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a Férias em crome $f Aldous Huxley $g trad. João Monjardino
+215    $a Lisboa $c Livros do Brasil. $d [19--]
+225 2  $a Dois mundos
+675    $a 821 $v BN $z por
+700  1 $a Huxley $b Aldous $f 1894-1963
+702  1 $a Monjardino $b João $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0008107 $l BMM $s SCG 821 HUX fér

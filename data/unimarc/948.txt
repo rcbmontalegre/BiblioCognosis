@@ -1,0 +1,18 @@
+00672nam  2200205   450
+001   948
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20070309d1988    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <Um >sonho americano $f Norman Mailer $g trad. de Eduardo Saló
+210    $a Lisboa $c Livros do Brasil $d 1988
+215    $a 268 p. $d 22 cm
+225 2  $a Dois mundos $v 173
+304    $a Tit. orig.: An american dream
+675    $a 821 $z por
+700  1 $a Mailer $b Norman $f 1923-
+702  1 $a Saló $b Eduardo $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060703105546&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0009021 $l BMM $s SCG 821 MAI son 173

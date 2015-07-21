@@ -1,0 +1,18 @@
+00683nam  2200205   450
+001   117
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00388700
+100    $a 19920723d1974    m  y0pory010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a Como o tempo passa... $f Robert Brasillach $g trad. Paula Santa Rita
+210    $a Lisboa $c Ulisseia $d 1974
+215    $a 398, [1] p. $d 23 cm
+225 2  $a Clássicos do romance contemporâneo $v 19
+304    $a Tít. orig. : Comme le temps passe...
+675    $a 821 $v BN $z por
+700  1 $a Brasiliach $b Robert $f 1909-1945
+702  1 $a Santa Rita $b Paula $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0008204 $l BMM $s SCG 821 BRA com 19

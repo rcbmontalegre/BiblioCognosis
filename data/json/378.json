@@ -1,0 +1,146 @@
+[{
+  "fields": [
+    [
+      "001",
+      "378"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00027811"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1984    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >canhão",
+      "f",
+      "C. S. Forester",
+      "g",
+      "trad. Daniel Augusto Gonçalves"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "[D.L. 1984]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "155 p.",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Livros de bolso Europa-América",
+      "v",
+      "385"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. The gun"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Forester",
+      "b",
+      "C. S.",
+      "f",
+      "1899-1966"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Gonçalves",
+      "b",
+      "Daniel",
+      "f",
+      "1921-",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060512120752&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005316",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 FOR can 385"
+    ]
+  ]
+}]

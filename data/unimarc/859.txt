@@ -1,0 +1,23 @@
+00803nam  2200265   450
+001   859
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 972-21-1252-X
+021    $a PT $b 134324/99
+100    $a 19991209d1999    de y0pory010305  ba
+101 0  $a por
+102    $a PT
+105    $a a   z   001yy
+106    $a r
+200 1  $a Cinco tempos, quatro intervalos $f Ana Saldanha
+210    $a Lisboa $c Caminho $d 1999
+215    $a 54 p. $c il. $d 21 cm
+225 2  $a Livros do dia e da noite
+675    $a 821.134.3 $v BN $z por
+675    $a 821.134.3-93"19" $v BN $z por
+700  1 $a Saldanha $b Ana $f 1959-
+702  1 $a Ribeiro $b José Miguel $4 440
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060627110023&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0015114 $l BMM $s SJ 821.134.3 SAL cin

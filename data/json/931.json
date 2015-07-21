@@ -1,0 +1,172 @@
+[{
+  "fields": [
+    [
+      "001",
+      "931"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00040513"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19870105d1986    k  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Contos negros para os filhos dos brancos",
+      "f",
+      "Blaise Cendrars",
+      "g",
+      "il. Jacqueline Duhême",
+      "g",
+      "trad. Teresa Meneses"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Teorema",
+      "d",
+      "imp. 1986"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "91 p.",
+      "c",
+      "il.",
+      "d",
+      "19 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Sésamo",
+      "v",
+      "5"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. Petits contes négres pour les enfants des blancs"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "087.5",
+      "z",
+      "por"
+    ],
+    [
+      "675",
+      "  ",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Cendrars",
+      "b",
+      "Blaise",
+      "c",
+      "pseud."
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Duhême",
+      "b",
+      "Jacqueline",
+      "4",
+      "440"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Meneses",
+      "b",
+      "Teresa",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060630112116&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0002107",
+      "l",
+      "BMM",
+      "s",
+      "SJ 087.5 CEN con 5"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0002106",
+      "l",
+      "BMM",
+      "s",
+      "SJ 087.5 CEN con 5"
+    ]
+  ]
+}]

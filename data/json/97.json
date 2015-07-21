@@ -1,0 +1,144 @@
+[{
+  "fields": [
+    [
+      "001",
+      "97"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20110923d1971    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Expedição ao Amazonas",
+      "f",
+      "Alain Gheerbrant",
+      "g",
+      "trad.: Virgílio Nunes Martinho"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Estampa",
+      "d",
+      "1971"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "311, [6] p.",
+      "d",
+      "19 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Aventura",
+      "v",
+      "7"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: L'expédition Orénoque Amazone"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "82-992",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Gheerbrant",
+      "b",
+      "Alain"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Martinho",
+      "b",
+      "Virgílio",
+      "f",
+      "1928-1994",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008401",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 GHE exp 7"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008302",
+      "l",
+      "BMM",
+      "s",
+      "SCG 82-992 GHE exp 7"
+    ]
+  ]
+}]

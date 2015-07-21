@@ -1,0 +1,174 @@
+[{
+  "fields": [
+    [
+      "001",
+      "887"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-8839-11-1"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "222323/05"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013g20059999m  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   000yy"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >paixão de Maria Madalena",
+      "e",
+      "A mulher que amou Jesus",
+      "f",
+      "Margaret George",
+      "g",
+      "trad. Paulo G. Silva"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "2ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Parede",
+      "c",
+      "Saída de Emergência",
+      "d",
+      "2005-"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "334 pág.",
+      "d",
+      "23 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "v",
+      "1º Vol."
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Mary called Magdalene"
+    ],
+    [
+      "517",
+      "1 ",
+      "a",
+      "< A >mulher que amou Jesus"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "bn",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "George",
+      "b",
+      "Margaret"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Silva",
+      "b",
+      "Paulo Gil dos Santos",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060628101939&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0016141",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 GEO pai Vol.I"
+    ]
+  ]
+}]

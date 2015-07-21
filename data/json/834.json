@@ -1,0 +1,152 @@
+[{
+  "fields": [
+    [
+      "001",
+      "834"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1980    k  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "De mãos dadas, estrada fora...",
+      "f",
+      "Luisa Dacosta",
+      "g",
+      "ilust. de Jorge Pinheiro"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "Livraria Figueirinhas",
+      "d",
+      "1980"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "149 p.",
+      "c",
+      "il.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821.134.3",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "087.5",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Dacosta",
+      "b",
+      "Luísa",
+      "f",
+      "1927-",
+      "4",
+      "340"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Pinheiro",
+      "b",
+      "Jorge",
+      "f",
+      "1931-",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060626155147&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0003369",
+      "l",
+      "BMM",
+      "s",
+      "SJ 821.134.3 DAC mão 3"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "1003038",
+      "l",
+      "BEM",
+      "s",
+      "BEM 821.134.3 DAC"
+    ]
+  ]
+}]

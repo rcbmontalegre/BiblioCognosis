@@ -1,0 +1,25 @@
+00903nam  2200289   450
+001   43
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-23-1551-X
+021    $a PT $b 53034/92
+095    $a PTBN00406807
+100    $a 20061013d1992    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a <A >música do acaso $f Paul Auster $g trad. Ana Patrão $g rev. de texto Alexandra Rebelo
+205    $a 1ª ed
+210    $a Lisboa $c Presença $d 1992
+215    $a 177 p. $d 23 cm
+225 2  $a Novos continentes $v 50
+304    $a Tít. orig.: The music of chance
+675    $a 821 $v BN $z por
+700  1 $a Auster $b Paul $f 1947-
+702  1 $a Patrão $b Ana Paula $f 1960 $4 730
+702  1 $a Rebelo $b Alexandra $4 640
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060504155800&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008320 $l BMM $s SCG 821 AUS mús 50

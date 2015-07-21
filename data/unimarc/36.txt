@@ -1,0 +1,19 @@
+00744nam  2200217   450
+001   36
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00775900
+100    $a 19951010d1967    m  y0pory010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a <A >casa do gato que brinca $f Balzac $g trad. João Gaspar Simões
+210    $a Lisboa $c Portugália $d 1967
+215    $a 407, 2 p., 1 f $d 20 cm
+225 2  $a <A >comédia humana
+304    $a Tít. orig. : Le maison du chat qui pelote
+675    $a 821 $v BN $z por
+700  1 $a Balzac $b Honoré de $f 1799-1850
+702  1 $a Simões $b João Gaspar $f 1903-1987 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060504153214&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0007883 $l BMM $s SCG 821 BAL cas

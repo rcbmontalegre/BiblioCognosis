@@ -1,0 +1,154 @@
+[{
+  "fields": [
+    [
+      "001",
+      "63"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "19554/88"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1988    m  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<Os >paraísos artificiais",
+      "f",
+      "Charles Baudelaire",
+      "g",
+      "trad. José Saramago"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "3ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Estampa",
+      "d",
+      "D.L. 1988"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "211, [4] p.",
+      "d",
+      "19 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Livro B",
+      "v",
+      "10"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Les paradis artificiels"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Baudelaire",
+      "b",
+      "Charles",
+      "f",
+      "1821-1867"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Saramago",
+      "b",
+      "José",
+      "f",
+      "1922-",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060508113428&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008714",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 BAU par 10"
+    ]
+  ]
+}]

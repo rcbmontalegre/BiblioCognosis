@@ -1,0 +1,18 @@
+00760nam  2200205   450
+001   500
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20061013d1981    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a Por quem os sinos dobram $f Ernest Hemingway $g trad. Monteiro Lobato $g rev. Alfredo Margarido
+210    $a Lisboa $c Livros do Brasil $d [D.L. 1981]
+215    $a 450, [5] p. $d 22 cm
+225 2  $a Dois mundos $v 24
+675    $a 821 $v BN $z por
+700  1 $a Hemingway $b Ernest $f 1899-1961 $3 56672
+702  1 $a Lobato $b Monteiro $f 1882-1948 $4 730 $3 80926
+702  1 $a Margarido $b Alfredo $f 1928- $4 675 $3 40817
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060517153242&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008621 $l BMM $s SCG 821 HEM por 24

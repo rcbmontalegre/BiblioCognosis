@@ -1,0 +1,21 @@
+00795nam  2200241   450
+001   301
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 15516/87
+095    $a PTBN00041327
+100    $a 20070518d1987    m  y0pora0103    ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a Histórias de Goldkorn $f Leslie Epstein $g trad. de J. Teixeira de Aguilar
+205    $a 1ª ed
+210    $a Lisboa $c Dom Quixote $d 1987
+215    $a 237 p. $d 24 cm
+225 2  $a Ficção universal $v 22
+304    $a Tít. orig. Goldkorn tales
+675    $a 821 $v BN $z por $3 302111
+700  1 $a Epstein $b Leslie $3 302112
+702  1 $a Aguilar $b J. Teixeira de $f 1945- $4 730 $3 2904
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060511122240&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008469 $l BMM $s SCG 821 EPS his 22

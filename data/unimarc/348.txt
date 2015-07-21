@@ -1,0 +1,20 @@
+00702nam  2200229   450
+001   348
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00197635
+100    $a 20061013d1988    m  y0pora010305  ba
+101 1  $a por $c ger
+102    $a PT
+200 1  $a <O >génio $f Dieter Eisfeld $g trad. Sílvia Alves
+205    $a 1ª ed
+210    $a Lisboa $c Gradiva $d 1988
+215    $a 206, [5] p. $d 21 cm
+225 2  $a Não incomode $v 18
+304    $a Tít. orig. : Das Genie
+675    $a 821 $v BN $z por
+700  1 $a Eisfeld $b Dieter $f 1934
+702  1 $a Lopes $b Sílvia $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060511162222&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008606 $l BMM $s SCG 821 EIS gén 18

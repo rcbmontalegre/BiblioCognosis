@@ -1,0 +1,24 @@
+00860nam  2200277   450
+001   541
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-1-03040-6
+021    $a PT $b 35502/90
+095    $a PTBN00262991
+100    $a 20061013d1990    a  y0pory0103    ba
+101 1  $a por $c ger
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a América $f Franz Kafka $g trad. de Maria de Fátima Fonseca
+205    $a 2ª ed
+210    $a Mem Martins $c Europa-América $d D.L. 1990
+215    $a 287 p. $d 18 cm
+225 2  $a Livros de bolso Europa-América $v 160
+304    $a Tít. orig.: Amerika
+675    $a 821 $v BN $z por
+700  1 $a Kafka $b Franz $f 1883-1924
+702  1 $a Fonseca $b Maria de Fátima $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060518102554&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0005440 $l BMM $s SCG 821 KAF amé 160

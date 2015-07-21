@@ -1,0 +1,130 @@
+[{
+  "fields": [
+    [
+      "001",
+      "790"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-33-1758-3"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d2002 a y0pory0103 ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >meu primeiro livro de jogos",
+      "f",
+      "Clare Beaton"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Estampa",
+      "d",
+      "2002"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "6 f. cartonadas",
+      "c",
+      "il.",
+      "d",
+      "35 cm"
+    ],
+    [
+      "315",
+      "  ",
+      "a",
+      "Contém 8 tabuleiros de jogo com mais de 40 fichas"
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Jogos infantis"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "793",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Beaton",
+      "b",
+      "Clare"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060622104348&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0016765",
+      "l",
+      "BMM",
+      "s",
+      "SI 793 BEA meu"
+    ]
+  ]
+}]

@@ -1,0 +1,18 @@
+00666nam  2200205   450
+001   16654
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+100    $a 20140403d1965    m  y0pory0103    ba
+101 0  $a por
+102    $a PT
+200 1  $a As Ideias e a Vida $f Mário Braga
+210    $a Coimbra $c Atlântida $d 1965
+215    $a 1º vol.: 173 p. $d 19 cm
+307    $a 1º vol.
+606    $a Literatura portuguesa $2 Autoridade $3 PT-----------2012041710390005598
+675    $a 821.134.3-94
+700  1 $a Braga $b Mário
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.aspx?cod=20140403162003&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0011576 $d 1 $l BMM $s SCG 821.134.3-94 BRA ide

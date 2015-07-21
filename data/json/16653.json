@@ -1,0 +1,134 @@
+[{
+  "fields": [
+    [
+      "001",
+      "16653"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "978-989-740-004-9"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "372283/14"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20140403d2014----m  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Questões de Exame Resolvidas 1997-2013",
+      "d",
+      "Matemática A 12º ano - Funções",
+      "f",
+      "João de Sá Duarte",
+      "g",
+      "Felicidade de Sá Duarte"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "Porto Editora",
+      "d",
+      "2014"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "304 p.",
+      "d",
+      "25 cm"
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Matemática"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "51(075)"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Duarte",
+      "b",
+      "João de Sá"
+    ],
+    [
+      "701",
+      " 1",
+      "a",
+      "Duarte",
+      "b",
+      "Felicidade de Sá",
+      "4",
+      "070"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Escolar de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "1009420",
+      "l",
+      "BEM",
+      "s",
+      "BEM 51(075) DUA"
+    ]
+  ]
+}]

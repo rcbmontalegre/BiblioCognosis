@@ -1,0 +1,25 @@
+00870nam  2200289   450
+001   14
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-20-0729-7
+021    $a PT $b 28621/89
+095    $a PTBN00201511
+100    $a 20061013d1989    am y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a a   z   001ay
+106    $a r
+200 1  $a Ruínas $f Brian Aldiss $g trad. J. Teixeira de Aguilar $g il. Salim Patell
+205    $a 1ª ed
+210    $a Lisboa $c Dom Quixote $d 1989
+215    $a 108 p. $c il. $d 24 cm
+225 2  $a Fábula
+304    $a Tít. orig.: Ruins
+675    $a 851 $v BN $z por
+700  1 $a Aldiss $b Brian W $f 1925
+702  1 $a Aguilar $b J. Teixeira de $f 1945- $4 730
+702  1 $a Patell $b Salim $4 440
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060504113555&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008274 $l BMM $s SCG 821 ALD ruí

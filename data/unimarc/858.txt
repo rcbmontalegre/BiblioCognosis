@@ -1,0 +1,24 @@
+00914nam  2200277   450
+001   858
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-21-0612-0
+021    $a PT $b 48575/91
+095    $a PTBN00352861
+100    $a 19920103d1991    de y0pory010305  ba
+101 1  $a por $c ita
+102    $a PT
+105    $a a   z   001ay
+106    $a r
+200 1  $a Zé Jasmim na terra dos aldrabões $f Gianni Rodari $g trad. José Colaço Barreiros $g il. Raúl Verdini
+210    $a Lisboa $c Caminho $d imp. 1991
+215    $a 187 p. $c il. $d 19 cm
+225 2  $a De par em par
+304    $a Tít. orig.: Gelsomino nel paese dei bugiardi
+675    $a 087.5 $v BN $z por
+700  1 $a Rodari $b Gianni $f 1920-1980
+702  1 $a Barreiros $b José Colaço $f 1949- $4 730
+702  1 $a Verdini $b Raúl $4 440
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060627105432&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0002923 $l BMM $s SJ 087.5 ROD zé

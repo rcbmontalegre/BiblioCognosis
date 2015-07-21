@@ -1,0 +1,24 @@
+00835nam  2200277   450
+001   956
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-662-132-1
+021    $a PT $b 28707/79
+095    $a PTBN00201495
+100    $a 19890927d1989    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   001ay
+106    $a r
+200 1  $a <A >criança no tempo $f Ian McEwan $g trad. Fernanda Pinto Rodrigues
+205    $a 1ª ed
+210    $a Lisboa $c Gradiva $d 1989
+215    $a 229 p. $d 24 cm
+225 2  $a Gradiva $v 13
+304    $a Tít. orig.: The child in time
+675    $a 821 $v BN $z por
+700  1 $a MacEwan $b Ian $f 1948-
+702  1 $a Rodrigues $b Fernanda Pinto $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060703115039&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0009339 $l BMM $s SCG 821 McE cri 13

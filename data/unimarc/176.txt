@@ -1,0 +1,26 @@
+01123nam  2200301   450
+001   176
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+021    $a PT $b 15585/87
+021    $a PT $b 27006/89
+100    $a 19870915g1987    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <O >venerável espião $f John Le Carré $g trad. Joaquim Duarte Peixoto
+205    $a 2ª ed
+210    $a Mem Martins $c Europa-América $d 1987 $d 1989
+215    $a vol.1: 287 p. $a vol.2: 267 p. $d 21 cm
+225 2  $a Século XX $v 169 $v 174
+304    $a Tít. orig. : The honourable schoolboy-shaking the tree
+327 1  $a 1º vol.: A corda do relógio $a 2º vol.: O abanar da árvore
+608    $a Policial $2 Autoridade $3 PT9999-00-10-2009040123590005518
+675    $a 82-312.4
+700  1 $a Le Carré $b John $c pseud.
+702  1 $a Peixoto $b Joaquim $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060510091757&ext=jpg $z CAPA
+856    $u locateMedia.asp?cod=20060510091907&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0008224 $d I $l BMM $s SCG 82-312.4 LeC ven 169
+966    $a 0008225 $d II $l BMM $s SCG 82-312.4 LeC ven 174

@@ -1,0 +1,18 @@
+00707nam  2200205   450
+001   987
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 19870717d1987    m  y0pora010305  ba
+101 1  $a por $c ger
+102    $a PT
+200 1  $a <O >jovem Torless $f Robert Musil $g trad. Joäo Filipe Ferreira
+210    $a Lisboa $c Livros do Brasil $d 1987
+215    $a 245 p. $d 22 cm
+225 2  $a Dois mundos $v 164
+304    $a Tít. orig. Die Verwirrungen des Zoglings Torless
+675    $a 821 $v BN $z por
+700  1 $a Musil $b Robert $f 1880-1942
+702  1 $a Ferreira $b João Filipe $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060705103829&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0009028 $l BMM $s SCG 821 MUS jov 164

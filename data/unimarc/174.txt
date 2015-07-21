@@ -1,0 +1,20 @@
+00794nam  2200229   450
+001   174
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+100    $a 19940405d1974    km y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <A >toupeira $f Jhon le CarréJohn $g trad.: Inês Busse
+210    $a Mem Martins $c Europa-América $d 1974
+215    $a 336 p. $d 21 cm
+225 2  $a Século XX $v 249
+304    $a Tit. orig. : Tinker, Tailor, Soldier, Spy
+608    $a Romance policial $2 Autoridade $3 PT9999-00-10-2009040123590005542
+675    $a 82-312.4 $v BN $z por
+700  1 $a Le Carré $b John $c pseud.
+702  1 $a Busse $b Inês $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060509171815&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008221 $l BMM $s SCG 82-312.4 LeC tou 249

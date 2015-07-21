@@ -1,0 +1,18 @@
+00655nam  2200205   450
+001   408
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00143900
+100    $a 20061013d1963    m  y0pora010305  ba
+101 1  $a por
+102 �� $a PT
+200 1  $a <A >minha universidade $f Marksim Goorki $g trad. de Patrícia Joyce
+210    $a Lisboa $c Estúdios Cor $d 1963
+215    $a 319, [2] p. $d 18 cm
+225 2  $a Latitude $v 54
+304    $a Tít. orig.: Moi universitety
+675    $a 821 $v bn $z por
+700  1 $a Gorki $b Máximo $c pseud. $f 1868-1936
+702  1 $a Joyce $b Patrícia $c pseud $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0008141 $l BMM $s SCG 821 GOR min 54

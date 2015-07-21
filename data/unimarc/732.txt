@@ -1,0 +1,17 @@
+00667nam  2200193   450
+001   732
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00116279
+100    $a 20070518d1984    km y0pora0103    ba
+101 1  $a por
+102    $a PT
+200 1  $a Michael Kohlhaas, o Rebelde $f Heinrich von Kleist $g trad. Egito Gonçalves
+210    $a Lisboa $c Antígona $d 1984
+215    $a 123, [1] p. $d 21 cm
+675    $a 821.112.2-31"17/18" $v Bn $z por
+700  1 $a Kleist $b Heinrich von $f 1777-1811
+702  1 $a Gonçalves $b Egito $f 1920-2001 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060619115715&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008905 $l BMM $s SCG 821 KLE reb

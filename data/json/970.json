@@ -1,0 +1,144 @@
+[{
+  "fields": [
+    [
+      "001",
+      "970"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19850201d1985    m  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Rebeca",
+      "f",
+      "Daphne du Maurier",
+      "g",
+      "trad. Alda Rodrigues"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Livros do Brasil",
+      "d",
+      "[D.L. 1985]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "348, [3] p.",
+      "d",
+      "22 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Dois mundos",
+      "v",
+      "36"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tit. orig.: Rebecca"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "3",
+      "329379"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Du Maurier",
+      "b",
+      "Daphne",
+      "f",
+      "1907-1989",
+      "3",
+      "43509"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Rodrigues",
+      "b",
+      "Alda",
+      "4",
+      "730",
+      "3",
+      "112120"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060704141631&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009056",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 MAU reb 36"
+    ]
+  ]
+}]

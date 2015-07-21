@@ -1,0 +1,162 @@
+[{
+  "fields": [
+    [
+      "001",
+      "125"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "19"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00039648"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19831201d1983    m  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<Os >caminhos do amor",
+      "f",
+      "Charlotte Bronte",
+      "g",
+      "trad. Adolfo Casais Monteiro"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "4ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Inquérito",
+      "d",
+      "[D.L. 1983]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "408 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Romance universal",
+      "v",
+      "5"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Shirley"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "3",
+      "300962"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Brontë",
+      "b",
+      "Charlotte",
+      "f",
+      "1816-1855",
+      "3",
+      "17609"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Monteiro",
+      "b",
+      "Adolfo Casais",
+      "f",
+      "1908-1972",
+      "4",
+      "730",
+      "3",
+      "32512"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060509113307&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008499",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 BRO cam 5"
+    ]
+  ]
+}]

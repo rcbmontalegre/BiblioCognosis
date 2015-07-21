@@ -1,0 +1,23 @@
+00892nam  2200265   450
+001   73
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+021    $a PT $b 9359/85
+100    $a 20061013d1985    m  y0pory010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a <O >sangue dos outros $f Simone de Beauvoir $g tradução de Miguel Serras Pereira
+210    $a Lisboa $c Dom Quixote $d 1985
+215    $a 243 p. $d 23 cm
+225 0  $a Ficção universal $v 6
+304    $a Les sang des autres
+606 1  $a Literatura francesa
+608    $a Romance $2 Autoridade $3 PT9999-00-10-2009040123590005548
+675    $a 821
+700  1 $a Beauvoir $b Simone de
+702  1 $a Pereira $b Miguel Serras $f 1949- $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060508142425&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0008405 $l BMM $s SCG 821 BEA san 6
+966    $a 0008404 $l BMM $s SCG 821 BEA san 6

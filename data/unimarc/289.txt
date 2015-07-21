@@ -1,0 +1,19 @@
+00653nam  2200217   450
+001   289
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00226155
+100    $a 20061013d1969    m  y0pory010305  ba
+101 1  $a por $c rus
+102    $a PT
+105    $a y   z   001fy
+106    $a r
+200 1  $a Contos $f Dostoievski $g versão Natália Nunes
+210    $a Lisboa $c Portugália $d imp. 1969
+215    $a 295, [9] p. $d 16 cm
+225 2  $a <O >livro de bolso $v 104-105)
+675    $a 821 $v BN $z por
+700  0 $a Dostoiévski $b Fiódor $f 1821-1881
+702  1 $a Nunes $b Natália $f 1921 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0013678 $l BMM $s SCG 821 DOS con

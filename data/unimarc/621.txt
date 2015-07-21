@@ -1,0 +1,24 @@
+01076nam  2200277   450
+001   621
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+021    $a PT
+100    $a 20140307d1981    a  y0pory010305  ba
+101 0  $a por
+102    $a PT
+200 1  $a <As >botas do meu pai $f Matilde Rosa Araújo $g ilust.: Maria Keil
+210    $a Lisboa $c Horizonte $d 1981
+215    $a 32 p. $c il. $d 23 cm
+225 2  $a Pássaro livre $v 6
+606    $a Literatura portuguesa $2 Autoridade $3 PT-----------2012041710390005598
+608    $a Literatura infantil e juvenil $2 Autoridade $3 PT9999-00-10-2009040123590005446
+675    $a 087.5
+675    $a 821.134.3-34
+700  1 $a Araújo $b Matilde Rosa $f 1921-2010 $2 Autoridade $3 PT-----------2013102217230005941
+702  1 $a Keil $b Maria $f 1914-2012 $2 Autoridade $3 PT-----------2014030716270006060 $4 440
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060522163051&ext=jpg $z CAPA
+909 	  $a 3
+966    $a 0001625 $l BMM $s SI 82-93 ARA bot 6
+966    $a 0001624 $l BMM $s SI 821.134.3-34 ARA bot
+966    $a 1002892 $l BEM $s BEM 82-93 ARA

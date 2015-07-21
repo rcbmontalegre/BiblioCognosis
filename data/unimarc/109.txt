@@ -1,0 +1,20 @@
+00721nam  2200229   450
+001   109
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-290212-1
+021    $a PT $b 35341/90
+095    $a PTBN00261171
+100    $a 20061013d1990    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <O >tempo esquecido $f Anita Brookner $g trad. Daniel Gonçalves
+210    $a Lisboa $c Difel $d imp. 1990
+215    $a 196 p. $d 23 cm
+304    $a Tít. orig.: Latecomers
+675    $a 821 $v BN $z por
+700  1 $a Brookner $b Anita $f 1928-
+702  1 $a Gonçalves $b Daniel $f 1921-
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060509094752&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008303 $l BMM $s SCG 821 BRO tem

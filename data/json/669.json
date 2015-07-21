@@ -1,0 +1,124 @@
+[{
+  "fields": [
+    [
+      "001",
+      "669"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-0-61306-8"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "122844/98"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1998    cd y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "i"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Eu adoro matemática",
+      "b",
+      "Documento electrónico",
+      "f",
+      "[ed.] Porto Editora Multimédia"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "[1ª ed.]"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "P.E.M.",
+      "d",
+      "cop. 1998"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "1 CD-ROM em caixa",
+      "e",
+      "Manual A parte divertida/ A parte séria (21, 9 p., pag. convergente)"
+    ],
+    [
+      "337",
+      "  ",
+      "a",
+      "Requisitos do sistema: Processador Pentium II ; 32 MB de RAM ; Windows 95, 98 ou Me ; leitor de CD-ROM 8x ; placa de som (16 bit); placa gráfica (265 cores a 640x480) ; 5 MB de espaço livre no disco rígido"
+    ],
+    [
+      "712",
+      "02",
+      "a",
+      "Porto Editora Multimédia",
+      "4",
+      "340",
+      "3",
+      "218241"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060523121527&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "0"
+    ]
+  ]
+}]

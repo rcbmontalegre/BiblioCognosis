@@ -1,0 +1,17 @@
+00645nam  2200193   450
+001   947
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+035    $a cmpen002_f/16-02-2005/90
+100    $a 20061013d19711990a  y0pory0103    ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a <Os >melhores contos de Julio Verne $f apresentação e selecção de Lima da Costa
+210    $a gueda $c Arcádia $d 1971
+215    $a 272p. $d 21cm
+225 2  $a Antologia $v 22
+675    $a 82-34 $v BN $z por
+700  1 $a Verne $b Jules $f 1828-1905
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060703103608&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0011886 $l BMM $s SCG 82-34 VER mel 22

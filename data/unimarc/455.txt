@@ -1,0 +1,19 @@
+00726nam  2200217   450
+001   455
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20061013d1983    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a Azul cobalto $f Patricia Highsmith $g trad. Paulo Esteves Cardoso
+205    $a 1ª ed
+210    $a Lisboa $c Gradiva $d imp. 1983
+215    $a 304, [3] p. $d 21 cm
+225 2  $a Não incomode $v 1
+304    $a Tít. orig. Ripley under ground
+675    $a 82-312.4 $v BN $z por
+700  1 $a Highsmith $b Patricia $f 1921-1995
+702  1 $a Cardoso $b Paulo Esteves $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060517115407&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0011508 $l BMM $s SCG 82-312.4 HIG azu

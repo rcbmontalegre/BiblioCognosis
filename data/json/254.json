@@ -1,0 +1,166 @@
+[{
+  "fields": [
+    [
+      "001",
+      "254"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-1-05414-3"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "216435/04"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20051117d2005    m  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   001yy"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >código Da Vinci descodificado",
+      "e",
+      "<o >guia não autorizado dos factos por detrás da ficção",
+      "f",
+      "Simon Cox",
+      "g",
+      "trad. Maria João Freire de Andrade"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "7ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "2004"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "190, [3] p., [8] p. il",
+      "c",
+      "il.",
+      "d",
+      "23 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Portas do desconhecido",
+      "v",
+      "98"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Cracking the Da Vinci Code"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Cox",
+      "b",
+      "Simon",
+      "3",
+      "1214256"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Andrade",
+      "b",
+      "Maria João Freire de",
+      "4",
+      "730",
+      "3",
+      "1146325"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060510162248&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0016062",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 COX cód"
+    ]
+  ]
+}]

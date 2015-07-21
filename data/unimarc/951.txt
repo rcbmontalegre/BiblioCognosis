@@ -1,0 +1,22 @@
+00846nam  2200253   450
+001   951
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 22337/88
+095    $a PTBN00130250
+100    $a 19881013d1988    m  y0pora010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a <As >paixões partilhadas $f Félicien Marceau $g trad. Fernanda Pinto Rodrigues
+205    $a 1ª ed
+210    $a Lisboa $c Gradiva $d 1988
+215    $a 221 p. $d 24 cm
+225 2  $a Gradiva $v 9
+304    $a Tít. orig. : Les passions partagées
+675    $a 840-31 Marceau, Felicien $v BN $z por
+700  1 $a Marceau $b Félicien $c pseud.
+702  1 $a Rodrigues $b Fernanda Pinto $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060703111842&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0009340 $l BMM $s SCG 821 MAR pai 9
+966    $a 0009341 $l BMM $s SCG 821 MAR pai 9

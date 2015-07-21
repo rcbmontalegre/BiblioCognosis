@@ -1,0 +1,18 @@
+00667nam  2200205   450
+001   412
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00810095
+100    $a 19960510d1967    m  y0pory0103    ba
+101 1  $a por
+102 �� $a PT
+106    $a r
+200 1  $a <A >perspectiva Nevski $f Nicolau Gogol $g trad. de Frederico Montenegro
+210    $a Lisboa $c Presença $d 1967
+215    $a 123 p., 2 f. $d 18 cm
+225 2  $a Clássicos
+700  1 $a Gogol $b Nicolau Vasilievich $f 1809-1852
+702  1 $a Montenegro $b Frederico $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060516144410&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0011758 $l BMM $s SCG 821 GOG per 21

@@ -1,0 +1,158 @@
+[{
+  "fields": [
+    [
+      "001",
+      "398"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1973    m  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >homem que viajou sózinho",
+      "f",
+      "Constantin Virgil Gheorghiu",
+      "g",
+      "trad. Vitorino Nemésio"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "7ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Bertrand",
+      "d",
+      "1973"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "247 p.",
+      "d",
+      "19cm"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Gheorghiu",
+      "b",
+      "Constantin Virgil",
+      "f",
+      "1916-1992"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Nemésio",
+      "b",
+      "Vitorino",
+      "f",
+      "1901-1978",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060516110810&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "4"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008527",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 GHE hom"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008528",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 GHE hom"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008526",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 GHE hom"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008529",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 GHE hom"
+    ]
+  ]
+}]

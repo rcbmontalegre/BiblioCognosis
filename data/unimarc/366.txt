@@ -1,0 +1,30 @@
+01165nam  2200349   450
+001   366
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 972-1-04079-7
+010    $a 972-1-04103-3
+021    $a PT $b 93622/95
+021    $a PT $b 98206/96
+095    $a PTBN00810357
+100    $a 19960515g1995    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a a   z   000ay
+106    $a r
+200 1  $a Povo do fogo $f W. Michael Gear, Katheen O'Neal Gear $g trad. Margarida Gomes, Eduardo Gomes
+210    $a Mem Martins $c Europa-América $d D.L. 1995-1996
+215    $a 2 v. (217, [1] ; 222, [1] p. $d 21 cm
+225 2  $a Nébula $v 57, 58
+304    $a Tít. orig.: People of the fire
+675    $a 821.111(73)-93"19" $v BN $z por
+700  1 $a Gear $b W. Michael
+701  1 $a Gear $b Kathleen O'Neal $4 070
+702  1 $a Gomes $b Margarida $4 730
+702  1 $a Gomes $b Eduardo $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060512105459&ext=jpg $z CAPA
+856    $u locateMedia.asp?cod=20060512105512&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0010195 $l BMM $s SCG 821 GEA pov 57
+966    $a 0010196 $l BMM $s SCG 821 GEA pov 58

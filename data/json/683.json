@@ -1,0 +1,146 @@
+[{
+  "fields": [
+    [
+      "001",
+      "683"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00612345"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19910802d1984    a  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >senhor-que-não-sabia-contar-histórias",
+      "f",
+      "Carlos Pinhão",
+      "g",
+      "il. Ana Duarte de Almeida"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Horizonte",
+      "d",
+      "1984"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "32 p.",
+      "c",
+      "il.",
+      "d",
+      "23 cm"
+    ],
+    [
+      "225",
+      "0 ",
+      "v",
+      "51"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "087.5",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Pinhão",
+      "b",
+      "Carlos",
+      "f",
+      "1924-1993"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Almeida",
+      "b",
+      "Ana Duarte de",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060524153110&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001802",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-34 PIN sen 51"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001805",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-34 PIN sen 51"
+    ]
+  ]
+}]

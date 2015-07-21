@@ -1,0 +1,142 @@
+[{
+  "fields": [
+    [
+      "001",
+      "940"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00002145"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19790301d1978    m  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Ontem e amanhã",
+      "e",
+      "novelas",
+      "f",
+      "Júlio Verne",
+      "g",
+      "trad. Maria Helena Nascimento e Silva"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "António Ramos",
+      "d",
+      "imp. 1978"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "193, [1] p.",
+      "d",
+      "17 cm"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Hier et demain"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "087.5",
+      "v",
+      "bn",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Verne",
+      "b",
+      "Jules",
+      "f",
+      "1828-1905",
+      "3",
+      "27932"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Silva",
+      "b",
+      "Maria Helena Nascimento e",
+      "4",
+      "730",
+      "3",
+      "115847"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060703095323&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009410",
+      "l",
+      "BMM",
+      "s",
+      "SJ 087.5 VER ont"
+    ]
+  ]
+}]

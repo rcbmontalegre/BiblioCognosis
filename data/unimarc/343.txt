@@ -1,0 +1,18 @@
+00655nam  2200205   450
+001   343
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+021    $a PT $b 14140
+100    $a 20061013f19701980k  y0pory010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a <O >grande Meaulnes $f Alain-Fournier $g tradução de Armindo Rodrigues
+210    $a Lisboa $c Relógio d'Água Editores
+215    $a 286 p. $d 21 cm
+675    $a 821
+700  1 $a Alain-Fournier $c pseud
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060511155403&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0008800 $l BMM $s SCG 821 ALA gra
+966    $a 0008688 $l BMM $s SCG 821 ALA gra

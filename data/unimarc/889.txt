@@ -1,0 +1,23 @@
+00960nam  2200265   450
+001   889
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 972-564-624-X
+021    $a PT $b 214192/04
+100    $a 20061013d2004    m  y0pory0103    ba
+101 1  $a por $c eng
+102    $a PT
+105    $a af  z   001yy
+200 1  $a Maria Madalena e o Santo Graal $e <a >mulher do vaso de alabasto $f Margaret Starbird $g trad.: Irene Daun e Lorena, Nuno Daun e Lorena
+210    $a Lisboa $c Quetzal $d 2004
+215    $a 204, [1] p., [16] p. il. $c il. $d 24 cm
+304    $a Tít. orig.: The woman with the Alabaster Jar
+606    $a Igreja Católica
+675    $a 27 MARIA MADALENA, Santa
+700  1 $a Starbird $b Margaret
+702  1 $a Lorena $b Irene Daun e $4 730
+702  1 $a Lorena $b Nuno Daun e $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060628112542&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0016061 $l BMM $s SCG 27 MARIA_MADALENA, Santa STA

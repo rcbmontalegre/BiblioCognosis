@@ -1,0 +1,19 @@
+00692nam  2200217   450
+001   1009
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-22-2163-9
+021    $_ PT 228726/05
+100    $a 20061013d2005----k  y0pory0103    ba
+101 0  $a por $c eng
+102    $a PT
+200 1  $a Noddy e o táxi novo $g trad. de Margarida de Andrade
+210    $a Lisboa $c Verbo $d 2005
+215    $a [30]p. $d 23cm
+225 2  $a Abram alas para o Noddy $v 4
+675    $a 087.5(075) $v BN $z por
+702  1 $a Andrade $b Margarida
+702  1 $a Blyton $b Enid Mary $f 1897-1968
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060706115357&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0016773 $l BMM $s SI 087.5 AND nod 4

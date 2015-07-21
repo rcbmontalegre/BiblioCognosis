@@ -1,0 +1,18 @@
+00661nam  2200205   450
+001   215
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00279492
+100    $a 20061013d1953    m  y0pora010305  ba
+101 1  $a por
+102    $a PT
+200 1  $a Quero acreditar em ti $e romance $f Léo Dartey $g trad. de Leyguarda Ferreira
+210    $a Lisboa $c Romano Torres $d imp. 1953
+215    $a 189, [1] p. $d 20 cm
+225 2  $a Azul
+304    $a Tit. orig.: La revanche de l'or
+675    $a 821 $v BN $z por
+700  1 $a Dartey $b Léo
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060510142335&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008743 $l BMM $s SCG 821 DAR que

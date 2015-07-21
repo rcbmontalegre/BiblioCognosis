@@ -1,0 +1,144 @@
+[{
+  "fields": [
+    [
+      "001",
+      "287"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00278452"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19760701d1976    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >rua da cabeça perdida",
+      "f",
+      "Jean Ray",
+      "g",
+      "trad. Madalena Cunha Matos"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Estampa",
+      "d",
+      "1976"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "120, [5]",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Harry Dickson",
+      "v",
+      "5"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : La rue de la tête-perdue"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Ray",
+      "b",
+      "Jean",
+      "f",
+      "1887-1964"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Matos",
+      "b",
+      "Madalena Cunha",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511104828&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008488",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 RAY rua 5"
+    ]
+  ]
+}]

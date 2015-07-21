@@ -1,0 +1,164 @@
+[{
+  "fields": [
+    [
+      "001",
+      "23"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-1-03151-8"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "41692/90"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00269139"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19910314d1990    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "lat"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   001ay"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >asno de ouro",
+      "f",
+      "Lúcio Apuleio",
+      "g",
+      "trad. Francisco António de Campos"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "D.L. 1990"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "240, [1] p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Clássicos"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : Asinus Aureus"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Apuleius",
+      "b",
+      "Lucius",
+      "f",
+      "120-180"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Campos",
+      "b",
+      "Francisco António de",
+      "f",
+      "1780",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060504121814&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008869",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 APU asn"
+    ]
+  ]
+}]

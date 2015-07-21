@@ -1,0 +1,144 @@
+[{
+  "fields": [
+    [
+      "001",
+      "927"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19940901d1974    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Tristão",
+      "f",
+      "Thomas Mann",
+      "g",
+      "trad. de Fernando Lopes Graça e Hildegard Bettencourt"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Inquérito",
+      "d",
+      "[D.L. 1974]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "120, [3] p.",
+      "c",
+      "il.",
+      "d",
+      "17 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Antologia dos amigos do livro",
+      "v",
+      "15"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Mann",
+      "b",
+      "Thomas",
+      "f",
+      "1875-1955"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Graça",
+      "b",
+      "Fernando Lopes",
+      "f",
+      "1906-1994",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Bettencourt",
+      "b",
+      "Hildegard",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060629171024&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009181",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 MAN tri 15"
+    ]
+  ]
+}]

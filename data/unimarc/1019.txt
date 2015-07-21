@@ -1,0 +1,20 @@
+00816nam  2200229   450
+001   1019
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+100    $a 19850501d1985    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <A >nave dos loucos $f Katherine Anne Porter $g trad. Leonel Vallandro $g rev. José Rodrigues Miguéis
+210    $a Lisboa $c Livros do Brasil $d [D.L. 1985]
+215    $a 498, [5] p. $d 21 cm
+225 2  $a Dois mundos $v 87)
+304    $a Tít. orig.: Ship of fools
+675    $a 821 $v BN $z por
+700  1 $a Porter $b Katherine Anne $f 1894-1980
+702  1 $a Valandro $b Leonel $4 730
+702  1 $a Miguéis $b José Rodrigues $f 1901-1980 $4 640
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060706155307&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0009750 $l BMM $s SCG 821 POR nav 87

@@ -1,0 +1,23 @@
+00791nam  2200265   450
+001   925
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-20-0975-3
+021    $a PT $b 53438/92
+095    $a PTBN00358199
+100    $a 19920311d1992    m  y0pory010305  ba
+101 1  $a por $c ger
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a Tonio Krõger $f Thomas Mann $g trad. Cláudia Gonçalves
+205    $a 1ª ed
+210    $a Lisboa $c Dom Quixote $d 1992
+215    $a 93 p. $d 24 cm
+225 2  $a Ficção universal $v 99
+675    $a 830-32"19" $v BN $z por
+700  1 $a Mann $b Thomas $f 1875-1955
+702  1 $a Gonçalves $b Cláudia $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060629170025&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0009037 $l BMM $s SCG 821 MAN ton 99

@@ -1,0 +1,174 @@
+[{
+  "fields": [
+    [
+      "001",
+      "870"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "22324/88"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00130007"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20070227d1988    e  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<Um >mês no campo",
+      "f",
+      "J. L. Carr",
+      "g",
+      "trad. Isabel Neves",
+      "g",
+      "rev. José Soares de Almeida"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "1ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Gradiva",
+      "d",
+      "1988"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "127 p.",
+      "d",
+      "24 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Gradiva",
+      "v",
+      "8"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: A mounth in the country"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "3",
+      "342968"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Carr",
+      "b",
+      "J. L.",
+      "3",
+      "342969"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Almeida",
+      "b",
+      "José Soares de",
+      "4",
+      "640"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Neves",
+      "b",
+      "Isabel",
+      "4",
+      "730",
+      "3",
+      "27958"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20070227145318&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008500",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 CAR mês 8"
+    ]
+  ]
+}]

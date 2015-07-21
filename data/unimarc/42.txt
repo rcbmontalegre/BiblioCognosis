@@ -1,0 +1,23 @@
+00856nam  2200265   450
+001   42
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-1-04084-3
+021    $a PT $b 97276/96
+100    $a 20020517e1996    em y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   000yy
+106    $a r
+200 1  $a Orgulho e preconceito $f Jane Austen $g trad. Maria Francisca Ferreira de Lima
+205    $a [Reimp.]
+210    $a Mem Martins $c Europa-América $d D. L. 1996
+215    $a 277, [1] p. $d 21 cm
+225 2  $a Clássicos $v 34)
+304    $a Tít. orig.: Pride and prejudice
+675    $a 821 $v BN $z por
+700  1 $a Austen $b Jane $f 1775-1817
+702  1 $a Lima $b Maria Francisca Ferreira de $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060504155143&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008282 $l BMM $s SCG 821 AUS org

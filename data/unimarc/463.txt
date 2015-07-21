@@ -1,0 +1,16 @@
+00591nam  2200181   450
+001   463
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00538377
+100    $a 19940113d1949    m  y0pory010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a <O >noventa e três $f Victor Hugo $g trad. Chagas Franco
+210    $a Guimarães $c Guimarães Editores $d 1949] $e Lisboa $g Imp. Lucas
+215    $a 391 p. $d 18 cm
+675    $a 821 $v BN $z por
+700  1 $a Hugo $b Victor $f 1802-1885
+702  1 $a Franco $b Chagas $f 1878-1944 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0012660 $l BMM $s SCG 821 HUG nov

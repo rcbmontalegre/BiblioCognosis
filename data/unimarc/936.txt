@@ -1,0 +1,25 @@
+00935nam  2200289   450
+001   936
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-662-140-2
+021    $a PT $b 26783/89
+095    $a PTBN00225274
+100    $a 19900131d1989    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a <Os >amantes secretos $f Charles McCarry $g trad. Clara Garcia da Fonseca $g rev. do texto Manuel Joaquim Vieira
+205    $a 1ª ed
+210    $a Lisboa $c Gradiva $d 1989
+215    $a 331 p. $d 21 cm
+225 2  $a Não incomode $v 25)
+304    $a Tít. orig.: The secret lovers
+675    $a 820(73)-312.4"19" $v BN $z por
+700  1 $a MacCarry $b Charles
+702  1 $a Fonseca $b Clara Garcia $4 730
+702  1 $a Vieira $b Manuel Joaquim $4 640
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060703090917&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0009108 $l BMM $s SCG 821 McC ama 25

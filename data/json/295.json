@@ -1,0 +1,152 @@
+[{
+  "fields": [
+    [
+      "001",
+      "295"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "21014/88"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00129974"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1988    em y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<As >regras da atracção",
+      "f",
+      "Bret Easton Ellis",
+      "g",
+      "trad. Carlos Santos"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Teorema",
+      "d",
+      "imp. 1988"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "279 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "1 ",
+      "a",
+      "Estórias",
+      "v",
+      "16"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : The rules of attraction"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Ellis",
+      "b",
+      "Bret Easton",
+      "f",
+      "1964"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Santos",
+      "b",
+      "Carlos dos",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "BN",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511121304&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008780",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 ELL reg 16"
+    ]
+  ]
+}]

@@ -1,0 +1,152 @@
+[{
+  "fields": [
+    [
+      "001",
+      "349"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00015427"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1986    m  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<Um >quarto com vista",
+      "f",
+      "E. M. Forster",
+      "g",
+      "trad. Salvato Telles de Menezes e Paula Cristina R. Simöes"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Labirinto",
+      "d",
+      "1986"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "255 p.",
+      "d",
+      "22 cm"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. A room with a view"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821.111-31\"19\""
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Forster",
+      "b",
+      "E. M.",
+      "f",
+      "1879-1970",
+      "3",
+      "67855"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Meneses",
+      "b",
+      "Salvato Teles de",
+      "f",
+      "1949-",
+      "3",
+      "292488",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Simões",
+      "b",
+      "Paula",
+      "f",
+      "1964",
+      "4",
+      "730",
+      "3",
+      "1143583"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511162450&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008540",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 FOR qua"
+    ]
+  ]
+}]

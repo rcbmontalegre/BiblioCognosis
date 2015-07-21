@@ -1,0 +1,23 @@
+00845nam  2200265   450
+001   368
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-23-1949-3
+021    $a PT $b 162213/01
+100    $a 20010711d2001    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   001ay
+106    $a r
+200 1  $a <O >mundo de Sofia $e <uma >aventura na filosofia $f Jostein Gaarder $g trad. Catarina Belo
+205    $a 18ª ed
+210    $a Lisboa $c Presença $d 2001
+215    $a 461, [2] p. $d 23 cm
+225 2  $a Grandes narrativas $v 1
+304    $a Tit. orig.: Sofies Verden
+675    $a 821.113.5-31"19" $v BN $z por
+700  1 $a Gaarder $b Jostein $f 1952
+702  1 $a Belo $b Catarina $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060512110141&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0015418 $l BMM $s SCG 821 GAA mun 1

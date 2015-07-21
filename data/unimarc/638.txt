@@ -1,0 +1,19 @@
+00718nam  2200217   450
+001   638
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+100    $a 20061013d1985    km y0pora0103    ba
+101 0  $a por
+102    $a PT
+200 1  $a <A >cidade transparente $f Fernando Bento Gomes $g ilust.: Henrique Cayatte
+210    $a Lisboa $c Caminho $d 1985
+215    $a [42] p. $c il. $d 21 cm
+675    $a 82-93
+675    $a 821.134.3-34
+700  1 $a Gomes $b Fernando Bento $f 1938-
+702  1 $a Cayatte $b Henrique $f 1957- $4 440
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060523085954&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0001464 $l BMM $s SI 821.134.3-34 GOM cid
+966    $a 0001465 $l BMM $s SI 82-93 GOM cid

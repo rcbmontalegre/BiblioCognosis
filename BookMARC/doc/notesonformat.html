@@ -1,0 +1,108 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+
+  
+  
+  <title>Notes on the MARC manual format</title>
+  <meta name="author" content="BookMARC">
+</head>
+
+
+<body>
+
+<table border="0" width="100%">
+
+  <tbody>
+
+    <tr>
+
+      <td><img src="bookmarclogo.jpg"></td>
+
+      <td> <font color="#262197" face="SanSerif,Helvetica, Geneva, Arial" size="+1"> <b>BookMARC - Servi&ccedil;os de
+Informa&ccedil;&atilde;o Bibliogr&aacute;fica.</b> </font> <br>
+
+Edif&iacute;cio Portas de S&atilde;o Miguel, Rua Adriano Lucas, 2&ordm;B, 3020-430
+COIMBRA - PORTUGAL<br>
+
+
+Telefone: (351) 239 496 162 - Telefax (351) 239 496 162<br>
+
+      <font color="#262197" size="-1"> <a href="http://www.bookmarc.pt">http://www.bookmarc.pt</a>
+- Email: <a href="mailto:info@BookMARC.pt">info@BookMARC.pt</a> </font>
+      </td>
+
+    </tr>
+
+  
+  </tbody>
+</table>
+
+<hr color="#262197" size="1">
+<table align="center" border="1" cellpadding="2" cellspacing="0" width="90%">
+
+  <tbody>
+
+    <tr>
+
+      <td colspan="2" align="center" bgcolor="#666699"> <font color="WHITE" face="Arial" size="+2">Notes on the MARC manual format</font>
+      </td>
+
+    </tr>
+
+  
+  </tbody>
+</table>
+
+<hr color="#262197" size="1"><!-- 1 --> <br>
+
+<p align="center"><a href="../index.html">General overview</a></p>
+
+The MARC manual format document structure is described in the <a href="FORMAT.html">format.html</a> document, including source (please
+note that elements are sorted by name - the document hierarchical
+structure can be easily followed beggining at the <a href="FORMAT.html#element_FORMAT_Link026D58E8">FORMAT</a> element
+description).<br>
+
+<br>
+
+Top level element is FORMAT. It may have one LEADER and a sequence of
+FIELD elements (the reason why the LEADER element is optional is to
+allow for sections of the manual to spread along several physical XML
+documents).<br>
+
+<br>
+
+The LEADER element holds standard leader information (record status and
+type, bibliographic level, and so on).<br>
+
+<br>
+
+Each FIELD stores information on indicators and field inner structure.
+Special attention is paid to <span style="font-style: italic;">context-dependent</span>
+field definition (fields which composition depends on current
+information, such as leader or other field values - the APPLYIF element
+is used in such occasions and proper context mantained by the
+stylesheet). Related information and examples from the manual are also
+discriminated.<br>
+
+<br>
+
+Subfields documentation is stored in SUBFIELD elements, and provision
+is made for the distintion between standard free-text data and
+structured positioned sub-elements (such as in coded fields).<br>
+
+<br>
+
+Where appliable, controlled set ot terms are hold in VOCABULARY
+elements.<br>
+
+<br>
+
+There is no provision for rendering related tags, except for P and
+TABLE (even those cut down to their simplest forms). It's expected that
+the adequate rendering of the documentation will be controlled through
+the
+transformation processes and CSS.<br>
+
+</body>
+</html>

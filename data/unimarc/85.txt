@@ -1,0 +1,22 @@
+00890nam  2200253   450
+001   85
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+095    $a PTBN00548843
+100    $a 19940131d1975    m  y0pory010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a <O >outro mundo ou os estados e impérios da lua $f Cyrano de Bergerac $g trad.: Emanuel Lourenço Godinho
+210    $a Lisboa $c Estampa $d 1975
+215    $a 137, [4] p. $d 19 cm
+225 2  $a Livro B $v 25
+304    $a Tít. orig. : L'autre monde ou les états et empires de la lune
+675    $a 821
+700  1 $a Cyrano de Bergerac $b Savinien $f 1619-1655
+702  1 $a Godinho $b Emanuel $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060508151822&ext=jpg $z CAPA
+909 	  $a 3
+966    $a 0008715 $l BMM $s SCG 821 BER out
+966    $a 0008351 $l BMM $s SCG 821 BER out
+966    $a 1002839 $l BEM $s BEM 82 BER

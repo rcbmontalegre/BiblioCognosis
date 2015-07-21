@@ -1,0 +1,18 @@
+00633nam  2200205   450
+001   523
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00214418
+100    $a 20070518d1963    m  y0pora010305  ba
+101 1  $a por $c ger
+102    $a PT
+200 1  $a <A >fronteira $f Uwe Johnson $g trad. de Xavier Teles
+210    $a Lisboa $c Arcádia $d [D.L. 1963]
+215    $a 319, [1] p. $d 19 cm
+225 2  $a Encontro $v 28
+304    $a Tít. orig.: Mutmassungen uber Jakob
+675    $a 821 $v BN $z por
+700  1 $a Johnson $b Uwe $f 1924-
+702  1 $a Teles $b Xavier $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0008143 $l BMM $s SCG 821 JOH fro 28

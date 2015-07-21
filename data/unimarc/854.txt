@@ -1,0 +1,20 @@
+00829nam  2200229   450
+001   854
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+100    $a 19740801d1974    m  y0pora0103    ba
+101 0  $a por
+102    $a PT
+200 1  $a Antigos povos da nossa terra $f António Carlos Leal da Silva, Francisco G. Santana
+205    $a 2ª ed
+210    $a Lisboa $c Dir. Geral da Educação Permanente $d 1974
+215    $a 185, [4] p. il $c il. $d 17 cm
+225 2  $a Educativa $h Série D $v 6
+675    $a 821.134.3 $v BN $z por
+700  1 $a Silva $b António Carlos Leal da $f 1931- $3 25700
+701  1 $a Santana $b Francisco $f 1930- $4 070 $3 112367
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060627104052&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0003128 $l BMM $s SJ 94(469) SIL ant 6
+966    $a 0003129 $l BMM $s SJ 94(469) SIL ant 6

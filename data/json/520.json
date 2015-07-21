@@ -1,0 +1,136 @@
+[{
+  "fields": [
+    [
+      "001",
+      "520"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00021736"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20070518d1981    m  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Hammett",
+      "f",
+      "Joe Gores",
+      "g",
+      "Helena Domingos"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "A Regra do Jogo",
+      "d",
+      "1983"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "293 p.",
+      "d",
+      "17 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Série negra",
+      "v",
+      "14"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "bn",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Gores",
+      "b",
+      "Joe"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Domingos",
+      "b",
+      "Helena",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060518092229&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008671",
+      "l",
+      "BMM",
+      "s",
+      "SCG 82-312.4 GOR ham 14"
+    ]
+  ]
+}]

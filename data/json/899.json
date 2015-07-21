@@ -1,0 +1,180 @@
+[{
+  "fields": [
+    [
+      "001",
+      "899"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "20179/88"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00110401"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061913d1988    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<As >aventuras de Darwin",
+      "f",
+      "Peter Ward",
+      "g",
+      "il. Annabel Large"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Teorema",
+      "d",
+      "imp. 1988"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "111 p.",
+      "c",
+      "il.",
+      "d",
+      "19 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Sésamo",
+      "v",
+      "6"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : The adventures of Charles Darwin"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "087.5",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Ward",
+      "b",
+      "Peter"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Large",
+      "b",
+      "Annabel",
+      "4",
+      "440"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Jordão",
+      "b",
+      "Pedro",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060628171243&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "3"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001829",
+      "l",
+      "BMM",
+      "s",
+      "SJ 087.5 WAR ave 6"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0003157",
+      "l",
+      "BMM",
+      "s",
+      "SJ 087.5 WAR ave 6"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001830",
+      "l",
+      "BMM",
+      "s",
+      "SJ 087.5 WAR ave 6"
+    ]
+  ]
+}]

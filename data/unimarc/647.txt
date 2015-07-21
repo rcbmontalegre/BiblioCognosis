@@ -1,0 +1,22 @@
+00839nam  2200253   450
+001   647
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+100    $a 20061013d1988 a y0pory0103 ba
+101 0  $a por
+102    $a PT
+200 1  $a <O >segredo guardado no fundo do mar $f Fernando Bento Gomes $g ilustração de Ivone Ralha
+210    $a Lisboa $c Caminho $d 1988
+215    $a 140p. $c il. $d 19cm
+225 2  $a <A >nossa rua $v 3
+606 1  $a Literatura juvenil
+608    $a Prosa narrativa
+675    $a 087.5
+700  1 $a Gomes $b Fernando Bento $f 1938-
+702  1 $a Ralha $b Ivone $4 440
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060523094639&ext=jpg $z CAPA
+909 	  $a 3
+966    $a 0002393 $l BMM $s SJ 821.134.3 GOM seg 3
+966    $a 0002394 $l BMM-PS $s 821.134.3 GOM seg 3
+966    $a 0002395 $l BMM $s SJ 821.134.3 GOM seg 3

@@ -1,0 +1,144 @@
+[{
+  "fields": [
+    [
+      "001",
+      "308"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00116067"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1985    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Cenas da vida diplomática",
+      "f",
+      "Lawrence Durrell",
+      "g",
+      "trad. Daniel Gonçalves"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Ulisseia",
+      "d",
+      "1985"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "187 p.",
+      "d",
+      "22 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Clássicos do romance contemporâneo",
+      "v",
+      "47"
+    ],
+    [
+      "327",
+      "1 ",
+      "a",
+      "Contém duas obras de Lawrence Durrell, que no original se intitulam Stiff upper lip e Esprit de corps"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Durrell",
+      "b",
+      "Lawrence",
+      "f",
+      "1912-1990"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Gonçalves",
+      "b",
+      "Daniel",
+      "f",
+      "1921-",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511141210&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008631",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DUR cen"
+    ]
+  ]
+}]

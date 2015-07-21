@@ -1,0 +1,18 @@
+00681nam  2200205   450
+001   892
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+100    $a 20061013d1974    k  y0pory010305  ba
+101 1  $a por $c rus
+102    $a PT
+200 1  $a <O >governador e outros contos soviéticos $f Léonidas Andreiev $g trad.: Egito Gonçalves
+210    $a Porto $c Inova $d 1974
+215    $a 247 p. $d 23 cm
+225 2  $a Metamorfoses $v 11
+675    $a 821
+700  1 $a Andreiev $b Léonidas $f 1871-1919
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060628152016&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0008408 $l BMM $s SCG 821 AND gov 11
+966    $a 0011683 $l BMM $s SCG 821 AND gov 11

@@ -1,0 +1,17 @@
+00644nam  2200193   450
+001   618
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00329427
+100    $a 19881116d1984    a  y0pora010305  ba
+101 0  $a por
+102 �� $a PT
+200 1  $a <O >reino das sete pontas $f Matide Rosa Araújo $g il. Manuela Bacelar
+210    $a Lisboa $c Horizonte $d cop. 1984
+215    $a 31 p. $c il.
+675    $a 82(024.7) $v med $z fre
+700  1 $a Araújo $b Matilde Rosa $f 1921-
+702  1 $a Bacelar $b Manuela $f 1943- $4 440
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060522162057&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0001127 $l BMM $s SI 82-34 ARA rei

@@ -1,0 +1,15 @@
+00547nam  2200169   450
+001   539
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20070521d1980    m  y0pory010305  ba
+101 0  $a por
+102    $a PT
+200 1  $a Dicionário português-inglês $f Manuel J. Martins
+205    $a 2ª ed
+210    $a Porto $c Editorial Domingos Barreira $d imp. 1980
+215    $a 1039 p. $d 23 cm
+700  1 $a Martins $b Manuel J.
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20070521105701&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0003779 $l BMM $s SCG 030 MAR dic

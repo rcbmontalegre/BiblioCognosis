@@ -1,0 +1,184 @@
+[{
+  "fields": [
+    [
+      "001",
+      "249"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-25-1405-9"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "218683/04"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d2005    e  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   001yy"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Tinha doze anos, peguei na bicicleta e fui para a escola...",
+      "f",
+      "Sabine Dardenne",
+      "g",
+      "colab. Marie-Thérèse Cuny",
+      "g",
+      "trad. Nuno Down e Lorena, Irene Down e Lorena"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Bertrand",
+      "d",
+      "2005"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "182, [1] p.",
+      "d",
+      "23 cm"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: J'avais 12 ans j'ai pris mon vélo et je suis partie l'école"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Dardenne",
+      "b",
+      "Sabine",
+      "3",
+      "1228711"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Cuny",
+      "b",
+      "Marie-Thérèse",
+      "4",
+      "205",
+      "3",
+      "194228"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Lorena",
+      "b",
+      "Nuno Daun e",
+      "4",
+      "730",
+      "3",
+      "918723"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Lorena",
+      "b",
+      "Irene Daun e",
+      "4",
+      "730",
+      "3",
+      "918722"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060510160527&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0016144",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DAR tin"
+    ]
+  ]
+}]

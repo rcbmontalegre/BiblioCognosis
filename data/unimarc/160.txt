@@ -1,0 +1,22 @@
+00828nam  2200253   450
+001   160
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+021    $a PT $b 7646/85
+095    $a PTBN00116158
+100    $a 19851101d1985    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <A >jeira de Deus $f Erskine Caldwell $g trad. Silvano Ferreira
+210    $a Lisboa $c Ulisseia $d 1985
+215    $a 202, [1] p. $d 22 cm
+225 2  $a Clássicos do romance contemporâneo $v 49
+304    $a Tit. orig.: God's little acre
+675    $a 821
+700  1 $a Caldwell $b Erskine $f 1903-1987
+702  1 $a Ferreira $b Silvano $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060509160945&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0008381 $l BMM $s SCG 821 CAL jei 49
+966    $a 0008632 $l BMM $s SCG 821 CAL jei 49

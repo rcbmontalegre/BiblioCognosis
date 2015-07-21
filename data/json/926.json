@@ -1,0 +1,200 @@
+[{
+  "fields": [
+    [
+      "001",
+      "926"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "26681/89"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00192878"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19890911g19899999m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   000ay"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Acasos de guerra",
+      "f",
+      "Olivia Manning",
+      "g",
+      "trad. Daniel Gonçalves"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Quetzal",
+      "d",
+      "D.L. 1989-"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "v.",
+      "d",
+      "23 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Serpente emplumada"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Fortunes of war"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. da capa do 1º v.: A maior das fortunas"
+    ],
+    [
+      "327",
+      "0 ",
+      "a",
+      "[1º v.]: A trilogia balcânica. A grande fortuna. - 358, [1] p."
+    ],
+    [
+      "512",
+      "1 ",
+      "a",
+      "<A >maior das fortunas"
+    ],
+    [
+      "518",
+      "1 ",
+      "a",
+      "<A >trilogia balcânica"
+    ],
+    [
+      "518",
+      "1 ",
+      "a",
+      "<A >grande fortuna"
+    ],
+    [
+      "518",
+      "1 ",
+      "a",
+      "Amigos e heróis"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821.111(73)-31\"19\"",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Manning",
+      "b",
+      "Olivia",
+      "f",
+      "1908-1980"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Gonçalves",
+      "b",
+      "Daniel",
+      "f",
+      "1921-",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060629170723&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009087",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 MAN mai"
+    ]
+  ]
+}]

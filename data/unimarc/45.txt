@@ -1,0 +1,23 @@
+00798nam  2200265   450
+001   45
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-41-4040-7
+021    $a PT $b 215291/04
+100    $a 20061013d2004    m  y0pory0103    ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   000yy
+106    $a r
+200 1  $a <A >noite do oráculo $f Paul Auster $g trad. José Vieira de Lima
+205    $a 1ª ed
+210    $a Porto $c Asa $d 2004
+215    $a 200, [8] p. $d 22 cm
+225 2  $a Vozes do mundo
+304    $a Tít. orig.: Oracle night
+675    $a 821
+700  1 $a Auster $b Paul $f 1947- $3 72675
+702  1 $a Lima $b José Vieira de $4 730 $3 25072
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060504160256&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0016284 $l BMM $s SCG 821 AUS noi

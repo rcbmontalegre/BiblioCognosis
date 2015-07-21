@@ -1,0 +1,202 @@
+[{
+  "fields": [
+    [
+      "001",
+      "394"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-708-196-7"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "63529/93"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00580142"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19940421d1993    m  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   001yy"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<Um >ouriço na tempestade",
+      "e",
+      "ensaios sobre livros e ideias",
+      "f",
+      "Stephen Jay Gould",
+      "g",
+      "trad. Ana Luísa Faria",
+      "g",
+      "rev. científica Clara Pinto Correia",
+      "g",
+      "des. David Levine"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Relógio d'Água",
+      "d",
+      "D.L. 1993"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "298, [3] p.",
+      "c",
+      "il.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Cioncias"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: An urchin in the storm"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "575.8",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Gould",
+      "b",
+      "Stephen Jay",
+      "f",
+      "1941-2002"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Faria",
+      "b",
+      "Ana Luísa",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Correia",
+      "b",
+      "Clara Pinto",
+      "f",
+      "1960-",
+      "4",
+      "640"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Levine",
+      "b",
+      "David",
+      "f",
+      "1926-",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060516104615&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008553",
+      "l",
+      "BMM",
+      "s",
+      "SCG 575 GOU our"
+    ]
+  ]
+}]

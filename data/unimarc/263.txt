@@ -1,0 +1,21 @@
+00878nam  2200241   450
+001   263
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00022768
+100    $a 20061013d1981    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a Nicholas Nickleby $f Charles Dickens $g trad. Mário da Costa Pires, Aurora Rodrigues
+210    $a Lisboa $c L Romano Torres $d [D.L. 1981]
+215    $a 556, [4] p. $d 19 cm
+225 2  $a Obras escolhidas de autores escolhidos $v 73
+304    $a Tít. orig.: Nicholas Nickleby
+675    $a 821 $v BN $z por
+700  1 $a Dickens $b CharlesCharles John Huffam $f 1812-1870
+702  1 $a Pires $b Mário C. $4 730
+702  1 $a Rodrigues $b Aurora $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060511091106&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0009145 $l BMM $s SCG 821 DIC nic 73
+966    $a 0009144 $l BMM $s SCG 821 DIC nic 73

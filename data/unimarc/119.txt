@@ -1,0 +1,20 @@
+00773nam  2200229   450
+001   119
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+095    $a PTBN00442245
+100    $a 19930319d1973    m  y0pory010305  ba
+101 1  $a por $c ger
+102    $a PT
+200 1  $a Bilhar às nove e meia $f Heinrich Büll $g trad. João Carlos Beckert d'Assunmpção
+210    $a Lisboa $c Aster $d [D.L. 1973]
+215    $a 367, [1] p. $d 18 cm
+225 2  $a Clássicos do tempo presente $v 7)
+304    $a Tít. orig. : Billard um halbzehn
+675    $a 821 $v BN $z por
+700  1 $a Büll $b Heinrich
+702  1 $a Assunção $b Beckert de $f 1924 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060509103601&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008344 $l BMM $s SCG 821 BOL bil

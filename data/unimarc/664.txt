@@ -1,0 +1,24 @@
+00866nam  2200277   450
+001   664
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 972-41-2822-9
+021    $a PT $b 217128/04
+100    $a 20061013d2005    m  y0pory0103    ba
+101 0  $a por
+102    $a PT
+105    $a a   z   000yy
+106    $a r
+200 1  $a Mouschi, o gato de Anne Frank $f José Jorge Letria $g il. Danuta Wojciechowska
+205    $a 3ª ed
+210    $a Porto $c Asa $d 2005
+215    $a 36 p. $c il. $d 21cm
+225 2  $a Asa juvenil $i série azul a partir dos 10 anos
+675    $a 82-34
+700  1 $a Letria $b José Jorge $f 1951-
+702  1 $a Wojciechowska $b Danuta $f 1960- $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060523112526&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0016105 $l BMM $s SI 82-34 LET mou
+966    $a 1003369 $l BEM $s BEM 82-34 LET

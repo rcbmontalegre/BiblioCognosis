@@ -1,0 +1,22 @@
+00845nam  2200253   450
+001   296
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-41-3564-0
+021    $a PT $b 198074/03
+100    $a 20040303d2003    m  y0pory0103    ba
+101 0  $a por
+102    $a PT
+105    $a y   z   001yy
+106    $a r
+200 1  $a <O >livro das emoções $e <o >som da razão sem coração $f Laura Esquivel $g trad. Carlos Sousa de Almeida
+205    $a 1ª ed
+210    $a Porto $c Asa $d 2003
+215    $a 89, [7] p. $d 22 cm
+320    $a Bibliografia, p. 89
+675    $a 821.134.2(72)-4"19" $v BN $z por $3 706357
+700  1 $a Esquivel $b Laura $f 1950 $3 100267
+702  1 $a Almeida $b Carlos Sousa de $4 730 $3 31282
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060511121103&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0015911 $l BMM $s SCG 821.134.2(7/8) ESQ liv

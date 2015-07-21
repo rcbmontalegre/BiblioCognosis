@@ -1,0 +1,25 @@
+00877nam  2200289   450
+001   16662
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 972-670-215-1
+021    $a PT $b 74818/94
+100    $a 20140408d1994    k  y0pory0103    ba
+101 1  $a por
+102    $a PT
+200 1  $a Iniciação à ciência dos mitos $f Victor Jabouille
+205    $a 2ª ed
+210    $a Mem Martins $c Inquérito $d 1994
+215    $a 114 p. $d 23 cm
+225 2  $a Inquérito universidade $v 7
+305    $a Edição revista e actualizada
+606    $a Teoria do conhecimento $2 Autoridade $3 PT-----------2014040812210006087
+610 0  $a Mitologia
+610 0  $a Mitos
+675    $a 165.9
+675    $a 165.19
+700  1 $a Jabouille $b Victor
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.aspx?cod=20140408122338&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0005036 $l BMM $s SCG 1 JAB ini

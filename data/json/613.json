@@ -1,0 +1,132 @@
+[{
+  "fields": [
+    [
+      "001",
+      "613"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19881116d1981    a  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Joana Ana",
+      "f",
+      "Matilde Rosa Araújo",
+      "g",
+      "il. Maria Keil"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Horizonte",
+      "d",
+      "cop. 1981"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "31 p.",
+      "c",
+      "il."
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Pássaro livre",
+      "v",
+      "23"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "82(024.7)",
+      "v",
+      "med",
+      "z",
+      "fre"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Araújo",
+      "b",
+      "Matilde Rosa",
+      "f",
+      "1921-"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Keil",
+      "b",
+      "Maria",
+      "f",
+      "1914-",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060522161148&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001657",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-34 ARA joa 23"
+    ]
+  ]
+}]

@@ -1,0 +1,15 @@
+00567nam  2200169   450
+001   708
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20020801d1969    m  y0pory010305  ba
+101 0  $a por
+102    $a PT
+200 1  $a <O >auto dos quatro meninos $f Patrícia Joyce
+210    $a Lisboa $c Sociedade de Expansão Cultural $d 1969
+215    $a 40, 1 p. $c il. $d 23 cm
+300    $a Joyce (Patricia), pseud. de Dagmar Joyce Damas Mora
+300    $a Tiragem 2000 ex.
+700  1 $a Joyce $b Patrícia $c pseud
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0002735 $l BMM $s SI 82-2 JOY aut

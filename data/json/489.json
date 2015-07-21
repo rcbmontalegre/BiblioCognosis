@@ -1,0 +1,146 @@
+[{
+  "fields": [
+    [
+      "001",
+      "489"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19850701d1985    m  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Fiesta",
+      "f",
+      "Ernest Hemingway",
+      "g",
+      "trad. Jorge de Sena"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "[Lisboa]",
+      "c",
+      "Ulisseia",
+      "d",
+      "imp. 1985"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "217, [2] p.",
+      "d",
+      "22 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Clássicos do romance contemporâneo",
+      "v",
+      "48"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: The sun also rises"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "3",
+      "304170"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Hemingway",
+      "b",
+      "Ernest",
+      "f",
+      "1899-1961",
+      "3",
+      "56672"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Sena",
+      "b",
+      "Jorge de",
+      "f",
+      "1919-1978",
+      "4",
+      "730",
+      "3",
+      "20905"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060517151424&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008776",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 HEM fie 48"
+    ]
+  ]
+}]

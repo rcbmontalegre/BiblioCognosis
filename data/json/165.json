@@ -1,0 +1,184 @@
+[{
+  "fields": [
+    [
+      "001",
+      "165"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-20-0846-3"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "40937/90"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00262684"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19901130d1991    em.y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "ger"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   001zy"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<As >vozes de Marraquexe",
+      "e",
+      "notas de uma viagem",
+      "f",
+      "Elias Canetti",
+      "g",
+      "trad. Isabel Ramalho"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "1ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Dom Quixote",
+      "d",
+      "1991"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "140 p.",
+      "d",
+      "24 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Ficção universal",
+      "v",
+      "81"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tit. orig. : Die Stimmen von Marrakesh"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "830(436)-992\"19\"",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "3",
+      "433659"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Canetti",
+      "b",
+      "Elias",
+      "f",
+      "1905-1994",
+      "3",
+      "25018"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Ramalho",
+      "b",
+      "Isabel",
+      "4",
+      "730",
+      "3",
+      "25020"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060509163411&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008520",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 CAN voz 81"
+    ]
+  ]
+}]

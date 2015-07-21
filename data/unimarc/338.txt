@@ -1,0 +1,25 @@
+00894nam  2200289   450
+001   338
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-662-164-X
+021    $a PT $b 35329/90
+095    $a PTBN00261172
+100    $a 19901015d1990    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a Dardo $f Dick Francis $g trad. Maria Georgina Segurado $g rev. Manuel Joaquim Vieira
+205    $a 1ª ed
+210    $a Lisboa $c Gradiva $d 1990
+215    $a 279 p. $d 21 cm
+225 2  $a Não incomode $v 28)
+304    $a Tít. orig.: Bolt
+675    $a 820-312.4"19" $v BN $z por
+700  1 $a Francis $b Dick
+702  1 $a Segurado $b Maria Georgina $4 730
+702  1 $a Vieira $b Manuel Joaquim $4 640
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060511154840&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008689 $l BMM $s SCG 82-312.4 FRA dar 28

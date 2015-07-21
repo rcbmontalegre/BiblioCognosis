@@ -1,0 +1,23 @@
+00830nam  2200265   450
+001   744
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 74161/94
+095    $a PTBN00963407
+100    $a 19980304d1994    m  y0pory010305  ba
+101 1  $a por $c che
+102    $a PT
+105    $a y   z   001yy
+106    $a r
+200 1  $a <A >insustentável leveza do ser $f Milan Kundera $g trad. Joana Varela
+205    $a 17ª ed
+210    $a Lisboa $c Dom Quixote $d 1994
+215    $a 364 p. $d 24 cm
+225 2  $a Ficção universal $v 3
+304    $a Tít. orig.: Nesnesitelná lehkost bytí
+675    $a 821.162.3-31"19" $v BN $z por
+700  1 $a Kundera $b Milan $f 1929-
+702  1 $a Varela $b Joana $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060619162457&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008704 $l BMM $s SCG 821 KUN ins 3

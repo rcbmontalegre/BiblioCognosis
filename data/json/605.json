@@ -1,0 +1,124 @@
+[{
+  "fields": [
+    [
+      "001",
+      "605"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00271207"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1983    a  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<Os >quatro irmãos",
+      "f",
+      "Matilde Rosa Araújo",
+      "g",
+      "il. Ana Leão"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Horizonte",
+      "d",
+      "1983"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "28, [3] p.",
+      "c",
+      "il.",
+      "d",
+      "23 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Pássaro livre",
+      "v",
+      "41"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "82-93"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Araújo",
+      "b",
+      "Matilde Rosa",
+      "f",
+      "1921-"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060522160607&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001809",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-93 ARA qua 41"
+    ]
+  ]
+}]

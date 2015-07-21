@@ -1,0 +1,26 @@
+00918nam  2200301   450
+001   55
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-1-02974-2
+021    $a PT $b 65396/93
+100    $a 20061013d1996    k  y0pory0103    ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   000yy
+106    $a r
+200 1  $a <A >ponte para a eternidade $f Richard Bach $g tradução de Carolina de Oliveira
+205    $a 7ª ed
+210    $a Mem Martins $c Europa-América $d 1993
+215    $a 273, [1] p. $d 22 cm
+225 2  $a Obras de Richard Bach $v 5
+300    $a Tít. orig.: The bridge across forever
+606 1  $a Literatura americana
+608    $a Romance
+675    $a 821
+675    $v BN $z por
+700  1 $a Bach $b Richard
+702  1 $a Oliveira $b Carolina de $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060504164006&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0005112 $l BMM $s SCG 821 BAC pon

@@ -1,0 +1,188 @@
+[{
+  "fields": [
+    [
+      "001",
+      "990"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-20-1124-3"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "66984/93"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00507607"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19931104d1993    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "spa"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   000ay"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >neve do almirante",
+      "f",
+      "Alvaro Mutis",
+      "g",
+      "trad. Franco de Sousa, Maria do Carmo Abreu"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "1ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Dom Quixote",
+      "d",
+      "1993"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "162 p.",
+      "d",
+      "24 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Ficção universal",
+      "v",
+      "136"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: La nieve del almirante"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "869(861)-31\"19\"",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Mutis",
+      "b",
+      "Álvaro",
+      "f",
+      "1923-"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Sousa",
+      "b",
+      "Franco de",
+      "f",
+      "1926-1993",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Abreu",
+      "b",
+      "Maria do Carmo",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060705105542&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009053",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 MUT nev 136"
+    ]
+  ]
+}]

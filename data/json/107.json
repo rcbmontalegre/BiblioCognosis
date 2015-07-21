@@ -1,0 +1,158 @@
+[{
+  "fields": [
+    [
+      "001",
+      "107"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-695-103-8"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "36829/90"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00351844"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1990    m  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Primeiro amor e outras mágoas",
+      "f",
+      "Harold Brodkey",
+      "g",
+      "trad. de Carlota Pracana"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Teorema",
+      "d",
+      "D. L. 1990"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "162, [1] p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Estórias",
+      "v",
+      "32"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tit. orig. First love and other sorrows"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Brodkey",
+      "b",
+      "Harold",
+      "f",
+      "1931-1996",
+      "3",
+      "236563"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Pracana",
+      "b",
+      "Maria Carlota",
+      "3",
+      "480646",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060509093651&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008301",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 BRO pri 32"
+    ]
+  ]
+}]

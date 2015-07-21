@@ -1,0 +1,20 @@
+00736nam  2200229   450
+001   566
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+100    $a 20061013d1989----k  y0pory0103    ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   001yy
+200 1  $a Ulisses $f James Joyce $g trad. e notas: João Palma Ferreira
+210    $a Lisboa $c Livros do Brasil $d 1989
+215    $a 843, [4] p. $d 22 cm
+225 2  $a Dois mundos $v 179
+304    $a Tit. orig. : Ulysses
+675    $a 821
+700  1 $a Joyce $b James $f 1882-1941
+702  1 $a Ferreira $b João Palma $f 1931-1989 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060518121209&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008646 $l BMM $s SCG 821 JOY uli 179

@@ -1,0 +1,21 @@
+00734nam  2200241   450
+001   1018
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-8835-09-4
+021    $a PT $b 221413/05
+100    $a 20061013d2005----m y0pory0103 ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <A >fraude de $e o código Da Vinci $g tradução de Joana Bernardino
+205    $a 2ª ed
+210    $a S. João do Estoril $c Lucerna $d 2005
+215    $a 331 p. $d 24 cm
+606 1  $a Literatura americana
+675    $a 821
+700  1 $a Olson $b Carl E.
+701  1 $a Miesel $b Sandra
+702  1 $a Bernardino $b Joana $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060706153710&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0016127 $l BMM $s SCG 821 OLS fra

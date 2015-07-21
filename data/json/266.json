@@ -1,0 +1,248 @@
+[{
+  "fields": [
+    [
+      "001",
+      "266"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d198-----m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<Os >possessos",
+      "f",
+      "Feodor Dostoievsky",
+      "g",
+      "trad. Adolfo Simões Müller"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "[198-]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "3 vol",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Livros de bolso Europa-América",
+      "v",
+      "288, 289, 290"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Les possédés"
+    ],
+    [
+      "327",
+      "1 ",
+      "a",
+      "Vol. 1: 181 p",
+      "a",
+      "Vol. 2: 220 p",
+      "a",
+      "Vol. 3: 191 p"
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Literatura russa"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Romance"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Dostoiévski",
+      "b",
+      "Fiódor",
+      "f",
+      "1821-1881"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Müller",
+      "b",
+      "Adolfo Simões",
+      "f",
+      "1909-1989",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511091454&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511091511&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511091539&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "8"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005195",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DOS pos 288"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005194",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DOS pos 288"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005198",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DOS pos 289"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005197",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DOS pos 289"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005196",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DOS pos 289"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005199",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DOS pos 290"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005201",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DOS pos 290"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005200",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DOS pos 290"
+    ]
+  ]
+}]

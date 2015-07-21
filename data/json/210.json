@@ -1,0 +1,170 @@
+[{
+  "fields": [
+    [
+      "001",
+      "210"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-23-2641-4"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "223852/05"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20070305d2005    m  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   000yy"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >Papisa Joana",
+      "f",
+      "Donna Woolfolk Cross",
+      "g",
+      "trad. Teresa Martinho Toldy"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "5ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Barcarena",
+      "c",
+      "Presença",
+      "d",
+      "2005"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "458, [2] p.",
+      "d",
+      "23 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Grandes narrativas",
+      "v",
+      "112"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Pope Joan"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Cross",
+      "b",
+      "Donna Woolfolk",
+      "3",
+      "979651"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Toldy",
+      "b",
+      "Teresa Martinho",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060510123830&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0016140",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 CRO pap 112"
+    ]
+  ]
+}]

@@ -1,0 +1,21 @@
+00814nam  2200241   450
+001   206
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-709-004-4
+021    $a PT $b 30292/89
+095    $a PTBN00351484
+100    $a 19900323d1988    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT $b Lisboa
+200 1  $a <O >Cardeal do Kremlin $f Tom Clancy $g trad. de Luiz Fernando Martins Esteves
+210    $a Lisboa $c Difusão Cultural $d cop. 1988
+215    $a 606 p. $d 21 cm
+225 2  $a Romance espionagem
+304    $a Tit. orig.: The cardinal of the Kremlin
+675    $a 821 $v BN $z por
+700  1 $a Clancy $b Tom $f 1947
+702  1 $a Esteves $b Luís Fernando Martins $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060510111516&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008226 $l BMM $s SCG 821 CLA car

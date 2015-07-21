@@ -1,0 +1,146 @@
+[{
+  "fields": [
+    [
+      "001",
+      "1020"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "14093/86"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00032786"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19870414d1987    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Jem",
+      "e",
+      "<a >construção de uma utopia",
+      "f",
+      "Frederik Pohl",
+      "g",
+      "trad. Maria de Lurdes Medeiros"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "[Lisboa]",
+      "c",
+      "Círculo de Leitores",
+      "d",
+      "imp. 1987"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "315 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : Jem : the making of a utopia"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Pohl",
+      "b",
+      "Frederik",
+      "f",
+      "1919-"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Medeiros",
+      "b",
+      "Maria de Lurdes",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060706161951&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009326",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 POH jem"
+    ]
+  ]
+}]

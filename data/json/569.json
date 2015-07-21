@@ -1,0 +1,140 @@
+[{
+  "fields": [
+    [
+      "001",
+      "569"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1981    m  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Gente de Dublin",
+      "f",
+      "James Joyce",
+      "g",
+      "trad. de Virgínia Motta"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Livros do Brasil",
+      "d",
+      "[D.L. 1981]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "272, [7] p.",
+      "d",
+      "22 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Dois mundos",
+      "v",
+      "77"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Dubliners"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Joyce",
+      "b",
+      "James",
+      "f",
+      "1882-1941",
+      "3",
+      "23695"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Mota",
+      "b",
+      "Virgínia",
+      "f",
+      "1909-",
+      "4",
+      "730",
+      "3",
+      "58672"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060518121802&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008645",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 JOY gen 77"
+    ]
+  ]
+}]

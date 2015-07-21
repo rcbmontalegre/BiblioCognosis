@@ -1,0 +1,178 @@
+[{
+  "fields": [
+    [
+      "001",
+      "299"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-23-1736-9"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "57150/93"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1996----m  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "ger"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >história interminável",
+      "e",
+      "de A a Z",
+      "f",
+      "Michael Ende",
+      "g",
+      "tradução de Maria do Carmo Cary",
+      "g",
+      "letras e gravuras de Roswitha Quadflieg"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "4ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Presença",
+      "d",
+      "1996"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "308 p.",
+      "d",
+      "22 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Grandes narrativas",
+      "v",
+      "17"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Die unendliche"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Romance"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Ende",
+      "b",
+      "Michael",
+      "f",
+      "1929-1995"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Cary",
+      "b",
+      "Maria do Carmo",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Quadflieg",
+      "b",
+      "Roswitha",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511121828&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008575",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 END his 17"
+    ]
+  ]
+}]

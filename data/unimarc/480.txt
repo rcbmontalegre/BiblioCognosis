@@ -1,0 +1,18 @@
+00707nam  2200205   450
+001   480
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 19970321d1983    k  y0pory010305  ba
+101 1  $a por $c ita
+102    $a PT
+200 1  $a Dom Camilo e o seu pequeno mundo $f Giovanni Guareschi $g Francisco Costa
+210    $a Lisboa $c Difel $d imp. 1983
+215    $a 273, [3] p. $d 23 cm
+225 2  $a Livros de Sempre
+304    $a Tit. orig: Don Camilo mondo piccolo
+675    $a 821 $v BN $z por
+700  1 $a Guareschi $b Giovanni $f 1908-
+702  1 $a Costa $b Francisco $f 1900-1988 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060517145228&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008661 $l BMM $s SCG 821 GUA dom

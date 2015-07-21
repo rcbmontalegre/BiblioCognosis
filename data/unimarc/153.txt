@@ -1,0 +1,20 @@
+00775nam  2200229   450
+001   153
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 7696/86
+095    $a PTBN00025433
+100    $a 20061013d1986    k  y0pora0103    ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <Um >rapaz da Geórgia $f Erskine Caldwell $g trad. Jorge de Sena
+210    $a Lisboa $c Ulisseia $d imp. 1986
+215    $a 144, [3] p. $d 22 cm
+225 2  $a Clássicos do romance contemporâneo $v 53
+304    $a Tit. orig. Georgia boy
+675    $a 821
+700  1 $a Caldwell $b Erskine $f 1903-1987 $3 19674
+702  1 $a Sena $b Jorge de $f 1919-1978 $4 730 $3 20905
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060509152704&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008265 $l BMM $s SCG 821 CAL rap 53

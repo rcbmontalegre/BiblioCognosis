@@ -1,0 +1,144 @@
+[{
+  "fields": [
+    [
+      "001",
+      "830"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00276533"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1963    mm y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >estrela do fundo dos mares",
+      "f",
+      "Jacques Chabar",
+      "g",
+      "trad. Soledade Summavielle"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Verbo",
+      "d",
+      "1963"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "165 p.",
+      "d",
+      "19 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Biblioteca da juventude",
+      "i",
+      "Série A",
+      "v",
+      "2"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: L'étoile du fond des mers"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "087.5",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Chabar",
+      "b",
+      "Jacques"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Summavielle",
+      "b",
+      "Soledade",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "BN",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060626121938&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0003314",
+      "l",
+      "BMM",
+      "s",
+      "SJ 087.5 CHA est"
+    ]
+  ]
+}]

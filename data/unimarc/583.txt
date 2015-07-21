@@ -1,0 +1,38 @@
+01657nam  2200445   450
+001   583
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 972-8012-28-4
+021    $a PT $b 181180/02
+100    $a 20070518d2002    m  d0pory0103    ba
+101 0  $a por
+102    $a PT
+200 1  $a Montalegre $e Terras de Barroso $f Manuel Dias $g Foto.: Jorge Tavares... [et al.]
+210    $a Montalegre $c Câmara Municipal de Montalegre $d 2002
+215    $a 141, [2] p. $c il. $d 30 cm
+606    $a Monografias regionais
+607    $a Montalegre (concelho) $2 Autoridade $3 PT9999-00-10-2009040123590002471
+607    $a Barroso $2 Autoridade $3 PT-----------2013110716210005967
+675    $a 908(469.202)
+675    $a 008(469.202)
+700  1 $a Dias $b Manuel Artur Santos $f 1934-
+702  1 $a Tavares $b Jorge $4 600
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060518164552&ext=jpg $z CAPA
+909 	  $a 10
+930    $d SCG 908(469.202) DIA mon
+930    $d SCG 008(469.202) DIA mon
+930    $d PS 008(469.202) DIA mon
+930    $d PS 908(469.202) DIA mon
+930    $d BEBB 39 DIA
+930    $d BEM 39(469.202) DIA
+966    $a 0015853 $l BMM $s SCG 908(469.202) DIA mon
+966    $a 0015486 $l BMM $s SCG 008(469.202) DIA mon
+966    $a 0016560 $l BMM-PS $s PS 908(469.202) DIA mon
+966    $a 0016561 $l BMM-PS $s PS 008(469.202) DIA mon
+966    $a 0015605 $l BMM $s SCG 008(469.202) DIA mon
+966    $a 0016824 $l BMM $s SCG 908(469.202) DIA mon
+966    $a 1101309 $l BEBB $s BEBB 39 DIA
+966    $a 1101308 $l BEBB $s BEBB 39 DIA
+966    $a 1003735 $l BEM $s BEM 39(469.202) DIA
+966    $a 0015677 $l BMM $s SCG 908(469.202) DIA mon

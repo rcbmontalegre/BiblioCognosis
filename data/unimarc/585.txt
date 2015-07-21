@@ -1,0 +1,46 @@
+02370nam0 2200541   450
+001   585
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+021    $a PT $b 14783/87
+100    $a 20070518d1987----k  y0pory0103    ba
+101 0  $a por
+102    $a PT
+200 1  $a Montalegre E Terras De Barroso $e Notas Históricas sobre Montalegre, Freguesias do Concelho e Região de Barroso $f João Gonçalves da Costa
+205    $a 2ª ed
+210    $a Montalegre $c Câmara Municipal de Montalegre $d 1987
+215    $a Vol.I: 241, [2]p. $d 21 cm
+300    $a Notas Históricas sobre Montalegre, freguesias do concelho e região de barroso
+607    $a Montalegre (concelho) $2 Autoridade $3 PT9999-00-10-2009040123590002471
+607    $a Barroso $2 Autoridade $3 PT-----------2013110716210005967
+610 0  $a Monografias regionais
+675    $a 908(469.202)
+675    $a 008(469.202)
+700  1 $a Costa $b João Gonçalves da $c Padre $f 1917-2006
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060518165102&ext=jpg $z CAPA
+909 	  $a 20
+930    $d SCG 008(469.202) COS mon
+930    $d PS 008(469.202) COS mon
+930    $d SCG 908(469.202) COS mon
+930    $d PS 908(469.202) COS mon
+966    $a 0015293 $l BMM $s SCG 008(469.202) COS mon Vol.I
+966    $a 0015467 $l BMM $s SCG 908(469.202) COS mon Vol.I
+966    $a 0014953 $l BMM $s SCG 908(469.202) COS mon Vol.I
+966    $a 0016557 $l BMM-PS $s PS 008(469.202) COS mon Vol.I
+966    $a 0017551 $l BMM-PS $s PS 908(469.202) COS mon Vol.I
+966    $a 0017550 $l BMM-PS $s PS 908(469.202) COS mon Vol.I
+966    $a 0015668 $d I $l BMM $s SCG 908(469.202) COS mon
+966    $a 0019517 $d I $l BMM $s SCG 908(469.202) COS mon
+966    $a 0019515 $d I $l BMM $s SCG 908(469.202) COS mon
+966    $a 0019514 $d I $l BMM $s SCG 908(469.202) COS mon
+966    $a 0019510 $d I $l BMM $s SCG 908(469.202) COS mon
+966    $a 0019511 $d I $l BMM $s SCG 908(469.202) COS mon
+966    $a 0019520 $d I $l BMM $s SCG 908(469.202) COS mon
+966    $a 0019518 $d I $l BMM $s SCG 908(469.202) COS mon
+966    $a 0019516 $d I $l BMM $s SCG 908(469.202) COS mon
+966    $a 0019519 $d I $l BMM $s SCG 908(469.202) COS mon
+966    $a 0019513 $d I $l BMM $s SCG 908(469.202) COS mon
+966    $a 0019509 $d I $l BMM $s SCG 908(469.202) COS mon
+966    $a 0019512 $d I $l BMM $s SCG 908(469.202) COS mon
+966    $a 0019508 $d I $l BMM $s SCG 908(469.202) COS mon

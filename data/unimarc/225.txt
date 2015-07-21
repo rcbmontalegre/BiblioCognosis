@@ -1,0 +1,18 @@
+00652nam  2200205   450
+001   225
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00036334
+100    $a 19870205d1986    m  y0pory010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a <O >livro de minha mãe $f Albert Cohen $g trad. Joana Morais Varela
+210    $a Lisboa $c Contexto $d 1986
+215    $a 161 p. $d 19 cm
+225 2  $a Contexto $v 1
+675    $a 821 $v bn $z por
+700  1 $a Cohen $b Albert $f 1895-1981
+702  1 $a Varela $b Joana $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060510145516&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008589 $l BMM $s SCG 821 COH liv 1

@@ -1,0 +1,18 @@
+00626nam  2200205   450
+001   145
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+095    $a PTBN00382072
+100    $a 19920720d195     m  y0pory010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a <A >batalha de Toulouse $f José Cabanis
+210    $a Lisboa $c Dom Quixote $d [195-]
+215    $a 155 p. $d 19 cm
+225 2  $a Romances exemplares $v 7)
+675    $a 821 $v BN $z por
+700  1 $a Cabanis $b José
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060509144458&ext=jpg $z CAPA
+909 �� $a 1
+966    $a 0008735 $l BMM $s SCG 821 CAB bat 7

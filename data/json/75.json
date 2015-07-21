@@ -1,0 +1,146 @@
+[{
+  "fields": [
+    [
+      "001",
+      "75"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00014463"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1980    m  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Balanço final",
+      "f",
+      "Simone de Beauvoir",
+      "g",
+      "trad. Bertha Mendes"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Amadora",
+      "c",
+      "Bertrand",
+      "d",
+      "imp. 1980"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "327 p.",
+      "d",
+      "20 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Autores universais"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Tout compte fait"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Beauvoir",
+      "b",
+      "Simone de",
+      "3",
+      "14125"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Mendes",
+      "b",
+      "Berta",
+      "f",
+      "1907-",
+      "3",
+      "48454",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060508143312&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008414",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 BEA bal"
+    ]
+  ]
+}]

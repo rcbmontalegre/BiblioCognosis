@@ -1,0 +1,154 @@
+[{
+  "fields": [
+    [
+      "001",
+      "292"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "7737/87"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00042889"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19870707d1987    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >rumor da língua",
+      "f",
+      "Roland Barthes",
+      "g",
+      "trad. António Gonçalves"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Edições 70",
+      "d",
+      "1987"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "318 p.",
+      "d",
+      "22 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Signos",
+      "v",
+      "44"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. Le bruissement de la langue"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "bn",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Barthes",
+      "b",
+      "Roland",
+      "f",
+      "1915-1980"
+    ],
+    [
+      "702",
+      " 1",
+      "9",
+      "5",
+      "a",
+      "Gonçalves",
+      "b",
+      "António",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511112008&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008306",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 BAR rum 44"
+    ]
+  ]
+}]

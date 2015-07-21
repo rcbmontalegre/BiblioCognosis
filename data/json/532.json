@@ -1,0 +1,186 @@
+[{
+  "fields": [
+    [
+      "001",
+      "532"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20070518d--------k  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<Os >Miseráveis",
+      "f",
+      "Vitor Hugo"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "Lello&irmão"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "Vol.I, 466p.; Vol.II, 474 p.; Vol.III, 493 p.; Vol.IV, 487 p.; Vol.V, 483 p.",
+      "d",
+      "15cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Lusitânia"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Les misérables"
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Literatura francesa"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "bn",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Hugo",
+      "b",
+      "Victor",
+      "f",
+      "1802-1885"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "7"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0012650",
+      "d",
+      "I",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 HUG mis Vol.I"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0012651",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 HUG mis Vol.II"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0012652",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 HUG mis Vol.III"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0012653",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 HUG mis Vol.IV"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0012654",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 HUG mis Vol.IV"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0012655",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 HUG mis Vol.V"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0012656",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 HUG mis Vol.V"
+    ]
+  ]
+}]

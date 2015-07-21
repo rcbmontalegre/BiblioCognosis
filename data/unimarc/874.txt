@@ -1,0 +1,19 @@
+00729nam  2200217   450
+001   874
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20061013d1982    a  y0pory0103    ba
+101 0  $a por $c fre
+102    $a PT
+200 1  $a <15=quinze> histórias de circo $g Trad. Ricardo Alberty $g Ilust. de René Follet e José Antunes
+210    $a Lisboa $c Verbo $d Imp. 1982
+215    $a 191p. $c il. $d 21cm
+225 0  $a Série 15 $v 45
+606    $a Literatura juvenil
+675    $a 087.5
+702  1 $a Alberty $b Ricardo $f 1919-1992 $4 730
+702  1 $a Follet $b René $4 440
+702  1 $a Antunes $b José $4 440
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060627150043&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0003089 $l BMM $s SI 087.5 ALB his 45

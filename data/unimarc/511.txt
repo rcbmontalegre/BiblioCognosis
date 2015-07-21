@@ -1,0 +1,22 @@
+00824nam  2200253   450
+001   511
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+021    $a PT $b 11539/86
+100    $a 20120112d1986    k  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a O 10º homem $f Graham Greene $g trad.: Ricardo Alberty
+210    $a Lisboa $c Ulisseia $d 1986
+215    $a 140, [4] p. $d 23 cm
+225 2  $a Clássicos do romance contemporâneo $v 52
+304    $a Tit. ori.: The Tenth man
+532 10 $a O Décimo Homem
+675    $a 821
+700  1 $a Greene $b Graham $f 1904-1991
+702  1 $a Alberty $b Ricardo $f 1919-1992 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060517161129&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0008444 $l BMM $s SCG 821 GRE déc 52
+966    $a 0008443 $l BMM $s SCG 821 GRE déc 52

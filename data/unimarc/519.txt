@@ -1,0 +1,21 @@
+00876nam  2200241   450
+001   519
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00435740
+100    $a 20061013d1982    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a Até à eternidade $f James Jones $g trad. de Fernanda Pinto Rodrigues
+210    $a Mem Martins $c Europa-América $d [D.L. 1982]
+215    $a 2 v $d 18 cm
+225 2  $a Livros de bolso Europa-América $v 259 $v 263
+304    $a Tít. orig. : From here to eternity
+675    $a 821 $v BN $z por
+700  1 $a Jones $b James $f 1921-1977
+702  1 $a Rodrigues $b Fernanda Pinto $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060518092254&ext=jpg $z CAPA
+856    $u locateMedia.asp?cod=20060518092826&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0005446 $l BMM $s SCG 821 JON até 259
+966    $a 0005445 $l BMM $s SCG 821 JON até 263

@@ -1,0 +1,24 @@
+00890nam  2200277   450
+001   311
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 44100/92
+095    $a PTBN00371569
+100    $a 20061013d1992    m  y0pory010305  ba
+101 1  $a por $c fre
+102    $a PT
+105    $a y   z   001fy
+106    $a r
+200 1  $a Textos secretos $f Marguerite Duras $g trad. Teresa Coelho
+205    $a 3ª ed
+210    $a Lisboa $c Quetzal $d D.L. 1992
+215    $a 59, [4] p. $d 20 cm
+304    $a Tít. orig.: L'homem atlantique
+304    $a Tít. orig.: La maladie de la mort
+327 1  $a Contém: O homem atlântico $a A doença da morte
+675    $a 821 $v BN $z por
+700  1 $a Duras $b Marguerite $f 1914-1996
+702  1 $a Coelho $b Teresa $f 1960- $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060511141654&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008425 $l BMM $s SCG 821 DUR tex

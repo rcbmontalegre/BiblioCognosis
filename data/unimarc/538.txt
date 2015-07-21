@@ -1,0 +1,20 @@
+00748nam  2200229   450
+001   538
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+021    $a PT $b 10670/85
+095    $a PTBN00031647
+100    $a 20090219d1986    k  y0pora010305  ba
+101 1  $a por $c ger
+102    $a PT
+200 1  $a <A >casa das belas adormecidas $f Yasunary Kawabata $g trad. Luís Pignatelli
+210    $a Lisboa $c Assírio & Alvim $d 1986
+215    $a 95 p. $d 21 cm
+225 2  $a <O >imaginário $v 11
+675    $a 821 $v BN $z por
+700  1 $a Kawabata $b Yasumari $f 1899-1972
+702  1 $a Pignatelli $b Luís $f 1932-1993 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060518102023&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008889 $l BMM $s SCG 821 KAW cas 11

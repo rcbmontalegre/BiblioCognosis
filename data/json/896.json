@@ -1,0 +1,120 @@
+[{
+  "fields": [
+    [
+      "001",
+      "896"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19950811d1966    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >relógio",
+      "e",
+      "romance",
+      "f",
+      "Carlos Levi",
+      "g",
+      "trad. de Mário Delgado"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Arcádia",
+      "d",
+      "[D.L. 1966]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "401, 1 p.",
+      "d",
+      "20 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Encontro",
+      "v",
+      "40)"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tit. orig.: L'orologio"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Levi",
+      "b",
+      "Carlo",
+      "f",
+      "1902-1975"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Delgado",
+      "b",
+      "Mário",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008135",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 LEV rel 40"
+    ]
+  ]
+}]

@@ -1,0 +1,21 @@
+00927nam  2200241   450
+001   993
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 19860511d1986    k  y0pora0103    ba
+101 1  $a por $c dan
+102    $a PT
+200 1  $a <O >livro de San Michele $f Axel Munthe $g trad. Jaime Cortesão
+205    $a 15ª ed
+210    $a Lisboa $c Livros do Brasil $d [D.L. 1986]
+215    $a 332, [4] p. $d 21 cm
+304    $a Tít. orig. Boken om San Michele
+675    $a 821.113.6Munthe, Axel.09 $v BN $z por $v BN $z por $3 1228849
+675    $a 61Munthe, Axel $v BN $z por $v BN $z por $3 1228850
+675    $a 929Munthe, Axel $v BN $z por $v BN $z por $3 1228851
+675    $a 821.113.6-94"18/19" $v BN $z por $v BN $z por $3 1228852
+700  1 $a Munthe $b Axel $f 1857-1949 $3 78423
+702  1 $a Cortesão $b Jaime $f 1884-1960 $4 730 $3 19278
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060705111739&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0009111 $l BMM $s SCG 821 MUN liv 1

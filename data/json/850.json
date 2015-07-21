@@ -1,0 +1,146 @@
+[{
+  "fields": [
+    [
+      "001",
+      "850"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00093027"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19620201d1962    a  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >grande sonho",
+      "f",
+      "Ataíde Guerra",
+      "g",
+      "il. de Maria Manuela Torres"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Estoril",
+      "c",
+      "Salesiana",
+      "d",
+      "[D.L. 1962]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "148 p., [1]",
+      "c",
+      "il.",
+      "d",
+      "17 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Leituras juvenis",
+      "v",
+      "15"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821.134.3",
+      "z",
+      "por"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "087.5",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Guerra",
+      "b",
+      "Ataíde"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Torres",
+      "b",
+      "Maria Manuela",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060627103451&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0003352",
+      "l",
+      "BMM",
+      "s",
+      "SJ 821.134.3 GUE gra 15"
+    ]
+  ]
+}]

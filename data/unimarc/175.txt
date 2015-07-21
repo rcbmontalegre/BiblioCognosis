@@ -1,0 +1,21 @@
+00759nam  2200241   450
+001   175
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+095    $a PTBN00382264
+100    $a 19920720d1975    km y0pory010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a <A >toupeira $f John Le Carré
+210    $a Amadora $c Bertrand $d 1975
+215    $a 381 p. $d 20 cm
+608    $a Policial $2 Autoridade $3 PT9999-00-10-2009040123590005518
+675    $a 821
+675    $a 82-312.4
+700  1 $a Le Carré $b John $c pseud.
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060509172735&ext=jpg $z CAPA
+909 	  $a 3
+966    $a 0008216 $l BMM $s SCG 821 CAR tou
+966    $a 0008217 $l BMM $s SCG 82-312.4 LeC tou
+966    $a 0018739 $l BMM $s SCG 821 LeC tou

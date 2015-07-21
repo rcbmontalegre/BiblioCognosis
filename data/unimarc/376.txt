@@ -1,0 +1,23 @@
+00815nam  2200265   450
+001   376
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-29-0036-6
+021    $a PT $b 32960/89
+095    $a PTBN00225219
+100    $a 20061013d1989    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a Ritos de passagem $f William Golding $g trad. Daniel Gonçalves
+210    $a Lisboa $c Difel $d imp. 1989
+215    $a 226 p. $d 23 cm
+225 2  $a Literatura estrangeira
+304    $a Tít. orig.: Rites of passage
+675    $a 821
+700  1 $a Golding $b William $f 1911-1993
+702  1 $a Gonçalves $b Daniel $f 1921- $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060512114405&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008559 $l BMM $s SCG 821 GOL rit

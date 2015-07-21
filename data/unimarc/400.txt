@@ -1,0 +1,21 @@
+00833nam  2200241   450
+001   400
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+095    $a PTBN00776631
+100    $a 20061013d1968    m  y0pory0103    ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a <A >condottiera $f Constantin Virgil Gheorghiu $g trad. Maria Carlota Guerra
+210    $a Lisboa $c Bertrand $d [D.L. 1968]
+215    $a 273 p., [1] f. $d 19 cm
+304    $a Tít. orig.: "La Condottiera"
+675    $a 821
+700  1 $a Gheorghiu $b Constantin Virgil $f 1916-1992
+702  1 $a Guerra $b Maria Carlota Álvares da $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060516114123&ext=jpg $z CAPA
+909 	  $a 3
+966    $a 0008858 $l BMM $s SCG 821 GHE con
+966    $a 0008857 $l BMM $s SCG 821 GHE con
+966    $a 0008562 $l BMM $s SCG 821 GHE con

@@ -1,0 +1,180 @@
+[{
+  "fields": [
+    [
+      "001",
+      "293"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-41-1198-9"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "159288/00"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20010517d2001    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "spa"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   001ay"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Como água para chocolate",
+      "e",
+      "romance de entregas mensais, com receitas, amores e remédios caseiros",
+      "f",
+      "Laura Esquivel",
+      "g",
+      "trad. Cristina Rodriguez, Elena Piatok de Mattos"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "20ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "Asa",
+      "d",
+      "2001"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "229, [2] p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Letras do mundo"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Como agua para chocolate"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821.134.2(72)-31\"19\"",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Esquivel",
+      "b",
+      "Laura",
+      "f",
+      "1950"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Rodrigues",
+      "b",
+      "Cristina",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Piatok de Mattos",
+      "b",
+      "Elena",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511120550&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "� ",
+      "a",
+      "0015355",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821.134.2(7/8) ESQ com"
+    ]
+  ]
+}]

@@ -1,0 +1,19 @@
+00677nam  2200217   450
+001   159
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+095    $a PTBN00277399
+100    $a 19641101d1964    m  y0pora010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a <A >peste $f Albert Camus
+210    $a Lisboa $c Livros do Brasil $d [D.L. 1964]
+215    $a 333, [2] p. $d 20 cm
+304    $a Tít. orig.: La peste
+675    $a 821 $v BN $z por
+700  1 $a Camus $b Albert $f 1913-1960
+702  1 $a Cardoso $b Ersílio $f 1911 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060509161021&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008311 $l BMM $s SCG 821 CAM pes

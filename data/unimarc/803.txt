@@ -1,0 +1,25 @@
+00900nam  2200289   450
+001   803
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-20-0710-6
+021    $a PT $b 28619/89
+100    $a 20061013d1989 m y0pory0103 ba
+101 1  $a por $c spa
+102    $a PT
+105    $a y z 000ay
+106    $a r
+200 1  $a <O >falador $f Mario Vargas Llosa $g tradução de António José Massano
+205    $a 1ª ed
+210    $a Lisboa $c Dom Quixote $d 1989
+215    $a 188 p. $d 24 cm
+225 2  $a Ficção universal $v 51
+304    $a Tít. orig. : El hablador
+606 1  $a Literatura peruana
+608    $a Romance
+675    $a 821.134.2(7/8) $v BN $z por
+700  1 $a Vargas Llosa $b Jorge Mario Pedro $f 1936-
+702  1 $a Massano $b António José $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060622150635&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008751 $l BMM $s SCG 821.134.2(7/8) VAR fal 51

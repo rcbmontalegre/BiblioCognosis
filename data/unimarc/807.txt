@@ -1,0 +1,24 @@
+00956nam  2200277   450
+001   807
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 32982/90
+095    $a PTBN00251571
+100    $a 19900509d1990    m  y0pory010305  ba
+101 1  $a por $c swe
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a <O >caminho da serpente $f Torgny Lindgren $g trad. Maria Carlos Loureiro, Marie-Louise Petersson
+210    $a Lisboa $c Quetzal $d 1990
+215    $a 132 p. $d 20 cm
+225 2  $a Graffiti
+304    $a Tít. orig. : Ormens Väg Pa Hälleberget
+325    $a Texto em braille. - Lisboa : BN, 1991. - 2 vol., integral ; 31 cm????
+675    $a 839.7-31"19" $v BN $z por
+700  1 $a Lindgren $b Torgny $f 1938-
+702  1 $a Loureiro $b Maria Carlos $4 730
+702  1 $a Petersson $b Marie-Louise $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060622154112&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0009005 $l BMM $s SCG 821 LIN cam

@@ -1,0 +1,140 @@
+[{
+  "fields": [
+    [
+      "001",
+      "753"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20111019d1984    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >texto do romance",
+      "e",
+      "estudo semiológico de uma estrutura discursiva transformacional",
+      "f",
+      "Julia Kristeva",
+      "g",
+      "trad.: Manuel Frias Martins"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "[Lisboa]",
+      "c",
+      "Horizonte",
+      "d",
+      "1984"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "231 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "0 ",
+      "a",
+      "Horizonte Universitário",
+      "v",
+      "38"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Le texte du roman. Approche sémiologique d'une structure discursive transformationnelle"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Crítica literária como género literário",
+      "2",
+      "Autoridade",
+      "3",
+      "PT9999-00-10-2009040123590005384"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "82.09"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Kristeva",
+      "b",
+      "Julia",
+      "f",
+      "1941-"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "��",
+      "u",
+      "locateMedia.asp?cod=20060620101724&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008705",
+      "l",
+      "BMM",
+      "s",
+      "SCG 82.09 KRI tex 38"
+    ]
+  ]
+}]

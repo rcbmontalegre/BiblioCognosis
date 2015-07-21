@@ -1,0 +1,138 @@
+[{
+  "fields": [
+    [
+      "001",
+      "720"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20070328d1974    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Fim de semana",
+      "f",
+      "Roger Vailland",
+      "g",
+      "trad. Gina de Freitas"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Livros do Brasil",
+      "d",
+      "[D.L. 1974]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "246, [2] p.",
+      "d",
+      "22 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Dois mundos",
+      "v",
+      "68"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: La fête"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Vailland",
+      "b",
+      "Roger",
+      "f",
+      "1907-1965"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Freitas",
+      "b",
+      "Gina de",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20070328114534&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009412",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 VAI fim 68"
+    ]
+  ]
+}]

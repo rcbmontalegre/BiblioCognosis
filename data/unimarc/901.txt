@@ -1,0 +1,24 @@
+00880nam  2200277   450
+001   901
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 10684/86
+095    $a PTBN00123709
+100    $a 19890302d1988    m  y0pory010305  ba
+101 1  $a por
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a Neve de Primavera $f Yukio Mishima $g trad. de Maria Nóvoa com a colab. de Naotoshi Kurosawa
+205    $a 2a ed
+210    $a Lisboa $c Presença $d 1988
+215    $a 327 p. $d 23 cm
+225 2  $a Novos continentes $v 13
+304    $a Tit. orig.: Haru no Yuki
+675    $a 895.6-31 Mishima, Yukio $v BN $z por
+700  1 $a Mishima $b Yukio $c pseud.
+702  1 $a Nóvoa $b Maria $4 730
+702  1 $a Kurosawa $b Naotoshi $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060629102113&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0009054 $l BMM $s SCG 821 MIS nev 13

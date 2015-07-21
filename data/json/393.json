@@ -1,0 +1,154 @@
+[{
+  "fields": [
+    [
+      "001",
+      "393"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00073659"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19950201d1982    cdey0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Histórias mágicas",
+      "f",
+      "Remy de Gourmont",
+      "g",
+      "introd. e trad. Aníbal Fernandes"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Estampa",
+      "d",
+      "1982"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "118 p.",
+      "d",
+      "19 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Livro B",
+      "v",
+      "42"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "bn",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Gourmont",
+      "b",
+      "Remy de",
+      "f",
+      "1858-1915"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Fernandes",
+      "b",
+      "Aníbal",
+      "f",
+      "1944-",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060516104120&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008669",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 GOU his 42"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "1002114",
+      "l",
+      "BEM",
+      "s",
+      "BEM 821 GOU"
+    ]
+  ]
+}]

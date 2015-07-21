@@ -1,0 +1,154 @@
+[{
+  "fields": [
+    [
+      "001",
+      "586"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-780-153-6"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "222425/05"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20060405d2005    m  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Usos e costumes do Barroso",
+      "f",
+      "António Fontes, Barroso da Fonte"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "2ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Âncora",
+      "d",
+      "2005"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "206 p., [12] p. il",
+      "d",
+      "23 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Raízes"
+    ],
+    [
+      "320",
+      "  ",
+      "a",
+      "Bibliografia, p. 203"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Fontes",
+      "b",
+      "António Lourenço",
+      "c",
+      "Padre",
+      "f",
+      "1940-",
+      "2",
+      "Autoridade",
+      "3",
+      "PT-----------2013022517220005655"
+    ],
+    [
+      "701",
+      " 1",
+      "a",
+      "Fonte",
+      "b",
+      "Barroso da",
+      "f",
+      "1939-",
+      "4",
+      "070"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060518165936&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0016087",
+      "l",
+      "BMM",
+      "s",
+      "SCG 39 FON uso"
+    ]
+  ]
+}]

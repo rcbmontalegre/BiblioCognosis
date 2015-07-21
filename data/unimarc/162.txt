@@ -1,0 +1,20 @@
+00783nam  2200229   450
+001   162
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00066259
+100    $a 20061013d1977    m  y0pora010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a <O >estrangeiro $e romance $f Albert Camus $g introd. de Jean Paul Sartre
+210    $a Lisboa $c Livros do Brasil $d [D.L. 1977]
+215    $a 225, [6] p. $d 20 cm
+225 2  $a Autores de sempre
+304    $a Tít. orig.: L'étranger
+675    $a 821 $v BN $z por
+700  1 $a Camus $b Albert $f 1913-1960
+702  1 $a Sartre $b Jean-Paul $f 1905-1980 $4 080
+702  1 $a Quadros $b António $f 1923-1993 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060509162148&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008312 $l BMM $s SCG 821 CAM est

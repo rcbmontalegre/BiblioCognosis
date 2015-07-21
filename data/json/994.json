@@ -1,0 +1,142 @@
+[{
+  "fields": [
+    [
+      "001",
+      "994"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19830401d1982    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >missão e outras peças",
+      "f",
+      "Heiner Muller",
+      "g",
+      "org., trad. e posf. de Anabela Mendes",
+      "g",
+      "José Castanheira"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Apáginastantas",
+      "d",
+      "1982"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "118 p.",
+      "c",
+      "il.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Teatro"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Müller",
+      "b",
+      "Heiner",
+      "f",
+      "1929-1995"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Mendes",
+      "b",
+      "Anabela",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Castanheira",
+      "b",
+      "José",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060705120718&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009179",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 MUL mis"
+    ]
+  ]
+}]

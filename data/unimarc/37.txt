@@ -1,0 +1,17 @@
+00672nam  2200193   450
+001   37
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 19940609f19501970km y0pory010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a Pierrette $f Honoré de Balzac $g trad. de Gomes da Silveira
+210    $a Lisboa $c Livros do Brasil $d [19--?]
+215    $a 184 p. $d 16 cm
+225 2  $a Miniatura $v 158
+675    $a 840-31 Balzac 7 Pierrette
+700  1 $a Balzac $b Honoré de $f 1799-1850
+702  1 $a Silveira $b C. Gomes da $f fl. 18 $4 730 $3 787722
+801  0 $a PT $b Biblioteca Municipal de montalegre $g RPC
+856    $u locateMedia.asp?cod=20060504153412&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008115 $l BMM $s SCG 821 BAL pie 158

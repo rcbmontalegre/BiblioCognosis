@@ -1,0 +1,21 @@
+00746nam  2200241   450
+001   817
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-29-0247-4
+021    $a PT $b 51130/91
+095    $a PTBN00364035
+100    $a 19920617d1991    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   001ay
+106    $a r
+200 1  $a Babbitt $f Sinclair Lewis $g trad. Daniel Gonçalves
+210    $a Lisboa $c Difel $d D.L. 1991
+215    $a 343 p. $d 24 cm
+675    $a 821.111(73)-311.3"19" $v BN $z por
+700  1 $a Lewis $b Sinclair $f 1885-1951
+702  1 $a Gonçalves $b Daniel $f 1921- $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060622164121&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0009006 $l BMM $s SCG 821 LEW bab

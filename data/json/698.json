@@ -1,0 +1,156 @@
+[{
+  "fields": [
+    [
+      "001",
+      "698"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00031696"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19870310d1986    a  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Para sonhar com borboletas azuis",
+      "e",
+      "histórias poéticas para crianças",
+      "f",
+      "José Vaz",
+      "g",
+      "il. Luísa Brandäo"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "Afrontamento",
+      "d",
+      "cop. 1986"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "76 p.",
+      "c",
+      "il.",
+      "d",
+      "23 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Tretas e letras",
+      "v",
+      "17"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "087.5",
+      "v",
+      "bn",
+      "z",
+      "por"
+    ],
+    [
+      "675",
+      "  ",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Vaz",
+      "b",
+      "José",
+      "f",
+      "1940-"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Brandão",
+      "b",
+      "Luísa",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060525154610&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0002084",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-1 VAZ par 17"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0002085",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-1 VAZ par 17"
+    ]
+  ]
+}]

@@ -1,0 +1,20 @@
+00779nam  2200229   450
+001   629
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 14513/87
+100    $a 20061013d1987----ac y0pora010305  ba
+101 0  $a por
+102    $a PT
+200 1  $a Ora ouve... $e histórias antiquíssimas $f adaptadas por Ilse Losa $g il. Manuela Bacelar
+210    $a Porto $c Asa $d imp. 1987
+215    $a 47 p. $c muito il. $d 21x21 cm
+225 2  $a Asa juvenil $v 35
+606    $a Literatura infantil
+675    $a 82-93 $v BN $z por
+700  1 $a Losa $b Ilse $f 1913-2006
+702  1 $a Bacelar $b Manuela $f 1943- $4 440
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060522164957&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0001507 $l BMM $s SI 82-93 LOS ora 35
+966    $a 0001506 $l BMM $s SI 82-93 LOS ora 35

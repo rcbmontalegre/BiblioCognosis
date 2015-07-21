@@ -1,0 +1,140 @@
+[{
+  "fields": [
+    [
+      "001",
+      "544"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1975    m  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "ger"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >metamorfose",
+      "f",
+      "Franz Kafka",
+      "g",
+      "trad. J. A. Teixeira Aguilar"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Europa-América",
+      "d",
+      "1975"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "115, [1] p.",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Livros de bolso Europa-América",
+      "v",
+      "114"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : Die verwandlung"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Kafka",
+      "b",
+      "Franz",
+      "f",
+      "1883-1924"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Aguilar",
+      "b",
+      "J. Teixeira de",
+      "f",
+      "1945-",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060518103328&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005442",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 KAF met 114"
+    ]
+  ]
+}]

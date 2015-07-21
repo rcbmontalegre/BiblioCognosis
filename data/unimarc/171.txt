@@ -1,0 +1,23 @@
+00830nam  2200265   450
+001   171
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-23-2825-5
+021    $a PT $b 171405/01
+100    $a 20061013d2001    m  y0pory0103    ba
+101 1  $a por $c ita
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a Aquele momento $f Andrea de Carlo $g trad. Maria Jorge V. Figueiredo
+205    $a 1ª ed
+210    $a Lisboa $c Presença $d 2001
+215    $a 181 p. $d 23 cm
+225 2  $a Grandes narrativas $v 154
+304    $a Tít. orig.: Nel momento
+675    $a 821
+700  1 $a De Carlo $b Andrea $f 1952 $3 81473
+702  1 $a Figueiredo $b Maria Jorge Vilar de $3 32264 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060509170432&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0015502 $l BMM $s SCG 821 DeC aqu 154

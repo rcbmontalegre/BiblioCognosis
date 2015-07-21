@@ -1,0 +1,166 @@
+[{
+  "fields": [
+    [
+      "001",
+      "387"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "1227/84"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00028073"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19940509d1984    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Moira",
+      "f",
+      "Julien Green",
+      "g",
+      "trad. António de Sousa",
+      "g",
+      "pref. Vitorino Nemésio"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "2ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "[Lisboa]",
+      "c",
+      "Ulisseia",
+      "d",
+      "[D.L. 1984]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "276 p.",
+      "d",
+      "22 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Clássicos do romance contemporâneo",
+      "v",
+      "5"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "bn",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Greene",
+      "b",
+      "Graham",
+      "f",
+      "1904-1991"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Sousa",
+      "b",
+      "António de",
+      "f",
+      "1898-1981",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Nemésio",
+      "b",
+      "Vitorino",
+      "f",
+      "1901-1978",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060516093716&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008456",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 GRE moi"
+    ]
+  ]
+}]

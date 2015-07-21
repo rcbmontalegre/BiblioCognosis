@@ -1,0 +1,19 @@
+00703nam  2200217   450
+001   731
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+095    $a PTBN00040006
+100    $a 20070518d1984    m  y0pora010305  ba
+101 0  $a por
+102    $a PT
+200 1  $a <O >corpo de Atena $f Rui Knopfli
+210    $a Lisboa $c Imprensa Nacional - Casa da Moeda $d imp. 1984
+215    $a 69, [11] p. $d 24 cm
+225 2  $a Biblioteca de autores portugueses
+675    $a 821 $v BN $z por
+700  1 $a Knopfli $b Rui $f 1932-1997
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060619115207&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0005751 $l BMM $s SCG 82-1 KNO cor
+966    $a 1002662 $l BEM $s BEM 82-1 KNO

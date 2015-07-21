@@ -1,0 +1,18 @@
+00682nam  2200205   450
+001   439
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a d--------k  y0pory0103    ba
+101 1  $a por
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a <O >meu vestido cor do céu $f Delly $g trad. de Tito Marcondes
+210    $a S. Paulo $c Companhia Editora Nacional $d imp. 1939
+215    $a 240, [1] p. $d 20 cm
+304    $a Tít. orig.: Ma robe couleur du temps
+675    $a 821.133.1-31"19" $v BN $z por $v BN $z por $3 704363
+700  0 $a Delly $c pseud
+702  1 $a Marcondes $b A. Tito $f 1902- $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0008367 $l BMM $s SCG 821 DEL meu 20

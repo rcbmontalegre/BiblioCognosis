@@ -1,0 +1,150 @@
+[{
+  "fields": [
+    [
+      "001",
+      "71"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "83949"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00031271"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1987    k  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "fre"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >inferno",
+      "f",
+      "René Belletto",
+      "g",
+      "trad. Miguel Joäo Carvalho de Moura"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Quetzal",
+      "d",
+      "1987"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "282 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Nova narrativa"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. L'enfer"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Belleto",
+      "b",
+      "René",
+      "f",
+      "1945"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Moura",
+      "b",
+      "Miguel João Carvalho",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060508141506&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008267",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 BEL inf"
+    ]
+  ]
+}]

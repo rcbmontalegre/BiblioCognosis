@@ -1,0 +1,176 @@
+[{
+  "fields": [
+    [
+      "001",
+      "28"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-41-1785-5"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "173554/01"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d2001    me y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   000yy"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Sem piedade",
+      "e",
+      "<a >luta de uma mulher contra a moderna escravatura",
+      "f",
+      "Mirian Ali",
+      "g",
+      "Jana Wain",
+      "g",
+      "trad. Mário Dias Correia"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "6ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "Asa",
+      "d",
+      "2001"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "270, [2] p., [8] p. il",
+      "c",
+      "il.",
+      "d",
+      "24 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Documentos"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Without mercy"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Ali",
+      "b",
+      "Miriam"
+    ],
+    [
+      "701",
+      " 1",
+      "a",
+      "Wain",
+      "b",
+      "Jana",
+      "4",
+      "070"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Correia",
+      "b",
+      "Mário Dias",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060504143319&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0015696",
+      "l",
+      "BMM",
+      "s",
+      "SCG 82-94 ALI sem"
+    ]
+  ]
+}]

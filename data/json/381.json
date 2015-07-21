@@ -1,0 +1,144 @@
+[{
+  "fields": [
+    [
+      "001",
+      "381"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00028022"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1983    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "ger"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Werther",
+      "f",
+      "Goethe",
+      "g",
+      "trad. João Teodoro Monteiro"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "13ª ed",
+      "b",
+      "rev. do alemão",
+      "f",
+      "porM. José Guimarães"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Guimarães Editores",
+      "d",
+      "imp. 1984"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "163 p.",
+      "d",
+      "19 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "<Os >livros imortais"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821"
+    ],
+    [
+      "700",
+      " 0",
+      "a",
+      "Goethe",
+      "b",
+      "Johann Wolfgang von",
+      "f",
+      "1749-1832"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Monteiro",
+      "b",
+      "João Teodoro",
+      "f",
+      "1857-1945",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060515152213&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009354",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 GOE wer"
+    ]
+  ]
+}]

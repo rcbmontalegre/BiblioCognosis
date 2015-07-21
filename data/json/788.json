@@ -1,0 +1,140 @@
+[{
+  "fields": [
+    [
+      "001",
+      "788"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-41-4489-5"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "232152/05"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20060526d2006----m y0pory0103 ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Gravidez",
+      "e",
+      "tudo o que deve saber sobre o ciclo do nascimento"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "1ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Lua de Papel",
+      "d",
+      "2006"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "144 p.",
+      "c",
+      "il.",
+      "d",
+      "16 cm"
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Saúde"
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Sexo feminino"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "613"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Smolen",
+      "b",
+      "Marguerite"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060622101040&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0016759",
+      "l",
+      "BMM",
+      "s",
+      "SJ 613 SMO gra"
+    ]
+  ]
+}]

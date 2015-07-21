@@ -1,0 +1,20 @@
+00724nam  2200229   450
+001   407
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 10668/85
+100    $a 20061013d1985    m  y0pory0103    ba
+101 1  $a por $c rus
+102    $a PT
+200 1  $a <A >mãe $f Máximo Gorki $g trad. de António Pescada
+210    $a Lisboa $c Caminho $d 1985
+215    $a 323 p. $d 21 cm
+225 2  $a <Uma >terra sem amos $v 31
+500 10 $a <A >mãe
+675    $a 821
+700  1 $a Gorki $b Máximo $c pseud. $f 1868-1936
+702  1 $a Pescada $b António $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060516123021&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0008680 $l BMM $s SCG 821 GOR mãe 31
+966    $a 0008557 $l BMM $s SCG 821 GOR mãe 31

@@ -1,0 +1,24 @@
+00848nam  2200277   450
+001   564
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 972-33-0773-1
+021    $a PT $b 41509/90
+095    $a PTBN00269716
+100    $a 19910327d1990    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a <A >herdeira $f Henry James $g trad. M. F. Gonçalves de Azevedo
+210    $a Lisboa $c Estampa $d D.L. 1990
+215    $a 240, [2] p. $d 21 cm
+225 2  $a Ficções $v 17
+304    $a Tít orig.: Washington Square
+675    $a 821 $v BN $z por
+700  1 $a James $b Henry $f 1843-1916
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060518120430&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0010881 $l BMM $s SCG 821 JAM her 17
+966    $a 0010880 $l BMM $s SCG 821 JAM her 17

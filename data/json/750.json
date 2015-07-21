@@ -1,0 +1,174 @@
+[{
+  "fields": [
+    [
+      "001",
+      "750"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-708-133-9",
+      "z",
+      "708-133-9"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "14144"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19920310d1992    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "a   z   000ay"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >maravilhosa viagem de Nils Holgersson através da Suécia",
+      "f",
+      "Selma Lagerlöf",
+      "g",
+      "trad.: Maria de Castro Henriques Osswald"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Relógio d'Água",
+      "d",
+      "[D.L. 1992]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "399, [2] p.",
+      "c",
+      "il.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Universos mágicos"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : Nils Holgerssons underbaira resa genon Sverige"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Narrativas de viagens",
+      "2",
+      "Autoridade",
+      "3",
+      "PT9999-00-10-2009040123590005491"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "82-992",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Lagerlöf",
+      "b",
+      "Selma",
+      "f",
+      "1858-1940"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Osswald",
+      "b",
+      "Maria Henriques",
+      "f",
+      "1893-1988",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060620093406&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008987",
+      "l",
+      "BMM",
+      "s",
+      "SCG 82-992 LAG mar"
+    ]
+  ]
+}]

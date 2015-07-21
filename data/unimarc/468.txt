@@ -1,0 +1,18 @@
+00691nam  2200205   450
+001   468
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 19840501d1984    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a Monsenhor Quixote $f Graham Greene $g trad. Ana Maria Sampaio
+210    $a Mem Martins $c Europa-América $d [D.L. 1984]
+215    $a 195 p. $d 21 cm
+225 2  $a Século XX $v 218
+304    $a Tít. orig. Monsignor Quixote
+675    $a 821 $v BN $z por
+700  1 $a Greene $b Graham $f 1904-1991
+702  1 $a Sampaio $b Ana Maria $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060517142556&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008452 $l BMM $s SCG 821 GRE mon 218

@@ -1,0 +1,21 @@
+00799nam  2200241   450
+001   861
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+021    $a PT $b 19757/88
+095    $a PTBN00128864
+100    $a 20100222d1988    cdey0pora010305  ba
+101 0  $a por
+102    $a PT
+200 1  $a <O >vale da montanha mágica $f Graça Matos Sousa $g il. Adelaide Penha e Costa
+210    $a Lisboa $c Vega $d D.L. 1988
+215    $a 94 p., [6] f. il. $c il. $d 24 cm
+225 2  $a Grandes pequeninos $v 4
+675    $a 821.134.3 $v BN $z por
+675    $a 087.5 $v BN $z por
+700  1 $a Sousa $b Graça Matos $f 1944-
+702  1 $a Costa $b Adelaide Penha e $f 1947- $4 440
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060627111748&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0001120 $l BMM $s SJ 821.134.3 SOU val 4

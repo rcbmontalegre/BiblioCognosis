@@ -1,0 +1,18 @@
+00648nam  2200205   450
+001   129
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 84-408-0047-9
+035    $c MPEN002_c/11-11-2004/2053
+100    $a 20061013d1995    k  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a <O >monte dos vendavais $f Emily Bronté $g tradução de José Couto Nogueira
+210    $a Amadora $c Ediclube $d 1995
+215    $a 351 p. $d 19 cm
+225 2  $a Grandes Génios da Literatura Universal
+675    $a 821
+700  1 $a Brontë $b Emily $f 1818-1848
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0008962 $l BMM $s SCG 821 BRO mon

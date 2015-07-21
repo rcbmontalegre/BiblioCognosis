@@ -1,0 +1,166 @@
+[{
+  "fields": [
+    [
+      "001",
+      "986"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19930924d1952    km y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "ger"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >homem sem qualidades",
+      "f",
+      "Robert Musil",
+      "g",
+      "trad. de Mário Braga"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Livros do Brasil",
+      "d",
+      "cop. 1952"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "3 vols.",
+      "d",
+      "22 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Dois mundos",
+      "v",
+      "115"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tit. orig. : Der mann ohne eigenschaften"
+    ],
+    [
+      "327",
+      "0 ",
+      "a",
+      "Vol. 1 : 492 p. - Vol. 2 : 430 p."
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Musil",
+      "b",
+      "Robert",
+      "f",
+      "1880-1942"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060705103211&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060705103229&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060705103241&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "3"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009025",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 MUS hom 115 Vol.I"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009026",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 MUS hom 115-A Vol.II"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009027",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 MUS hom 115-B Vol.III"
+    ]
+  ]
+}]

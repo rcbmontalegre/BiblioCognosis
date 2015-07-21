@@ -1,0 +1,142 @@
+[{
+  "fields": [
+    [
+      "001",
+      "749"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19880816d1988    m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Amor no feno e outros contos",
+      "f",
+      "D. H. Lawrence",
+      "g",
+      "trad. Maria Teresa Guerreiro"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Assírio & Alvim",
+      "d",
+      "D.L. 1988"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "207 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "<O >imaginário",
+      "v",
+      "1"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : Love among the haystacks and other stories"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Lawrence",
+      "b",
+      "D. H.",
+      "f",
+      "1885-1930"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Guerreiro",
+      "b",
+      "Maria Teresa",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060620092937&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009066",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 LAW amo 1"
+    ]
+  ]
+}]

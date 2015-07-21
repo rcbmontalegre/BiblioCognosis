@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:bmm="http://dados.cm-montalegre.pt/def/" xmlns:owl="http://www.w3.org/2002/07/owl#">
+    <rdf:Description rdf:about="http://datos.bne.es/resource/XX1718747"><bmm:id>XX1718747</bmm:id></rdf:Description>
+    <rdf:Description rdf:about="http://datos.bne.es/resource/XX1718747"><rdf:type rdf:resource="http://iflastandards.info/ns/fr/frbr/frbrer/C1005"/></rdf:Description>
+    <rdf:Description rdf:about="http://datos.bne.es/resource/XX1718747"><owl:sameAs rdf:resource="http://dbpedia.org/resource/Miguel_de_Cervantes"/></rdf:Description>
+</rdf:RDF>

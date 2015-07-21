@@ -1,0 +1,158 @@
+[{
+  "fields": [
+    [
+      "001",
+      "337"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00431605"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1971    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >homem e o rio",
+      "f",
+      "William Faulkner",
+      "g",
+      "trad. Luís de Sousa Rebelo"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "1971"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "141, [3] p.",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Livros de bolso Europa-América"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : The old man"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Faulkner",
+      "b",
+      "William",
+      "f",
+      "1897-1962"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Rebelo",
+      "b",
+      "Luís de Sousa",
+      "f",
+      "1922-",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511154603&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005322",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 FAU hom 14"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "1003432",
+      "l",
+      "BEM",
+      "s",
+      "BEM 821.1/.8 FAU"
+    ]
+  ]
+}]

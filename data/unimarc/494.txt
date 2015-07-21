@@ -1,0 +1,20 @@
+00815nam  2200229   450
+001   494
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 19920720d1992    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   000yy
+106    $a r
+200 1  $a Na outra margem, entre as árvores $f Ernest Hemingway $g trad. João Palma-Ferreira
+210    $a Lisboa $c Livros do Brasil $d [D.L. 1992]
+215    $a 292, [3] p. $d 21 cm
+225 2  $a Dois mundos $v 64
+304    $a Tít. orig.: Across the river and into the trees
+675    $a 821.111(73)-311.3"19" $v BN $z por
+700  1 $a Hemingway $b Ernest $f 1899-1961
+702  1 $a Ferreira $b João Palma $f 1931-1989 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060517152453&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008620 $l BMM $s SCG 821 HEM out 64

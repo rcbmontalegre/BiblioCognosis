@@ -1,0 +1,19 @@
+00701nam  2200217   450
+001   1003
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 83918
+095    $a PTBN00107855
+100    $a 19871117d1987    m  y0pory010305  ba
+101 1  $a por $c ita
+102    $a PT
+200 1  $a Figura gigante $f Nico Orengo $g trad. Simonetta Neto
+210    $a Lisboa $c Quetzal $d 1987
+215    $a 101, [2] p. $d 29 cm
+300    $a Publ. com o apoio do Intituto Italiano di Cultura
+675    $a 821 $v BN $z por
+700  1 $a Orengo $b Nico $f 1944-
+702  1 $a Neto $b Simonetta $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060705165126&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0009298 $l BMM $s SCG 821 ORE fig

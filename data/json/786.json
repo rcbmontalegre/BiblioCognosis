@@ -1,0 +1,162 @@
+[{
+  "fields": [
+    [
+      "001",
+      "786"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-23-3410-7"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "230845/05"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d2005----a y0pory0103 ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<Uma >viagem inesperada",
+      "f",
+      "Lígia Dias e Elisabete Moreira"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "3ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Presença",
+      "d",
+      "2005"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "121 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "0 ",
+      "a",
+      "Morangos com açucar"
+    ],
+    [
+      "606",
+      "1 ",
+      "a",
+      "Literatura juvenil"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Prosa narrativa"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821.134.3"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "087.5"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Dias",
+      "b",
+      "Lígia"
+    ],
+    [
+      "701",
+      " 1",
+      "a",
+      "Moreira",
+      "b",
+      "Elisabete",
+      "4",
+      "070"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060622094012&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0016761",
+      "l",
+      "BMM",
+      "s",
+      "SJ 821.134.3 DIA via"
+    ]
+  ]
+}]

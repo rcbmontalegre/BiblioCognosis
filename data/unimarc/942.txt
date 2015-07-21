@@ -1,0 +1,19 @@
+00799nam  2200217   450
+001   942
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00079258
+100    $a 19850701d1985    m  y0pora0103    ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a Da terra à lua $e trajecto directo em 97 horas e 20 minutos $f Júlio Verne $g trad. Cascais Franco
+210    $a Mem Martins $c Europa-América $d [D.L. 1985]
+215    $a 178 p. $c il. $d 18 cm
+225 2  $a Livros de bolso Europa-América $v 423
+304    $a Tít. orig. : De la terre à la lune
+675    $a 087.5 $v bn $z por
+700  1 $a Verne $b Jules $f 1828-1905 $3 27932
+702  1 $a Franco $b Cascais $4 730 $3 26581
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060703100953&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0005577 $l BMM $s SJ 087.5 VER ter 423

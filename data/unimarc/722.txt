@@ -1,0 +1,20 @@
+00786nam  2200229   450
+001   722
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT
+095    $a PTBN00129770
+100    $a 20061013d1988    m  y0pora0103    ba
+101 1  $a por $c ita
+102    $a PT $b 21055/88
+200 1  $a <Um >homem $e romance $f Oriana Fallaci $g trad. J. Teixeira de Aguilar
+210    $a Mem Martins $c Europa-América $d D.L. 1988
+215    $a 450, [1] p. $d 18 cm
+225 2  $a Livros de bolso Europa-América $v 507
+304    $a Tít. orig. : Un uomo
+675    $a 821
+700  1 $a Fallaci $b Oriana $f 1930- $3 45641
+702  1 $a Aguilar $b J. Teixeira de $f 1945- $4 730 $3 2904
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060530160558&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0005323 $l BMM $s SCG 821 FAL hom 507

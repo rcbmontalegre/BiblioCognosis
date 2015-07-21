@@ -1,0 +1,22 @@
+00755nam  2200253   450
+001   626
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 35073/90
+095    $a PTBN00263207
+100    $a 20061013d1990    a  y0pory0103    ba
+101 0  $a por
+102    $a PT
+105    $a a   z   000fy
+106    $a r
+200 1  $a <A >flor azul $f escreveu Ilse Losa $g il. Lisa Couwenbergh
+205    $a 7ª ed
+210    $a Porto $c Asa $d 1990
+215    $a 56, [1] p. $c il. $d 21 cm
+225 2  $a Asa juvenil $v 17
+675    $a 82-93
+700  1 $a Losa $b Ilse $f 1913-2006 $3 26530
+702  1 $a Couwenbergh $b Lisa $4 440 $3 79326
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060522164213&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0000984 $l BMM $s SI 82-93 LOS flo 17

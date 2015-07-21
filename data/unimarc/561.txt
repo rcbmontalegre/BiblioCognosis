@@ -1,0 +1,19 @@
+00749nam  2200217   450
+001   561
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 8395
+095    $a PTBN00044396
+100    $a 19871117d1987    m  y0pory010305  ba
+101 1  $a por $c ger
+102    $a PT
+200 1  $a <Um >encontro perigoso $f Ernst Jünger $g trad. Ana Maria Carvalho $g rev. lit., notas e posf. Rafael Gomes Filipe
+210    $a Lisboa $c Difel $d [D.L. 1987]
+215    $a 142, [1] p. $d 23 cm
+675    $a 821 $v BN $z por
+700  1 $a Jünger $b Ernst $f 1895-1998
+702  1 $a Carvalho $b Ana Maria $4 730
+702  1 $a Filipe $b Rafael Gomes $4 080
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060518115415&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008691 $l BMM $s SCG 821 JUN enc

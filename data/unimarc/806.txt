@@ -1,0 +1,18 @@
+00749nam  2200205   450
+001   806
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 16310/87
+095    $a PTBN00109865
+100    $a 19880107d1987    m  y0pory0103    ba
+101 0  $a por
+102    $a PT
+200 1  $a <Os >pregos na erva $f Maria Gabriela Llansol, Augusto Joaquim
+210    $a Lisboa $c Rolim $d 1987
+215    $a 226, [2] p. $d 21 cm
+327 0  $a Contém tb."O limite fluido" : estudo de Augusto Joaquim sobre a obra da autora. - p. 179-219
+700  1 $a Llansol $b Maria Gabriela $f 1931- $3 79199
+701  1 $a Joaquim $b Augusto $4 070 $3 236105
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060622153229&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008931 $l BMM $s SCG 821 LLA pre

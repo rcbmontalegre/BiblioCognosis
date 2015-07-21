@@ -1,0 +1,23 @@
+00830nam  2200265   450
+001   260
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 40309/90
+100    $a 20061013d1990 a y0pory0103 ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a Adeus, Mickey Mouse $f Len Deighton $g tradução de Fernanda Pinto Rodrigues
+205    $a 1ª ed
+210    $a Lisboa $c Gradiva $d 1990
+215    $a 484 p. $d 21 cm
+225 2  $a Não incomode $v 29
+304    $a Tít. orig.: Goodbye Mickey Mouse
+500 10 $a Adeus Mickey Mouse
+606    $a Literatura inglesa
+608    $a Romance
+675    $a 821 $v BN $z por
+700  1 $a Deighton $b Len $f 1929
+702  1 $a Rodrigues $b Fernanda Pinto $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060510170403&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008742 $l BMM $s SCG 821 DEI ade 29

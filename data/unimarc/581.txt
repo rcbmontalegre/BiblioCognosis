@@ -1,0 +1,24 @@
+00969nam  2200277   450
+001   581
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 972-46-0697-X
+021    $a PT $b 87805/95
+100    $a 19950811d1995    m  y0pory010305  ba
+101 0  $a por
+102    $a PT
+200 0  $a Victor Branco $e escritor barrosão, vida e obra $f Bento da Cruz
+210    $a Lisboa $c Notícias $d 1995
+215    $a 297 p., [8] p. il $c il. $d 21 cm
+225 2  $a Obras de Bento da Cruz
+500 10 $a Vítor Branco
+675    $a 821.134.3
+700  1 $a Cruz $b Bento da $f 1925- $2 Autoridade $3 PT-----------2013051517190005737
+702  1 $a Branco $b Vítor $f 1863-1947
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060518155511&ext=jpg $z CAPA
+909 	  $a 4
+966    $a 0014835 $l BMM $s SCG 821.134.3(469.202) CRU vic
+966    $a 0014834 $l BMM $s SCG 821.134.3(469.202) CRU vic
+966    $a 1001781 $l BEM $s BEM 82-34 CRU
+966    $a 1103808 $l BEBB $s BEBB 821.134.3 CRU

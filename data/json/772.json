@@ -1,0 +1,152 @@
+[{
+  "fields": [
+    [
+      "001",
+      "772"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-41-3275-7"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "231091/05"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d2004 m y0pory0103 ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >viela da duquesa",
+      "f",
+      "Sveva Casati Modignani",
+      "g",
+      "tradução de Regina Valente"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "7ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "Asa",
+      "d",
+      "2005"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "523 p.",
+      "d",
+      "24 cm"
+    ],
+    [
+      "606",
+      "1 ",
+      "a",
+      "Literatura italiana"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Romance"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Modignani",
+      "b",
+      "Sveva Casati",
+      "c",
+      "pseud."
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Valente",
+      "b",
+      "Regina",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060621093647&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0016753",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 MOD vie"
+    ]
+  ]
+}]

@@ -1,0 +1,22 @@
+00874nam  2200253   450
+001   810
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 33363/89
+095    $a PTBN00259770
+100    $a 20061013d1989    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a <Os >diários de Jane Somers $e se os velhos pudessem... $f Doris Lessing $g trad. Fernanda Pinto Rodrigues
+210    $a Mem Martins $c Europa-América $d D.L. 1989
+215    $a 225, [7] p. $d 21 cm
+225 2  $a Século XX $v 315
+304    $a Tít. orig. : The diaries of Jane Somers: if the old could...
+675    $a 821 $z por
+700  1 $a Lessing $b Doris $f 1919-
+702  1 $a Rodrigues $b Fernanda Pinto $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060622160357&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008985 $l BMM $s SCG 821 LES dia 315

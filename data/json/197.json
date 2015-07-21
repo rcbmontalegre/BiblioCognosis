@@ -1,0 +1,140 @@
+[{
+  "fields": [
+    [
+      "001",
+      "197"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00825682"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19960814d1969    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Altiva cidadela",
+      "e",
+      "romance",
+      "f",
+      "Theresa Charles",
+      "g",
+      "trad. de Fernanda Pinto Rodrigues"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Minerva",
+      "d",
+      "1969"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "267 p.",
+      "d",
+      "19 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Minerva",
+      "i",
+      "Série Branca"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tit. orig.: Proud citadel"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Theresa",
+      "b",
+      "Charles"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Rodrigues",
+      "b",
+      "Fernanda Pinto",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009143",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 CHA alt"
+    ]
+  ]
+}]

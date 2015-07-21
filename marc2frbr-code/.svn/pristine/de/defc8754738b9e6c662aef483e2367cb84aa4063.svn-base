@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+<leader>00986 am a2200289 a 4500</leader>
+<controlfield tag="001">016130108</controlfield>
+<controlfield tag="003">Uk</controlfield>
+<controlfield tag="005">20120716170000.0</controlfield>
+<controlfield tag="007">ta</controlfield>
+<controlfield tag="008">120625s2012    enk           000 d eng d</controlfield>
+<datafield tag="015" ind1=" " ind2=" ">
+<subfield code="a">GBB271774</subfield>
+<subfield code="2">bnb</subfield>
+</datafield>
+<datafield tag="020" ind1=" " ind2=" ">
+<subfield code="a">9781408173312 (pbk.) :</subfield>
+<subfield code="c">£9.99</subfield>
+</datafield>
+<datafield tag="020" ind1=" " ind2=" ">
+<subfield code="a">140817331X (pbk.) :</subfield>
+<subfield code="c">£9.99</subfield>
+</datafield>
+<datafield tag="035" ind1=" " ind2=" ">
+<subfield code="a">(IeDuTC)b149442233</subfield>
+</datafield>
+<datafield tag="040" ind1=" " ind2=" ">
+<subfield code="a">UK-WkNB</subfield>
+<subfield code="b">eng</subfield>
+<subfield code="c">UK-WkNB</subfield>
+<subfield code="d">IeDuTC</subfield>
+</datafield>
+<datafield tag="041" ind1="1" ind2=" ">
+<subfield code="a">eng</subfield>
+<subfield code="h">nor</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">ukscp</subfield>
+</datafield>
+<datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Ibsen, Henrik,</subfield>
+<subfield code="d">1828-1906.</subfield>
+</datafield>
+<datafield tag="240" ind1="1" ind2="0">
+<subfield code="a">Dukkehjem.</subfield>
+<subfield code="l">English</subfield>
+</datafield>
+<datafield tag="245" ind1="1" ind2="2">
+<subfield code="a">A doll's house /</subfield>
+<subfield code="c">Henrik Ibsen ; an English language version by Simon Stephens.</subfield>
+</datafield>
+<datafield tag="246" ind1="3" ind2=" ">
+<subfield code="a">Doll's house :</subfield>
+<subfield code="b">an English language version</subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="a">London :</subfield>
+<subfield code="b">Methuen Drama,</subfield>
+<subfield code="c">2012.</subfield>
+</datafield>
+<datafield tag="300" ind1=" " ind2=" ">
+<subfield code="a">[18], 110 p. ;</subfield>
+<subfield code="c">20 cm.</subfield>
+</datafield>
+<datafield tag="500" ind1=" " ind2=" ">
+<subfield code="a">Includes programme, mainly cast biographies, for Young Vic production, opened on 29 June 2012 -- p. [3-18].</subfield>
+</datafield>
+<datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">Translated from the Norwegian.</subfield>
+</datafield>
+<datafield tag="700" ind1="1" ind2=" ">
+<subfield code="a">Stephens, Simon,</subfield>
+<subfield code="d">1971-</subfield>
+</datafield>
+<datafield tag="710" ind1="2" ind2=" ">
+<subfield code="a">Young Vic Theatre Company.</subfield>
+</datafield>
+</record>
+<record>
+<leader>00757aam a2200265 a 4500</leader>
+<controlfield tag="001">016059359</controlfield>
+<controlfield tag="003">Uk</controlfield>
+<controlfield tag="005">20121107153332.0</controlfield>
+<controlfield tag="008">120309s2012    enk           000 d eng d</controlfield>
+<datafield tag="015" ind1=" " ind2=" ">
+<subfield code="a">GBB251531</subfield>
+<subfield code="2">bnb</subfield>
+</datafield>
+<datafield tag="020" ind1=" " ind2=" ">
+<subfield code="a">9780571290383 (pbk.)</subfield>
+</datafield>
+<datafield tag="035" ind1=" " ind2=" ">
+<subfield code="a">(UkCU)5338361</subfield>
+</datafield>
+<datafield tag="038" ind1=" " ind2=" ">
+<subfield code="a">OCoLC</subfield>
+</datafield>
+<datafield tag="040" ind1=" " ind2=" ">
+<subfield code="a">CDX</subfield>
+<subfield code="b">eng</subfield>
+<subfield code="c">CDX</subfield>
+<subfield code="d">OCLCQ</subfield>
+<subfield code="d">NLE</subfield>
+<subfield code="d">UkCU</subfield>
+<subfield code="d">UkCU</subfield>
+<subfield code="d">Uk</subfield>
+</datafield>
+<datafield tag="041" ind1="1" ind2=" ">
+<subfield code="a">eng</subfield>
+<subfield code="h">nor</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">ukscp</subfield>
+</datafield>
+<datafield tag="050" ind1=" " ind2="4">
+<subfield code="a">PT8864.A31</subfield>
+</datafield>
+<datafield tag="082" ind1="0" ind2="4">
+<subfield code="a">839.8226</subfield>
+<subfield code="2">22</subfield>
+</datafield>
+<datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Ibsen, Henrik,</subfield>
+<subfield code="d">1828-1906.</subfield>
+</datafield>
+<datafield tag="240" ind1="1" ind2="0">
+<subfield code="a">Fruen fra havet.</subfield>
+<subfield code="l">English</subfield>
+</datafield>
+<datafield tag="245" ind1="1" ind2="4">
+<subfield code="a">The lady from the sea /</subfield>
+<subfield code="c">Henrik Ibsen ; a version by Stephen Unwin.</subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="a">London :</subfield>
+<subfield code="b">Faber and Faber,</subfield>
+<subfield code="c">2012.</subfield>
+</datafield>
+<datafield tag="300" ind1=" " ind2=" ">
+<subfield code="a">110 p. ;</subfield>
+<subfield code="c">20 cm.</subfield>
+</datafield>
+<datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">Translated from the Norwegian.</subfield>
+</datafield>
+<datafield tag="700" ind1="1" ind2=" ">
+<subfield code="a">Unwin, Stephen.</subfield>
+</datafield>
+</record>
+<record>
+<leader>00942pam a2200289 a 4500</leader>
+<controlfield tag="001">015567251</controlfield>
+<controlfield tag="003">Uk</controlfield>
+<controlfield tag="005">20110801160132.0</controlfield>
+<controlfield tag="008">100531s2010    enk           000 d eng d</controlfield>
+<datafield tag="015" ind1=" " ind2=" ">
+<subfield code="a">GBB068166</subfield>
+<subfield code="2">bnb</subfield>
+</datafield>
+<datafield tag="020" ind1=" " ind2=" ">
+<subfield code="a">9781848421066 (pbk.) :</subfield>
+<subfield code="c">£8.99</subfield>
+</datafield>
+<datafield tag="020" ind1=" " ind2=" ">
+<subfield code="a">1848421060 (pbk.) :</subfield>
+<subfield code="c">£8.99</subfield>
+</datafield>
+<datafield tag="035" ind1=" " ind2=" ">
+<subfield code="a">(UkOxU)UkOxUb17502950</subfield>
+</datafield>
+<datafield tag="040" ind1=" " ind2=" ">
+<subfield code="a">StDuBDS</subfield>
+<subfield code="b">eng</subfield>
+<subfield code="c">StDuBDS</subfield>
+<subfield code="d">UkOxU</subfield>
+<subfield code="d">Uk</subfield>
+</datafield>
+<datafield tag="041" ind1="1" ind2=" ">
+<subfield code="a">eng</subfield>
+<subfield code="h">nor</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">ukscp</subfield>
+</datafield>
+<datafield tag="082" ind1="0" ind2="4">
+<subfield code="a">822.914</subfield>
+<subfield code="2">22</subfield>
+</datafield>
+<datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Ibsen, Henrik,</subfield>
+<subfield code="d">1828-1906.</subfield>
+</datafield>
+<datafield tag="240" ind1="1" ind2="0">
+<subfield code="a">Bygmester Solness.</subfield>
+<subfield code="l">English</subfield>
+</datafield>
+<datafield tag="245" ind1="1" ind2="4">
+<subfield code="a">The master builder /</subfield>
+<subfield code="c">Henrik Ibsen ; in a new version by David Edgar from a literal translation by Desireé Kongerød McDougall.</subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="a">London :</subfield>
+<subfield code="b">Nick Hern,</subfield>
+<subfield code="c">2010.</subfield>
+</datafield>
+<datafield tag="300" ind1=" " ind2=" ">
+<subfield code="a">ix, 92 p. ;</subfield>
+<subfield code="c">20 cm.</subfield>
+</datafield>
+<datafield tag="500" ind1=" " ind2=" ">
+<subfield code="a">Translated from the Norwegian.</subfield>
+</datafield>
+<datafield tag="500" ind1=" " ind2=" ">
+<subfield code="a">Formerly CIP.</subfield>
+<subfield code="5">Uk</subfield>
+</datafield>
+<datafield tag="650" ind1=" " ind2="0">
+<subfield code="a">Architects</subfield>
+<subfield code="v">Drama.</subfield>
+</datafield>
+<datafield tag="700" ind1="1" ind2=" ">
+<subfield code="a">Edgar, David,</subfield>
+<subfield code="d">1948-</subfield>
+</datafield>
+<datafield tag="700" ind1="1" ind2=" ">
+<subfield code="a">Kongerød McDougall, Desireé.</subfield>
+</datafield>
+</record>
+
+</collection>

@@ -1,0 +1,154 @@
+[{
+  "fields": [
+    [
+      "001",
+      "268"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00286750"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1972    m  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Recordações da casa dos mortos",
+      "f",
+      "Fédor Mikhailovitch Dostoievsky",
+      "g",
+      "trad. Fernanda Pinto Rodrigues"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "1972"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "294, [2] p.",
+      "d",
+      "18 cm"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "bn",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 0",
+      "a",
+      "Dostoiévski",
+      "b",
+      "Fiódor",
+      "f",
+      "1821-1881",
+      "3",
+      "22755"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Rodrigues",
+      "b",
+      "Fernanda Pinto",
+      "4",
+      "730"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Jorge",
+      "b",
+      "Maria Elisa Pessoa",
+      "f",
+      "1925-",
+      "3",
+      "99212",
+      "4",
+      "550"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511092612&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005193",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DOS rec 39"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008123",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DOS rec 39"
+    ]
+  ]
+}]

@@ -1,0 +1,19 @@
+00764nam  2200217   450
+001   871
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00837887
+100    $a 19961016d1971    m  y0pory010305  ba
+101 1  $a por
+102 �� $a PT
+200 1  $a Sete pequenos pioneiros $f A. Rutgers van der Loeff $g trad. Maria Isabel Morna Braga $g Mário Braga
+210    $a Porto $c Civilização $d 1971
+215    $a 229 p. $d 19 cm
+225 2  $a Série juvenil civilização
+304    $a Tit. orig.: De Kinderkaravaan
+700  1 $a Van der Loeff $b A. Rutgers
+702  1 $a Braga $b Maria Isabel Morna $4 730
+702  1 $a Braga $b Mário $f 1921- $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060627143955&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0003283 $l BMM $s SJ 087.5 VAN set

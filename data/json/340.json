@@ -1,0 +1,174 @@
+[{
+  "fields": [
+    [
+      "001",
+      "340"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "21799/88"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00123551"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19890317d1988    em.y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   000ay"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >jantar do senador",
+      "f",
+      "Howard Fast",
+      "g",
+      "trad. Mafalda Ferrari"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "D.L. 1988"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "176, [4] p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Século XX",
+      "v",
+      "296"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tit. orig.: The dinner party"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "820(73)-31 Fast, Howard",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "3",
+      "302109"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Fast",
+      "b",
+      "Howard",
+      "f",
+      "1914",
+      "3",
+      "26524"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Ferrari",
+      "b",
+      "Mafalda",
+      "4",
+      "730",
+      "3",
+      "28421"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511155113&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008541",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 FAS jan 296"
+    ]
+  ]
+}]

@@ -1,0 +1,170 @@
+[{
+  "fields": [
+    [
+      "001",
+      "179"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-695-072-4"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "25815/89"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00202156"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1989    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   000fy"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Queres fazer o favor de te calares?",
+      "f",
+      "Raymond Carver",
+      "g",
+      "trad. Carlos Santos"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Teorema",
+      "d",
+      "imp. 1989"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "258 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Estórias",
+      "v",
+      "21"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: Will you please be quiet, please?"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Carver",
+      "b",
+      "Raymond",
+      "f",
+      "1938-1988"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Santos",
+      "b",
+      "Carlos dos",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060510093207&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008738",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 CAR que 21"
+    ]
+  ]
+}]

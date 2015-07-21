@@ -1,0 +1,19 @@
+00709nam  2200217   450
+001   656
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20061013d1990    a  y0pory0103    ba
+101 0  $a por
+102    $a PT
+200 1  $a Histórias do arco íris $f José Jorge Letria
+210    $a [S.l.] $c Horizonte $d 1983
+215    $a 30,[1] p. $c il. $d 23 cm
+225 0  $a Pássaro livre $v 40
+327 1  $a Livro premiado pela Associação Portuguesa de Escritores em 1981
+606    $a Literatura juvenil
+608    $a Conto
+675    $a 82-34
+700  1 $a Letria $b José Jorge $f 1951-
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060523101155&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0001660 $l BMM $s SI 82-34 LET his 40

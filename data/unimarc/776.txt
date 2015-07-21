@@ -1,0 +1,15 @@
+00522nam0 2200169   450
+001   776
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-25-1464-4
+021    $a PT $b 238440/06
+100    $a d--------k  y0pory0103    ba
+101 0  $a por
+102    $a FR
+200 1  $a e depois $f Musso, Guillaume $g trad. Neto, Fernando Palma
+215    $a 296p. $d 23cm
+675    $a 821 $v BN $z por
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060621103948&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0016748 $l BMM $s SCG 821 MUS dep

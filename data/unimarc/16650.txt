@@ -1,0 +1,24 @@
+01023nam  2200277   450
+001   16650
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 972-20-0464-6
+021    $a PT $b 12504/86
+100    $a 20140401d1986    k  y0pory0103    ba
+101 1  $a por
+102    $a PT
+200 1  $a Marlene D. $f Marlene Dietrich $g trad.: Filipa Rosa de Morais
+210    $a Lisboa $c Dom Quixote $d 1986
+215    $a 228 p. $c il. $d 23 cm
+225 2  $a Figuras $v 4
+532 10 $a Marlene Dietrich
+600  1 $a Dietrich $b Marlene $c pseud. $f 1901-1992 $2 Autoridade $3 PT-----------2014040116380006083
+606    $a Cinema $2 Autoridade $3 PT-----------2014040116240006082
+608    $a Biografias $2 Autoridade $3 PT9999-00-10-2009040123590005428
+675    $a 791.4
+675    $a 929 DIETRICH
+700  1 $a Dietrich $b Marlene $c pseud. $f 1901-1992 $2 Autoridade $3 PT-----------2014040116380006083
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.aspx?cod=20140401164122&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0013895 $l BMM $s SCG 929 DIETRICH

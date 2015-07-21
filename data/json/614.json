@@ -1,0 +1,136 @@
+[{
+  "fields": [
+    [
+      "001",
+      "614"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19960918d1992 a y0pory0103 ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "a z 000yy"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >Mosquito e o Senhor Pechincha",
+      "f",
+      "Ilse Losa",
+      "g",
+      "ilustração de Manuela Bacelar"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mafra",
+      "c",
+      "Horizonte",
+      "_",
+      "d1979]1979"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "37p.",
+      "c",
+      "il.",
+      "d",
+      "23 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Pássaro livre",
+      "v",
+      "19"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "82-34"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Losa",
+      "b",
+      "Ilse",
+      "f",
+      "1913-2006"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Bacelar",
+      "b",
+      "Manuela",
+      "f",
+      "1943-",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060522161125&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001059",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-93 LOS mos 19"
+    ]
+  ]
+}]

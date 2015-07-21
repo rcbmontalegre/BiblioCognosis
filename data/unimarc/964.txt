@@ -1,0 +1,18 @@
+00742nam  2200205   450
+001   964
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 19870501d1978    m  y0pora0103    ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a <A >condição humana $f André Malraux $g trad. Jorge de Sena
+210    $a Lisboa $c Livros do Brasil $d [D.L. 1978]
+215    $a 253, [3] p. $d 22 cm
+225 2  $a Dois mundos $v 40
+304    $a Tít. orig.: La condition humaine
+675    $a 840-31 Malraux, André $v BN $z por $3 310328
+700  1 $a Malraux $b André $f 1901-1976 $3 26505
+702  1 $a Sena $b Jorge de $f 1919-1978 $4 730 $3 20905
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060704094115&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0009110 $l BMM $s SCG 821 MAL con 40

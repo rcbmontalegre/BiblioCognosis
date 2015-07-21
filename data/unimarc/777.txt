@@ -1,0 +1,25 @@
+00890nam  2200289   450
+001   777
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-662-284-0
+021    $a PT $b 60.426/92
+095    $a PTBN00416257
+100    $a 20061013d1992    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a <O >falso inspector Dew $f Peter Lovesey $g trad. Rui Elias
+205    $a 1ª ed
+210    $a Lisboa $c Gradiva $d 1992
+215    $a 258 p. $d 21 cm
+225 2  $a Não incomode $v 35
+304    $a Tít. orig. : The false inspector Dew
+675    $a 82-312.4 $v BN $z por
+700  1 $a Lovesey $b Peter $f 1936-
+702  1 $a Elias $b Rui $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060621104452&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0009000 $l BMM $s SCG 82-312.4 LOV fal 35
+966    $a 0009001 $l BMM $s SCG 82-312.4 LOV fal 35

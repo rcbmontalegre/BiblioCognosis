@@ -1,0 +1,19 @@
+00839nam  2200217   450
+001   258
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00011674
+100    $a 20061013d1980    m  y0pora0103    ba
+101 1  $a por $c ger
+102    $a PT
+200 1  $a Lendas e aventuras heróicas, jocosas e gloriosas de Thyl Ulenspiegel e de Lamme Goedzac no país da Flandres e noutros lugares $f Charles de Coster $g trad. Daniel Augusto Gonçalves
+210    $a Porto $c Civilização $d imp. 1980
+215    $a 517 p. $d 23 cm
+225 2  $a <Os >clássicos belgas
+304    $a Tít. orig.: Thyl Ulenspiegel
+675    $a 821
+700  1 $a Coster $b Charles de $f 1827-1879
+702  1 $a Gonçalves $b Daniel $f 1921- $3 34991 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060510162857&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008207 $l BMM $s SCG 821 COS len

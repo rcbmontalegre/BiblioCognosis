@@ -1,0 +1,17 @@
+00639nam  2200193   450
+001   989
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20060426d1979    m  y0pora0103    ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a <Um >"Robin dos Bosques" $f Viscondessa de Pitray $g trad. Salomé de Almeida
+210    $a Lisboa $c Casa do Livro $d imp. 1979
+215    $a 158, [1] p. $d 18 cm
+225 2  $a Azul $v 36
+675    $a 087.5
+700  1 $a Pitray $c Viscondessa
+702  1 $a Almeida $b Salomé de $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20070426150731&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0002101 $l BMM $s SJ 087.5 PIT rob 36

@@ -1,0 +1,24 @@
+00875nam  2200277   450
+001   979
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-695-074-0
+021    $a PT $b 27819/89
+095    $a PTBN00202164
+100    $a 20061013d1989    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a Transparências $f Vladimir Nabokov $g trad. Margarida Santiago
+210    $a Lisboa $c Teorema $d imp. 1989
+215    $a 129 p. $d 21 cm
+225 2  $a Estórias $v 22
+304    $a Tít. orig. : Transparent things
+675    $a 821 $v BN $z por
+700  1 $a Nabokov $b Vladimir Vladimirovich $f 1899-1977
+702  1 $a Santiago $b Margarida $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060705093157&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0008913 $l BMM $s SCG 821 NAB tra
+966    $a 0008914 $l BMM $s SCG 821 NAB tra

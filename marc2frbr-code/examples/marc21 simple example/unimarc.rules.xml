@@ -1,0 +1,148 @@
+<templates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:noNamespaceSchemaLocation="../../xsd/frbrizer.xsd">
+   
+   <!-- keyfilter is used to remove punctuation etc. from the values that are used in the keystring -->
+   <keyfilter>replace(lower-case(string-join($key, '\')), '[^a-z0-9\\#|¤§]', '')</keyfilter>
+
+   <!--
+           <datafield tag="700" ind1=" " ind2="1">
+            <subfield code="a">Austen</subfield>
+            <subfield code="b">Jane</subfield>
+            <subfield code="f">1775-1817</subfield>
+        </datafield>
+   -->
+
+   <entity type="http://iflastandards.info/ns/fr/frbr/frbrer/C1005" label="Person" templatename="UNIMARC-700-Person">
+      <note>Criador gerado a partir da informação do campo 700</note>
+      <anchor tag="700"/>
+      <attributes>
+         <datafield tag="700">
+            <subfield code="b" type="http://iflastandards.info/ns/fr/frbr/frbrer/P3039" label="has name of person"/>
+            <subfield code="a" type="http://iflastandards.info/ns/fr/frbr/frbrer/P3039" label="has name of person"/>
+            <subfield code="f" type="http://iflastandards.info/ns/fr/frbr/frbrer/P3040" label="has dates of person"/>
+            <!-- <subfield code="e"/> -->
+         </datafield>
+      </attributes>
+      <!-- relacionamento entre person e work -->
+      <relationships>
+         <relationship type="http://iflastandards.info/ns/fr/frbr/frbrer/P2010" itype="http://iflastandards.info/ns/fr/frbr/frbrer/P2009">
+            <target entity="UNIMARC-200-Work"/>
+         </relationship>
+      </relationships>
+      <label select="string-join( (*:datafield[@tag='700']/*:subfield[@code = 'b'], *:datafield[@tag='700']/*:subfield[@code = 'a']), ' ' )"/>
+      <!-- gerar uma chave para única para Person: nome próprio x apelido x data -->
+      <key order="1">
+         <element>*:datafield[@tag = '700'][1]/*:subfield[@code = 'b'][1]</element>
+         <element>*:datafield[@tag = '700'][1]/*:subfield[@code = 'a'][1]</element>
+         <element>*:datafield[@tag = '700'][1]/*:subfield[@code = 'f'][1]</element>
+      </key>
+   </entity>
+
+   <entity type="http://iflastandards.info/ns/fr/frbr/frbrer/C1001" label="Work" templatename="UNIMARC-200-Work">
+      <note>Work identified by title in 200</note>
+      <anchor tag="200"/>
+      <attributes>
+         <!-- o título da obra está no 200 (se o original for em Português) ou no 304 (se for uma obra traduzida) -->
+         <datafield tag="200">
+            <subfield code="a" type="http://iflastandards.info/ns/fr/frbr/frbrer/P3001" label="has title of the work"/>
+         </datafield>
+         <datafield tag="304">
+            <subfield code="a" type="http://iflastandards.info/ns/fr/frbr/frbrer/P3001" label="has title of the work"/>
+         </datafield>
+         <datafield tag="210">
+            <subfield code="d" type="http://iflastandards.info/ns/fr/frbr/frbrer/P3003" label="has date of work"/>
+         </datafield>
+      </attributes>
+      <label select="*:datafield[@tag='240']/*:subfield[@code = 'a']"/>
+      <!-- Gerar uma chave única para Obra: criador x título x data -->
+      <key order="2">
+         <element>local:sort-relationships(*:relationship[ends-with(@*:type, 'P2009')])[1]/@*:href</element>
+         <element>*:datafield[@tag = '200']/*:subfield[@code = 'a'][1]</element> <!-- título -->
+         <element>*:datafield[@tag = '210']/*:subfield[@code = 'd'][1]</element> <!-- data -->
+      </key>
+      <relationships>
+         <relationship type="http://iflastandards.info/ns/fr/frbr/frbrer/P2001" label="is realized through" itype="http://iflastandards.info/ns/fr/frbr/frbrer/P2002" ilabel="is realization of">
+            <target entity="UNIMARC-240-Expression" same-field="true"/>
+         </relationship>
+      </relationships>
+   </entity>
+
+   <!-- Expressões
+      http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=587
+      http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=1172
+   -->
+
+   <entity type="http://iflastandards.info/ns/fr/frbr/frbrer/C1002" label="Expression" templatename="UNIMARC-240-Expression" subtype="{($anchor_field/*:subfield[@code='h'], $record/*:datafield[@tag='336']/*:subfield[@code = 'a'])[1]}">
+      <note>Expression for the work identified in 240</note>
+      <anchor tag="200" condition="@ind1 = '1'"/>
+      <attributes>
+         <!-- <controlfield tag="008"/> São tudo livros, na BMM -->
+         <datafield tag="200">
+            <subfield code="a" type="http://iflastandards.info/ns/fr/frbr/frbrer/P3008"/>
+            <subfield code="d" type="http://iflastandards.info/ns/fr/frbr/frbrer/P3008"/>
+         </datafield>
+         <datafield tag="205"> <!-- Edição -->
+            <subfield code="a" type="http://iflastandards.info/ns/fr/frbr/frbrer/P3058"/>
+         </datafield>
+      </attributes>
+      <label select="string-join((*:datafield/*:subfield[ends-with(@*:type, 'P3009')][1], *:datafield/*:subfield[ends-with(@*:type, 'P3011')][1], *:datafield/*:subfield[ends-with(@*:type, 'P3008')]), ' / ')"/>
+      <!-- chave para uma Expression: obra x edicao -->
+
+      <key order="3">
+         <element>*:relationship[ends-with(@*:type, 'P2002')][1]/@*:href</element>
+         <element>*:datafield[@tag = '205']/*:subfield[@code='a']</element>
+      </key>
+
+      <relationships>
+         <relationship type="http://iflastandards.info/ns/fr/frbr/frbrer/P2003" itype="http://iflastandards.info/ns/fr/frbr/frbrer/P2004">
+            <target entity="UNIMARC-001-Manifestation"/>
+         </relationship>
+      </relationships>
+
+   </entity>
+
+   <!--
+   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=2772
+   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=14242
+   -->
+
+   <entity type="http://iflastandards.info/ns/fr/frbr/frbrer/C1003" label="Manifestation" templatename="UNIMARC-001-Manifestation">
+      <note>Manifestation</note>
+      <anchor tag="001"/>
+      <attributes>
+         <controlfield tag="003"/> <!-- Nº interno de registo substring-after("http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&amp;RegNo=16662","RegNo=") -->
+         <datafield tag="010"> <!-- ISBN -->
+            <subfield code="a" />
+         </datafield>
+         <datafield tag="021"> <!-- Depósito legal -->
+            <subfield code="a"/>
+            <subfield code="b"/>
+         </datafield>
+         <datafield tag="200"> <!-- Título -->
+            <subfield code="a"/>
+         </datafield>
+         <datafield tag="205"> <!-- Sobre a edição, p. ex "2a ed" -->
+            <subfield code="a"/>
+         </datafield>
+         <datafield tag="210"> <!-- Editora -->
+            <subfield code="a"/>
+            <subfield code="c"/>
+            <subfield code="d"/>
+         </datafield>
+         <datafield tag="215"> <!-- características físicas -->
+            <subfield code="a"/>
+            <subfield code="d"/>
+         </datafield>
+         <datafield tag="225"> <!-- séries -->
+            <subfield code="a"/>
+            <subfield code="v"/>
+         </datafield>
+      </attributes>
+      <label select="string-join(*:datafield[@tag = '245']/*:subfield[@code = ('a', 'b', 'c')], ' / ')"/>
+      <key order="1">
+         <element>if (*:datafield[@tag="010"][1]/*:subfield[@code='a'][1]) then *:datafield[@tag="010"][1]/*:subfield[@code='a'][1] else *:controlfield[@tag='001']</element>
+      </key>
+      <relationships/>
+   </entity>
+
+</templates>

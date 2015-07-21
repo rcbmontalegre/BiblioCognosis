@@ -1,0 +1,22 @@
+00805nam  2200253   450
+001   769
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-41-4577-8
+021    $a PT $b 240601/06
+100    $a 20061013d2006----m y0pory0103 ba
+101 0  $a por $c ita
+102    $a PT
+200 1  $a <Uma >chuva de diamantes $f Sveva Casati Modignani $g tradução de Regina Valente
+205    $a 2ª ed
+210    $a Porto $c Asa $d 2006
+215    $a 373, [10] p. $d 24 cm
+304    $a Tít. orig.: E infine una pioggia di diamanti
+606    $a Literatura italiana
+608    $a Romance
+675    $a 821
+700  1 $a Modignani $b Sveva Casati $c pseud.
+702  1 $a Valente $b Regina $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060621090332&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0016756 $l BMM $s SCG 821 MOD chu

@@ -1,0 +1,140 @@
+[{
+  "fields": [
+    [
+      "001",
+      "795"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00305058"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19750701d1975    m  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "spa"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Pantaleão e as visitadoras",
+      "f",
+      "Mário Vargas Llosa",
+      "g",
+      "trad. José Teixeira de Aguilar"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Europa-América",
+      "d",
+      "1975"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "224 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Século XX",
+      "v",
+      "131"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821.134.2(7/8)"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Vargas Llosa",
+      "b",
+      "Jorge Mario Pedro",
+      "f",
+      "1936-",
+      "3",
+      "51635"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Aguilar",
+      "b",
+      "J. Teixeira de",
+      "f",
+      "1945-",
+      "4",
+      "730",
+      "3",
+      "2904"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060622115648&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008993",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821.134.2(7/8) VAR pan 131"
+    ]
+  ]
+}]

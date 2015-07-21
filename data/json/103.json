@@ -1,0 +1,124 @@
+[{
+  "fields": [
+    [
+      "001",
+      "103"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "035",
+      "  ",
+      "a",
+      "cmpen002_f/16-02-2005/88"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19990310f19601990a  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >filho de Ben Hur",
+      "f",
+      "Roger Bourgeon",
+      "g",
+      "tradução de Mário Domingues"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "3ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Romano Torres",
+      "d",
+      "[196-?]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "442p.",
+      "d",
+      "21cm"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "82-311.3",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 0",
+      "a",
+      "Bourgeon",
+      "b",
+      "Roger"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060509090008&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008590",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 BOU fil"
+    ]
+  ]
+}]

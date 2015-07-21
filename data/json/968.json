@@ -1,0 +1,146 @@
+[{
+  "fields": [
+    [
+      "001",
+      "968"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19941218d1984    m  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Numa pensão alemã",
+      "f",
+      "Katherine Mansfield",
+      "g",
+      "trad. Ana Maria de Almeida Martins"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Difel",
+      "d",
+      "D.L. 1984"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "126 p.",
+      "d",
+      "23 cm"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig.: In a German pension"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821.111(931)-32\"19\"",
+      "3",
+      "997295"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "820-32 Mansfield, K.",
+      "v",
+      "med",
+      "z",
+      "por",
+      "3",
+      "295989"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Mansfield",
+      "b",
+      "Katherine",
+      "f",
+      "1888-1923",
+      "3",
+      "42375"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Martins",
+      "b",
+      "Ana Maria Almeida",
+      "f",
+      "1943-",
+      "4",
+      "730",
+      "3",
+      "69570"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060704105845&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0009178",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 MAN num"
+    ]
+  ]
+}]

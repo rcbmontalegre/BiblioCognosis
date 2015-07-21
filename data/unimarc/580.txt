@@ -1,0 +1,24 @@
+01101nam  2200277   450
+001   580
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+021    $a PT $b 196777/03
+100    $a 20070518d2003    m  y0pory010305  ba
+101 0  $a por
+102    $a PT
+200 1  $a Guerrilheiros Antifranquistas Em Trás-os-montes $f Bento da Cruz
+210    $a Gondomar $c Barrosana EM $d 2003
+215    $a 260, [2] p. $d 24cm $e mapa das aldeias de acolhimento dos guerrilheiros
+675    $a 821.134.3(469.202)-94
+675    $a 008(469.202)
+700  1 $a Cruz $b Bento da $f 1925- $2 Autoridade $3 PT-----------2013051517190005737
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060519105051&ext=jpg $z CAPA
+909 	  $a 7
+966    $a 0015882 $l BMM $s SCG 821.134.3(469.202) CRU gue
+966    $a 0015721 $l BMM $s SCG 008(469.202) CRU gue
+966    $a 0016564 $l BMM-PS $s PS 821.134.3(469.202) CRU gue
+966    $a 0017188 $l BMM-PS $s PS 008(469.202) CRU gue
+966    $a 1001779 $l BEM $s BEM 821.134.3 CRU
+966    $a 1103800 $l BEBB $s BEBB 821.134.3 CRU
+966    $a 0019947 $l BMM $s SCG 821.134.3(469.202)-94 CRU gue

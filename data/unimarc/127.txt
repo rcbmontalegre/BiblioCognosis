@@ -1,0 +1,30 @@
+01317nam  2200349   450
+001   127
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+021    $a PT $b 22323/88
+021    $a PT $b 25438/89
+021    $a PT $b 28.297/89
+095    $a PTBN00129905
+100    $a 20061013g1988    m  y0pora010305  ba
+101 1  $a por $c ger
+102    $a PT
+105    $a y   z   001ay
+106    $a r
+200 1  $a <Os >sonâmbulos $f Hermann Broch $g trad. António Ferreira Marques, Jorge Camacho
+210    $a Lisboa $c Edições 70 $d D.L. 1988-1989
+215    $a 3 v $d 24 cm
+225 2  $a Caligrafias $v 7, 11, 13
+327 1  $a 1. v. : Pasenow ou o romantismo. - 167, [1] p $a 2. v. : Esch ou a anarquia. - 215, [1] p $a 3. v. : Huguenau ou o realismo. - 310 p
+675    $a 821 $v BN $z por
+700  1 $a Broch $b Hermann $f 1886-1951
+702  1 $a Marques $b António Ferreira $4 730
+702  1 $a Camacho $b Jorge $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060509113803&ext=jpg $z CAPA
+856    $u locateMedia.asp?cod=20060509113830&ext=jpg $z CAPA
+856    $u locateMedia.asp?cod=20060509113847&ext=jpg $z CAPA
+909 	  $a 3
+966    $a 0008307 $d 1º vol. $l BMM $s SCG 821 BRO son 7 Vol.I
+966    $a 0008400 $d 2º vol. $l BMM $s SCG 821 BRO son 11 Vol.II
+966    $a 0008867 $d 3º vol. $l BMM $s SCG 821 BRO son 13 Vol.III

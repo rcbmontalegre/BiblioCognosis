@@ -1,0 +1,18 @@
+00716nam  2200205   450
+001   290
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00015412
+100    $a 19861101d1986    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a Contos do sobrenatural $f trad. de Maria Teresa Pinto Pereira
+210    $a Mem Martins $c Europa-América $d D.L. 1986
+215    $a 173 p. $d 18 cm
+225 2  $a Livros de bolso $i Série pêndulo $v 30
+304    $a Tít. orig. Great tales of the supernatural
+675    $a 821 $v BN $z por
+702  1 $a Pereira $b Teresa Pinto $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060511110612&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0005503 $l BMM $s SCG 82-34 POE con 30

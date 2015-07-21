@@ -1,0 +1,22 @@
+00783nam  2200253   450
+001   98
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+021    $a PT $b 10714
+095    $a PTBN00031811
+100    $a 19870313d1987    k  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a Duas senhoras bem comportadas $f Jane Bowles $g trad. Maria Nóvoa
+205    $a 1ª ed
+210    $a Lisboa $c Presença $d 1987
+215    $a 174 p. $d 23 cm
+225 2  $a Novos continentes $v 17)
+304    $a Tít. orig. Two serious ladies
+675    $a 821 $v BN $z por
+700  1 $a Bowles $b Jane $f 1917-1973
+702  1 $a Nóvoa $b Maria $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060508171911&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008513 $l BMM $s SCG 821 BOW dua 17

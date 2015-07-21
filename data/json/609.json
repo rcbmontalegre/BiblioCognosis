@@ -1,0 +1,194 @@
+[{
+  "fields": [
+    [
+      "001",
+      "609"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-0-64211-4"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "190184/03"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20030709d2003    e  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "i"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Matemática",
+      "b",
+      "CD-ROM",
+      "e",
+      "11\" ano",
+      "f",
+      "Maria Augusta Ferreira Neves, Conceição Valente, Mário Ferreira",
+      "g",
+      "[ed.] Porto Editora Multimédia"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "[2ª ed.]"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Porto",
+      "c",
+      "P.E.M.",
+      "d",
+      "[D.L. 2003]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "1CD-ROM",
+      "d",
+      "24 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Multimédia educativo"
+    ],
+    [
+      "230",
+      "  ",
+      "a",
+      "Dados"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. retirado da etiqueta"
+    ],
+    [
+      "337",
+      "  ",
+      "a",
+      "Requisitos do sistema : Processador Pentium 166 MHz ; 32 MB de memória RAM ; Windows 98, 2000, Me, XP ; leitor de CD-ROM 4x ; 40 MB de espaço livre no disco rígido ; placa de som 16 bit ; placa gráfica SVGA (milhares de cores a 800x600)."
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "51(075)(0.034)",
+      "3",
+      "803949"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "373.5(469)",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "3",
+      "603947"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Neves",
+      "b",
+      "M. Augusta Ferreira",
+      "f",
+      "1950-",
+      "3",
+      "27214"
+    ],
+    [
+      "701",
+      " 1",
+      "a",
+      "Valente",
+      "b",
+      "Conceição",
+      "4",
+      "070",
+      "3",
+      "219216"
+    ],
+    [
+      "701",
+      " 1",
+      "9",
+      "4",
+      "a",
+      "Ferreira",
+      "b",
+      "Mário",
+      "4",
+      "070",
+      "3",
+      "919599"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060522155817&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "0"
+    ]
+  ]
+}]

@@ -1,0 +1,19 @@
+00705nam  2200217   450
+001   342
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20061013d1988----k  y0pory0103    ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a Este lado do paraíso $f F. Scott Fitzgerald $g trad. Alfredo Amorim
+205    $a 1ª ed
+210    $a Lisboa $c Relógio d'Água $d 1988
+215    $a 368 p. $d 21 cm
+225 2  $a Ficções
+304    $a Tít. orig. : This side of paradise
+675    $a 821 $v BN $z por
+700  1 $a Fitzgerald $b F. Scott $f 1896-1940
+702  1 $a Amorim $b Alfredo $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060511155814&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008472 $l BMM $s SCG 821 FIT est

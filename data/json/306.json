@@ -1,0 +1,206 @@
+[{
+  "fields": [
+    [
+      "001",
+      "306"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "010",
+      "  ",
+      "a",
+      "972-23-1020-8"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "26058/89"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00127226"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19890615d1989    m  y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "ger"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "105",
+      "  ",
+      "a",
+      "y   z   000ay"
+    ],
+    [
+      "106",
+      "  ",
+      "a",
+      "r"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<A >missão ou da observação do observador dos observadores",
+      "e",
+      "novela em vinte e quatro parágrafos",
+      "f",
+      "Friedrich Dürrenmatt",
+      "g",
+      "trad. Fernando Ribeiro"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "1a ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Presença",
+      "d",
+      "1989"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "110 p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Aura",
+      "v",
+      "15"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : Der Auftrage oder vom Beobachten des Beobachters der Beobachter"
+    ],
+    [
+      "325",
+      "  ",
+      "a",
+      "Registo sonoro. Lido por Helena Falé. - Lisboa : BN, 1995. - 2 cassetes 90 min. (2 h. 15 min.)"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "830(494)-31",
+      "v",
+      "BN",
+      "z",
+      "por",
+      "3",
+      "1094478"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Dürrenmatt",
+      "b",
+      "Friedrich",
+      "f",
+      "1921-1990",
+      "3",
+      "39588"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Falé",
+      "b",
+      "Helena",
+      "f",
+      "1946",
+      "4",
+      "550",
+      "3",
+      "279227"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Ribeiro",
+      "b",
+      "Fernando",
+      "f",
+      "1956",
+      "4",
+      "730",
+      "3",
+      "48676"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511140833&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008506",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DUR mis 15"
+    ]
+  ]
+}]

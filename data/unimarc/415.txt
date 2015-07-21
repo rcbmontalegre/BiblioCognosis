@@ -1,0 +1,17 @@
+00578nam  2200193   450
+001   415
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00068571
+100    $a 19921001d1934    m  y0pora010305  ba
+101 1  $a por
+102 �� $a PT
+200 1  $a Por trás da máscara $f M. Delly $g trad. de Aurora Jardim Aranha
+205    $a 3ª ed
+210    $a Porto $c Liv. Escolar Progredior $d 1934
+215    $a 1 v.
+675    $a 821 $v BN $z por
+700  0 $a Delly $c pseud
+702  1 $a Jardim $b Aurora $f 1898-1988 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+909 	  $a 1
+966    $a 0008235 $l BMM $s SCG 821 DEL por 3

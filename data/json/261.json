@@ -1,0 +1,150 @@
+[{
+  "fields": [
+    [
+      "001",
+      "261"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN01013308"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19970118f19601970km y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "rus"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Noites brancas",
+      "f",
+      "por Dostoiewski",
+      "g",
+      "trad. de José Marinho",
+      "g",
+      "il. por M. Ribeiro de Paiva"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Inquérito",
+      "d",
+      "[1965?]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "112 p.",
+      "d",
+      "17 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Antologia dos amigos do livro",
+      "v",
+      "1"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 0",
+      "a",
+      "Dostoiévski",
+      "b",
+      "Fiódor",
+      "f",
+      "1821-1881"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060511085725&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "3"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0011806",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DOS noi 1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0011808",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DOS noi 1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0011807",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 DOS noi 1"
+    ]
+  ]
+}]

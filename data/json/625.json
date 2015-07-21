@@ -1,0 +1,140 @@
+[{
+  "fields": [
+    [
+      "001",
+      "625"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00004242"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19900226d1979    a  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >cavaleiro sem espada",
+      "f",
+      "Matilde Rosa Araújo",
+      "g",
+      "il. Maria Keil"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Horizonte",
+      "d",
+      "1979"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "27, [5] p.",
+      "c",
+      "il.",
+      "d",
+      "23 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Pássaro livre",
+      "v",
+      "18"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "087.5",
+      "v",
+      "med",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Araújo",
+      "b",
+      "Matilde Rosa",
+      "f",
+      "1921-"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Keil",
+      "b",
+      "Maria",
+      "f",
+      "1914-",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060522164102&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0001630",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-93 ARA cav 18"
+    ]
+  ]
+}]

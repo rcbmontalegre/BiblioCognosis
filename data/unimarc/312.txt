@@ -1,0 +1,24 @@
+00851nam  2200277   450
+001   312
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+010    $a 972-564-079-9
+021    $a PT $b 60179/92
+095    $a PTBN00413686
+100    $a 19930203d1992    m  y0pory010305  ba
+101 1  $a por $c eng
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a <Um >sorriso nos olhos da alma $f Lawrence Durrell $g trad. Helena Cardoso
+205    $a 2ª ed
+210    $a Lisboa $c Quetzal $d 1992
+215    $a 105 p. $d 20 cm
+225 2  $a Graffiti
+304    $a Tít. orig. : A smile in the mind's eye
+675    $a 891.4-3"19" $v BN $z por
+700  1 $a Durrell $b Lawrence $f 1912-1990
+702  1 $a Cardoso $b Helena $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060511141515&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0008427 $l BMM $s SCG 821 DUR sor

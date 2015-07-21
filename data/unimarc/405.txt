@@ -1,0 +1,18 @@
+00709nam  2200205   450
+001   405
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00351317
+100    $a 20061013d1972    m  y0pora0103    ba
+101 1  $a por $c rus
+102    $a PT $b Mem Martins
+200 1  $a Albergue nocturno $f Máximo Gorki $g trad. de Albertino Gonçalves
+210    $a Mem Martins $c Europa-América $d imp. 1972
+215    $a 198 p. $d 18 cm
+225 2  $a Livros de bolso Europa-América $v 37
+675    $a 821
+700  1 $a Gorki $b Máximo $c pseud. $f 1868-1936
+702  1 $a Gonçalves $b Albertino $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060516122053&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0005309 $l BMM $s SCG 821 GOR alb 37

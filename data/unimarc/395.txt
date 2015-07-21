@@ -1,0 +1,17 @@
+00638nam  2200193   450
+001   395
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+095    $a PTBN00022306
+100    $a 19870501d1980    m  y0pora010305  ba
+101 1  $a por
+102    $a PT
+200 1  $a Crime na Ilha Azul $e romance policial $f Amílcar Goulart
+210    $i mp.1980 $e [S.l.] $d Tip. de "O Telégrafo"
+215    $a 203, [2] p. $d 21 cm
+675    $a 821 $v bn $z por
+700  1 $a Goulart $b amilcar $f 1910-
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060516105252&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0008552 $l BMM $s SCG 821 GOU cri
+966    $a 0008551 $l BMM $s SCG 821 GOU cri

@@ -1,0 +1,158 @@
+[{
+  "fields": [
+    [
+      "001",
+      "908"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "15542/87"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00036832"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "19870731d1987    m  y0pory010305  ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "eng"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Sayonara",
+      "f",
+      "James A. Michener",
+      "g",
+      "trad. Maria Isabel Braga"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Mem Martins",
+      "c",
+      "Europa-América",
+      "d",
+      "D.L. 1987"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "188, [1] p.",
+      "d",
+      "18 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Livros de bolso Europa-América",
+      "v",
+      "484"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. : Sayonara"
+    ],
+    [
+      "325",
+      "  ",
+      "a",
+      "Texto em braille. - Lisboa : BN, 1995. - 5 vol., integral ; 32 cm????"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "820(73)-31 Michener, James A.",
+      "v",
+      "med",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Michener",
+      "b",
+      "James A.",
+      "f",
+      "1907-"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Braga",
+      "b",
+      "Maria Isabel Morna",
+      "4",
+      "730"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060629121138&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0005452",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 MIC say 484"
+    ]
+  ]
+}]

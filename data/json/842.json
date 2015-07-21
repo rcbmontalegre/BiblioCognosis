@@ -1,0 +1,140 @@
+[{
+  "fields": [
+    [
+      "001",
+      "842"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "021",
+      "  ",
+      "a",
+      "PT",
+      "b",
+      "18431/87"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1983----m  y0pora010305  ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "História extraordinária de Iratan e Iracêma, os meninos mais malcriados do mundo",
+      "f",
+      "Olavo d'Eça Leal",
+      "g",
+      "il. Paulo Ferreira"
+    ],
+    [
+      "205",
+      "  ",
+      "a",
+      "3ª ed"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Pensamento",
+      "d",
+      "1987"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "132 p., [8] p. com fot. color",
+      "c",
+      "il.",
+      "d",
+      "23 cm"
+    ],
+    [
+      "606",
+      "  ",
+      "a",
+      "Literatura portuguesa"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Romance"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "087.5",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Leal",
+      "b",
+      "Olavo de Eça",
+      "f",
+      "1908-1976"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060626165755&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0003330",
+      "l",
+      "BMM",
+      "s",
+      "SJ 087.5 LEA ira"
+    ]
+  ]
+}]

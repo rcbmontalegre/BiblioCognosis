@@ -1,0 +1,20 @@
+00860nam  2200229   450
+001   919
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+100    $a 20061013d1980    m  y0pora010305  ba
+101 1  $a por $c eng
+102    $a PT
+200 1  $a Moby Dick a baleia branca $f Herman Melville $g trad. Joaquim L. Duarte Peixoto
+210    $a Mem Martins $c Europa-América $d [D.L. 1980]
+215    $a 2 v. $d 18 cm
+225 2  $a Livros de bolso Europa-América $v 209, 210
+304    $a Tít. orig.: Moby Dick or the white whate
+675    $a 821 $v BN $z por
+700  1 $a Melville $b Herman $f 1819-1891
+702  1 $a Peixoto $b Joaquim $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060629162218&ext=jpg $z CAPA
+856    $u locateMedia.asp?cod=20060629162231&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0005453 $l BMM $s SCG 821 MEL mob 209
+966    $a 0005454 $l BMM $s SCG 821 MEL mob 210

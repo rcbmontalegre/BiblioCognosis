@@ -1,0 +1,21 @@
+00820nam  2200241   450
+001   70
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+095    $a PTBN00211187
+100    $a 20061013d1975    c  y0pory010305  ba
+101 1  $a por $c fre
+102    $a PT
+200 1  $a <A >morte do cavalinho $f Hervé Bazin $g trad. António Vítor Ramos Rosa
+210    $a Lisboa $c Associados $d [D.L. 1975]
+215    $a 247, [8] p. $d 19 cm
+225 2  $a Biblioteca universal unibolso $v 101)
+304    $a Tít. orig.: La mort du petit cheval
+675    $a 821 $v BN $z por
+700  1 $a Bazin $b Hervé
+702  1 $a Rosa $b António Ramos $f 1924 $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060508135745&ext=jpg $z CAPA
+909 	  $a 2
+966    $a 0008361 $l BMM $s SCG 821 BAZ mor 101
+966    $a 1002935 $l BEM $s BEM 821.1/.8 BAZ

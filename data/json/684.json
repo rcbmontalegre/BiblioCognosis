@@ -1,0 +1,134 @@
+[{
+  "fields": [
+    [
+      "001",
+      "684"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1978    a  y0pory0103    ba"
+    ],
+    [
+      "101",
+      "0 ",
+      "a",
+      "por"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "Bichos de trazer por casa",
+      "e",
+      "poemas para crianças",
+      "f",
+      "Leonel Neves",
+      "g",
+      "desenhos de Tossan"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "A comuna",
+      "d",
+      "1978"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "44 p.",
+      "c",
+      "il.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "<A >comuna das crianças"
+    ],
+    [
+      "608",
+      "  ",
+      "a",
+      "Poesia"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "82-1"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Neves",
+      "b",
+      "Leonel",
+      "f",
+      "1921-1996"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "Tossan",
+      "c",
+      "pseud.",
+      "4",
+      "440"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060524155229&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "1"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0002190",
+      "l",
+      "BMM",
+      "s",
+      "SI 82-1 NEV bic"
+    ]
+  ]
+}]

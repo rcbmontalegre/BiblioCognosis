@@ -1,0 +1,22 @@
+00775nam  2200253   450
+001   87
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+021    $a PT $b 26359/89
+095    $a PTBN00244458
+100    $a 20061013d1989    m  y0pory010305  ba
+101 1  $a por $c ger
+102    $a PT
+105    $a y   z   000ay
+106    $a r
+200 1  $a Betão $f Thomas Bernhard $g trad. Maria Olema Malheiro
+210    $a Lisboa $c Edições 70 $d D.L. 1989
+215    $a 116, [1] p. $d 24 cm
+225 2  $a Caligrafias $v 15
+304    $a Tít. orig.: Beton
+675    $a 821 $v BN $z por
+700  1 $a Bernhard $b Thomas $f 1931-1989
+702  1 $a Malheiro $b Maria Olema $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060508152331&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0003459 $l BMM $s SCG 821 BER bet

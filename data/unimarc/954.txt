@@ -1,0 +1,21 @@
+00785nam  2200241   450
+001   954
+003   http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662
+005   20
+010    $a 972-29-0220-2
+021    $a PT $b 63483/93
+100    $a 19930312d1992    m  y0pory010305  ba
+101 1  $a por $c fre
+102    $a PT
+105    $a y   z   000ay
+200 1  $a <O >século primeiro depois de Beatriz $f Amin Maalouf $g trad.: Daniel Gonçalves
+210    $a Lisboa $c Difel $d 1993
+215    $a 212 p. $d 23 cm
+304    $a Tít. orig.: Le premier siécle aprés Beatrice
+675    $a 821 $v BN $z por
+700  1 $a Maalouf $b Amin $f 1949-
+702  1 $a Gonçalves $b Daniel $f 1921- $4 730
+801  0 $a PT $b Biblioteca Municipal de Montalegre $g RPC
+856    $u locateMedia.asp?cod=20060703114113&ext=jpg $z CAPA
+909 	  $a 1
+966    $a 0009202 $l BMM $s SCG 821 MAA séc

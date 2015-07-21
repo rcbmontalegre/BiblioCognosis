@@ -1,0 +1,162 @@
+[{
+  "fields": [
+    [
+      "001",
+      "540"
+    ],
+    [
+      "003",
+      "http://montalegre.opacnet.com/OPAC/default.aspx?ContentAreaControl=ShowRegHoldings.ascx&RegNo=16662"
+    ],
+    [
+      "005",
+      "20"
+    ],
+    [
+      "095",
+      "  ",
+      "a",
+      "PTBN00116277"
+    ],
+    [
+      "100",
+      "  ",
+      "a",
+      "20061013d1985    km y0pora0103    ba"
+    ],
+    [
+      "101",
+      "1 ",
+      "a",
+      "por",
+      "c",
+      "ger"
+    ],
+    [
+      "102",
+      "  ",
+      "a",
+      "PT"
+    ],
+    [
+      "200",
+      "1 ",
+      "a",
+      "<O >processo",
+      "f",
+      "Franz Kafka",
+      "g",
+      "trad. Gervásio álvaro"
+    ],
+    [
+      "210",
+      "  ",
+      "a",
+      "Lisboa",
+      "c",
+      "Livros do Brasil",
+      "d",
+      "[D.L. 1985]"
+    ],
+    [
+      "215",
+      "  ",
+      "a",
+      "285, [3] p.",
+      "d",
+      "21 cm"
+    ],
+    [
+      "225",
+      "2 ",
+      "a",
+      "Dois mundos",
+      "v",
+      "85"
+    ],
+    [
+      "304",
+      "  ",
+      "a",
+      "Tít. orig. Der process"
+    ],
+    [
+      "675",
+      "  ",
+      "a",
+      "821",
+      "v",
+      "BN",
+      "z",
+      "por"
+    ],
+    [
+      "700",
+      " 1",
+      "a",
+      "Kafka",
+      "b",
+      "Franz",
+      "f",
+      "1883-1924",
+      "3",
+      "50086"
+    ],
+    [
+      "702",
+      " 1",
+      "a",
+      "lvaro",
+      "b",
+      "Gervásio",
+      "4",
+      "730",
+      "3",
+      "2851"
+    ],
+    [
+      "801",
+      " 0",
+      "a",
+      "PT",
+      "b",
+      "Biblioteca Municipal de Montalegre",
+      "g",
+      "RPC"
+    ],
+    [
+      "856",
+      "  ",
+      "u",
+      "locateMedia.asp?cod=20060518102433&ext=jpg",
+      "z",
+      "CAPA"
+    ],
+    [
+      "909",
+      "\t ",
+      "a",
+      "2"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "0008901",
+      "l",
+      "BMM",
+      "s",
+      "SCG 821 KAF pro 85"
+    ],
+    [
+      "966",
+      "  ",
+      "a",
+      "1100995",
+      "l",
+      "BEBB",
+      "s",
+      "BEBB 821.1/.8 KAF 85"
+    ]
+  ]
+}]
